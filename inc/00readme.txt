@@ -41,3 +41,6 @@ Todolist:
 5. etc.
 
 
+POS tags:
+v1, ..., v6, and the rest (odd, contract, irregularI) are "v".
+
