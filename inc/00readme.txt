@@ -17,20 +17,6 @@ our dictionary platforms.
 The major challenge in this phase is to reduce the multiple entries of
 the sma lemmas.
 
-Status quo:
-
-     121 adj.csv
-     145 adv.csv
-      70 closed.csv
-    1445 noun.csv
-    1358 rest.csv
-     361 vI.csv
-      21 vII.csv
-       9 vIII.csv
-     102 vIV.csv
-    1688 vOdd.csv
-      16 vV.csv
-      36 vVI.csv
 
 Todolist:
 
