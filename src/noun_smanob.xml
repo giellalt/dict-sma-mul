@@ -1282,7 +1282,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">del, avsnitt, periode, stykke (vei)</t>
+            <t pos="xxx">del, avsnitt, periode, stykke (vei), tid (stund)</t>
             <xg>
                <x>(boelhke lea askeste måbpan - perioden skal vare fra den ene måned til den andre)</x>
             </xg>
@@ -3542,7 +3542,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">halvdel</t>
+            <t pos="xxx">halvdel, side (i bok)</t>
          </tg>
       </mg>
    </e>
@@ -4955,16 +4955,6 @@
       <mg>
          <tg>
             <t pos="xxx">kone, hustru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">baahtsege</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">kongle</t>
          </tg>
       </mg>
    </e>
@@ -6985,7 +6975,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">forganger, leietam reinokse</t>
+            <t pos="xxx">forganger, leietam reinokse, reinsbukk (leietam ikke kastrert)</t>
          </tg>
       </mg>
    </e>
@@ -7000,15 +6990,14 @@
       </mg>
    </e>
    <e>
-      <lg>
+     <lg>
          <l pos="n">gaave</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">krok, bøy</t>
-<t pos="xxx"> sving i elv el. bekk</t>
-         </tg>
-      </mg>
+     </lg>
+     <mg>
+       <tg>
+	 <t pos="xxx">krok, bøy, sving i elv el. bekk</t>
+       </tg>
+     </mg>
    </e>
    <e>
       <lg>
@@ -10120,6 +10109,265 @@
       <mg>
          <tg>
             <t pos="xxx">åsrygg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sleptjie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">bløt snø, gjennomslagsføre om våren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">saevrie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">løs og grov som ikke bærer (særlig om våren)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vaajmoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">hjerte</t>
+            <xg>
+               <x>menneskehjerte</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baahtsege</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">kongle, hjerte</t>
+            <xg>
+               <x>dødt dyrehjerte - mat</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjaaste</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">is</t>
+            <xg>
+               <x>kan spises</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jienge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">is</t>
+            <xg>
+               <x>på vatn</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiekie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">onkel</t>
+            <xg>
+               <x>fars eldre bror el fetter</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tjietsie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">onkel</t>
+            <xg>
+               <x>fars yngre bror; morbror; gift med moster eller faster</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jyøne</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">onkel</t>
+            <xg>
+               <x>morbror</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maake</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">onkel (gift med moster eller faster); svoger (gift med eldre søster)</t>
+            <xg>
+               <x></x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">muadta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">pels</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">måskoes-muadta</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">pels</t>
+            <xg>
+               <x>hel foran</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">garhtse</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">reim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">juelkie-gåålese</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">reim</t>
+            <xg>
+               <x>til å knytte kløvkorga fast med</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sarva</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">reinsbukk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">årra</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">reinsbukk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">baahkoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">side</t>
+            <xg>
+               <x>fjellside</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">råtnoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">simle</t>
+            <xg>
+               <x>som ikke har tatt kalv det året</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">giehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">simle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">aaltoe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">simle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">maaketje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">svoger</t>
+            <xg>
+               <x>konas yngre bror</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tijje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">tid</t>
          </tg>
       </mg>
    </e>
