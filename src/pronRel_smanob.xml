@@ -16,7 +16,10 @@
             <analysis ms="Pron_Rel_Sg_Ill">
                <wordform>masa</wordform>
             </analysis>
-            <analysis ms="Pron_Rel_Sg_Loc">
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>mas</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
                <wordform>mas</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Com">
@@ -55,7 +58,10 @@
             <analysis ms="Pron_Rel_Sg_Ill">
                <wordform>geasa</wordform>
             </analysis>
-            <analysis ms="Pron_Rel_Sg_Loc">
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>geas</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
                <wordform>geas</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Com">
@@ -94,7 +100,10 @@
             <analysis ms="Pron_Rel_Pl_Ill">
                <wordform>maidda</wordform>
             </analysis>
-            <analysis ms="Pron_Rel_Pl_Loc">
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>main</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
                <wordform>main</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
@@ -133,7 +142,10 @@
             <analysis ms="Pron_Rel_Pl_Ill">
                <wordform>geaidda</wordform>
             </analysis>
-            <analysis ms="Pron_Rel_Pl_Loc">
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>geain</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
                <wordform>geain</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
@@ -223,7 +235,27 @@
       <lg>
          <l pos="pron">mas</l>
          <lemma_ref>mii</lemma_ref>
-         <analysis>Pron_Rel_Sg_Loc</analysis>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+        <xg>
+          <x>Mas leat eanemus vitamiinnat?</x>
+          <xt>Hva har mest vitaminer?</xt>
+        </xg>
+        <xg>
+          <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+          <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mas</l>
+         <lemma_ref>mii</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -325,7 +357,27 @@
       <lg>
          <l pos="pron">geas</l>
          <lemma_ref>gii</lemma_ref>
-         <analysis>Pron_Rel_Sg_Loc</analysis>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem (har)</t>
+        <xg>
+          <x>Geas lea nu ollu ruhta?</x>
+          <xt>Hvem har så mye penger?</xt>
+        </xg>
+        <xg>
+          <x>Virgái ohcat olbmo geas lea alit ekonomi- ja hálddašanoahppu.</x>
+          <xt>Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">geas</l>
+         <lemma_ref>gii</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -419,7 +471,27 @@
       <lg>
          <l pos="pron">main</l>
          <lemma_ref>mat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Loc</analysis>
+         <analysis>Pron_Rel_Pl_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">av hva (flertall)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+        <xg>
+          <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
+          <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">main</l>
+         <lemma_ref>mat</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -511,7 +583,27 @@
       <lg>
          <l pos="pron">geain</l>
          <lemma_ref>geat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Loc</analysis>
+         <analysis>Pron_Rel_Pl_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem (har) (flertall)</t>
+        <xg>
+          <x>Geain lea dakkár oahppu?</x>
+          <xt>Hvem har slik utdanning?</xt>
+        </xg>
+        <xg>
+          <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
+          <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">geain</l>
+         <lemma_ref>geat</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ela</analysis>
       </lg>
       <mg>
          <tg>
