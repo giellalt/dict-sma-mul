@@ -2,9 +2,48 @@
 <!DOCTYPE r PUBLIC "-//XMLmind//DTD smenob//SE"
 "../../scripts/smenob.dtd">
 <r>
-  <e src="nj">
+  <e>
     <lg>
-      <l pos="pron" type="pers">mon</l>
+      <l pos="pron" type="pers">manne</l>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Acc">
+               <wordform>mannem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Gen">
+               <wordform>mov</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnjan</wordform>
+               <wordform>munnjien</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ine">
+               <wordform>mannesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ela">
+               <wordform>manneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>mannine</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munin</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">jeg</t>
+        <xg>
+          <x>mus lea</x>
+          <xt>jeg har</xt>
+        </xg>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="pron">mån</l>
       <lc>mu, munnje, mus, muinna</lc>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
@@ -17,7 +56,10 @@
             <analysis ms="Pron_Pers_Sg1_Ill">
                <wordform>munnje</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg1_Loc">
+            <analysis ms="Pron_Pers_Sg1_Ine">
+               <wordform>mus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ela">
                <wordform>mus</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg1_Com">
@@ -38,43 +80,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
-    <lg>
-      <l pos="pron">mun</l>
-      <lc>mu, munnje, mus, muinna</lc>
-         <analysis>Pron_Pers_Sg1_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg1_Acc">
-               <wordform>mu</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg1_Gen">
-               <wordform>mu</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg1_Ill">
-               <wordform>munnje</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg1_Loc">
-               <wordform>mus</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg1_Com">
-               <wordform>muinna</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg1_Ess">
-               <wordform>munin</wordform>
-            </analysis>
-         </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">jeg</t>
-        <xg>
-          <x>mus lea</x>
-          <xt>jeg har</xt>
-        </xg>
-      </tg>
-    </mg>
-  </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">don</l>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
@@ -88,7 +94,10 @@
             <analysis ms="Pron_Pers_Sg2_Ill">
                <wordform>dutnje</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg2_Loc">
+            <analysis ms="Pron_Pers_Sg2_Ine">
+               <wordform>dus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ela">
                <wordform>dus</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg2_Com">
@@ -109,7 +118,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">son</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
@@ -123,7 +132,10 @@
             <analysis ms="Pron_Pers_Sg3_Ill">
                <wordform>sutnje</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Loc">
+            <analysis ms="Pron_Pers_Sg3_Ine">
+               <wordform>sus</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ela">
                <wordform>sus</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg3_Com">
@@ -144,7 +156,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron" type="dem">dat</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
@@ -158,7 +170,10 @@
             <analysis ms="Pron_Pers_Sg3_Ill">
                <wordform>dasa</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Loc">
+            <analysis ms="Pron_Pers_Sg3_Ine">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ela">
                <wordform>das</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg3_Com">
@@ -184,7 +199,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">moai</l>
          <analysis>Pron_Pers_Du1_Nom</analysis>
@@ -198,7 +213,10 @@
             <analysis ms="Pron_Pers_Du1_Ill">
                <wordform>munnuide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du1_Loc">
+            <analysis ms="Pron_Pers_Du1_Ine">
+               <wordform>munnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ela">
                <wordform>munnos</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Du1_Com">
@@ -219,7 +237,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">doai</l>
          <analysis>Pron_Pers_Du2_Nom</analysis>
@@ -233,7 +251,10 @@
             <analysis ms="Pron_Pers_Du2_Ill">
                <wordform>dudnuide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du2_Loc">
+            <analysis ms="Pron_Pers_Du2_Ine">
+               <wordform>dudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ela">
                <wordform>dudnos</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Du2_Com">
@@ -254,7 +275,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">soai</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
@@ -268,7 +289,10 @@
             <analysis ms="Pron_Pers_Du3_Ill">
                <wordform>sudnuide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Loc">
+            <analysis ms="Pron_Pers_Du3_Ine">
+               <wordform>sudnos</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ela">
                <wordform>sudnos</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Du3_Com">
@@ -289,7 +313,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron" type="pers">mii</l>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
@@ -303,7 +327,10 @@
             <analysis ms="Pron_Pers_Pl1_Ill">
                <wordform>midjiide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl1_Loc">
+            <analysis ms="Pron_Pers_Pl1_Ine">
+               <wordform>mis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ela">
                <wordform>mis</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl1_Com">
@@ -324,7 +351,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">dii</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
@@ -338,7 +365,10 @@
             <analysis ms="Pron_Pers_Pl2_Ill">
                <wordform>didjiide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl2_Loc">
+            <analysis ms="Pron_Pers_Pl2_Ine">
+               <wordform>dis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ela">
                <wordform>dis</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl2_Com">
@@ -359,7 +389,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron">sii</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
@@ -373,7 +403,10 @@
             <analysis ms="Pron_Pers_Pl3_Ill">
                <wordform>sidjiide</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Loc">
+            <analysis ms="Pron_Pers_Pl3_Ine">
+               <wordform>sis</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ela">
                <wordform>sis</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Com">
@@ -394,7 +427,7 @@
       </tg>
     </mg>
   </e>
-  <e src="nj">
+  <e>
     <lg>
       <l pos="pron" type="dem">dat</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
@@ -408,7 +441,10 @@
             <analysis ms="Pron_Pers_Pl3_Ill">
                <wordform>daidda</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Loc">
+            <analysis ms="Pron_Pers_Pl3_Ine">
+               <wordform>dain</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ela">
                <wordform>dain</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Com">
@@ -460,7 +496,19 @@
       <lg>
          <l pos="pron">mus</l>
          <lemma_ref>mun</lemma_ref>
-         <analysis>Pron_Pers_Sg1_Loc</analysis>
+         <analysis>Pron_Pers_Sg1_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jeg (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mus</l>
+         <lemma_ref>mun</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -522,7 +570,19 @@
       <lg>
          <l pos="pron">dus</l>
          <lemma_ref>don</lemma_ref>
-         <analysis>Pron_Pers_Sg2_Loc</analysis>
+         <analysis>Pron_Pers_Sg2_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">du (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dus</l>
+         <lemma_ref>don</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -588,7 +648,20 @@
       <lg>
          <l pos="pron">sus</l>
          <lemma_ref>son</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Loc</analysis>
+         <analysis>Pron_Pers_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">han (har)</t>
+            <t pos="pron">hun (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sus</l>
+         <lemma_ref>son</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -665,7 +738,24 @@
       <lg>
          <l pos="pron">das</l>
          <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Loc</analysis>
+         <analysis>Pron_Pers_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i det</t>
+            <t pos="pron">i den</t>
+        <xg>
+          <x>Makkár váikkuhusat das leat skuvlii?</x>
+          <xt>Hva slags konsekvenser har det for skolen?</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">das</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -739,7 +829,19 @@
       <lg>
          <l pos="pron">munnos</l>
          <lemma_ref>moai</lemma_ref>
-         <analysis>Pron_Pers_Du1_Loc</analysis>
+         <analysis>Pron_Pers_Du1_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi to (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">munnos</l>
+         <lemma_ref>moai</lemma_ref>
+         <analysis>Pron_Pers_Du1_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -802,7 +904,19 @@
       <lg>
          <l pos="pron">dudnos</l>
          <lemma_ref>doai</lemma_ref>
-         <analysis>Pron_Pers_Du2_Loc</analysis>
+         <analysis>Pron_Pers_Du2_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere to (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dudnos</l>
+         <lemma_ref>doai</lemma_ref>
+         <analysis>Pron_Pers_Du2_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -865,7 +979,19 @@
       <lg>
          <l pos="pron">sudnos</l>
          <lemma_ref>soai</lemma_ref>
-         <analysis>Pron_Pers_Du3_Loc</analysis>
+         <analysis>Pron_Pers_Du3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sudnos</l>
+         <lemma_ref>soai</lemma_ref>
+         <analysis>Pron_Pers_Du3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -928,7 +1054,19 @@
       <lg>
          <l pos="pron">mis</l>
          <lemma_ref>mii</lemma_ref>
-         <analysis>Pron_Pers_Pl1_Loc</analysis>
+         <analysis>Pron_Pers_Pl1_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mis</l>
+         <lemma_ref>mii</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -991,7 +1129,19 @@
       <lg>
          <l pos="pron">dis</l>
          <lemma_ref>dii</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Loc</analysis>
+         <analysis>Pron_Pers_Pl2_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dis</l>
+         <lemma_ref>dii</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -1054,7 +1204,19 @@
       <lg>
          <l pos="pron">sis</l>
          <lemma_ref>sii</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Loc</analysis>
+         <analysis>Pron_Pers_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de (har)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sis</l>
+         <lemma_ref>sii</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -1125,7 +1287,23 @@
       <lg>
          <l pos="pron">dain</l>
          <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Loc</analysis>
+         <analysis>Pron_Pers_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem</t>
+        <xg>
+          <x>Eanemus oassi dain leat boahtán.</x>
+          <xt>De fleste av dem er kommet.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dain</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
