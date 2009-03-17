@@ -45,7 +45,10 @@
             <analysis ms="Pron_Dem_Sg3_Ill">
                <wordform>dása</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg3_Loc">
+            <analysis ms="Pron_Dem_Sg3_Ine">
+               <wordform>das</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg3_Ela">
                <wordform>das</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
@@ -80,7 +83,10 @@
             <analysis ms="Pron_Dem_Sg3_Ill">
                <wordform>diesa</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg3_Loc">
+            <analysis ms="Pron_Dem_Sg3_Ine">
+               <wordform>dies</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg3_Ela">
                <wordform>dies</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
@@ -120,7 +126,10 @@
             <analysis ms="Pron_Dem_Sg3_Ill">
                <wordform>duosa</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg3_Loc">
+            <analysis ms="Pron_Dem_Sg3_Ine">
+               <wordform>duos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg3_Ela">
                <wordform>duos</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
@@ -155,7 +164,10 @@
             <analysis ms="Pron_Dem_Sg3_Ill">
                <wordform>dosa</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Sg3_Loc">
+            <analysis ms="Pron_Dem_Sg3_Ine">
+               <wordform>dos</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Sg3_Ela">
                <wordform>dos</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
@@ -190,7 +202,10 @@
             <analysis ms="Pron_Dem_Pl3_Ill">
                <wordform>daidda viesuide</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl3_Loc">
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>dain viesuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
                <wordform>dain viesuin</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl3_Com">
@@ -225,7 +240,10 @@
             <analysis ms="Pron_Dem_Pl3_Ill">
                <wordform>dáidda</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl3_Loc">
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>dáin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
                <wordform>dáin</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl3_Com">
@@ -260,7 +278,10 @@
             <analysis ms="Pron_Dem_Pl3_Ill">
                <wordform>dieidda</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl3_Loc">
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>diein</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
                <wordform>diein</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl3_Com">
@@ -296,7 +317,10 @@
             <analysis ms="Pron_Dem_Pl3_Ill">
                <wordform>duoidda</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl3_Loc">
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>duoin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
                <wordform>duoin</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl3_Com">
@@ -331,7 +355,10 @@
             <analysis ms="Pron_Dem_Pl3_Ill">
                <wordform>doidda</wordform>
             </analysis>
-            <analysis ms="Pron_Dem_Pl3_Loc">
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>doin</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
                <wordform>doin</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl3_Com">
@@ -440,7 +467,23 @@
       <lg>
          <l pos="pron">dás</l>
          <lemma_ref>dát</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Loc</analysis>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i denne/dette</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dás</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -524,7 +567,24 @@
       <lg>
          <l pos="pron">dies</l>
          <lemma_ref>diet</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Loc</analysis>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i den/det (som er nærmere deg)</t>
+            <t pos="pron">i den/det (som vi nettopp nevnte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dies</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -608,7 +668,23 @@
       <lg>
          <l pos="pron">duos</l>
          <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Loc</analysis>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i den/det (som er der borte)</t>
+        <xg>
+          <x>Muhto ii orron ávki duos iige dies.</x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duos</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -689,7 +765,23 @@
       <lg>
          <l pos="pron">dos</l>
          <lemma_ref>dot</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Loc</analysis>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i den/det (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dos</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -767,7 +859,23 @@
       <lg>
          <l pos="pron">dain</l>
          <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Loc</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem</t>
+        <xg>
+          <x>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</x>
+          <xt>Det er ett av de samiske husene som skal bygges i landet.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dain</l>
+         <lemma_ref>dat</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -851,7 +959,24 @@
       <lg>
          <l pos="pron">dáin</l>
          <lemma_ref>dát</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Loc</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dette</t>
+            <t pos="pron">i denne</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dáin</l>
+         <lemma_ref>dát</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -938,7 +1063,24 @@
       <lg>
          <l pos="pron">diein</l>
          <lemma_ref>diet</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Loc</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem (som er nærmere deg)</t>
+            <t pos="pron">i dem (som vi nettopp nevnte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">diein</l>
+         <lemma_ref>diet</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -1023,7 +1165,23 @@
       <lg>
          <l pos="pron">duoin</l>
          <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Loc</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duoin</l>
+         <lemma_ref>duot</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -1105,7 +1263,23 @@
       <lg>
          <l pos="pron">doin</l>
          <lemma_ref>dot</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Loc</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem (som er lengst borte)</t>
+        <xg>
+          <x></x>
+          <xt></xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">doin</l>
+         <lemma_ref>dot</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
