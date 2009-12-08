@@ -22,7 +22,18 @@ Todolist:
 1. Empty rest.csv to the other files, primarily to noun.csv.
 2. Make the lemma entries unique.
 3. Make the csv files adjust to the target format.
-4. Do the conversion.
+4. Do the conversion. @cip: done!
+
+Just try the following:
+
+java -Xmx2048m net.sf.saxon.Transform -it main table2xml.xsl inFile=test_t2x.csv
+
+and after that have a look at the output
+
+vi out/test_t2x.csv.xml
+
+
+
 5. etc.
 
 
