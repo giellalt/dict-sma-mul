@@ -8,7 +8,7 @@ The files are on the csv (comma separated) format, like this:
 The fourth field onwards is heterogenous. Some files miss the POS field.
 
 The files have to be in the folloing table format:
-  6 "lemma"<SPACE>_<SPACE>"POS"<SPACE>_<SPACE>"meaning_1"<COMMA>"meaning_2"<COMMA>meaning_3<SEMICOLO    N>meaning_n ...
+lemma<SPACE>_<SPACE>POS<SPACE>_<SPACE>meaning_1<COMMA>meaning_2<COMMA>meaning_3<SEMICOLON>meaning_n ...
 
 The resulting csv files should then be converted to xml and fed to 
 our dictionary platforms.
