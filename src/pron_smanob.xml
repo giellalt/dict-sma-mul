@@ -1029,20 +1029,6 @@
                <wordform>daejnie</wordform>
             </analysis>
          </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">denne/dette (hos meg el. ved meg)</t>
-            <xg>
-               <x>Daate lea vihkeles aamhtese.</x>
-               <xt>Dette er et viktig emne.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">daate</l>
          <analysis>Pron_Dem_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl3_Acc">
@@ -1064,6 +1050,20 @@
                <wordform>daejgujmie</wordform>
             </analysis>
          </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">denne/dette (hos meg el. ved meg)</t>
+            <xg>
+               <x>Daate lea vihkeles aamhtese.</x>
+               <xt>Dette er et viktig emne.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="pron">daate</l>
       </lg>
       <mg>
          <tg>
@@ -1401,6 +1401,7 @@
          <l pos="pron">danin</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Dem_Pl3_Ess</analysis>
+         <analysis>Pron_Pers_Sg3_Ess</analysis>
       </lg>
       <mg>
          <tg>
@@ -1410,19 +1411,6 @@
                <x/>
                <xt/>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">danin</l>
-         <lemma_ref>dat</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som det</t>
-            <t pos="pron">som den</t>
          </tg>
       </mg>
    </e>
@@ -2382,6 +2370,7 @@
          <l pos="pron">duejnie</l>
          <lemma_ref>doehte</lemma_ref>
          <analysis>Pron_Dem_Sg3_Ine</analysis>
+         <analysis>Pron_Dem_Sg3_Com</analysis>
       </lg>
       <mg>
          <tg>
@@ -2392,13 +2381,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">duejnie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Com</analysis>
-      </lg>
       <mg>
          <tg>
             <t pos="pron">med den/det (som er der borte)</t>
@@ -2490,19 +2472,13 @@
          <l pos="pron">dujnie</l>
          <lemma_ref>dohte</lemma_ref>
          <analysis>Pron_Dem_Sg3_Com</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">med den/det (der borte)</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dujnie</l>
-         <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ine</analysis>
-      </lg>
       <mg>
          <tg>
             <t pos="pron">i dem (der borte)</t>
@@ -2793,25 +2769,6 @@
          <l pos="pron">geain</l>
          <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem (har) (flertall)</t>
-            <xg>
-               <x>Geain lea dakkár oahppu?</x>
-               <xt>Hvem har slik utdanning?</xt>
-            </xg>
-            <xg>
-               <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
-               <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geain</l>
-         <lemma_ref>geat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ela</analysis>
       </lg>
       <mg>
@@ -2895,25 +2852,6 @@
          <l pos="pron">geas</l>
          <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem (har)</t>
-            <xg>
-               <x>Geas lea nu ollu ruhta?</x>
-               <xt>Hvem har så mye penger?</xt>
-            </xg>
-            <xg>
-               <x>Virgái ohcat olbmo geas lea alit ekonomi- ja hálddašanoahppu.</x>
-               <xt>Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geas</l>
-         <lemma_ref>gii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
@@ -3020,20 +2958,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">gie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hvem</t>
-            <xg>
-               <x>hvem som helst - saaht gie</x>
-               <x>hvem vet? - gie dajra? , gie meala?</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">giejtie</l>
       </lg>
       <mg>
@@ -3052,19 +2976,6 @@
             <xg>
                <x>giekh bielesne</x>
                <xt>på hver sin side</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">giekh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hver</t>
-            <xg>
-               <x>på hver sin side - giekh bielesne</x>
             </xg>
          </tg>
       </mg>
@@ -4173,22 +4084,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">iehčanan</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som meg selv</t>
-            <xg>
-               <x>mun ledjen doppe iehčanan</x>
-               <xt>jeg var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">iehčanat</l>
          <lemma_ref>iežat</lemma_ref>
          <analysis>Pron_Refl_Sg2_Ess</analysis>
@@ -4199,22 +4094,6 @@
             <xg>
                <x>don ledjet doppe iehčanat</x>
                <xt>du var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <analysis>Pron_Refl_Du1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som oss selv (om 2 personer)</t>
-            <xg>
-               <x>moai leimme doppe iehčaneame</x>
-               <xt>vi to var der alene</xt>
             </xg>
          </tg>
       </mg>
@@ -4239,22 +4118,6 @@
       <lg>
          <l pos="pron">iehčaneamet</l>
          <lemma_ref>iežamet</lemma_ref>
-         <analysis>Pron_Refl_Pl1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som oss selv</t>
-            <xg>
-               <x>mii leimmet doppe iehčaneamet</x>
-               <xt>vi var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneamet</l>
-         <lemma_ref>iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Ess</analysis>
       </lg>
       <mg>
@@ -4605,23 +4468,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron">iežainan</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med meg selv</t>
-            <xg>
-               <x>mun hupmen iežainan</x>
-               <xt>jeg snakket med meg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l pos="pron">iežainat</l>
          <lemma_ref>iežat</lemma_ref>
@@ -4655,40 +4502,8 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">iežaineame</l>
-         <lemma_ref>iehčame</lemma_ref>
-         <analysis>Pron_Refl_Du1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med oss selv (om 2 personer)</t>
-            <xg>
-               <x>moai humaime iežaineame</x>
-               <xt>vi (to) snakket med oss selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">iežaineamet</l>
          <lemma_ref>iežamet</lemma_ref>
-         <analysis>Pron_Refl_Pl1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med oss selv</t>
-            <xg>
-               <x>mii humaimet iežaineamet</x>
-               <xt>vi snakket med oss selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineamet</l>
-         <lemma_ref>iehčamet</lemma_ref>
          <analysis>Pron_Refl_Pl1_Com</analysis>
       </lg>
       <mg>
@@ -5046,19 +4861,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">maab</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx"> hvilken, hvilket</t>
-            <t pos="xxx"> noen, noe</t>
-            <t pos="xxx"> som</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">maam</l>
       </lg>
       <mg>
@@ -5076,25 +4878,6 @@
                <xt>Har du hørt noe om krigen?</xt>
                <x>Maam daen biejjien gaskebeajjan?</x>
                <xt>Hva er det til middag i dag?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">maam</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx"> hvilken, hvilket</t>
-            <t pos="xxx"> noen, noe</t>
-            <t pos="xxx"> som</t>
-            <xg>
-               <x>maam joem? - hva da?</x>
-               <x>idtji maam gih utnieh - han hadde absolutt ingenting</x>
-               <x>datne maam dåaroen bijre govleme? - har du hørt noe om krigen?</x>
-               <x>maam daen biejjien gaskebeajjan? - hva er det til middag i dag?</x>
             </xg>
          </tg>
       </mg>
@@ -5215,25 +4998,6 @@
          <l pos="pron">main</l>
          <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">av hva (flertall)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
-               <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">main</l>
-         <lemma_ref>mat</lemma_ref>
          <analysis>Pron_Rel_Pl_Ela</analysis>
       </lg>
       <mg>
@@ -5267,21 +5031,6 @@
                <x>Dat lea stuora biila mainna lea hui buorre vuodjit.</x>
                <xt>Det er en stor bil som er god å kjøre med.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">man</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hva</t>
-            <t pos="xxx">hvilken</t>
-            <t pos="xxx">hvilket</t>
-            <t pos="xxx">noen</t>
-            <t pos="xxx">noe</t>
-            <t pos="xxx">som</t>
          </tg>
       </mg>
    </e>
@@ -5371,25 +5120,6 @@
          <l pos="pron">mas</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mas</l>
-         <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
@@ -5522,35 +5252,9 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">med hva (om flere)</t>
-            <xg>
-               <x/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mejgujmie</l>
-      </lg>
-      <mg>
-         <tg>
             <t pos="xxx">med hva</t>
             <xg>
                <x>om flere</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mejnie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">med hva (om en)</t>
-            <xg>
-               <x/>
             </xg>
          </tg>
       </mg>
@@ -5681,29 +5385,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mij</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx"> hvilken, hvilket</t>
-            <t pos="xxx"> noen, noe</t>
-            <t pos="xxx"> som</t>
-            <xg>
-               <x>mij dïhte - hva er det?</x>
-               <x>mij darhke daate? - hva er nå dette?</x>
-               <x>saahth mij - hva som helst</x>
-               <x>mij dov faeties - hva er det i veien med deg?</x>
-               <x>om tidspunkt stående uttrykk (hvilken måned er det nå? - mij askede daelie?) (hvilken dag er det i dag? - mij biejjede danbien?) (hvilken dag var det i går? - mij biejjede jååktan?</x>
-               <x>mij astojde - tid til (ij leah, daajrah, mij astojde onterdidh - du vet, det er ikke tid til å undres</x>
-               <x>mij deahpadamme (sg) - fakta</x>
-               <x>ij mij gænnah - ikke noe</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">mijjieh</l>
       </lg>
       <mg>
@@ -5793,17 +5474,6 @@
          <l pos="pron">mis</l>
          <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">vi (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mis</l>
-         <lemma_ref>mii</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ela</analysis>
       </lg>
       <mg>
@@ -5812,9 +5482,10 @@
          </tg>
       </mg>
    </e>
+
    <e>
       <lg>
-         <l pos="pron">mnn</l>
+         <l pos="pron">manne</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg1_Acc">
@@ -5867,6 +5538,8 @@
          <lemma_ref>mun</lemma_ref>
          <analysis>Pron_Pers_Sg1_Gen</analysis>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
+         <analysis>Pron_Pers_Sg1_Ine</analysis>
+         <analysis>Pron_Pers_Sg1_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -5874,25 +5547,6 @@
             <t pos="pron">min</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mov</l>
-         <lemma_ref>mun</lemma_ref>
-         <analysis>Pron_Pers_Sg1_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">jeg (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mov</l>
-         <lemma_ref>mun</lemma_ref>
-         <analysis>Pron_Pers_Sg1_Ela</analysis>
-      </lg>
       <mg>
          <tg>
             <t pos="pron">jeg (har)</t>
@@ -5966,17 +5620,6 @@
          <l pos="pron">munnos</l>
          <lemma_ref>moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">vi to (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">munnos</l>
-         <lemma_ref>moai</lemma_ref>
          <analysis>Pron_Pers_Du1_Ela</analysis>
       </lg>
       <mg>
@@ -6125,22 +5768,6 @@
          <l pos="pron">nubbi nuppis</l>
          <lemma_ref>nubbi nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hos hverandre (om to)</t>
-            <t pos="pron">fra hverandre (om to)</t>
-            <xg>
-               <x>soai oažžuba rávvagiid nubbi nuppis</x>
-               <xt>de to får råd fra hverandre</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">nubbi nuppis</l>
-         <lemma_ref>nubbi nuppi</lemma_ref>
          <analysis>Pron_Recipr_Du_Ela</analysis>
       </lg>
       <mg>
@@ -6240,22 +5867,6 @@
          <l pos="pron">nuppit nuppiin</l>
          <lemma_ref>nuppit nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hos hverandre (om flere enn to)</t>
-            <t pos="pron">fra hverandre (om flere enn to)</t>
-            <xg>
-               <x>mii oažžut rávvagiid nuppit nuppiin</x>
-               <xt>vi får råd fra hverandre</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">nuppit nuppiin</l>
-         <lemma_ref>nuppit nuppiid</lemma_ref>
          <analysis>Pron_Recipr_Pl_Ela</analysis>
       </lg>
       <mg>
@@ -6266,16 +5877,6 @@
                <x>mii oažžut rávvagiid nuppit nuppiin</x>
                <xt>vi får råd fra hverandre</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">satne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">han, hun (viser tilbake til)</t>
          </tg>
       </mg>
    </e>
@@ -6410,17 +6011,6 @@
          <l pos="pron">sis</l>
          <lemma_ref>sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">sis</l>
-         <lemma_ref>sii</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ela</analysis>
       </lg>
       <mg>
@@ -6486,17 +6076,6 @@
          <l pos="pron">sudnos</l>
          <lemma_ref>soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de to (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">sudnos</l>
-         <lemma_ref>soai</lemma_ref>
          <analysis>Pron_Pers_Du3_Ela</analysis>
       </lg>
       <mg>
