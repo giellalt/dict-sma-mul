@@ -1061,20 +1061,6 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">daate</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">disse</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="pron">daate</l>
@@ -1431,22 +1417,6 @@
          <l pos="pron">das</l>
          <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i det</t>
-            <t pos="pron">i den</t>
-            <xg>
-               <x>Makkár váikkuhusat das leat skuvlii?</x>
-               <xt>Hva slags konsekvenser har det for skolen?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">das</l>
-         <lemma_ref>dat</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
@@ -1512,16 +1482,6 @@
                <x>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</x>
                <xt>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">datne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">du</t>
          </tg>
       </mg>
    </e>
@@ -1777,16 +1737,6 @@
    <e>
       <lg>
          <l pos="pron">dijjieh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">dere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dijjieh</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl2_Acc">
@@ -1865,17 +1815,6 @@
          <l pos="pron">dis</l>
          <lemma_ref>dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dis</l>
-         <lemma_ref>dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ela</analysis>
       </lg>
       <mg>
@@ -2118,16 +2057,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron">dohte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">den/det der (borte)</t>
-         </tg>
-      </mg>
-   </e>
    <e src="nj">
       <lg>
          <l pos="pron">dohte</l>
@@ -2290,17 +2219,6 @@
          <l pos="pron">dudnos</l>
          <lemma_ref>doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere to (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dudnos</l>
-         <lemma_ref>doai</lemma_ref>
          <analysis>Pron_Pers_Du2_Ela</analysis>
       </lg>
       <mg>
@@ -2371,6 +2289,7 @@
          <lemma_ref>doehte</lemma_ref>
          <analysis>Pron_Dem_Sg3_Ine</analysis>
          <analysis>Pron_Dem_Sg3_Com</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
       </lg>
       <mg>
          <tg>
@@ -2384,22 +2303,6 @@
       <mg>
          <tg>
             <t pos="pron">med den/det (som er der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">duejnie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem (som er nærmere deg enn meg)</t>
             <xg>
                <x/>
                <xt/>
@@ -2538,23 +2441,16 @@
          <l pos="pron">dus</l>
          <lemma_ref>don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">du (har)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dus</l>
-         <lemma_ref>don</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">du (har)</t>
+            <t pos="pron">på deg, i deg</t>
          </tg>
+            <xg>
+               <x>dus lea bienie</x>
+               <xt>du har en hund</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -5068,16 +4964,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">manne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">jeg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">manne</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
@@ -5108,11 +4994,7 @@
       <mg>
          <tg>
             <t pos="pron">jeg</t>
-            <xg>
-               <x>mov lea/leah</x>
-               <xt>jeg har</xt>
-            </xg>
-         </tg>
+        </tg>
       </mg>
    </e>
    <e>
