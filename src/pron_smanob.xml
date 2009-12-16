@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
+
+
+<!-- Reflexive pronouns, the basic paradigms -->
+<!-- Each person-number combination its own paradigm -->
+
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="refl">jijtjeme</l>
+         <analysis>Pron_Refl_Sg1_Acc</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Refl_Sg1_Gen">
+               <wordform>jijtjene</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg1_Ill">
+               <wordform>jijtsanne</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg1_Ela">
+               <wordform>jijtestanne</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg1_Com">
+               <wordform>jijtjenäjnene</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">meg selv</t>
+        <t pos="pron">min egen</t>
+      </tg>
+    </mg>
+  </e>
+   <e src="nj">
+    <lg>
+      <l pos="pron" type="refl">jijtjemdh</l>
+         <analysis>Pron_Refl_Sg2_Acc</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Refl_Sg2_Gen">
+               <wordform>jijtjedh</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg2_Ill">
+               <wordform>jijtsadth</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg2_Ela">
+               <wordform>jijtestadh</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg2_Com">
+               <wordform>jijtjenæjnedh</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">deg selv</t>
+        <t pos="pron">din egen</t>
+      </tg>
+    </mg>
+  </e>
+  <e src="nj">
+    <lg>
+      <l pos="pron" type="refl">jijtjemse</l>
+         <analysis>Pron_Refl_Sg3_Acc</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Refl_Sg3_Gen">
+               <wordform>jijtsh</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg3_Ill">
+               <wordform>jijtsissie</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg3_Ela">
+               <wordform>jijtjestissie</wordform>
+            </analysis>
+            <analysis ms="Pron_Refl_Sg3_Com">
+               <wordform>jijtsinie</wordform>
+            </analysis>
+         </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="pron">seg selv</t>
+        <t pos="pron">sin egen</t>
+      </tg>
+    </mg>
+  </e>
+
+
+<!-- Reflexive pronouns, examples for singleton words -->
    <e>
       <lg>
          <l pos="pron">alccade</l>
@@ -730,6 +816,10 @@
          </tg>
       </mg>
    </e>
+   
+
+<!-- Demonstrative pronouns starting here -->   
+   
    <e>
       <lg>
          <l pos="pron">daajgujmie</l>
@@ -1028,22 +1118,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">daejtie</l>
-         <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til dem</t>
-            <xg>
-               <x>Daate lij dej jaepien vihkielommes heevehtimmie, jih giesiem heevehtin.</x>
-               <xt>Dette var deres viktigeste høytid, da de fierte sommeren.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">dejgujmie</l>
          <lemma_ref>dihte</lemma_ref>
          <analysis>Pron_Dem_Pl3_Com</analysis>
@@ -1162,25 +1236,25 @@
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Acc">
-               <wordform>daejtie</wordform>
+               <wordform>dejtie</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Gen">
-               <wordform>daj</wordform>
+               <wordform>dej</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Ill">
-               <wordform>daidda</wordform>
+               <wordform>dejtie</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Ine">
-               <wordform>dain</wordform>
+               <wordform>dejnie</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Ela">
-               <wordform>dain</wordform>
+               <wordform>dejstie</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Com">
-               <wordform>daiguin</wordform>
+               <wordform>dejgujmie</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Pl3_Ess">
-               <wordform>danin</wordform>
+               <wordform>dejnie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -1277,28 +1351,43 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dáid</l>
-         <lemma_ref>dát</lemma_ref>
+         <l pos="pron">daaj</l>
+         <lemma_ref>daah</lemma_ref>
          <analysis>Pron_Dem_Pl3_Gen</analysis>
-         <analysis>Pron_Dem_Pl3_Acc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">disse</t>
-            <t pos="pron">disse "sin"</t>
+            <t pos="pron">disse sin</t>
             <xg>
-               <x>Ii leat midjiide jienádan goassige ovdal dáid jurdagiid.</x>
-               <xt>Han/hun har ikke noen gang nevnt disse tankene til oss.</xt>
+               <x>XXX daaj .</x>
+               <xt>XXX</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dáidda</l>
-         <lemma_ref>dát</lemma_ref>
+         <l pos="pron">daejtie</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Acc</analysis>
          <analysis>Pron_Dem_Pl3_Ill</analysis>
       </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til dem</t>
+            <xg>
+               <x>Daate lij dej jaepien vihkielommes heevehtimmie, jih giesiem heevehtin.</x>
+               <xt>Dette var deres viktigeste høytid, da de fierte sommeren.</xt>
+            </xg>
+         </tg>
+        <tg>
+            <t pos="pron">disse</t>
+            <xg>
+               <x>XXX daejtie XXX.</x>
+               <xt>XXX.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <t pos="pron">til disse</t>
@@ -1419,16 +1508,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dijjen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">deres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">dijjieh</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
@@ -1467,52 +1546,57 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">din</l>
-         <lemma_ref>dii</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Gen</analysis>
+         <l pos="pron">dijjem</l>
+         <lemma_ref>dijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl2_Acc</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">dere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dijjen</l>
+         <lemma_ref>dijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
             <t pos="pron">deres</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">dinguin</l>
-         <lemma_ref>dii</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med dere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dinin</l>
-         <lemma_ref>dii</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dis</l>
+         <l pos="pron">dijjesne</l>
          <lemma_ref>dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere (har)</t>
+         </tg>
+            <xg>
+               <x>XXX dijjesne</x>
+               <xt>XXX</xt>
+            </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dijjeste</l>
+         <lemma_ref>dii</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ela</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">dere (har)</t>
+            <xg>
+               <x>XXX dijjeste</x>
+               <xt>XXX</xt>
+            </xg>
          </tg>
       </mg>
    </e>
