@@ -20,7 +20,7 @@
                <wordform>jijtestanne</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg1_Com">
-               <wordform>jijtjenäjnene</wordform>
+               <wordform>jijtjenæjnene</wordform>
             </analysis>
          </mini_paradigm>
     </lg>
@@ -84,8 +84,293 @@
     </mg>
   </e>
 
+<!-- Singleton forms -->
+
 
 <!-- Reflexive pronouns, examples for singleton words -->
+
+
+   <e>
+      <lg>
+         <l pos="pron">jijtjeme</l>
+         <lemma_ref>jijtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jeg (har) selv</t>
+            <xg>
+               <x>mus lea jijtjeme </x>
+               <xt>jeg har selv bil</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">jijtjene</l>
+         <lemma_ref>jijtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">jeg (har) selv</t>
+            <xg>
+               <x>mus lea jijtjeme biila</x>
+               <xt>jeg har selv bil</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">jijtsanne</l>
+         <lemma_ref>jijtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg selv</t>
+            <xg>
+               <x>mun dadjen jijtsanne</x>
+               <xt>jeg sa til meg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">jijtestanne</l>
+         <lemma_ref>jijtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg selv</t>
+            <xg>
+               <x>mun dadjen jijtestanne</x>
+               <xt>jeg sa til meg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">jijtjenæjnene</l>
+         <lemma_ref>jijtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med meg selv</t>
+            <xg>
+               <x>mun hupmen jijtjenæjnene</x>
+               <xt>jeg snakket med meg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   
+<!-- Sg2 -->   
+   <e>
+      <lg>
+         <l pos="pron">jijtjemdh</l>
+         <lemma_ref>jijtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til deg selv</t>
+            <xg>
+               <x>don oasttát jijtjemdh</x>
+               <xt>du kjøper til deg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">jijtjedh</l>
+         <lemma_ref>jijtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til deg selv</t>
+            <xg>
+               <x>don oasttát jijtjedh</x>
+               <xt>du kjøper til deg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtsadth</l>
+         <lemma_ref>jijtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til deg selv</t>
+            <xg>
+               <x>don oasttát jijtsadth</x>
+               <xt>du kjøper til deg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">jijtestadh</l>
+         <lemma_ref>jijtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til deg selv</t>
+            <xg>
+               <x>don oasttát jijtestadh</x>
+               <xt>du kjøper til deg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtjenæjnedh</l>
+         <lemma_ref>jijtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til seg selv</t>
+            <xg>
+               <x>son oastá jijtjenæjnedh</x>
+               <xt>hun/han kjøper til seg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+
+<!-- Sg3 -->
+
+
+  <e>
+      <lg>
+         <l pos="pron">jijtjemse</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med deg selv</t>
+            <xg>
+               <x>don hupmet jijtjemse</x>
+               <xt>du snakket med selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtsh</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med seg selv (om 1 person)</t>
+            <xg>
+               <x>son humai jijtsh</x>
+               <xt>han/hun snakket med seg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+
+
+   <e>
+      <lg>
+         <l pos="pron">alddes</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">han/hun (har) selv</t>
+            <xg>
+               <x>sus lea alddes biila</x>
+               <xt>han/hun har selv bil</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">jijtsissie</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til seg selv</t>
+            <xg>
+               <x>son oastá jijtsissie</x>
+               <xt>hun/han kjøper til seg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtjestissie</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til deg selv</t>
+            <xg>
+               <x>don oasttát jijtjestissie</x>
+               <xt>du kjøper til deg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtsinie</l>
+         <lemma_ref>jijtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til seg selv</t>
+            <xg>
+               <x>son oastá jijtsinie</x>
+               <xt>hun/han kjøper til seg selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- Dual and plural forms, not in Bergsland
    <e>
       <lg>
          <l pos="pron">alccade</l>
@@ -146,38 +431,6 @@
             <xg>
                <x>mii dajaimet alccamet</x>
                <xt>vi sa til oss selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccan</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til meg selv</t>
-            <xg>
-               <x>mun dadjen alccan</x>
-               <xt>jeg sa til meg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccat</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til deg selv</t>
-            <xg>
-               <x>don oasttát alccat</x>
-               <xt>du kjøper til deg selv</xt>
             </xg>
          </tg>
       </mg>
@@ -246,71 +499,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron">alccen</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til meg selv</t>
-            <xg>
-               <x>mun dadjen alccen</x>
-               <xt>jeg sa til meg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alcces</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til seg selv</t>
-            <xg>
-               <x>son oastá alcces</x>
-               <xt>hun/han kjøper til seg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccesan</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til meg selv</t>
-            <xg>
-               <x>mun dadjen alccesan</x>
-               <xt>jeg sa til meg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccesat</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til deg selv</t>
-            <xg>
-               <x>don oasttát alccesat</x>
-               <xt>du kjøper til deg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
+  <e>
       <lg>
          <l pos="pron">alcceseame</l>
          <lemma_ref>iehčame</lemma_ref>
@@ -424,22 +613,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">alccesis</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til seg selv</t>
-            <xg>
-               <x>son oastá alccesis</x>
-               <xt>hun/han kjøper til seg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">alcceska</l>
          <lemma_ref>iežaska</lemma_ref>
          <analysis>Pron_Refl_Du3_Ill</analysis>
@@ -450,38 +623,6 @@
             <xg>
                <x>soai oastiba alcceska</x>
                <xt>de (to) kjøper til seg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccet</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til deg selv</t>
-            <xg>
-               <x>don oasttát alccet</x>
-               <xt>du kjøper til deg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alccis</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til seg selv</t>
-            <xg>
-               <x>son oastá alccis</x>
-               <xt>hun/han kjøper til seg selv</xt>
             </xg>
          </tg>
       </mg>
@@ -578,54 +719,6 @@
             <xg>
                <x>mis lea alddámet biila</x>
                <xt>vi har selv bil</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alddán</l>
-         <lemma_ref>iehčan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">jeg (har) selv</t>
-            <xg>
-               <x>mus lea alddán biila</x>
-               <xt>jeg har selv bil</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alddát</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">du (har) selv</t>
-            <xg>
-               <x>dus lea alddát biila</x>
-               <xt>du har selv bil</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">alddes</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">han/hun (har) selv</t>
-            <xg>
-               <x>sus lea alddes biila</x>
-               <xt>han/hun har selv bil</xt>
             </xg>
          </tg>
       </mg>
@@ -760,22 +853,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">alddis</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">han/hun (har) selv</t>
-            <xg>
-               <x>sus lea alddis biila</x>
-               <xt>han/hun har selv bil</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">alddiset</l>
          <lemma_ref>iežaset</lemma_ref>
          <analysis>Pron_Refl_Pl3_Ine</analysis>
@@ -817,6 +894,200 @@
       </mg>
    </e>
    
+    <e>
+      <lg>
+         <l pos="pron">iehčaneame</l>
+         <lemma_ref>iehčame</lemma_ref>
+         <analysis>Pron_Refl_Du1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som oss selv (om 2 personer)</t>
+            <xg>
+               <x>moai leimme doppe iehčaneame</x>
+               <xt>vi to var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iehčaneamet</l>
+         <lemma_ref>iežamet</lemma_ref>
+         <analysis>Pron_Refl_Pl1_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som oss selv</t>
+            <xg>
+               <x>mii leimmet doppe iehčaneamet</x>
+               <xt>vi var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iehčaneaset</l>
+         <lemma_ref>iežaset</lemma_ref>
+         <analysis>Pron_Refl_Pl3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">(de) som seg selv (om flere enn 2)</t>
+            <xg>
+               <x>sii ledje doppe iehčaneaset</x>
+               <xt>de var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iehčaneaskka</l>
+         <lemma_ref>iežaska</lemma_ref>
+         <analysis>Pron_Refl_Du3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">(de to) som seg selv</t>
+            <xg>
+               <x>soai leigga doppe iehčaneaskka</x>
+               <xt>de to var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iehčaneatte</l>
+         <lemma_ref>iežade</lemma_ref>
+         <analysis>Pron_Refl_Du2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som dere selv (om 2 personer)</t>
+            <xg>
+               <x>doai leidde doppe iehčaneatte</x>
+               <xt>dere to var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iehčaneattet</l>
+         <lemma_ref>iežadet</lemma_ref>
+         <analysis>Pron_Refl_Pl2_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som dere selv</t>
+            <xg>
+               <x>dii leiddet doppe iehčaneattet</x>
+               <xt>dere var der alene</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineame</l>
+         <lemma_ref>iežame</lemma_ref>
+         <analysis>Pron_Refl_Du1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med oss selv (om 2 personer)</t>
+            <xg>
+               <x>moai humaime iežaineame</x>
+               <xt>vi (to) snakket med oss selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineamet</l>
+         <lemma_ref>iežamet</lemma_ref>
+         <analysis>Pron_Refl_Pl1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med oss selv</t>
+            <xg>
+               <x>mii humaimet iežaineamet</x>
+               <xt>vi snakket med oss selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineaset</l>
+         <lemma_ref>iežaset</lemma_ref>
+         <analysis>Pron_Refl_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">(de) med seg selv (om flere enn 2)</t>
+            <xg>
+               <x>sii hupme iežaineaset</x>
+               <xt>de snakket med selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineaskka</l>
+         <lemma_ref>iežaska</lemma_ref>
+         <analysis>Pron_Refl_Du3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">(de to) med seg selv</t>
+            <xg>
+               <x>soai humaiga iežaineaskka</x>
+               <xt>de (to) snakket med selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineatte</l>
+         <lemma_ref>iežade</lemma_ref>
+         <analysis>Pron_Refl_Du2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med dere selv (om 2 personer)</t>
+            <xg>
+               <x>doai humaide iežaineatte</x>
+               <xt>dere (to) snakket dere selv</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">iežaineattet</l>
+         <lemma_ref>iežadet</lemma_ref>
+         <analysis>Pron_Refl_Pl2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med dere selv</t>
+            <xg>
+               <x>dii humaidet iežaineattet</x>
+               <xt>dere snakket med dere selv (om flere enn 2)</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  
+-->   
 
 <!-- Demonstrative pronouns starting here -->   
    
@@ -3604,835 +3875,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iehčame</l>
-         <analysis>Pron_Refl_Du1_Acc</analysis>
-         <analysis>Pron_Refl_Du1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du1_Ill">
-               <wordform>alcceseame</wordform>
-               <wordform>alccame</wordform>
-               <wordform>alcceme</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ine">
-               <wordform>alddáme</wordform>
-               <wordform>alddiineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Com">
-               <wordform>iežaineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ess">
-               <wordform>iehčaneame</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv (om 2 personer)</t>
-            <t pos="pron">vår egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iehčamet</l>
-         <analysis>Pron_Refl_Pl1_Acc</analysis>
-         <analysis>Pron_Refl_Pl1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl1_Ill">
-               <wordform>alcceseamet</wordform>
-               <wordform>alccamet</wordform>
-               <wordform>alccemet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ine">
-               <wordform>alddámet</wordform>
-               <wordform>alddiineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Com">
-               <wordform>iežaineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ess">
-               <wordform>iehčaneamet</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv</t>
-            <t pos="pron">vår egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iehčan</l>
-         <analysis>Pron_Refl_Sg1_Acc</analysis>
-         <analysis>Pron_Refl_Sg1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg1_Ill">
-               <wordform>alccesan</wordform>
-               <wordform>alccan</wordform>
-               <wordform>alccen</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ine">
-               <wordform>alddán</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Com">
-               <wordform>iežainan</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ess">
-               <wordform>iehčanan</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">meg selv</t>
-            <t pos="pron">min egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčanan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som meg selv</t>
-            <xg>
-               <x>mun ledjen doppe iehčanan</x>
-               <xt>jeg var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčanat</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som deg selv</t>
-            <xg>
-               <x>don ledjet doppe iehčanat</x>
-               <xt>du var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneame</l>
-         <lemma_ref>iehčame</lemma_ref>
-         <analysis>Pron_Refl_Du1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som oss selv (om 2 personer)</t>
-            <xg>
-               <x>moai leimme doppe iehčaneame</x>
-               <xt>vi to var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <analysis>Pron_Refl_Pl1_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som oss selv</t>
-            <xg>
-               <x>mii leimmet doppe iehčaneamet</x>
-               <xt>vi var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneaset</l>
-         <lemma_ref>iežaset</lemma_ref>
-         <analysis>Pron_Refl_Pl3_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">(de) som seg selv (om flere enn 2)</t>
-            <xg>
-               <x>sii ledje doppe iehčaneaset</x>
-               <xt>de var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
-         <analysis>Pron_Refl_Du3_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">(de to) som seg selv</t>
-            <xg>
-               <x>soai leigga doppe iehčaneaskka</x>
-               <xt>de to var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneatte</l>
-         <lemma_ref>iežade</lemma_ref>
-         <analysis>Pron_Refl_Du2_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dere selv (om 2 personer)</t>
-            <xg>
-               <x>doai leidde doppe iehčaneatte</x>
-               <xt>dere to var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčaneattet</l>
-         <lemma_ref>iežadet</lemma_ref>
-         <analysis>Pron_Refl_Pl2_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som dere selv</t>
-            <xg>
-               <x>dii leiddet doppe iehčaneattet</x>
-               <xt>dere var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iehčanis</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som seg selv (om 1 person)</t>
-            <xg>
-               <x>son lei doppe iehčanis</x>
-               <xt>hun/han var der alene</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežade</l>
-         <analysis>Pron_Refl_Du2_Acc</analysis>
-         <analysis>Pron_Refl_Du2_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du2_Ill">
-               <wordform>alcceseatte</wordform>
-               <wordform>alccade</wordform>
-               <wordform>alccede</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Ine">
-               <wordform>alddáde</wordform>
-               <wordform>alddiineatte</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Com">
-               <wordform>iežaineatte</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Ess">
-               <wordform>iehčaneatte</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere selv (om 2 personer)</t>
-            <t pos="pron">deres egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežadet</l>
-         <analysis>Pron_Refl_Pl2_Acc</analysis>
-         <analysis>Pron_Refl_Pl2_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl2_Ill">
-               <wordform>alcceseattet</wordform>
-               <wordform>alccadet</wordform>
-               <wordform>alccedet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Ine">
-               <wordform>alddádet</wordform>
-               <wordform>alddiineattet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Com">
-               <wordform>iežaineattet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Ess">
-               <wordform>iehčaneattet</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere selv</t>
-            <t pos="pron">deres egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideame</l>
-         <analysis>Pron_Refl_Du1_Acc</analysis>
-         <analysis>Pron_Refl_Du1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du1_Ill">
-               <wordform>alcceseame</wordform>
-               <wordform>alccame</wordform>
-               <wordform>alcceme</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ine">
-               <wordform>alddáme</wordform>
-               <wordform>alddiineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Com">
-               <wordform>iežaineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ess">
-               <wordform>iehčaneame</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv (om 2 personer)</t>
-            <t pos="pron">vår egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideamet</l>
-         <analysis>Pron_Refl_Pl1_Acc</analysis>
-         <analysis>Pron_Refl_Pl1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl1_Ill">
-               <wordform>alcceseamet</wordform>
-               <wordform>alccamet</wordform>
-               <wordform>alccemet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ine">
-               <wordform>alddámet</wordform>
-               <wordform>alddiineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Com">
-               <wordform>iežaineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ess">
-               <wordform>iehčaneamet</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv</t>
-            <t pos="pron">vår egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideaset</l>
-         <analysis>Pron_Refl_Pl3_Acc</analysis>
-         <analysis>Pron_Refl_Pl3_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl3_Ill">
-               <wordform>alcceseaset</wordform>
-               <wordform>alcciset</wordform>
-               <wordform>alcceset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Ine">
-               <wordform>alddiset</wordform>
-               <wordform>alddeset</wordform>
-               <wordform>alddiineaset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Com">
-               <wordform>iežaineaset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Ess">
-               <wordform>iehčaneaset</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dem selv</t>
-            <t pos="pron">deres egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideaskka</l>
-         <analysis>Pron_Refl_Du3_Acc</analysis>
-         <analysis>Pron_Refl_Du3_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du3_Ill">
-               <wordform>alcceseaskka</wordform>
-               <wordform>alcciska</wordform>
-               <wordform>alcceska</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Ine">
-               <wordform>alddiska</wordform>
-               <wordform>alddeska</wordform>
-               <wordform>alddiineaskka</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Com">
-               <wordform>iežaineaskka</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Ess">
-               <wordform>iehčaneaskka</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dem selv (om 2 personer)</t>
-            <t pos="pron">deres egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideatte</l>
-         <analysis>Pron_Refl_Du2_Acc</analysis>
-         <analysis>Pron_Refl_Du2_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du2_Ill">
-               <wordform>alcceseatte</wordform>
-               <wordform>alccade</wordform>
-               <wordform>alccede</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Ine">
-               <wordform>alddáde</wordform>
-               <wordform>alddiineatte</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Com">
-               <wordform>iežaineatte</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du2_Ess">
-               <wordform>iehčaneatte</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere selv (om 2 personer)</t>
-            <t pos="pron">deres egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaideattet</l>
-         <analysis>Pron_Refl_Pl2_Acc</analysis>
-         <analysis>Pron_Refl_Pl2_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl2_Ill">
-               <wordform>alcceseattet</wordform>
-               <wordform>alccadet</wordform>
-               <wordform>alccedet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Ine">
-               <wordform>alddádet</wordform>
-               <wordform>alddiineattet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Com">
-               <wordform>iežaineattet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl2_Ess">
-               <wordform>iehčaneattet</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere selv</t>
-            <t pos="pron">deres egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežainan</l>
-         <lemma_ref>iežan</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med meg selv</t>
-            <xg>
-               <x>mun hupmen iežainan</x>
-               <xt>jeg snakket med meg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-  <e>
-      <lg>
-         <l pos="pron">iežainat</l>
-         <lemma_ref>iežat</lemma_ref>
-         <analysis>Pron_Refl_Sg2_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med deg selv</t>
-            <xg>
-               <x>don hupmet iežainat</x>
-               <xt>du snakket med selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineame</l>
-         <lemma_ref>iežame</lemma_ref>
-         <analysis>Pron_Refl_Du1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med oss selv (om 2 personer)</t>
-            <xg>
-               <x>moai humaime iežaineame</x>
-               <xt>vi (to) snakket med oss selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineamet</l>
-         <lemma_ref>iežamet</lemma_ref>
-         <analysis>Pron_Refl_Pl1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med oss selv</t>
-            <xg>
-               <x>mii humaimet iežaineamet</x>
-               <xt>vi snakket med oss selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineaset</l>
-         <lemma_ref>iežaset</lemma_ref>
-         <analysis>Pron_Refl_Pl3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">(de) med seg selv (om flere enn 2)</t>
-            <xg>
-               <x>sii hupme iežaineaset</x>
-               <xt>de snakket med selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineaskka</l>
-         <lemma_ref>iežaska</lemma_ref>
-         <analysis>Pron_Refl_Du3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">(de to) med seg selv</t>
-            <xg>
-               <x>soai humaiga iežaineaskka</x>
-               <xt>de (to) snakket med selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineatte</l>
-         <lemma_ref>iežade</lemma_ref>
-         <analysis>Pron_Refl_Du2_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med dere selv (om 2 personer)</t>
-            <xg>
-               <x>doai humaide iežaineatte</x>
-               <xt>dere (to) snakket dere selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežaineattet</l>
-         <lemma_ref>iežadet</lemma_ref>
-         <analysis>Pron_Refl_Pl2_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med dere selv</t>
-            <xg>
-               <x>dii humaidet iežaineattet</x>
-               <xt>dere snakket med dere selv (om flere enn 2)</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">iežainis</l>
-         <lemma_ref>iežas</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med seg selv (om 1 person)</t>
-            <xg>
-               <x>son humai iežainis</x>
-               <xt>han/hun snakket med seg selv</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežame</l>
-         <analysis>Pron_Refl_Du1_Acc</analysis>
-         <analysis>Pron_Refl_Du1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du1_Ill">
-               <wordform>alcceseame</wordform>
-               <wordform>alccame</wordform>
-               <wordform>alcceme</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ine">
-               <wordform>alddáme</wordform>
-               <wordform>alddiineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Com">
-               <wordform>iežaineame</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du1_Ess">
-               <wordform>iehčaneame</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv (om 2 personer)</t>
-            <t pos="pron">vår egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežamet</l>
-         <analysis>Pron_Refl_Pl1_Acc</analysis>
-         <analysis>Pron_Refl_Pl1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl1_Ill">
-               <wordform>alcceseamet</wordform>
-               <wordform>alccamet</wordform>
-               <wordform>alccemet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ine">
-               <wordform>alddámet</wordform>
-               <wordform>alddiineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Com">
-               <wordform>iežaineamet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl1_Ess">
-               <wordform>iehčaneamet</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">oss selv</t>
-            <t pos="pron">vår egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežan</l>
-         <analysis>Pron_Refl_Sg1_Acc</analysis>
-         <analysis>Pron_Refl_Sg1_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg1_Ill">
-               <wordform>alccesan</wordform>
-               <wordform>alccan</wordform>
-               <wordform>alccen</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ine">
-               <wordform>alddán</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Com">
-               <wordform>iežainan</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ess">
-               <wordform>iehčanan</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">meg selv</t>
-            <t pos="pron">min egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežas</l>
-         <analysis>Pron_Refl_Sg3_Acc</analysis>
-         <analysis>Pron_Refl_Sg3_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg3_Ill">
-               <wordform>alccesis</wordform>
-               <wordform>alccis</wordform>
-               <wordform>alcces</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Ine">
-               <wordform>alddis</wordform>
-               <wordform>alddes</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Com">
-               <wordform>iežainis</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Ess">
-               <wordform>iehčanis</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">seg selv</t>
-            <t pos="pron">sin egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaset</l>
-         <analysis>Pron_Refl_Pl3_Acc</analysis>
-         <analysis>Pron_Refl_Pl3_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Pl3_Ill">
-               <wordform>alcceseaset</wordform>
-               <wordform>alcciset</wordform>
-               <wordform>alcceset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Ine">
-               <wordform>alddiset</wordform>
-               <wordform>alddeset</wordform>
-               <wordform>alddiineaset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Com">
-               <wordform>iežaineaset</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl3_Ess">
-               <wordform>iehčaneaset</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dem selv</t>
-            <t pos="pron">deres egen</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežaska</l>
-         <analysis>Pron_Refl_Du3_Acc</analysis>
-         <analysis>Pron_Refl_Du3_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Du3_Ill">
-               <wordform>alcceseaskka</wordform>
-               <wordform>alcciska</wordform>
-               <wordform>alcceska</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Ine">
-               <wordform>alddiska</wordform>
-               <wordform>alddeska</wordform>
-               <wordform>alddiineaskka</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Com">
-               <wordform>iežaineaskka</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Du3_Ess">
-               <wordform>iehčaneaskka</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dem selv (om 2 personer)</t>
-            <t pos="pron">deres egen (om 2 personer)</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">iežat</l>
-         <analysis>Pron_Refl_Sg2_Acc</analysis>
-         <analysis>Pron_Refl_Sg2_Gen</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg2_Ill">
-               <wordform>alccesat</wordform>
-               <wordform>alccat</wordform>
-               <wordform>alccet</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Ine">
-               <wordform>alddát</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Com">
-               <wordform>iežainat</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Ess">
-               <wordform>iehčanat</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">deg selv</t>
-            <t pos="pron">din egen</t>
-         </tg>
-      </mg>
-   </e>
+
    <e>
       <lg>
          <l pos="pron">jeatjebe</l>
