@@ -55,6 +55,18 @@
 
    <e>
       <lg>
+         <l pos="pron">mån</l>
+         <lemma_ref>manne</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">eg</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">mannem</l>
          <lemma_ref>manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
@@ -167,6 +179,18 @@
 <!-- singleton forms -->
 
 
+   <e>
+      <lg>
+         <l pos="pron">min</l>
+         <lemma_ref>månnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du1_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi to</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron">monnem</l>
@@ -286,6 +310,18 @@
 
    <e>
       <lg>
+         <l pos="pron">mih</l>
+         <lemma_ref>mijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">mijjem</l>
          <lemma_ref>mijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl1_Acc</analysis>
@@ -298,7 +334,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">min</l>
+         <l pos="pron">mijjen</l>
          <lemma_ref>mijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl1_Gen</analysis>
       </lg>
@@ -325,18 +361,6 @@
    
    <e>
       <lg>
-         <l pos="pron">mijjine</l>
-         <lemma_ref>mijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl1_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med oss</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">mijjesne</l>
          <lemma_ref>mijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl1_Ine</analysis>
@@ -360,6 +384,18 @@
       </mg>
    </e>
 
+   <e>
+      <lg>
+         <l pos="pron">mijjine</l>
+         <lemma_ref>mijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med oss</t>
+         </tg>
+      </mg>
+   </e>
 
 
 <!-- second person -->
@@ -407,6 +443,18 @@
 
 
     <e>
+      <lg>
+         <l pos="pron">dån</l>
+         <lemma_ref>datne</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">du</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l pos="pron">datnem</l>
          <lemma_ref>datne</lemma_ref>
@@ -518,9 +566,6 @@
             <analysis ms="Pron_Pers_Du2_Com">
                <wordform>dotnine</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du2_Ess">
-               <wordform/>
-            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -538,6 +583,18 @@
 
 <!-- dåtnoeh singleton forms -->
 
+   <e>
+      <lg>
+         <l pos="pron">din</l>
+         <lemma_ref>dåtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere to</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron">dotnem</l>
@@ -600,7 +657,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dudnuin</l>
+         <l pos="pron">dotnine</l>
          <lemma_ref>dåtnoeh</lemma_ref>
          <analysis>Pron_Pers_Du2_Com</analysis>
       </lg>
@@ -657,6 +714,18 @@
 
 <!-- dijjieh singleton forms -->
 
+   <e>
+      <lg>
+         <l pos="pron">dih</l>
+         <lemma_ref>dijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron">dijjem</l>
@@ -774,6 +843,19 @@
 
    <e>
       <lg>
+         <l pos="pron">sån</l>
+         <lemma_ref>satne</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">han</t>
+            <t pos="pron">henne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">satnem</l>
          <lemma_ref>satne</lemma_ref>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
@@ -782,8 +864,6 @@
          <tg>
             <t pos="pron">han</t>
             <t pos="pron">henne</t>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
          </tg>
       </mg>
    </e>
@@ -862,26 +942,85 @@
 <!-- miniparadigm -->
 
 
-<!-- singleton forms -->
-
 
    <e>
       <lg>
-         <l pos="pron">sudno</l>
-         <lemma_ref>soai</lemma_ref>
-         <analysis>Pron_Pers_Du3_Gen</analysis>
+         <l pos="pron" type="pers">såtnoeh</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du3_Acc">
+               <wordform>sotnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Gen">
+               <wordform>sotnen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ill">
+               <wordform>sotnese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ine">
+               <wordform>sotnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ela">
+               <wordform>sotneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Com">
+               <wordform>sotnine</wordform>
+            </analysis>
+         </mini_paradigm>
       </lg>
       <mg>
          <tg>
             <t pos="pron">de to</t>
-            <t pos="pron">de to sin(e)</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron">sin</l>
+         <lemma_ref>såtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">sudnuide</l>
-         <lemma_ref>soai</lemma_ref>
+         <l pos="pron">sotnem</l>
+         <lemma_ref>såtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dem to</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="pron">sotnen</l>
+         <lemma_ref>såtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to sine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sotnese</l>
+         <lemma_ref>såtnoeh</lemma_ref>
          <analysis>Pron_Pers_Du3_Ill</analysis>
       </lg>
       <mg>
@@ -890,10 +1029,35 @@
          </tg>
       </mg>
    </e>
-  <e>
+ 
+    <e>
       <lg>
-         <l pos="pron">sudnuin</l>
-         <lemma_ref>soai</lemma_ref>
+         <l pos="pron">sotnesne</l>
+         <lemma_ref>såtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to (har)</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="pron">sotneste</l>
+         <lemma_ref>såtnoeh</lemma_ref>
+         <analysis>Pron_Pers_Du3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to (har)</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="pron">sotnine</l>
+         <lemma_ref>såtnoeh</lemma_ref>
          <analysis>Pron_Pers_Du3_Com</analysis>
       </lg>
       <mg>
@@ -902,7 +1066,8 @@
          </tg>
       </mg>
    </e>
- 
+   
+
  
  
  
@@ -910,41 +1075,85 @@
 
 <!-- miniparadigm -->
 
-<!-- singleton forms -->
-
-
 
    <e>
       <lg>
-         <l pos="pron">sin</l>
-         <lemma_ref>sii</lemma_ref>
+         <l pos="pron" type="pers">sijjieh</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>sijjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>sijjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>sijjese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ine">
+               <wordform>sijjesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ela">
+               <wordform>sijjeste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>sijjine</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron">sih</l>
+         <lemma_ref>sijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">sijjem</l>
+         <lemma_ref>sijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron">dem</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="pron">sijjen</l>
+         <lemma_ref>sijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
             <t pos="pron">deres</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">sov</l>
-         <lemma_ref>sii</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dem</t>
-            <t pos="pron">deres</t>
-         </tg>
-      </mg>
-   </e>
-   
-    <e>
-      <lg>
-         <l pos="pron">sidjiide</l>
-         <lemma_ref>sii</lemma_ref>
+         <l pos="pron">sijjese</l>
+         <lemma_ref>sijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
@@ -953,25 +1162,11 @@
          </tg>
       </mg>
    </e>
-   <e>
+ 
+    <e>
       <lg>
-         <l pos="pron">sijjieh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">de</t>
-            <xg>
-               <x>tilbakevisende om dem selv</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   
-   <e>
-      <lg>
-         <l pos="pron">sis</l>
-         <lemma_ref>sii</lemma_ref>
+         <l pos="pron">sijjesne</l>
+         <lemma_ref>sijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ine</analysis>
       </lg>
       <mg>
@@ -980,24 +1175,22 @@
          </tg>
       </mg>
    </e>
-
-   <e>
+    <e>
       <lg>
-         <l pos="pron">sis</l>
-         <lemma_ref>sii</lemma_ref>
+         <l pos="pron">sijjeste</l>
+         <lemma_ref>sijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de (har)</t>
+            <t pos="pron">fra dem</t>
          </tg>
       </mg>
    </e>
-   
     <e>
       <lg>
-         <l pos="pron">singuin</l>
-         <lemma_ref>sii</lemma_ref>
+         <l pos="pron">sijjine</l>
+         <lemma_ref>sijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl3_Com</analysis>
       </lg>
       <mg>
@@ -1006,6 +1199,8 @@
          </tg>
       </mg>
    </e>
+ 
+  
 
 
 
@@ -1092,22 +1287,26 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dannasinie</l>
+         <l pos="pron">dïsse</l>
          <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ess</analysis>
+         <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som dem</t>
+            <t pos="pron">til det</t>
+            <t pos="pron">til den</t>
+            <xg>
+               <x>Daarpesjibie viehkiem dïsse.</x>
+               <xt>Til det trenger vi hjelp.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">das</l>
+         <l pos="pron">desnie</l>
          <lemma_ref>dihte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ine</analysis>
-         <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -1122,17 +1321,17 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dïsse</l>
+         <l pos="pron">destie</l>
          <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ill</analysis>
+         <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til det</t>
-            <t pos="pron">til den</t>
+            <t pos="pron">i det</t>
+            <t pos="pron">i den</t>
             <xg>
-               <x>Daarpesjibie viehkiem dïsse.</x>
-               <xt>Til det trenger vi hjelp.</xt>
+               <x>Makkár váikkuhusat das leat skuvlii?</x>
+               <xt>Hva slags konsekvenser har det for skolen?</xt>
             </xg>
          </tg>
       </mg>
@@ -1154,142 +1353,26 @@
          </tg>
       </mg>
    </e>
-
-<!-- dihte pl miniparadigm -->
-
-
-<!-- dihte pl singleton forms -->
+   <e>
+      <lg>
+         <l pos="pron">dannasinie</l>
+         <lemma_ref>dihte</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Ess</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som dem</t>
+         </tg>
+      </mg>
+   </e>
 
    
-<!-- dihte pl miniparadigm -->
 
-
-<!-- dihte pl singleton forms -->
+<!-- dah miniparadigm (dïhte pl) -->
 
    <e>
       <lg>
-         <l pos="pron">dej</l>
-         <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">daejtie</t>
-            <t pos="pron">deres</t>
-            <xg>
-               <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
-               <xt>De burde la reindriftsamene slakte dem.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dejgujmie</l>
-         <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med dem</t>
-            <xg>
-               <x>Daiguin áššiiguin manná hui bures.</x>
-               <xt>Med de sakene går det veldig bra.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron" type="dem" nr="pl">dejnie</l>
-         <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem</t>
-            <xg>
-               <x>Vuajnah doh gåetieh? Dejnie manne gellie jïjjh höölestamme.</x>
-               <xt>Ser du de husene? I dem har jeg bodd mange netter.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dejstie</l>
-         <lemma_ref>dihte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem</t>
-            <xg>
-               <x>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</x>
-               <xt>Det er ett av de samiske husene som skal bygges i landet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
-
-
-
-<! -- datne miniparadigm -->
-
-
-   <e>
-      <lg>
-         <l pos="pron" type="dem">datne</l>
-         <analysis>Pron_Pers_Sg3_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg3_Acc">
-               <wordform>datnem</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Gen">
-               <wordform>dan</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ill">
-               <wordform>dutnjien</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ine">
-               <wordform>datnesne</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ela">
-               <wordform>datneste</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Com">
-               <wordform>datnine</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ess">
-               <wordform/>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">det</t>
-            <t pos="pron">den</t>
-            <xg>
-               <x>Dïhte edtja eensi beapmoeh byöpmedidh</x>
-               <xt>Det/han/hun skal spise ordentlig mat.</xt>
-            </xg>
-            <xg>
-               <x>Mohte idtji dïhte dam daejrieh</x>
-               <xt>Men det visste han/hun ikke.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
-<!-- dah miniparadigm -->
-
-   <e>
-      <lg>
-         <l pos="pron" type="dem">dah</l>
+         <l pos="pron" type="pers">dah</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Acc">
@@ -1310,9 +1393,6 @@
             <analysis ms="Pron_Pers_Pl3_Com">
                <wordform>dejgujmie</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Ess">
-               <wordform>dejnie</wordform>
-            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1328,6 +1408,123 @@
 
 
 <!-- dah, songleton forms-->
+
+
+   <e>
+      <lg>
+         <l pos="pron">dejtie</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere</t>
+            <xg>
+               <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
+               <xt>De burde la reindriftsamene slakte dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dej</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">deres</t>
+            <xg>
+               <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
+               <xt>De burde la reindriftsamene slakte dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">daj</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">deres</t>
+            <xg>
+               <x>Galggašedje suovvat badjeolbmuid daid njuovvat.</x>
+               <xt>De burde la reindriftsamene slakte dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem" nr="pl">dejtie</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til dem</t>
+            <xg>
+               <x>Vuajnah doh gåetieh? Dejnie manne gellie jïjjh höölestamme.</x>
+               <xt>Ser du de husene? I dem har jeg bodd mange netter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem" nr="pl">dejnie</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem</t>
+            <xg>
+               <x>Vuajnah doh gåetieh? Dejnie manne gellie jïjjh höölestamme.</x>
+               <xt>Ser du de husene? I dem har jeg bodd mange netter.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dejstie</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dem</t>
+            <xg>
+               <x>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</x>
+               <xt>Det er ett av de samiske husene som skal bygges i landet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">dejgujmie</l>
+         <lemma_ref>dah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med dem</t>
+            <xg>
+               <x>Daiguin áššiiguin manná hui bures.</x>
+               <xt>Med de sakene går det veldig bra.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
 
 
 
@@ -1697,6 +1894,30 @@
       </mg>
    </e>
 
+
+   <e>
+      <lg>
+         <l pos="pron">jijtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">selv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jijtjemes</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">selv, sjøl (han/hun)</t>
+         </tg>
+      </mg>
+   </e>
+
+
+
 <!-- Dual and plural forms, not in Bergsland -->
 
  
@@ -1727,9 +1948,6 @@
                <wordform>daestie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
-               <wordform>dáinna</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg3_Ess">
                <wordform>daejnie</wordform>
             </analysis>
          </mini_paradigm>
@@ -1749,8 +1967,24 @@
 
    <e>
       <lg>
+         <l pos="pron">daam</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">denne/dette</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">daan</l>
-         <lemma_ref>daate</lemma_ref>
+         <lemma_ref>daah</lemma_ref>
          <analysis>Pron_Dem_Sg3_Gen</analysis>
       </lg>
       <mg>
@@ -1779,6 +2013,22 @@
          </tg>
       </mg>
       </e>
+   <e>
+      <lg>
+         <l pos="pron">daesnie</l>
+         <lemma_ref>daate</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i denne/dette</t>
+            <xg>
+               <x>Daesnie galka åadtjodh daejredh saemien gïelen dovletjen, hammoen jïh struktuvren bïjre.</x>
+               <xt>Her skal man få vite om den gammel samisk sin form og strukture.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="dem">daestie</l>
@@ -1811,26 +2061,10 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron">daesnie</l>
-         <lemma_ref>daate</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i denne/dette</t>
-            <xg>
-               <x>Daesnie galka åadtjodh daejredh saemien gïelen dovletjen, hammoen jïh struktuvren bïjre.</x>
-               <xt>Her skal man få vite om den gammel samisk sin form og strukture.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
 
 
 
-<!-- daate pl miniparadigm -->
+<!-- daah daate pl miniparadigm -->
 
    <e>
       <lg>
@@ -1869,94 +2103,9 @@
    </e>
 
 
-<!-- daate, pl singleton forms -->
-   
-   <e>
-      <lg>
-         <l pos="pron">daajgujmie</l>
-         <lemma_ref>daate</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med disse</t>
-            <xg>
-               <x>Dïhte jïjnje daajgujmie barkeme.</x>
-               <xt>Han/hur har arbeidet mye med disse.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron" type="dem" nr="pl">daejnie</l>
-         <lemma_ref>daate</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dette</t>
-            <t pos="pron">i denne</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">daejstie</l>
-         <lemma_ref>daate</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dette</t>
-            <t pos="pron">i denne</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="dem" nr="pl">daejstie</l>
-         <lemma_ref>daate</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem</t>
-            <xg>
-               <x>Eanemus oassi dain leat boahtán.</x>
-               <xt>De fleste av dem er kommet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
 <!-- daah singleton forms -->
+ 
 
-   <e>
-      <lg>
-         <l pos="pron">daaj</l>
-         <lemma_ref>daah</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">disse sin</t>
-            <xg>
-               <x>XXX daaj .</x>
-               <xt>XXX</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="pron">daejtie</l>
@@ -1990,6 +2139,76 @@
          </tg>
       </mg>
    </e>
+
+   
+   <e>
+      <lg>
+         <l pos="pron">daaj</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">disse sin</t>
+            <xg>
+               <x>XXX daaj .</x>
+               <xt>XXX</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem" nr="pl">daejnie</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dette</t>
+            <t pos="pron">i denne</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">daejstie</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i dette</t>
+            <t pos="pron">i denne</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">daajgujmie</l>
+         <lemma_ref>daah</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med disse</t>
+            <xg>
+               <x>Dïhte jïjnje daajgujmie barkeme.</x>
+               <xt>Han/hur har arbeidet mye med disse.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
 
 
 <!-- dïhte miniparadigm -->
@@ -2029,6 +2248,8 @@
          </tg>
       </mg>
    </e>
+
+
    <e src="nj">
       <lg>
          <l pos="pron" type="dem" nr="pl">dïhte</l>
@@ -2067,9 +2288,6 @@
 
  
    <e>
-   <comment>
- dïhte singleton forms
-   </comment>
       <lg>
          <l pos="pron">doeh</l>
       </lg>
@@ -2135,25 +2353,9 @@
       </mg>
    </e>
 
-   <e>
-      <lg>
-         <l pos="pron">doese</l>
-         <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til den/det (som er der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
 
 <!-- doehte singleton forms -->
+
 
    <e>
       <lg>
@@ -2198,6 +2400,7 @@
          </tg>
       </mg>
    </e>
+
    <e>
       <lg>
          <l pos="pron">duejtie</l>
@@ -2243,7 +2446,7 @@
                <wordform>doem</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Gen">
-               <wordform>doem</wordform>
+               <wordform>doen</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Ill">
                <wordform>doese</wordform>
@@ -2252,12 +2455,9 @@
                <wordform>duesnie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Ela">
-               <wordform>duesnie</wordform>
+               <wordform>duestie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
-               <wordform>duejnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg3_Ess">
                <wordform>duejnie</wordform>
             </analysis>
          </mini_paradigm>
@@ -2275,6 +2475,23 @@
 
 
 <!-- singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron">doese</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til den/det (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
 
 <!-- dohte miniparadigm -->
@@ -2317,45 +2534,15 @@
 
 <!-- dohte singleton forms -->
 
-
    <e>
       <lg>
-         <l pos="pron">doj</l>
+         <l pos="pron">dom</l>
          <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Gen</analysis>
+         <analysis>Pron_Dem_Sg3_Acc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">deres (der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dojgujmie</l>
-         <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med dem (der borte)</t>
-         </tg>
-      </mg>
-   </e>
-
-  <e>
-      <lg>
-         <l pos="pron">dujtie</l>
-         <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til dem (der borte)</t>
+            <t pos="pron">den/det (der borte)</t>
             <xg>
                <x/>
                <xt/>
@@ -2364,11 +2551,30 @@
       </mg>
    </e>
 
+
    <e>
       <lg>
-         <l pos="pron">dusnie</l>
+         <l pos="pron">dom</l>
          <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Ine</analysis>
+         <analysis>Pron_Dem_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den/det (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">don</l>
+         <lemma_ref>dohte</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Gen</analysis>
       </lg>
       <mg>
          <tg>
@@ -2380,6 +2586,43 @@
          </tg>
       </mg>
    </e>
+
+   <e>
+      <lg>
+         <l pos="pron">dosse</l>
+         <lemma_ref>dohte</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den/det (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">dusnie</l>
+         <lemma_ref>dohte</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den/det (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
    <e>
       <lg>
          <l pos="pron">dustie</l>
@@ -2437,6 +2680,56 @@
 
 
 <!--     -->
+
+
+
+   <e>
+      <lg>
+         <l pos="pron">doj</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">deres (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dojgujmie</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med dem (der borte)</t>
+         </tg>
+      </mg>
+   </e>
+
+  <e>
+      <lg>
+         <l pos="pron">dujtie</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til dem (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
    <e>
       <lg>
          <l pos="pron">duej</l>
@@ -2715,9 +3008,6 @@
             <analysis ms="Pron_Rel_Pl_Gen">
                <wordform>maj</wordform>
             </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
-               <wordform>mej</wordform>
-            </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
                <wordform>mejtie</wordform>
             </analysis>
@@ -2855,6 +3145,8 @@
    </e>
 
 
+
+<!-- Relative pronoun g- -->
    
    
    <e>
@@ -3288,26 +3580,6 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">jijtje</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">selv</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">jijtjemes</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">selv, sjøl (han/hun)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron">maab</l>
       </lg>
       <mg>
@@ -3509,6 +3781,8 @@
    </e>
 
    
+
+
    
 <!-- reciprocal pronouns (singular?) -->
    
