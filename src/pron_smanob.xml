@@ -1648,26 +1648,6 @@
    </e>
 
 
-
-
-   <e>
-      <lg>
-         <l pos="pron">alddes</l>
-         <lemma_ref>jijtjemse</lemma_ref>
-         <analysis>Pron_Refl_Sg3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">han/hun (har) selv</t>
-            <xg>
-               <x>sus lea alddes biila</x>
-               <xt>han/hun har selv bil</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
    <e>
       <lg>
          <l pos="pron">jijtsissie</l>
@@ -2293,6 +2273,10 @@
       </mg>
    </e>
 
+
+<!-- singleton forms -->
+
+
 <!-- dohte miniparadigm -->
 
    <e src="nj">
@@ -2524,71 +2508,355 @@
          </tg>
       </mg>
    </e>
-   <e>
+
+
+
+
+<!-- Relative pronoun -->
+
+   <e src="nj">
       <lg>
-         <l pos="pron">fierhten</l>
+         <l pos="pron" type="rel">mij</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>maam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>man</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>misse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>masse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>mesnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>mestie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>mejnie</wordform>
+            </analysis>
+         </mini_paradigm>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hver</t>
+            <t pos="xxx">hva</t>
+            <t pos="xxx">hvilken, hvilket</t>
+            <t pos="xxx">noen, noe</t>
+            <t pos="xxx">som</t>
             <xg>
-               <x>fierhtene tjieltesne</x>
-               <xt>i hver sin kommune</xt>
-               <x>fierhten tjieltesne</x>
-               <xt>i hver kommune</xt>
-               <x>fierhten aejkien</x>
-               <xt>hver gang</xt>
+               <x>mij dïhte</x>
+               <xt>hva er det?</xt>
+               <x>mij darhke daate?</x>
+               <xt>hva er nå dette?</xt>
+               <x>saahth mij</x>
+               <xt>hva som helst</xt>
+               <x>mij dov faeties</x>
+               <xt>hva er det i veien med deg?</xt>
+               <x>mij askede daelie?</x>
+               <xt>hvilken måned er det nå?</xt>
+               <x>mij biejjede danbien?</x>
+               <xt>hvilken dag er det i dag?</xt>
+               <x>mij biejjede jååktan?</x>
+               <xt>hvilken dag var det i går?</xt>
+               <x>mij astojde</x>
+               <xt>tid til</xt>
+               <x>Ij leah, daajrah, mij astojde onterdidh.</x>
+               <xt>Du vet, det er ikke tid til å undres.</xt>
+               <x>mij deahpadamme (sg)</x>
+               <xt>fakta</xt>
+               <x>ij mij gænnah</x>
+               <xt>ikke noe</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+
+<!-- relative pronoun singular singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron">maam</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">man</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">gaajhke</l>
+         <l pos="pron">misse</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">all, alt</t>
+            <t pos="pron">hvor</t>
             <xg>
-               <x>gaajhkh</x>
-               <xt>alle (flt.)</xt>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">gallesh</l>
+         <l pos="pron">masse</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">mange</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gåabpatjahkh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">begge to</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gåessie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">når</t>
+            <t pos="pron">hvor</t>
             <xg>
-               <x>om tid</x>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
             </xg>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="pron">mestie</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>mestie leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mesnie</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hva</t>
+            <xg>
+               <x>Masa don áiggut dien geavahit?</x>
+               <xt>Hva skal du bruke den til?</xt>
+            </xg>
+            <xg>
+               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
+               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- Relative pronoun plural miniparadigm -->
+
+   <e src="nj">
+      <lg>
+         <l pos="pron">mah</l>
+         <analysis>Pron_Rel_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>mejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>maj</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>mej</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>mejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>mejnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
+               <wordform>mejstie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>majgujmie</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva (flertall)</t>
+            <xg>
+               <x>Mah leat asteroidat?</x>
+               <xt>Hva er asteroider?</xt>
+            </xg>
+            <xg>
+               <x>Ohcamat mat bohtet dan áigemeari máŋŋel, eai meannuduvvo.</x>
+               <xt>Søknader som kommer etter den tidsfristen, behandles ikke.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+<!-- relative pronoun plural singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron">mejtie</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Acc</analysis>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>Mejtie leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">maj</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">mej</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>Mas leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">mejstie</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvor</t>
+            <xg>
+               <x>mestie leat eanemus vitamiinnat?</x>
+               <xt>Hva har mest vitaminer?</xt>
+            </xg>
+            <xg>
+               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
+               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">majgujmie</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hva</t>
+            <xg>
+               <x>Masa don áiggut dien geavahit?</x>
+               <xt>Hva skal du bruke den til?</xt>
+            </xg>
+            <xg>
+               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
+               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   
+   
    <e>
       <lg>
          <l pos="pron">geaid</l>
@@ -3240,349 +3508,6 @@
       </mg>
    </e>
 
-<!-- Relative pronoun -->
-
-   <e src="nj">
-      <lg>
-         <l pos="pron" type="rel">mij</l>
-         <analysis>Pron_Rel_Sg_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>maam</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Gen">
-               <wordform>man</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ill">
-               <wordform>misse</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ill">
-               <wordform>masse</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ine">
-               <wordform>mesnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ela">
-               <wordform>mestie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Com">
-               <wordform>mejnie</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx">hvilken, hvilket</t>
-            <t pos="xxx">noen, noe</t>
-            <t pos="xxx">som</t>
-            <xg>
-               <x>mij dïhte</x>
-               <xt>hva er det?</xt>
-               <x>mij darhke daate?</x>
-               <xt>hva er nå dette?</xt>
-               <x>saahth mij</x>
-               <xt>hva som helst</xt>
-               <x>mij dov faeties</x>
-               <xt>hva er det i veien med deg?</xt>
-               <x>mij askede daelie?</x>
-               <xt>hvilken måned er det nå?</xt>
-               <x>mij biejjede danbien?</x>
-               <xt>hvilken dag er det i dag?</xt>
-               <x>mij biejjede jååktan?</x>
-               <xt>hvilken dag var det i går?</xt>
-               <x>mij astojde</x>
-               <xt>tid til</xt>
-               <x>Ij leah, daajrah, mij astojde onterdidh.</x>
-               <xt>Du vet, det er ikke tid til å undres.</xt>
-               <x>mij deahpadamme (sg)</x>
-               <xt>fakta</xt>
-               <x>ij mij gænnah</x>
-               <xt>ikke noe</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
-
-<!-- relative pronoun singular singleton forms -->
-
-   <e>
-      <lg>
-         <l pos="pron">maam</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Acc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">man</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">misse</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">masse</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mestie</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>mestie leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mesnie</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i hva</t>
-            <xg>
-               <x>Masa don áiggut dien geavahit?</x>
-               <xt>Hva skal du bruke den til?</xt>
-            </xg>
-            <xg>
-               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
-               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-<!-- Relative pronoun plural miniparadigm -->
-
-   <e src="nj">
-      <lg>
-         <l pos="pron">mah</l>
-         <analysis>Pron_Rel_Pl_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>mejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
-               <wordform>maj</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Gen">
-               <wordform>mej</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Ill">
-               <wordform>mejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Ine">
-               <wordform>mejnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Ela">
-               <wordform>mejstie</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Pl_Com">
-               <wordform>majgujmie</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hva (flertall)</t>
-            <xg>
-               <x>Mah leat asteroidat?</x>
-               <xt>Hva er asteroider?</xt>
-            </xg>
-            <xg>
-               <x>Ohcamat mat bohtet dan áigemeari máŋŋel, eai meannuduvvo.</x>
-               <xt>Søknader som kommer etter den tidsfristen, behandles ikke.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
-<!-- relative pronoun plural singleton forms -->
-
-   <e>
-      <lg>
-         <l pos="pron">mejtie</l>
-         <lemma_ref>mah</lemma_ref>
-         <analysis>Pron_Rel_Pl_Acc</analysis>
-         <analysis>Pron_Rel_Pl_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mejtie leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">maj</l>
-         <lemma_ref>mah</lemma_ref>
-         <analysis>Pron_Rel_Pl_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">mej</l>
-         <lemma_ref>mah</lemma_ref>
-         <analysis>Pron_Rel_Pl_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mejstie</l>
-         <lemma_ref>mah</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>mestie leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">majgujmie</l>
-         <lemma_ref>mah</lemma_ref>
-         <analysis>Pron_Rel_Pl_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i hva</t>
-            <xg>
-               <x>Masa don áiggut dien geavahit?</x>
-               <xt>Hva skal du bruke den til?</xt>
-            </xg>
-            <xg>
-               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
-               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
    
    
 <!-- reciprocal pronouns (singular?) -->
@@ -3769,6 +3694,77 @@
       </mg>
    </e>
  
+
+
+
+<!-- quantifiers -->
+
+   <e>
+      <lg>
+         <l pos="pron">fierhten</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">hver</t>
+            <xg>
+               <x>fierhtene tjieltesne</x>
+               <xt>i hver sin kommune</xt>
+               <x>fierhten tjieltesne</x>
+               <xt>i hver kommune</xt>
+               <x>fierhten aejkien</x>
+               <xt>hver gang</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">gaajhke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">all, alt</t>
+            <xg>
+               <x>gaajhkh</x>
+               <xt>alle (flt.)</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">gallesh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">mange</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">gåabpatjahkh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">begge to</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">gåessie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">når</t>
+            <xg>
+               <x>om tid</x>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
 
    
 </r>
