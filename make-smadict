@@ -1,0 +1,57 @@
+
+# Makefile to make smadict.fst
+# the fst just recognises all lemmas in the smanob dictionary
+# it does __not__ translate them.
+
+# usage.
+# make -f make-smadict
+
+# pseudocode:
+
+# read all lexicon files
+# pick the lemmas
+# save as smalemmalist.txt
+# open xfst
+# run command "read text < smalemmalist.txt"
+# save result as smadict.fst
+# the resulting fst to be used to test dict content
+
+
+XFST = xfst
+
+LEX = src/a_smanob.xml  \
+	src/adv_smanob.xml  \
+	src/cc_smanob.xml   \
+	src/cs_smanob.xml   \
+	src/i_smanob.xml    \
+	src/n_smanob.xml    \
+	src/npl_smanob.xml  \
+	src/num_smanob.xml  \
+	src/pcle_smanob.xml \
+	src/po_smanob.xml   \
+	src/pr_smanob.xml   \
+	src/pron_smanob.xml \
+	src/v_smanob.xml    \
+	src/xxx_smanob.xml  
+
+
+smadict.fst: bin/smadict.fst
+bin/smadict.fst: bin/smalemmalist.txt
+	@echo
+	@echo "*** Building  smadict.fst ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smadict-fst-script
+	$(XFST)  < ../tmp/smadict-fst-script
+	@rm -f ../tmp/smadict-fst-script
+
+smalemmalist.txt: bin/smalemmalist.txt
+bin/smalemmalist.txt: $(LEX)
+	@cat $(LEX) | \
+	grep '<l ' | \
+	cut -d">" -f2 | \
+	cut -d"<" -f1 > bin/smalemmalist.txt
+
+clean:
+	@rm -f bin/smalemmalist.txt bin/smadict.fst	
