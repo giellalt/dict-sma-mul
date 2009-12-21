@@ -497,6 +497,7 @@
          <l pos="pron">datnine</l>
          <lemma_ref>datne</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ine</analysis>
+         <analysis>Pron_Pers_Sg2_Com</analysis>
       </lg>
       <mg>
          <tg>
@@ -507,7 +508,13 @@
                <xt>du har en hund</xt>
             </xg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="pron">med deg</t>
+         </tg>
+      </mg>
    </e>
+
    <e>
       <lg>
          <l pos="pron">datneste</l>
@@ -524,20 +531,6 @@
             </xg>
       </mg>
    </e>
-
-  <e>
-      <lg>
-         <l pos="pron">datnine</l>
-         <lemma_ref>datne</lemma_ref>
-         <analysis>Pron_Pers_Sg2_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med deg</t>
-         </tg>
-      </mg>
-   </e>
-
 
 <!-- dual forms -->
 
@@ -2534,23 +2527,6 @@
 
 <!-- dohte singleton forms -->
 
-   <e>
-      <lg>
-         <l pos="pron">dom</l>
-         <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Acc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">den/det (der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
 
    <e>
       <lg>
@@ -2881,16 +2857,18 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
+            <t pos="pron">hva</t>
          </tg>
+         <xg>
+               <x>maam joem?</x>
+               <xt>hva da?</xt>
+               <x>Idtji maam gih utnieh.</x>
+               <xt>Han hadde absolutt ingenting.</xt>
+               <x>Datne maam dåaroen bijre govleme?</x>
+               <xt>Har du hørt noe om krigen?</xt>
+               <x>Maam daen biejjien gaskebeajjan?</x>
+               <xt>Hva er det til middag i dag?</xt>
+         </xg>
       </mg>
    </e>
 
@@ -2902,16 +2880,16 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvor</t>
-            <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
-            </xg>
-            <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
-            </xg>
+            <t pos="pron">hva</t>
          </tg>
+         <xg>
+            <x>Man birra čállibehtet?</x>
+            <xt>Hva skriver dere om?</xt>
+         </xg>
+         <xg>
+            <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
+            <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
+         </xg>
       </mg>
    </e>
    <e>
@@ -2956,6 +2934,27 @@
    </e>
    <e>
       <lg>
+         <l pos="pron">mesnie</l>
+         <lemma_ref>mij</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hva</t>
+            <xg>
+               <x>Masa don áiggut dien geavahit?</x>
+               <xt>Hva skal du bruke den til?</xt>
+            </xg>
+            <xg>
+               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
+               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
          <l pos="pron">mestie</l>
          <lemma_ref>mij</lemma_ref>
          <analysis>Pron_Rel_Sg_Ela</analysis>
@@ -2974,22 +2973,24 @@
          </tg>
       </mg>
    </e>
+
+
    <e>
       <lg>
-         <l pos="pron">mesnie</l>
+         <l pos="pron">mainna</l>
          <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ine</analysis>
+         <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">i hva</t>
+            <t pos="pron">med hva</t>
             <xg>
-               <x>Masa don áiggut dien geavahit?</x>
-               <xt>Hva skal du bruke den til?</xt>
+               <x>Mainna lágiin leat vieksát ja gotkkat ovttaláganat?</x>
+               <xt>På hvilken måte er veps og maur likedanne?</xt>
             </xg>
             <xg>
-               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
-               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+               <x>Dat lea stuora biila mainna lea hui buorre vuodjit.</x>
+               <xt>Det er en stor bil som er god å kjøre med.</xt>
             </xg>
          </tg>
       </mg>
@@ -3060,6 +3061,19 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="pron">til hva (flertall)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
+               <xt>Alt dette var bruksgjenstander som det var bruk for til hverdags.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
 
    <e>
@@ -3070,19 +3084,18 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvor</t>
+            <t pos="pron">hva (flertall)</t>
             <xg>
-               <x>Mas leat eanemus vitamiinnat?</x>
-               <xt>Hva har mest vitaminer?</xt>
+               <x/>
+               <xt/>
             </xg>
             <xg>
-               <x>Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</x>
-               <xt>Tanken er å etablere et sekretariat som har hele 8 stillinger.</xt>
+               <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
+               <xt>Her får du lese om noen saker som Áššu har skrevet om det siste året.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron">mej</l>
@@ -3105,6 +3118,27 @@
    </e>
    <e>
       <lg>
+         <l pos="pron">mejnie</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hva (flertall)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
+               <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
          <l pos="pron">mejstie</l>
          <lemma_ref>mah</lemma_ref>
          <analysis>Pron_Rel_Pl_Ela</analysis>
@@ -3123,7 +3157,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+  <e>
       <lg>
          <l pos="pron">majgujmie</l>
          <lemma_ref>mah</lemma_ref>
@@ -3131,14 +3165,14 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">i hva</t>
+            <t pos="pron">med hva (flertall)</t>
             <xg>
-               <x>Masa don áiggut dien geavahit?</x>
-               <xt>Hva skal du bruke den til?</xt>
+               <x/>
+               <xt/>
             </xg>
             <xg>
-               <x>Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</x>
-               <xt>Gruppa spiller musikk som folk i Kautokeino liker.</xt>
+               <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
+               <xt>Det er saker som Sametinget arbeider med.</xt>
             </xg>
          </tg>
       </mg>
@@ -3614,174 +3648,6 @@
       </mg>
    </e>
 
-   <e>
-      <lg>
-         <l pos="pron">mah</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">hvilke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">maam</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Acc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hva</t>
-         </tg>
-         <xg>
-               <x>maam joem?</x>
-               <xt>hva da?</xt>
-               <x>Idtji maam gih utnieh.</x>
-               <xt>Han hadde absolutt ingenting.</xt>
-               <x>Datne maam dåaroen bijre govleme?</x>
-               <xt>Har du hørt noe om krigen?</xt>
-               <x>Maam daen biejjien gaskebeajjan?</x>
-               <xt>Hva er det til middag i dag?</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">maj</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Pl_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hva (flertall)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</x>
-               <xt>Her får du lese om noen saker som Áššu har skrevet om det siste året.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mejtie</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til hva (flertall)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</x>
-               <xt>Alt dette var bruksgjenstander som det var bruk for til hverdags.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">maiguin</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Pl_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med hva (flertall)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
-               <xt>Det er saker som Sametinget arbeider med.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">main</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ine</analysis>
-         <analysis>Pron_Rel_Pl_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">av hva (flertall)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-            <xg>
-               <x>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</x>
-               <xt>Alle har selv kjøpt materialer som de syr bukser av.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mainna</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med hva</t>
-            <xg>
-               <x>Mainna lágiin leat vieksát ja gotkkat ovttaláganat?</x>
-               <xt>På hvilken måte er veps og maur likedanne?</xt>
-            </xg>
-            <xg>
-               <x>Dat lea stuora biila mainna lea hui buorre vuodjit.</x>
-               <xt>Det er en stor bil som er god å kjøre med.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">man</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Gen</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hva</t>
-         </tg>
-         <xg>
-            <x>Man birra čállibehtet?</x>
-            <xt>Hva skriver dere om?</xt>
-         </xg>
-         <xg>
-            <x>Buoskavári guoras lea várri man namma lea Ráhpesvárri.</x>
-            <xt>Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri.</xt>
-         </xg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">manin</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som hva</t>
-         </tg>
-      </mg>
-   </e>
-
-   
-
 
    
 <!-- reciprocal pronouns (singular?) -->
@@ -3909,31 +3775,6 @@
             <xg>
                <x>om flere</x>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mejnie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">med hva</t>
-            <xg>
-               <x>om en</x>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">mestie</l>
-         <lemma_ref>mij</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">av hva</t>
          </tg>
       </mg>
    </e>
