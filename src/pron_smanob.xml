@@ -1197,7 +1197,7 @@
 
 
 
-<!-- dihte miniparadigm -->
+<!-- dïhte miniparadigm -->
 
 
    <e>
@@ -1241,12 +1241,12 @@
  
 
 
-<!-- dihte sg singleton forms -->
+<!-- dïhte sg singleton forms -->
 
    <e>
       <lg>
          <l pos="pron" type="dem">dam</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Dem_Sg3_Acc</analysis>
       </lg>
       <mg>
@@ -1262,7 +1262,7 @@
    <e>
       <lg>
          <l pos="pron">dan</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
       </lg>
       <mg>
@@ -1281,7 +1281,7 @@
    <e>
       <lg>
          <l pos="pron">dïsse</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ill</analysis>
       </lg>
       <mg>
@@ -1298,7 +1298,7 @@
    <e>
       <lg>
          <l pos="pron">desnie</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ine</analysis>
       </lg>
       <mg>
@@ -1315,7 +1315,7 @@
    <e>
       <lg>
          <l pos="pron">destie</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ela</analysis>
       </lg>
       <mg>
@@ -1333,7 +1333,7 @@
    <e>
       <lg>
          <l pos="pron" type="dem" nr="sg">dejnie</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Dem_Sg3_Com</analysis>
       </lg>
       <mg>
@@ -1349,7 +1349,7 @@
    <e>
       <lg>
          <l pos="pron">dannasinie</l>
-         <lemma_ref>dihte</lemma_ref>
+         <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ess</analysis>
       </lg>
       <mg>
@@ -1894,7 +1894,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">selv</t>
+            <t pos="pron">selv</t>
          </tg>
       </mg>
    </e>
@@ -1904,7 +1904,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">selv, sjøl (han/hun)</t>
+            <t pos="pron">selv, sjøl (han/hun)</t>
          </tg>
       </mg>
    </e>
@@ -1961,7 +1961,7 @@
    <e>
       <lg>
          <l pos="pron">daam</l>
-         <lemma_ref>daah</lemma_ref>
+         <lemma_ref>daate</lemma_ref>
          <analysis>Pron_Dem_Sg3_Acc</analysis>
       </lg>
       <mg>
@@ -1977,7 +1977,7 @@
    <e>
       <lg>
          <l pos="pron">daan</l>
-         <lemma_ref>daah</lemma_ref>
+         <lemma_ref>daate</lemma_ref>
          <analysis>Pron_Dem_Sg3_Gen</analysis>
       </lg>
       <mg>
@@ -2061,7 +2061,7 @@
 
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">daate</l>
+         <l pos="pron" type="dem" nr="pl">daah</l>
          <analysis>Pron_Dem_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl3_Acc">
@@ -2088,8 +2088,8 @@
          <tg>
             <t pos="pron">denne/dette (hos meg el. ved meg)</t>
             <xg>
-               <x>Daate lea vihkeles aamhtese.</x>
-               <xt>Dette er et viktig emne.</xt>
+               <x>Daat .</x>
+               <xt>Dette er viktige emner</xt>
             </xg>
          </tg>
       </mg>
@@ -2206,6 +2206,8 @@
 
 <!-- dïhte miniparadigm -->
 
+<!-- this should be determiner, not pronoun -->
+
    <e src="nj">
       <lg>
          <l pos="pron" type="dem">dïhte</l>
@@ -2286,7 +2288,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">de</t>
+            <t pos="pron">de</t>
          </tg>
       </mg>
    </e>
@@ -2471,6 +2473,38 @@
 
    <e>
       <lg>
+         <l pos="pron">doem</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">den/det (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">doen</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dens/dets (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron">doese</l>
          <lemma_ref>doete</lemma_ref>
          <analysis>Pron_Dem_Sg3_Ill</analysis>
@@ -2478,6 +2512,54 @@
       <mg>
          <tg>
             <t pos="pron">til den/det (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duesnie</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hos den/det (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duestie</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra den/det (som er der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">duejnie</l>
+         <lemma_ref>doete</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med den/det (som er der borte)</t>
             <xg>
                <x/>
                <xt/>
@@ -2655,8 +2737,35 @@
    </e>
 
 
-<!--     -->
+<!--   singleton forms  -->
 
+
+  <e>
+      <lg>
+         <l pos="pron">dujtie</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Acc</analysis>
+         <analysis>Pron_Dem_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dem (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">til dem (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
 
    <e>
@@ -2675,28 +2784,50 @@
          </tg>
       </mg>
    </e>
-   <e>
+
+  <e>
       <lg>
-         <l pos="pron">dojgujmie</l>
+         <l pos="pron">dyj</l>
          <lemma_ref>doh</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Com</analysis>
+         <analysis>Pron_Dem_Pl3_Gen</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med dem (der borte)</t>
+            <t pos="pron">deres (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
          </tg>
       </mg>
    </e>
 
   <e>
       <lg>
-         <l pos="pron">dujtie</l>
+         <l pos="pron">dujnie</l>
          <lemma_ref>doh</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ill</analysis>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til dem (der borte)</t>
+            <t pos="pron">hos dere (der borte)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+  <e>
+      <lg>
+         <l pos="pron">dujstie</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra dere (der borte)</t>
             <xg>
                <x/>
                <xt/>
@@ -2706,6 +2837,24 @@
    </e>
 
 
+
+<e>
+      <lg>
+         <l pos="pron">dojgujmie</l>
+         <lemma_ref>doh</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Com</analysis>
+      </lg>
+      <mg>   
+         <tg>
+            <t pos="pron">med dem (der borte)</t>
+         </tg>
+      </mg>
+   </e>
+   
+   
+ <!-- lskdjflsakdfj -->  
+ <!-- do not know what these forms are -->
+ 
    <e>
       <lg>
          <l pos="pron">duej</l>
@@ -2813,10 +2962,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx">hvilken, hvilket</t>
-            <t pos="xxx">noen, noe</t>
-            <t pos="xxx">som</t>
+            <t pos="pron">hva</t>
+            <t pos="pron">hvilken, hvilket</t>
+            <t pos="pron">noen, noe</t>
+            <t pos="pron">som</t>
             <xg>
                <x>mij dïhte</x>
                <xt>hva er det?</xt>
@@ -3425,7 +3574,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">mange</t>
+            <t pos="pron">mange</t>
          </tg>
       </mg>
    </e>
@@ -3435,7 +3584,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hvem</t>
+            <t pos="pron">hvem</t>
             <xg>
                <x>saaht gie</x>
                <xt>hvem som helst</xt>
@@ -3451,7 +3600,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hvem</t>
+            <t pos="pron">hvem</t>
          </tg>
       </mg>
    </e>
@@ -3461,7 +3610,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hver</t>
+            <t pos="pron">hver</t>
             <xg>
                <x>giekh bielesne</x>
                <xt>på hver sin side</xt>
@@ -3517,7 +3666,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noe, noen, noen få</t>
+            <t pos="pron">noe, noen, noen få</t>
          </tg>
       </mg>
    </e>
@@ -3528,7 +3677,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">som</t>
+            <t pos="pron">som</t>
          </tg>
       </mg>
    </e>
@@ -3538,7 +3687,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">når</t>
+            <t pos="pron">når</t>
          </tg>
       </mg>
    </e>
@@ -3548,7 +3697,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">de to, to sammen</t>
+            <t pos="pron">de to, to sammen</t>
             <xg>
                <x>dah guaktah</x>
                <xt>de to</xt>
@@ -3566,7 +3715,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noen, (ikke) noen, som, hvilken av flere</t>
+            <t pos="pron">noen, (ikke) noen, som, hvilken av flere</t>
          </tg>
       </mg>
    </e>
@@ -3576,7 +3725,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noen, (ikke noen)</t>
+            <t pos="pron">noen, (ikke noen)</t>
          </tg>
       </mg>
    </e>
@@ -3587,7 +3736,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">slik at</t>
+            <t pos="pron">slik at</t>
          </tg>
       </mg>
    </e>
@@ -3598,7 +3747,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">annet, en annen, noe annet (gjøre noe annet - jeatjebem darjodh)</t>
+            <t pos="pron">annet, en annen, noe annet (gjøre noe annet - jeatjebem darjodh)</t>
          </tg>
       </mg>
    </e>
@@ -3608,7 +3757,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">andre</t>
+            <t pos="pron">andre</t>
          </tg>
       </mg>
    </e>
@@ -3618,10 +3767,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hva</t>
-            <t pos="xxx">hvilken, hvilket</t>
-            <t pos="xxx">noen, noe</t>
-            <t pos="xxx">som</t>
+            <t pos="pron">hva</t>
+            <t pos="pron">hvilken, hvilket</t>
+            <t pos="pron">noen, noe</t>
+            <t pos="pron">som</t>
          </tg>
       </mg>
    </e>
@@ -3633,7 +3782,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noe, (ikke) noe</t>
+            <t pos="pron">noe, (ikke) noe</t>
          </tg>
       </mg>
    </e>
@@ -3643,7 +3792,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noe, (ikke) noe</t>
+            <t pos="pron">noe, (ikke) noe</t>
          </tg>
       </mg>
    </e>
@@ -3761,7 +3910,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noen, en del</t>
+            <t pos="pron">noen, en del</t>
          </tg>
       </mg>
    </e>
@@ -3771,7 +3920,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">med hva</t>
+            <t pos="pron">med hva</t>
             <xg>
                <x>om flere</x>
             </xg>
@@ -3784,7 +3933,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noen ganger, av og til</t>
+            <t pos="pron">noen ganger, av og til</t>
          </tg>
       </mg>
    </e>
@@ -3794,7 +3943,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noe, noen, noen få</t>
+            <t pos="pron">noe, noen, noen få</t>
          </tg>
       </mg>
    </e>
@@ -3804,7 +3953,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">noe, noen, noen få</t>
+            <t pos="pron">noe, noen, noen få</t>
          </tg>
       </mg>
    </e>
@@ -3820,7 +3969,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">hver</t>
+            <t pos="pron">hver</t>
             <xg>
                <x>fierhtene tjieltesne</x>
                <xt>i hver sin kommune</xt>
@@ -3838,7 +3987,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">all, alt</t>
+            <t pos="pron">all, alt</t>
             <xg>
                <x>gaajhkh</x>
                <xt>alle (flt.)</xt>
@@ -3852,7 +4001,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">mange</t>
+            <t pos="pron">mange</t>
          </tg>
       </mg>
    </e>
@@ -3862,7 +4011,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">begge to</t>
+            <t pos="pron">begge to</t>
          </tg>
       </mg>
    </e>
@@ -3872,7 +4021,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">når</t>
+            <t pos="pron">når</t>
             <xg>
                <x>om tid</x>
             </xg>
