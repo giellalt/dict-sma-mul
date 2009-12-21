@@ -73,7 +73,8 @@
 			  <xsl:for-each select="tokenize(., $cm)">
 			    <t>
 			      <xsl:attribute name="pos">
-				<xsl:value-of select="'xxx'"/>
+				<xsl:value-of select="normalize-space($pos)"/>
+<!--				<xsl:value-of select="'xxx'"/> -->
 			      </xsl:attribute>
 			      <xsl:value-of select="normalize-space(.)"/>
 			    </t>
