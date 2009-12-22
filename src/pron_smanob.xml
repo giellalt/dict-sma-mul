@@ -2293,142 +2293,6 @@
       </mg>
    </e>
    
-<!-- doehte miniparadigm -->
-   
-   <e src="nj">
-      <lg>
-         <l pos="pron" type="dem" nr="pl">doehte</l>
-         <analysis>Pron_Dem_Pl3_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl3_Acc">
-               <wordform>duetnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl3_Gen">
-               <wordform>doej</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl3_Ill">
-               <wordform>duejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl3_Ine">
-               <wordform>duejnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl3_Ela">
-               <wordform>duejstie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl3_Com">
-               <wordform>duejgujmie</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de (nær deg)</t>
-            <xg>
-               <x>Doete lea stoere kåahpe.</x>
-               <xt>Det der der ei stor kopp (nærmare deg).</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">doehte</l>
-         <lemma_ref>duot</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Gen</analysis>
-         <analysis>Pron_Dem_Sg3_Acc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">den/det der (som er nærmere deg enn meg)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-
-<!-- doehte singleton forms -->
-
-
-   <e>
-      <lg>
-         <l pos="pron">duejnie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Ine</analysis>
-         <analysis>Pron_Dem_Sg3_Com</analysis>
-         <analysis>Pron_Dem_Pl3_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i den/det der (som er nærmere deg enn meg)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="pron">med den/det (som er der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">duejstie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem (som er nærmere deg enn meg)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">duejtie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til dem (som er nærmere deg enn meg)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">duestie</l>
-         <lemma_ref>doehte</lemma_ref>
-         <analysis>Pron_Dem_Sg3_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">fra den/det det (som er nærmere deg enn meg)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-
 
 <!-- doete miniparadigm -->
 
@@ -2804,7 +2668,7 @@
 
   <e>
       <lg>
-         <l pos="pron">dujnie</l>
+         <l pos="pron" nr="pl">dujnie</l>
          <lemma_ref>doh</lemma_ref>
          <analysis>Pron_Dem_Pl3_Ine</analysis>
       </lg>
@@ -2900,22 +2764,6 @@
             <t pos="pron">med den/det (der borte)</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t pos="pron">i dem (der borte)</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">dujstie</l>
-         <lemma_ref>dohte</lemma_ref>
-         <analysis>Pron_Dem_Pl3_Ela</analysis>
-      </lg>
       <mg>
          <tg>
             <t pos="pron">i dem (der borte)</t>
@@ -3330,123 +3178,53 @@
 
 
 <!-- Relative pronoun g- -->
+  
+   <e src="nj">
+      <lg>
+         <l pos="pron">gie</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>giem, geam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gien, gean</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>giese, gease</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>giesnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>giestie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>giejnie</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+            <xg>
+               <x>Gii bat don leat?</x>
+               <xt>Hvem er så du?</xt>
+            </xg>
+            <xg>
+               <x>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</x>
+               <xt>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    
-   
-   <e>
+ <!-- gie singleton forms -->
+ 
+    <e>
       <lg>
-         <l pos="pron">geaid</l>
-         <lemma_ref>geat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Gen</analysis>
-         <analysis>Pron_Rel_Pl_Acc</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem sin (flertall)</t>
-            <t pos="pron">hvem (flertall)</t>
-            <xg>
-               <x>Geaid Ráisa háliida iežaset jovkui?</x>
-               <xt>Hvem Reisa vil på laget?</xt>
-            </xg>
-            <xg>
-               <x>Geaid sárgumat leat čájáhusas?</x>
-               <xt>Hvem har tegninger på utstillinga?</xt>
-            </xg>
-            <xg>
-               <x>Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui.</x>
-               <xt>Der er det fem fotballspillere som Reisa vil på laget.</xt>
-            </xg>
-            <xg>
-               <x>Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</x>
-               <xt>Nedenfor ser du navnene til dem som har tegninger på utstillinga.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geaidda</l>
-         <lemma_ref>geat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til hvem (flertall)</t>
-            <xg>
-               <x>Geaidda bohccot gulle?</x>
-               <xt>Til hvem tilhørte reinen?</xt>
-            </xg>
-            <xg>
-               <x>Dađi bahábut ii lean vejolaš duođaštit, geaidda bohccot gulle.</x>
-               <xt>Dessverre var det ikke mulig å bevise hvem reinen tilhørte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geaiguin</l>
-         <lemma_ref>geat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med hvem (flertall)</t>
-            <xg>
-               <x>Geaiguin dii lehpet hárjehallan?</x>
-               <xt>Hvem har dere trent med?</xt>
-            </xg>
-            <xg>
-               <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
-               <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geain</l>
-         <lemma_ref>geat</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ine</analysis>
-         <analysis>Pron_Rel_Pl_Ela</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem (har) (flertall)</t>
-            <xg>
-               <x>Geain lea dakkár oahppu?</x>
-               <xt>Hvem har slik utdanning?</xt>
-            </xg>
-            <xg>
-               <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
-               <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">geainna</l>
-         <lemma_ref>gii</lemma_ref>
-         <analysis>Pron_Rel_Sg_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">med hvem</t>
-            <xg>
-               <x>Geainna bat mun dál human?</x>
-               <xt>Hvem snakker jeg så med nå?</xt>
-            </xg>
-            <xg>
-               <x>Son lei gonagasnieida geainna ii oktage birgen.</x>
-               <xt>Hun var kongsdatteren som ingen kunne berges med.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gean</l>
-         <lemma_ref>gii</lemma_ref>
+         <l pos="pron">giem</l>
+         <lemma_ref>gie</lemma_ref>
          <analysis>Pron_Rel_Sg_Gen</analysis>
          <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
@@ -3473,24 +3251,139 @@
          </tg>
       </mg>
    </e>
-   <e>
+    <e>
       <lg>
-         <l pos="pron">geanin</l>
-         <lemma_ref>gii</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ess</analysis>
+         <l pos="pron">geam</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som hvem</t>
+            <t pos="pron">hvem</t>
+            <t pos="pron">hvem sin</t>
+            <xg>
+               <x>Gean ovddasvástádus dat lea?</x>
+               <xt>Hvem sitt ansvar er det?</xt>
+            </xg>
+            <xg>
+               <x>Gean don oidnet?</x>
+               <xt>Hvem så du?</xt>
+            </xg>
+            <xg>
+               <x>Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin.</x>
+               <xt>Våre fotballspillere har sagt hvem de ønsker som trener.</xt>
+            </xg>
+            <xg>
+               <x>Gii diehtá gean miessi dat lea?</x>
+               <xt>Hvem vet hvem sin reinkalv det er?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="pron">gien</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+            <t pos="pron">hvem sin</t>
+            <xg>
+               <x>Gean ovddasvástádus dat lea?</x>
+               <xt>Hvem sitt ansvar er det?</xt>
+            </xg>
+            <xg>
+               <x>Gean don oidnet?</x>
+               <xt>Hvem så du?</xt>
+            </xg>
+            <xg>
+               <x>Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin.</x>
+               <xt>Våre fotballspillere har sagt hvem de ønsker som trener.</xt>
+            </xg>
+            <xg>
+               <x>Gii diehtá gean miessi dat lea?</x>
+               <xt>Hvem vet hvem sin reinkalv det er?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="pron">gean</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvem</t>
+            <t pos="pron">hvem sin</t>
+            <xg>
+               <x>Gean ovddasvástádus dat lea?</x>
+               <xt>Hvem sitt ansvar er det?</xt>
+            </xg>
+            <xg>
+               <x>Gean don oidnet?</x>
+               <xt>Hvem så du?</xt>
+            </xg>
+            <xg>
+               <x>Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin.</x>
+               <xt>Våre fotballspillere har sagt hvem de ønsker som trener.</xt>
+            </xg>
+            <xg>
+               <x>Gii diehtá gean miessi dat lea?</x>
+               <xt>Hvem vet hvem sin reinkalv det er?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">geas</l>
-         <lemma_ref>gii</lemma_ref>
+         <l pos="pron">giese</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvem</t>
+            <xg>
+               <x>Geasa dat lea ávkin?</x>
+               <xt>For hvem er det nyttig?</xt>
+            </xg>
+            <xg>
+               <x>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</x>
+               <xt>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">gease</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvem</t>
+            <xg>
+               <x>Geasa dat lea ávkin?</x>
+               <xt>For hvem er det nyttig?</xt>
+            </xg>
+            <xg>
+               <x>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</x>
+               <xt>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">giesnie</l>
+         <lemma_ref>gie</lemma_ref>
          <analysis>Pron_Rel_Sg_Ine</analysis>
-         <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
          <tg>
@@ -3508,141 +3401,50 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">geasa</l>
-         <lemma_ref>gii</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ill</analysis>
+         <l pos="pron">giestie</l>
+         <lemma_ref>gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til hvem</t>
+            <t pos="pron">hvem (har)</t>
             <xg>
-               <x>Geasa dat lea ávkin?</x>
-               <xt>For hvem er det nyttig?</xt>
+               <x>Geas lea nu ollu ruhta?</x>
+               <xt>Hvem har så mye penger?</xt>
             </xg>
             <xg>
-               <x>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</x>
-               <xt>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</xt>
+               <x>Virgái ohcat olbmo geas lea alit ekonomi- ja hálddašanoahppu.</x>
+               <xt>Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e src="nj">
+
+ 
+ <!-- gieh miniparadigm -->
+ 
+    <e src="nj">
       <lg>
-         <l pos="pron">geat</l>
+         <l pos="pron">gieh</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Pl_Acc">
-               <wordform>geaid</wordform>
+               <wordform>giejtie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Gen">
-               <wordform>geaid</wordform>
+               <wordform>giej</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
-               <wordform>geaidda</wordform>
+               <wordform>giejtie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ine">
-               <wordform>geain</wordform>
+               <wordform>giejnie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ela">
-               <wordform>geain</wordform>
+               <wordform>giejstie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
-               <wordform>geainna</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Ess">
-               <wordform>geanin</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem (flertall)</t>
-            <xg>
-               <x>Geat leat váldoneaktárat filmmas?</x>
-               <xt>Hvem er hovedrolleinnehaverne i filmen?</xt>
-            </xg>
-            <xg>
-               <x>Áššu humadii máŋgasiin geat eai lean duhtavaččat.</x>
-               <xt>Áššu snakket med mange som ikke var fornøyde.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gellie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">mange</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem</t>
-            <xg>
-               <x>saaht gie</x>
-               <xt>hvem som helst</xt>
-               <x>gie dajra? gie meala?</x>
-               <xt>hvem vet?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">giejtie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">giekh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hver</t>
-            <xg>
-               <x>giekh bielesne</x>
-               <xt>på hver sin side</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj">
-      <lg>
-         <l pos="pron">gii</l>
-         <analysis>Pron_Rel_Sg_Nom</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>gean</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Gen">
-               <wordform>gean</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ill">
-               <wordform>geasa</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ine">
-               <wordform>geas</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Ela">
-               <wordform>geas</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Sg_Com">
-               <wordform>geainna</wordform>
-            </analysis>
-            <analysis ms="Pron_Rel_Ess">
-               <wordform>geanin</wordform>
+               <wordform>giejgujmie, geajgujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -3657,146 +3459,143 @@
                <x>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</x>
                <xt>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gille</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">noe, noen, noen få</t>
+            <xg>
+               <x>saaht gie</x>
+               <xt>hvem som helst</xt>
+            </xg>
+            <xg>
+               <x>gie dajra? gie meala?</x>
+               <xt>hvem vet?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
 
+<!-- gieh singleton forms -->
+  
    <e>
       <lg>
-         <l pos="pron">goh</l>
+         <l pos="pron">giejtie</l>
+         <lemma_ref>gieh</lemma_ref>
+         <analysis>Pron_Rel_Pl_Acc</analysis>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">som</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">gosse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">når</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">guaktah</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de to, to sammen</t>
+            <t pos="pron">hvem sin (flertall)</t>
+            <t pos="pron">hvem (flertall)</t>
             <xg>
-               <x>dah guaktah</x>
-               <xt>de to</xt>
-               <x>aehtjetje-guaktah</x>
-               <xt>far og sønn/datter</xt>
-               <x>tjædtjetje guaktah</x>
-               <xt>mor og barn (fast uttrykk)</xt>
+               <x>Geaid Ráisa háliida iežaset jovkui?</x>
+               <xt>Hvem Reisa vil på laget?</xt>
+            </xg>
+            <xg>
+               <x>Geaid sárgumat leat čájáhusas?</x>
+               <xt>Hvem har tegninger på utstillinga?</xt>
+            </xg>
+            <xg>
+               <x>Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui.</x>
+               <xt>Der er det fem fotballspillere som Reisa vil på laget.</xt>
+            </xg>
+            <xg>
+               <x>Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</x>
+               <xt>Nedenfor ser du navnene til dem som har tegninger på utstillinga.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvem (flertall)</t>
+            <xg>
+               <x>Geaidda bohccot gulle?</x>
+               <xt>Til hvem tilhørte reinen?</xt>
+            </xg>
+            <xg>
+               <x>Dađi bahábut ii lean vejolaš duođaštit, geaidda bohccot gulle.</x>
+               <xt>Dessverre var det ikke mulig å bevise hvem reinen tilhørte.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">guhte</l>
+         <l pos="pron">giejgujmie</l>
+         <lemma_ref>gieh</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">noen, (ikke) noen, som, hvilken av flere</t>
+            <t pos="pron">med hvem (flertall)</t>
+            <xg>
+               <x>Geaiguin dii lehpet hárjehallan?</x>
+               <xt>Hvem har dere trent med?</xt>
+            </xg>
+            <xg>
+               <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
+               <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">guhtegh</l>
+         <l pos="pron">geajgujmie</l>
+         <lemma_ref>gieh</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">noen, (ikke noen)</t>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">guktie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">slik at</t>
-         </tg>
-      </mg>
-   </e>
-
-   <e>
-      <lg>
-         <l pos="pron">jeatjebe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">annet, en annen, noe annet (gjøre noe annet - jeatjebem darjodh)</t>
+            <t pos="pron">med hvem (flertall)</t>
+            <xg>
+               <x>Geaiguin dii lehpet hárjehallan?</x>
+               <xt>Hvem har dere trent med?</xt>
+            </xg>
+            <xg>
+               <x>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</x>
+               <xt>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">jeatjebh</l>
+         <l pos="pron">giejstie</l>
+         <lemma_ref>gieh</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">andre</t>
+            <t pos="pron">hvem (har) (flertall)</t>
+            <xg>
+               <x>Geain lea dakkár oahppu?</x>
+               <xt>Hvem har slik utdanning?</xt>
+            </xg>
+            <xg>
+               <x>Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</x>
+               <xt>Der er det folk som har utdanning og lang arbeidsansiennitet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron">maab</l>
+         <l pos="pron">giejnie</l>
+         <lemma_ref>gieh</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva</t>
-            <t pos="pron">hvilken, hvilket</t>
-            <t pos="pron">noen, noe</t>
-            <t pos="pron">som</t>
+            <t pos="pron">med hvem</t>
+            <xg>
+               <x>Geainna bat mun dál human?</x>
+               <xt>Hvem snakker jeg så med nå?</xt>
+            </xg>
+            <xg>
+               <x>Son lei gonagasnieida geainna ii oktage birgen.</x>
+               <xt>Hun var kongsdatteren som ingen kunne berges med.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
-
-   <e>
-      <lg>
-         <l pos="pron">maamkh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">noe, (ikke) noe</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron">maamkih</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">noe, (ikke) noe</t>
-         </tg>
-      </mg>
-   </e>
-
 
    
 <!-- reciprocal pronouns (singular?) -->
@@ -4017,14 +3816,157 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">gåessie</l>
+         <l pos="pron">gellie</l>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">når</t>
+            <t pos="pron">mange</t>
+         </tg>
+      </mg>
+   </e>
+
+
+
+<!-- other -->
+   <e>
+      <lg>
+         <l pos="pron">giekh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hver</t>
             <xg>
-               <x>om tid</x>
+               <x>giekh bielesne</x>
+               <xt>hver på hver sin side</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">gille</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noe, noen, noen få</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">goh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">som</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">guaktah</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to, to sammen</t>
+            <xg>
+               <x>dah guaktah</x>
+               <xt>de to</xt>
+               <x>aehtjetje-guaktah</x>
+               <xt>far og sønn/datter</xt>
+               <x>tjædtjetje guaktah</x>
+               <xt>mor og barn (fast uttrykk)</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">guhte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noen, (ikke) noen, som, hvilken av flere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">guhtegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noen, (ikke noen)</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">guktie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">slik at</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron">jeatjebe</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">annet, en annen, noe annet (gjøre noe annet - jeatjebem darjodh)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">jeatjebh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">andre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">maab</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hva</t>
+            <t pos="pron">hvilken, hvilket</t>
+            <t pos="pron">noen, noe</t>
+            <t pos="pron">som</t>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron">maamkh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noe, (ikke) noe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">maamkih</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">noe, (ikke) noe</t>
          </tg>
       </mg>
    </e>
