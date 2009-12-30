@@ -27,6 +27,7 @@
       <mg>
          <tg>
             <t pos="v">rose, skryte</t>
+            <t pos="v">rose andre</t>
          </tg>
       </mg>
    </e>
@@ -42,11 +43,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dïervesjidh</l>
+         <l pos="v" p3p="diervesje">dïervesjidh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">treffe</t>
+            <t pos="v">møte, treffe</t>
             <t pos="v">hilse på</t>
          </tg>
       </mg>
@@ -200,11 +201,13 @@
    </e>
    <e>
       <lg>
-         <l pos="v" class="IV">hïerpedh</l>
+         <l pos="v" class="IV" p3p="hearpa">hïerpedh</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">skvette til</t>
+            <t pos="v">bli redd</t>
+            <t pos="v">kvekke til</t>
             <t pos="v">bli plutselig skremt av noe</t>
          </tg>
       </mg>
@@ -267,7 +270,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">lïegkestidh</l>
+         <l pos="v" p3p="lïegkeste">lïegkestidh</l>
       </lg>
       <mg>
          <tg>
@@ -458,6 +461,7 @@
       <mg>
          <tg>
             <t pos="v">lure</t>
+            <t pos="v">spionere</t>
             <t pos="v">spionere på</t>
          </tg>
       </mg>
@@ -518,16 +522,6 @@
             <t pos="v">tvinge</t>
             <t pos="v">nøde</t>
             <t pos="v">påtrue</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">ussjiedidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tenke</t>
          </tg>
       </mg>
    </e>
@@ -597,22 +591,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dïenesjidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tjene</t>
-            <t pos="v">være tjener</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="v">tjene penger</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">eadtjoestidh</l>
       </lg>
       <mg>
@@ -645,22 +623,13 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sjïehtesjadtedh</l>
+         <l pos="v" class="IV">sjïehtesjadtedh</l>
       </lg>
       <mg>
-         <tg>
-            <t pos="v">tilrettelegge</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">vïedtjedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hente</t>
-         </tg>
+	<tg>
+	  <t pos="v">tilrettelegge</t>
+	  <t pos="v">legge til rette</t>
+	</tg>
       </mg>
    </e>
    <e>
@@ -757,17 +726,6 @@
       <mg>
          <tg>
             <t pos="v">spytte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="VI">dïjpedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">ta</t>
-            <t pos="v">gripe</t>
          </tg>
       </mg>
    </e>
@@ -3681,21 +3639,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v" class="I">dïeblestehtedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">baktale, snakke nedsettende om noen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">dïeblestidh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">baktale, snakke nedsettende (noen)</t>
+            <t pos="v">baktale, snakke nedsettende om (noen)</t>
          </tg>
       </mg>
    </e>
@@ -3741,6 +3689,11 @@
             <t pos="v">diskutere</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">spørre ut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3749,16 +3702,6 @@
       <mg>
          <tg>
             <t pos="v">skjelve (av redsel)</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" p3p="diervesje">dïervesjidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">møte, treffe</t>
          </tg>
       </mg>
    </e>
@@ -3879,16 +3822,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dïeblestidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">snakke nedsettende om (person), baktale</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">dïelkestidh</l>
       </lg>
       <mg>
@@ -3904,6 +3837,12 @@
       <mg>
          <tg>
             <t pos="v">tjene</t>
+            <t pos="v">være tjener</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="v">tjene penger</t>
          </tg>
       </mg>
    </e>
@@ -3933,18 +3872,14 @@
    </e>
    <e>
       <lg>
-         <l pos="v">dïerhkestidh</l>
+         <l pos="v" class="VI" p3p="dæjpa">dïjpedh</l>
       </lg>
       <mg>
          <tg>
-            <t pos="v">spørre ut, diskutere</t>
+            <t pos="v">ta</t>
+            <t pos="v">gripe</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="VI" p3p="dæjpa">dïjpedh</l>
-      </lg>
       <mg>
          <tg>
             <t pos="v">ha med å gjøre</t>
@@ -4417,16 +4352,6 @@
       <mg>
          <tg>
             <t pos="v">addere, forene</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v">evtiedidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">utvikle</t>
          </tg>
       </mg>
    </e>
@@ -6140,6 +6065,11 @@
             <t pos="v">friste, lede i fristelse</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">betrakte</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6203,16 +6133,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">girmedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">rose andre</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" class="I" p3p="geasa">gïesedh</l>
       </lg>
       <mg>
@@ -6223,6 +6143,16 @@
       <mg>
          <tg>
             <t pos="v">dra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" class="IV">gïesedh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="v">surre fast, gjøre fast</t>
          </tg>
       </mg>
    </e>
@@ -6341,31 +6271,11 @@
    </e>
    <e>
       <lg>
-         <l pos="v">gïehtjelidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">betrakte</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" class="IV">gïelehtovvedh</l>
       </lg>
       <mg>
          <tg>
             <t pos="v">bli målløs, bli overbevist</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="IV">gïesedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">surre fast, gjøre fast</t>
          </tg>
       </mg>
    </e>
@@ -7745,18 +7655,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v" p3p="hearpa">hïerpedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">skvette til</t>
-            <t pos="v">bli redd</t>
-            <t pos="v">kvekke til</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" p3p="heata">hïetedh</l>
       </lg>
       <mg>
@@ -8282,16 +8180,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">jïejkedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">tvile</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" class="I">jïejkegåetedh</l>
       </lg>
       <mg>
@@ -8374,7 +8262,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="v">betvile, være tvilrådig</t>
+            <t pos="v">tvile, betvile, være tvilrådig</t>
             <xg>
                <x>dam dle amma jïejkem</x>
                <xt>det betviler jeg</xt>
@@ -9230,16 +9118,6 @@
       <mg>
          <tg>
             <t pos="v">hvile av og til</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" p3p="lïegkeste">lïegkestidh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hvile litt</t>
          </tg>
       </mg>
    </e>
@@ -12245,6 +12123,11 @@
             <t pos="v">fremme</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="v">utvikle</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -12697,16 +12580,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sïektjedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">spionere</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" class="I">sienhtegåetedh</l>
       </lg>
       <mg>
@@ -12781,16 +12654,6 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sïmmedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">hviske, snakke lavt</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v">sïmmedidh</l>
       </lg>
       <mg>
@@ -12852,7 +12715,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">sjïehtedh</l>
+         <l pos="v" class="IV" p3p="sjeahta">sjïehtedh</l>
       </lg>
       <mg>
          <tg>
@@ -12944,27 +12807,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v" class="IV" p3p="sjeahta">sjïehtedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">passe, høve, være høvelig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="v" p3p="sjiehteladte">sjïehteladtedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">legge til rette</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="IV">sjïehtesjadtedh</l>
       </lg>
       <mg>
          <tg>
@@ -16041,7 +15884,7 @@
    </e>
    <e>
       <lg>
-         <l pos="v">vertedh</l>
+         <l pos="v" class="I">vertedh</l>
       </lg>
       <mg>
          <tg>
@@ -16281,16 +16124,6 @@
                <x>dihte mannem vemhtieminie</x>
                <xt>den (gjøken) spår at jeg skal dø</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="I">vertedh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">blø</t>
          </tg>
       </mg>
    </e>
@@ -16606,16 +16439,6 @@
       <mg>
          <tg>
             <t pos="v">legge merke til</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="v" class="IV">vïjredh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="v">jage, gå på jakt</t>
          </tg>
       </mg>
    </e>
