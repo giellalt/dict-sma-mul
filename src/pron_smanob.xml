@@ -24,8 +24,8 @@
                <wordform>mov</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg1_Ill">
-               <wordform>munnjan</wordform>
                <wordform>munnjien</wordform>
+               <wordform>munnjan</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg1_Ine">
                <wordform>mannesne</wordform>
@@ -42,8 +42,8 @@
          <tg>
             <t pos="pron">jeg</t>
             <xg>
-               <x>mov lea/leah</x>
-               <xt>jeg har</xt>
+               <x>manne leam nïejte</x>
+               <xt>jeg er ei jente</xt>
             </xg>
          </tg>
       </mg>
@@ -61,7 +61,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">eg</t>
+            <t pos="pron">jeg</t>
+            <t pos="pron">mån skiller seg fra manne ved at det uttrykker usikkerhet</t>
+            <xg>
+               <x>jirreden mån båatam</x>
+               <xt>i morgen kommer jeg vel</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -74,6 +79,10 @@
       <mg>
          <tg>
             <t pos="pron">meg</t>
+            <xg>
+               <x>Mejtie mannem vuajnah?</x>
+               <xt>Ser du meg?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -86,11 +95,19 @@
       <mg>
          <tg>
             <t pos="pron">min</t>
+            <xg>
+               <x>Datne mov vïnhtsem vuajnah?</x>
+               <xt>Ser du båten min?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="pron">jeg (har)</t>
+            <t pos="pron">jeg har</t>
+            <xg>
+               <x>Mov lea vïnhtse</x>
+               <xt>Jeg har en båt</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -103,6 +120,11 @@
       <mg>
          <tg>
             <t pos="pron">hos meg meg</t>
+            <xg>
+               <x>Mov lea vïnhtse</x>
+               <xt>Jeg har en båt</xt>
+            </xg>
+
          </tg>
       </mg>
       <mg>
@@ -3000,7 +3022,7 @@
 
    <e>
       <lg>
-         <l pos="pron">mainna</l>
+         <l pos="pron">mejnie</l>
          <lemma_ref>mij</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -3042,6 +3064,7 @@
                <wordform>mejstie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>mejgujmie</wordform>
                <wordform>majgujmie</wordform>
             </analysis>
          </mini_paradigm>
@@ -3182,6 +3205,26 @@
    </e>
   <e>
       <lg>
+         <l pos="pron">mejgujmie</l>
+         <lemma_ref>mah</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hva (flertall)</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+            <xg>
+               <x>Daesnie dah gaevnieh, mejgujmie åadtjoeh stååkedidh.</x>
+               <xt>Det er saker som Sametinget arbeider med.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
          <l pos="pron">majgujmie</l>
          <lemma_ref>mah</lemma_ref>
          <analysis>Pron_Rel_Pl_Com</analysis>
@@ -3194,7 +3237,7 @@
                <xt/>
             </xg>
             <xg>
-               <x>Dathan leat áššit maiguin Sámediggi bargá.</x>
+               <x>Aamhtesh mejgujmie Saemiedigkie barka.</x>
                <xt>Det er saker som Sametinget arbeider med.</xt>
             </xg>
          </tg>
