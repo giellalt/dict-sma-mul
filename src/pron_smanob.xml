@@ -1441,23 +1441,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">dïhte</l>
-         <lemma_ref>dïhte</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">henne</t>
-            <xg>
-               <x>Dïhte lea båateme.</x>
-               <xt>Hun (eller han) har kommet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">dam</l>
          <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
@@ -1595,7 +1578,7 @@
    </e>
     <e>
       <lg>
-         <l pos="pron" type="pers">dejnie</l>
+         <l pos="pron" type="pers" num="sg">dejnie</l>
          <lemma_ref>dïhte</lemma_ref>
          <analysis>Pron_Pers_Sg3_Com</analysis>
       </lg>
@@ -1659,18 +1642,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">sih</l>
-         <lemma_ref>dah</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers" case="acc">dejtie</l>
          <lemma_ref>dah</lemma_ref>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
@@ -1708,7 +1679,7 @@
  
     <e>
       <lg>
-         <l pos="pron" type="pers">dejnie</l>
+         <l pos="pron" type="pers" num="pl">dejnie</l>
          <lemma_ref>dah</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ine</analysis>
       </lg>
@@ -3480,7 +3451,7 @@
 
    <e>
       <lg>
-         <l pos="pron" type="rel">mejnie</l>
+         <l pos="pron" type="rel" num="sg">mejnie</l>
          <lemma_ref>mij</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -3619,7 +3590,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">mejnie</l>
+         <l pos="pron" type="rel" num="pl">mejnie</l>
          <lemma_ref>mah</lemma_ref>
          <analysis>Pron_Rel_Pl_Ine</analysis>
       </lg>
