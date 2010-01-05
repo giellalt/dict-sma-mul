@@ -14,7 +14,7 @@
 
    <e>
       <lg>
-         <l pos="pron">manne</l>
+         <l pos="pron" type="pers">manne</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Sg1_Acc">
@@ -55,7 +55,7 @@
 
    <e>
       <lg>
-         <l pos="pron">mån</l>
+         <l pos="pron" type="pers">mån</l>
          <lemma_ref>manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
       </lg>
@@ -72,7 +72,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mannem</l>
+         <l pos="pron" type="pers">mannem</l>
          <lemma_ref>manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Acc</analysis>
       </lg>
@@ -88,7 +88,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mov</l>
+         <l pos="pron" type="pers">mov</l>
          <lemma_ref>manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Gen</analysis>
       </lg>
@@ -113,7 +113,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">mannesne</l>
+         <l pos="pron" type="pers">mannesne</l>
          <lemma_ref>manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ine</analysis>
       </lg>
@@ -1671,7 +1671,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dejtie</l>
+         <l pos="pron" type="pers" case="acc">dejtie</l>
          <lemma_ref>dah</lemma_ref>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
       </lg>
@@ -1695,7 +1695,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron">dejtie</l>
+         <l pos="pron" type="pers" case="ill">dejtie</l>
          <lemma_ref>dah</lemma_ref>
          <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
@@ -1932,7 +1932,7 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">dah</l>
+         <l pos="pron">dah</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Pers_Pl3_Acc">
