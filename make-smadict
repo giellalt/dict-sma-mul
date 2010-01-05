@@ -31,7 +31,8 @@ LEX = src/a_smanob.xml  \
 	src/po_smanob.xml   \
 	src/pr_smanob.xml   \
 	src/pron_smanob.xml \
-	src/v_smanob.xml    
+	src/v_smanob.xml    \
+	src/vneg_smanob.xml    
 
 smadict.fst: bin/smadict.fst
 bin/smadict.fst: bin/smalemmalist.txt
