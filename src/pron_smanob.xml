@@ -1000,8 +1000,8 @@
             <t pos="pron">han</t>
             <t pos="pron">hun</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Pöövle jeehti satne edtji båetedh.</x>
+               <xt>Paul sa at han skulle komme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1020,6 +1020,10 @@
          <tg>
             <t pos="pron">han</t>
             <t pos="pron">henne</t>
+             <xg>
+               <x>?</x>
+               <xt>?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1031,14 +1035,18 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
+            <t pos="pron">ham</t>
             <t pos="pron">henne</t>
+             <xg>
+               <x>Gihtji mejtie sïjhti båetedh satnem viehkiehtidh</x>
+               <xt>Han spurte om han(eller hun) kunne komme å hjelpe ham.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
   <e>
       <lg>
-         <l pos="pron">san</l>
+         <l pos="pron">sov</l>
          <lemma_ref>satne</lemma_ref>
          <analysis>Pron_Pers_Sg3_Gen</analysis>
       </lg>
@@ -1046,8 +1054,12 @@
          <tg>
             <t pos="pron">han</t>
             <t pos="pron">henne</t>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans sin</t>
+            <t pos="pron">hennes sin</t>
+             <xg>
+               <x>Jeehti sov miesie dïhte.</x>
+               <xt>Han sa at det var sin kalv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2100,13 +2112,13 @@
                <wordform>daan</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Ill">
-               <wordform>daase</wordform>
+               <wordform>daase, daan</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Ine">
-               <wordform>daesnie</wordform>
+               <wordform>daesnie, daennie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Ela">
-               <wordform>daestie</wordform>
+               <wordform>daestie, daehtie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg3_Com">
                <wordform>daejnie</wordform>
@@ -2147,6 +2159,7 @@
          <l pos="pron">daan</l>
          <lemma_ref>daate</lemma_ref>
          <analysis>Pron_Dem_Sg3_Gen</analysis>
+         <analysis>Pron_Dem_Sg3_Ill</analysis>
       </lg>
       <mg>
          <tg>
@@ -2154,6 +2167,15 @@
             <xg>
                <x>Jïh båatsoe lea dan dïehre skearkagamme edtja daan kultuvren åejvieguedtije årrodh.</x>
                <xt>Og reindrifta har for den grunn utviklet seg til at bli hovedbærer av denne kulturen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">til denne/dette (...)</t>
+            <xg>
+               <x>... daan kultuvresse ...</x>
+               <xt>...</xt>
             </xg>
          </tg>
       </mg>
@@ -2192,6 +2214,22 @@
    </e>
    <e>
       <lg>
+         <l pos="pron">daennie</l>
+         <lemma_ref>daate</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i denne/dette (...)</t>
+            <xg>
+               <x>Daennie gåetesne galka åadtjodh daejredh saemien gïelen dovletjen, hammoen jïh struktuvren bïjre.</x>
+               <xt>I dette huset skal man få vite om den gamle samiske form og struktur.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron" type="dem">daestie</l>
          <lemma_ref>daate</lemma_ref>
          <analysis>Pron_Dem_Sg3_Ela</analysis>
@@ -2200,8 +2238,24 @@
          <tg>
             <t pos="pron">fra denne/dette</t>
             <xg>
-               <x> Daestie maahtah Adobe Acrobat Reader`m vaeltedh.</x>
+               <x> Daestie maahtah Adobe Acrobat Reader:m vaeltedh.</x>
                <xt>Herifra kan du hente Adobe Acrobat Reader.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">daehtie</l>
+         <lemma_ref>daate</lemma_ref>
+         <analysis>Pron_Dem_Sg3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra denne/dette (...)</t>
+            <xg>
+               <x> Daestie sijjeste maahtah Adobe Acrobat Reader`m vaeltedh.</x>
+               <xt>Fra dette stedet kan du hente Adobe Acrobat Reader.</xt>
             </xg>
          </tg>
       </mg>
@@ -2216,8 +2270,8 @@
          <tg>
             <t pos="pron">med denne/dette</t>
             <xg>
-               <x>Guktie maehtebe daejnie darjodh?</x>
-               <xt>Hvordan skal vi gøre med dette?</xt>
+               <x>Maam maehtebe daejnie darjodh?</x>
+               <xt>Hva skal vi gøre med dette?</xt>
             </xg>
          </tg>
       </mg>
@@ -2256,7 +2310,7 @@
          <tg>
             <t pos="pron">denne/dette (hos meg el. ved meg)</t>
             <xg>
-               <x>Daat .</x>
+               <x>Daah leah vihkeles aamhtesh.</x>
                <xt>Dette er viktige emner</xt>
             </xg>
          </tg>
