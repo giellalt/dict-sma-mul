@@ -154,7 +154,7 @@
             <t pos="pron">hvor</t>
             <xg>
                <x>Mïsse edtjh dam utnedh?</x>
-               <xt>Hva skal du bruke dene til?</xt>
+               <xt>Hva skal du bruke denne til?</xt>
             </xg>
             <xg>
                <x>Gåabph dïhte bïenje mïsse beapmoeh vedtim?.</x>
@@ -820,5 +820,301 @@
          </tg>
       </mg>
    </e>
+
+<!-- guhte miniparadigm -->
+
+ 
+ 
+    <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">guhte</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>guhtem</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>guhten</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>guhtese</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>guhtesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>guhteste</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>guhtine</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtem</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+         </tg>
+         <xg>
+               <x></x>
+               <xt></xt>
+         <xg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhten</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtese</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtesne</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhteste</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel" num="sg">guhtine</l>
+         <lemma_ref>guhte</lemma_ref>
+         <analysis>Pron_Rel_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+
+    <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">guhth</l>
+         <analysis>Pron_Rel_Pl_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>guhtide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>guhti</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>guhtide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>guhtine</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
+               <wordform>guhtijste</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>guhtigujmie</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtide</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+         </tg>
+         <xg>
+               <x></x>
+               <xt></xt>
+         <xg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhti</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtide</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtine</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">guhtijste</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel" num="pl">guhtigujmie</l>
+         <lemma_ref>guhth</lemma_ref>
+         <analysis>Pron_Rel_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
 
 </r>
