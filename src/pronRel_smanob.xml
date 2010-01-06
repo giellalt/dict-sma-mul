@@ -1263,4 +1263,154 @@
 
 
 
+<!-- gåabpethe miniparadigm -->
+
+ 
+ 
+    <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">gåabpetje</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>gåabpetjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gåabpetjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>gåabpatjasse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>gåabpatjisnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>gåabpatjistie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>gåabpatjinie</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpetjem</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+         </tg>
+         <xg>
+               <x></x>
+               <xt></xt>
+         <xg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpetjen</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpetjasse</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpatjisnie</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpatjistie</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel" num="sg">gåabpatjinie</l>
+         <lemma_ref>gåabpetje</lemma_ref>
+         <analysis>Pron_Rel_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
 </r>
