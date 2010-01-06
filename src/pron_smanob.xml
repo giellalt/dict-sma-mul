@@ -395,7 +395,7 @@
             <t pos="pron">oss</t>
             <xg>
                <x>Ij dïhte mijjem vielie govlh!</x>
-               <xt>Han/hun hører oss ikke mer!</xt>
+               <xt>Han eller hun hører oss ikke mer!</xt>
             </xg>
          </tg>
       </mg>
@@ -427,8 +427,8 @@
          <tg>
             <t pos="pron">til oss</t>
             <xg>
-               <x>Mijjese leah guessieh båateme.</x>
-               <xt>Det har kommet gjester til oss.</xt>
+               <x>Mijjese leah vadteme dam.</x>
+               <xt>De har gitt det til oss.</xt>
             </xg>
          </tg>
       </mg>
@@ -646,7 +646,7 @@
          </tg>
          <xg>
                <x>Guktie datnine gåarede debpene bijjene?</x>
-               <xt>HVordan går det med deg der oppe?</xt>
+               <xt>Hvordan går det med deg der oppe?</xt>
             </xg>
       </mg>
    </e>
@@ -1073,13 +1073,17 @@
          <tg>
             <t pos="pron">til han</t>
             <t pos="pron">til henne</t>
+            <xg>
+               <x>Stilli tjoeveri sutnjien aaj soptsestidh.</x>
+               <xt>Ba om at det måtte bli fortalt til ham eller henne også.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
  
     <e>
       <lg>
-         <l pos="pron" type="pers">satnese</l>
+         <l pos="pron" type="pers">satnesne</l>
          <lemma_ref>satne</lemma_ref>
          <analysis>Pron_Pers_Sg3_Ine</analysis>
       </lg>
@@ -1087,6 +1091,10 @@
          <tg>
             <t pos="pron">han (har)</t>
             <t pos="pron">hun (har)</t>
+            <xg>
+               <x>Satnesne lea..</x>
+               <xt>På, i han eller henne er det..</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1100,6 +1108,10 @@
          <tg>
             <t pos="pron">han (har)</t>
             <t pos="pron">hun (har)</t>
+            <xg>
+               <x>vuajna dihte ånnetji stueriebadtje satneste jih dovne joevteråbpoe</x>
+               <xt>Han ser at det er litt større enn ham og til og med fyldigere.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1113,6 +1125,11 @@
          <tg>
             <t pos="pron">med henne</t>
             <t pos="pron">med han</t>
+            <xg>
+               <x>Dïhte dan feejjen guhte vihth satnine sæjhta stååkedidh.</x>
+               <xt>Han var så glad for at noen igjen vil leke med ham.</xt>
+            </xg>
+            
          </tg>
       </mg>
    </e>
@@ -1121,9 +1138,6 @@
 <!-- dual forms -->
 
 <!-- miniparadigm -->
-
-
-
    <e>
       <lg>
          <l pos="pron" type="pers">såtnoeh</l>
@@ -1153,8 +1167,8 @@
          <tg>
             <t pos="pron">de to</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Soptsestigan, såtnoeh lægan desnie mïnneme.</x>
+               <xt>De fortalte at de hadde vært der en tur.</xt>
             </xg>
          </tg>
       </mg>
@@ -1171,6 +1185,11 @@
       <mg>
          <tg>
             <t pos="pron">de to</t>
+            <xg>
+               <x>Tjoeverim såtnoeh lægan desnie mïnneme.</x>
+               <xt>De fortalte at de hadde vært der en tur.</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -1182,7 +1201,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">dem to</t>
+            <t pos="pron">de to</t>
+            <xg>
+               <x>Tjoeverim mïnnedh sotnem viehkiehtidh..</x>
+               <xt>Jeg måtte dra å hjelpe dem to.</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -1195,6 +1219,11 @@
       <mg>
          <tg>
             <t pos="pron">de to sine</t>
+            <xg>
+               <x> Ånnetji mænngan dellie aajhtsijægan aehtjemes sotnen gaskesne tjåadtjoeminie </x>
+               <xt>Etter litt oppdager de to at deres far står i mellom dem.</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -1207,6 +1236,10 @@
       <mg>
          <tg>
             <t pos="pron">til de to</t>
+            <xg>
+               <x>Soptsesti, man stoerre viehkine sotnese lij orreme.</x>
+               <xt>Han/ hun fortalte hvor stor hjelp han hadde vært for dem to.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1219,7 +1252,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de to (har)</t>
+            <t pos="pron">På, i de to</t>
+            <xg>
+               <x>Sotnesne lea..</x>
+               <xt>På de to er det..</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -1231,7 +1269,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de to (har)</t>
+            <t pos="pron">fra de to</t>
+            <xg>
+               <x>Saarnoejigan, sotneste vielie båetieh</x>
+               <xt>De ga beskjed om at det kommer mer fra dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1244,6 +1286,10 @@
       <mg>
          <tg>
             <t pos="pron">med de to</t>
+            <xg>
+               <x>soptsesti, sotnine lij hijven</x>
+               <xt>Han/hun fortalte at det det var bra med dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1303,7 +1349,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">dem</t>
+            <t pos="pron">de</t>
+            <xg>
+               <x>saarnoejin, sijjieh sih aaj båetieh.</x>
+               <xt>De fortalte da det at de kommer også vel.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1316,6 +1366,10 @@
       <mg>
          <tg>
             <t pos="pron">dem</t>
+            <xg>
+               <x>Tjåarvoejin, tjoeverin sijjem båetedh viehkiehtidh</x>
+               <xt>De ropte, at de måtte komme å hjelpe dem. </xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1328,6 +1382,10 @@
       <mg>
          <tg>
             <t pos="pron">deres</t>
+            <xg>
+               <x>Soptsestin, sijjen gåetie dunnie raedtesne lij.</x>
+               <xt>De fortalte at dere hus/kåte var på den der kanten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1340,6 +1398,10 @@
       <mg>
          <tg>
             <t pos="pron">til dem</t>
+            <xg>
+               <x>Dah saemien lohkehtæjjah garmerdin sijjese stoerre aevhkine dihte</x>
+               <xt>De samiske lærerene skrøt av at det var til stor nytte for dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1352,7 +1414,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de (har)</t>
+            <t pos="pron">På eller i de</t>
+            <xg>
+               <x>dah jeehtin, sijjesne lea..</x>
+               <xt>På de er det..</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>
@@ -1365,6 +1432,10 @@
       <mg>
          <tg>
             <t pos="pron">fra dem</t>
+            <xg>
+               <x>Saarnoeji, sijjeste lea dam åådtjeme.</x>
+               <xt>Han/hun fortalte at han hadde fått den av dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1377,6 +1448,11 @@
       <mg>
          <tg>
             <t pos="pron">med dem</t>
+            <xg>
+               <x>soptsesti, sijjine barre hijven!</x>
+               <xt>han/hun fortalte at med dem var det bare bra!</xt>
+            </xg>
+            
          </tg>
       </mg>
    </e>
