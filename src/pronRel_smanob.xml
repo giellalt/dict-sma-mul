@@ -929,6 +929,7 @@
    </e>
 
 
+<!-- guhth miniparadigm -->
 
     <e src="nj">
       <lg>
@@ -1066,6 +1067,192 @@
       <mg>
          <tg>
             <t pos="pron">med hvilken</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+
+
+<!-- guhte miniparadigm -->
+
+ 
+ 
+    <e src="nj">
+      <lg>
+         <l pos="pron" type="rel">gåabpa</l>
+         <analysis>Pron_Rel_Sg_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>gåabpam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gåabpan</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>gåabpese</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>gåabpesne, gåabpene</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>gåabpeste, gåabpede</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>gåabpine</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- singleton forms -->
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpam</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+         </tg>
+         <xg>
+               <x></x>
+               <xt></xt>
+         <xg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpan</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hvilken av to</t>
+         </tg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+         <xg>
+            <x></x>
+            <xt></xt>
+         </xg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpase</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpesne</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpene</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpeste</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel">gåabpine</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hvilken av to</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e>
+      <lg>
+         <l pos="pron" type="rel" num="sg">guhtine</l>
+         <lemma_ref>gåabpa</lemma_ref>
+         <analysis>Pron_Rel_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hvilken av to</t>
             <xg>
                <x></x>
                <xt></xt>
