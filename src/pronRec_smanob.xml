@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   
+<!-- reciprocal pronouns (singular?) -->
+   
+   <e src="nj">
+      <lg>
+         <l pos="pron" type="recipr">sinsitniem</l>
+         <analysis>Pron_Recipr_Sg_Acc</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Recipr_Sg_Gen">
+               <wordform>sinsitnien</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Sg_Ill">
+               <wordform>sinsætnan</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Sg_Ela">
+               <wordform>sinsitneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Sg_Com">
+               <wordform>sinsitnine</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">hverandre</t>
+            <xg>
+               <x>XXX sinsitniem</x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+<!-- reciprocal pronouns, singleton forms -->
+
+   <e>
+      <lg>
+         <l pos="pron" type="recipr">sinsitnine</l>
+         <lemma_ref>sinsitniem</lemma_ref>
+         <analysis>Pron_Recipr_Du_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med hverandre</t>
+            <xg>
+               <x>XXX sinistnine </x>
+               <xt> hverandre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="recipr">sinsitnien</l>
+         <lemma_ref>sinsitniem</lemma_ref>
+         <analysis>Pron_Recipr_Du_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron"> hverandres</t>
+            <xg>
+               <x>XXX sinsitnien </x>
+               <xt> hverandre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="recipr">sinsætnan</l>
+         <lemma_ref>sinsitniem</lemma_ref>
+         <analysis>Pron_Recipr_Du_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til hverandre</t>
+            <xg>
+               <x>XXX sinsætnan </x>
+               <xt> hverandre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="pron" type="recipr">sinsitneste</l>
+         <lemma_ref>sinsitniem</lemma_ref>
+         <analysis>Pron_Recipr_Du_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra hverandre</t>
+            <xg>
+               <x>XXX sinsitneste </x>
+               <xt> hverandre</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+</r>
+
+
