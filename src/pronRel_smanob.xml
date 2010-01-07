@@ -609,7 +609,7 @@
    
    <e>
       <lg>
-         <l pos="pron" type="rel">giejnie</l>
+         <l pos="pron" type="rel" num="sg">giejnie</l>
          <lemma_ref>gie</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
@@ -627,24 +627,7 @@
          </tg>
       </mg>
    </e>
-   
-  <e>
-      <lg>
-         <l pos="pron" type="rel">giejnie</l>
-         <lemma_ref>gie</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som hvem</t>
-            <xg>
-               <x>Dïhte "aahka", giejnie manne edtjem årrodh, lea naa båeries.</x>
-               <xt>Den bestemora eller gamle kone som jeg skal være er ganske gammel.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>  
-
+ 
  
  <!-- gieh miniparadigm -->
  
@@ -684,20 +667,6 @@
                <x>Gie daajra?</x>
                <xt>Hvem vet?</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-
-<!-- gieh singleton forms -->
-   <e>
-      <lg>
-         <l pos="pron" type="rel">gieh</l>
-         <lemma_ref>gie</lemma_ref>
-         <analysis>Pron_Rel_Pl_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem (flertall)</t>
             <xg>
                <x>Gieh dah leah?</x>
                <xt>Hvem er de?</xt>
@@ -714,6 +683,8 @@
          </tg>
       </mg>
    </e>
+
+<!-- gieh singleton forms -->
   
    <e>
       <lg>
@@ -761,13 +732,13 @@
    
   <e>
       <lg>
-         <l pos="pron" type="rel">giejnie</l>
+         <l pos="pron" type="rel" num="pl">giejnie</l>
          <lemma_ref>gieh</lemma_ref>
-         <analysis>Pron_Rel_Pl_Inn</analysis>
+         <analysis>Pron_Rel_Pl_Ine</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">På hvem</t>
+            <t pos="pron">på hvem</t>
             <xg>
                <x>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</x>
                <xt>Personer som du ser en slik poncho på, kommer jo langveis fra.</xt>
@@ -783,7 +754,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">Fra hvem</t>
+            <t pos="pron">fra hvem</t>
             <xg>
                <x>Doh almetjh giejstie datne dam åadtjoejih, gieh lin dah?</x>
                <xt>De personene som du har fått denne fra, hvem er de?</xt>
@@ -823,22 +794,6 @@
          </tg>
       </mg>
    </e>
-    <e>
-      <lg>
-         <l pos="pron" type="rel">giejnie</l>
-         <lemma_ref>gieh</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ess</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">som hvem</t>
-            <xg>
-               <x>Dah, giejnie mijjieh edtjebe årrodh, dej leah tjeehpes vaarjoeh.</x>
-               <xt>De, som vi skal være (som), de har svarte klær.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
 
 <!-- guhte miniparadigm -->
 
@@ -874,7 +829,7 @@
             <t pos="pron">hvilken</t>
             <xg>
                <x>Guhte dle bööremes?</x>
-               <xt>Hvem er så den beste?(av en avgrenset gruppe, ting eller mennesker, f.eks skolebarn</xt>
+               <xt>Hvem (av en viss gruppe) er så den beste?</xt>
             </xg>
          </tg>
       </mg>
@@ -1041,7 +996,7 @@
 
    <e>
       <lg>
-         <l pos="pron" type="rel">guhtide</l>
+         <l pos="pron" type="rel" case="acc">guhtide</l>
          <lemma_ref>guhth</lemma_ref>
          <analysis>Pron_Rel_Pl_Acc</analysis>
       </lg>
@@ -1078,7 +1033,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="rel">guhtide</l>
+         <l pos="pron" type="rel" case="ill">guhtide</l>
          <lemma_ref>guhth</lemma_ref>
          <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
@@ -1315,7 +1270,7 @@
 
    <e>
       <lg>
-         <l pos="pron" type="rel" num="sg">guhtine</l>
+         <l pos="pron" type="rel" num="sg">gåabpine</l>
          <lemma_ref>gåabpa</lemma_ref>
          <analysis>Pron_Rel_Sg_Com</analysis>
       </lg>
