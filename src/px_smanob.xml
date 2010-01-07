@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-   <e>
+   <e usage="po">
       <lg>
          <l pos="pr">vieken</l>
       </lg>
@@ -11,7 +11,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">
       <lg>
          <l pos="pr">muhteste</l>
       </lg>
@@ -22,7 +22,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">
       <lg>
          <l pos="pr">dïehre</l>
       </lg>
@@ -32,8 +32,8 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
+   <e usage="po">     
+   	<lg>
          <l pos="pr">gietskie</l>
       </lg>
       <mg>
@@ -43,7 +43,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">gïetskese</l>
       </lg>
@@ -54,7 +54,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">gïetske</l>
       </lg>
@@ -64,7 +64,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">aerebe</l>
       </lg>
@@ -84,7 +84,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">åvtelen</l>
       </lg>
@@ -98,7 +98,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">åvteli</l>
       </lg>
@@ -108,23 +108,32 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">bæjngolen</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">utenfor</t>
+            <t pos="pr">utenfor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pr">utenpå</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="po">     
       <lg>
          <l pos="pr">gaskesne</l>
       </lg>
       <mg>
          <tg>
             <t pos="pr">mellom</t>
+	    <xg>
+	      <x>dennie gaskesne</x>
+	      <xt>i mellomtiden</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -134,7 +143,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ved siden av, attmed</t>
+            <t pos="pr">ved siden av, attmed</t>
          </tg>
       </mg>
    </e>
@@ -151,24 +160,6 @@
 
 <!-- postpositions -->
 
-   <e>
-      <lg>
-         <l pos="po">gujmie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pr">med</t>
-	    <xg>
-	      <x>Eedtji badth dïhte fihkh vuelkijh gujmie.</x>
-	      <xt>Han fikk nå ikke reise med.</xt>
-	    </xg>
-            <xg>
-	      <x>guejmie vaalta</x>
-	      <xt>tar det med (med det andre)</xt>
-	    </xg>
-         </tg>
-      </mg>
-   </e>
       <e>
       <lg>
          <l pos="po">raajan</l>
@@ -176,16 +167,6 @@
       <mg>
          <tg>
             <t pos="pr">til</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">dïehre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">derfor</t>
          </tg>
       </mg>
    </e>
@@ -201,65 +182,11 @@
    </e>
    <e>
       <lg>
-         <l pos="po">gïetskese</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">nær til</t>
-            <t pos="po">til ved siden av</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">gietskie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">til (nær)</t>
-            <t pos="po">mot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">muhteste</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">i tilknytning til</t>
-            <t pos="po">i forhold til</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">vieken</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="po">hjelp av ved-</t>
-            <t pos="po">gjennom</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">gïetske</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">nær</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="po">aarebi</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">før</t>
+            <t pos="pr">før</t>
          </tg>
       </mg>
    </e>
@@ -275,41 +202,12 @@
    </e>
    <e>
       <lg>
-         <l pos="po">aerebe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">før</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="po">avtesne</l>
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">før i tiden</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">åvtelen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">før</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">åvteli</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">før</t>
+            <t pos="pr">foran</t>
+            <t pos="xxx">i vegen for</t>
          </tg>
       </mg>
    </e>
@@ -349,7 +247,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">før i tiden</t>
+            <t pos="pr">foran</t>
+            <t pos="xxx">i vegen for</t>
          </tg>
       </mg>
    </e>
@@ -364,16 +263,6 @@
 	      <x>man åvteste</x>
 	      <xt>hvorfor</xt>
 	    </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">åvtetji</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="xxx">før i tiden</t>
          </tg>
       </mg>
    </e>
@@ -443,9 +332,9 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">uten</t>
+            <t pos="pr">uten</t>
 	    <xg>
-	      <x>Dïhte tjuajka bielelen klaahkam / dïhte klaahkan bielelen tjuajka.</x>
+	      <x>Dïhte tjuajka bielelen klaahkam. / Dïhte klaahkan bielelen tjuajka.</x>
 	      <xt>Han går på ski uten stav.</xt>
 	    </xg>
 	    <xg>
@@ -569,16 +458,6 @@
    </e>
    <e>
       <lg>
-         <l pos="po">bæjngolen</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pr">utenpå</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="po">laakan</l>
       </lg>
       <mg>
@@ -594,7 +473,7 @@
       <mg>
          <tg>
             <t pos="pr">over</t>
-            <t pos="xxx">over, tvers over (f.eks. elv el. vei)</t>
+            <t pos="pr">over, tvers over (f.eks. elv el. vei)</t>
          </tg>
       </mg>
    </e>
@@ -649,7 +528,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="xxx">på grunn av , i anledning av</t>
+            <t pos="xxx">på grunn av, i anledning av</t>
          </tg>
       </mg>
    </e>
@@ -660,20 +539,6 @@
       <mg>
          <tg>
             <t pos="pr">til mellom</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="po">gaskesne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pr">mellom, i posisjon mellom</t>
-	    <xg>
-	      <x>dennie gaskesne</x>
-	      <xt>i mellomtiden</xt>
-	    </xg>
          </tg>
       </mg>
    </e>
@@ -727,7 +592,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ved, nær, attmed</t>
+            <t pos="pr">ved, nær, attmed</t>
          </tg>
       </mg>
    </e>
@@ -747,7 +612,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">ved siden av</t>
+            <t pos="pr">ved siden av</t>
 	    <xg>
 	      <x>stråmhpoe-maadtegisnie</x>
 	      <xt>ved siden av en busk</xt>
@@ -783,7 +648,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pr">langs, etter, , langsetter, ifølge</t>
+            <t pos="pr">langs, etter, langsetter, ifølge</t>
          </tg>
       </mg>
    </e>
@@ -793,7 +658,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">etter, bak</t>
+            <t pos="pr">etter, bak</t>
          </tg>
       </mg>
    </e>
@@ -854,7 +719,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">opp på</t>
+            <t pos="pr">opp på</t>
          </tg>
       </mg>
    </e>
@@ -875,7 +740,7 @@
       <mg>
          <tg>
             <t pos="pr">til inn under</t>
-	    <t pos="xxx">inn under, under</t>
+	    <t pos="pr">inn under, under</t>
          </tg>
       </mg>
    </e>
@@ -905,7 +770,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">under, langs etter</t>
+            <t pos="pr">under, langs etter</t>
          </tg>
       </mg>
    </e>
@@ -915,7 +780,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">under, langs etter</t>
+            <t pos="pr">under, langs etter</t>
          </tg>
       </mg>
    </e>
@@ -925,7 +790,7 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="xxx">over, tvers over (f.eks. elv)</t>
+	 <t pos="pr">over, tvers over (f.eks. elv)</t>
        </tg>
      </mg>
    </e>
@@ -935,7 +800,7 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="xxx">inn i</t>
+	 <t pos="pr">inn i</t>
        </tg>
      </mg>
    </e>
@@ -1005,7 +870,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="xxx">fram til, inntil</t>
+            <t pos="pr">fram til, inntil</t>
 	    <xg>
 	      <x>gïjren vuestie</x>
 	      <xt>fram til våren</xt>
