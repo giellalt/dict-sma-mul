@@ -20,19 +20,25 @@
 XFST = xfst
 
 LEX = src/a_smanob.xml  \
-	src/adv_smanob.xml  \
-	src/cc_smanob.xml   \
-	src/cs_smanob.xml   \
-	src/i_smanob.xml    \
-	src/n_smanob.xml    \
-	src/npl_smanob.xml  \
-	src/num_smanob.xml  \
-	src/pcle_smanob.xml \
-	src/po_smanob.xml   \
-	src/pr_smanob.xml   \
-	src/pron_smanob.xml \
-	src/v_smanob.xml    \
-	src/vneg_smanob.xml    
+	adv_smanob.xml		 \
+	cc_smanob.xml		 \
+	cs_smanob.xml		 \
+	i_smanob.xml		 \
+	n_smanob.xml		 \
+	npl_smanob.xml		 \
+	num_smanob.xml		 \
+	pcle_smanob.xml		 \
+	pronDem_smanob.xml	 \
+	pronIndef_smanob.xml \
+	pronPers_smanob.xml	 \
+	pronRec_smanob.xml	 \
+	pronRefl_smanob.xml	 \
+	pronRel_smanob.xml	 \
+	prop_smanob.xml		 \
+	px_smanob.xml		 \
+	vCop_smanob.xml		 \
+	vNeg_smanob.xml		 \
+	v_smanob.xml		 
 
 smadict.fst: bin/smadict.fst
 bin/smadict.fst: bin/smalemmalist.txt
