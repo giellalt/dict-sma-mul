@@ -41,16 +41,32 @@ LEX = src/a_smanob.xml  \
 	src/v_smanob.xml		 \
 	../smaswe/src/verb_smaswe.xml
 
+
+
+
 smadict.fst: bin/smadict.fst
-bin/smadict.fst: bin/smalemmalist.txt
+bin/smadict.fst: bin/smadict.save ../../../gt/common/bin/spellrelax.fst 
 	@echo
 	@echo "*** Building  smadict.fst ***"
 	@echo
-	@printf "read text $< \n\
-	save stack $@ \n\
+	@printf "read regex [[@\"../../../gt/common/bin/spellrelax.fst\"] \
+	.o. [@\"bin/smadict.save\"]] ; \n\
+	invert net \n\
+	save stack bin/smadict.fst \n\
 	quit \n" > ../tmp/smadict-fst-script
 	$(XFST)  < ../tmp/smadict-fst-script
 	@rm -f ../tmp/smadict-fst-script
+
+smadict.save: bin/smadict.save
+bin/smadict.save: bin/smalemmalist.txt
+	@echo
+	@echo "*** Building  smadict.save ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smadict-save-script
+	$(XFST)  < ../tmp/smadict-save-script
+	@rm -f ../tmp/smadict-save-script
 
 smalemmalist.txt: bin/smalemmalist.txt
 bin/smalemmalist.txt: $(LEX)
