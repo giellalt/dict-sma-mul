@@ -45,7 +45,7 @@ LEX = src/a_smanob.xml  \
 
 
 smadict.fst: bin/smadict.fst
-bin/smadict.fst: bin/smadict.save #$GTHOME/gt/common/bin/spellrelax.fst 
+bin/smadict.fst: bin/smadict.save
 	@echo
 	@echo "*** Building  smadict.fst ***"
 	@echo
