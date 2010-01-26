@@ -45,15 +45,15 @@ LEX = src/a_smanob.xml  \
 
 
 smadict.fst: bin/smadict.fst
-bin/smadict.fst: bin/smadict.save ../../../gt/common/bin/spellrelax.fst 
+bin/smadict.fst: bin/smadict.save #$GTHOME/gt/common/bin/spellrelax.fst 
 	@echo
 	@echo "*** Building  smadict.fst ***"
 	@echo
-	@printf "read regex [[@\"../../../gt/common/bin/spellrelax.fst\"] \
-	.o. [@\"bin/smadict.save\"]] ; \n\
-	invert net \n\
-	save stack bin/smadict.fst \n\
+	@printf "read regex [ @\"$<\" .o. \
+	[ ï (<-) i , ö (<-) ø , æ (<-) ä , Ï (<-) I , Ö (<-) Ø , Æ (<-) Ä ]] ; \n\
+	save stack $@ \n\
 	quit \n" > ../tmp/smadict-fst-script
+	@echo "*** Done script, at least. ***"
 	$(XFST)  < ../tmp/smadict-fst-script
 	@rm -f ../tmp/smadict-fst-script
 
