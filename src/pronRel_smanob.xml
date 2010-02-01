@@ -838,6 +838,10 @@
                <x>Guhte dle bööremes?</x>
                <xt>Hvem (av en viss gruppe) er så den beste?</xt>
             </xg>
+            <xg>
+               <x>Guhte dam jeehti?</x>
+               <xt>Hvem sa det?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -863,14 +867,14 @@
       <mg>
          <tg>
             <t pos="pron">hvilken</t>
-         <xg>
-               <x>Ij leah saemien raedteste guhtem gihtjeme dan gïelebarkoen bïjre.</x>
-               <xt></xt>
+	 </xg>
+	 <xg>
+               <x>Im leah manne guhtem dan bïjre gihtjeme.</x>
+               <xt>Jeg har ikke spurt noen om det.</xt>
 	 </xg>
          </tg>
       </mg>
    </e>
-
    <e>
      <lg>
        <l pos="pron" type="rel">guhten</l>
@@ -880,6 +884,10 @@
      <mg>
        <tg>
 	 <t pos="pron">hvilken</t>
+	 <xg>
+               <x>Guhten måvhkah leah daah?</x>
+               <xt>Hvems bukser er dette?</xt>
+	 </xg>
        </tg>
      </mg>
    </e>
@@ -893,12 +901,13 @@
        <tg>
 	 <t pos="pron">til hvilken</t>
 	 <xg>
-	   <x>Aellieh guhtese dam saarnoeh!</x>
+	   <x>Aellieh guhtese dam soptsesth!</x>
 	   <xt>Ikke fortell det til noen av dem!</xt>
 	 </xg>
        </tg>
      </mg>
    </e>
+   <! en form som er sjelden i bruk i muntlig tale -->
    <e>
      <lg>
        <l pos="pron" type="rel">guhtesne</l>
@@ -910,8 +919,7 @@
 	 <t pos="pron">i hvilken</t>
        </tg>
      </mg>
-   </e>
-   
+   </e> 
    <e>
       <lg>
          <l pos="pron" type="rel">guhteste</l>
@@ -928,6 +936,7 @@
          </tg>
       </mg>
    </e>
+   <! form som ikke er så mye i bruk -->
    <e>
       <lg>
          <l pos="pron" type="rel" nr="sg">guhtine</l>
@@ -937,10 +946,6 @@
       <mg>
          <tg>
             <t pos="pron">med hvilken</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -978,15 +983,20 @@
             <t pos="pron">hvilken</t>
             <xg>
                <x>Guhth dah vöölkin?</x>
-               <xt>Hvem var det som dro?</xt>
+               <xt>Hvem (var det som dro?</xt>
+            </xg>
+            <xg>
+               <x>Guhth dah nemhtie jeehtin?</x>
+               <xt>Hvem (flere en en) sa det?</xt>
+            </xg>
+            <xg>
+               <x>Dah guhth learoeh vaadtseme,verkebe barkoeh åadtjoeh.</x>
+               <xt>De som har gått i lære, får fortere jobber.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
 <!-- singleton forms -->
-
-
    <e>
       <lg>
          <l pos="pron" type="rel" case="acc">guhtide</l>
@@ -997,8 +1007,8 @@
          <tg>
             <t pos="pron">hvilke</t>
             <xg>
-               <x>Ij leah guhtide gihtjeme dan bïjre.</x>
-               <xt>Han/hun har ikke spurt noen om det.</xt>
+               <x>Ij leah gujhth guhtide gihtjeme dan bïjre.</x>
+               <xt>han eller hun har ikke spurt noen om det.</xt>
 	    </xg>
          </tg>
       </mg>
@@ -1011,10 +1021,15 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">hvilke</t>
+	  <t pos="pron">hvilkens</t>
+	  <xg>
+               <x>Guhti vaarjoeh leah daah?</x>
+               <xt>Hvems klær er disse?</xt>
+	    </xg>
 	</tg>
       </mg>
    </e>
+   <! guhtide mindre brukt, bedre å bruke giejtie her -->
    <e>
       <lg>
          <l pos="pron" type="rel" case="ill">guhtide</l>
@@ -1024,13 +1039,10 @@
       <mg>
 	<tg>
 	  <t pos="pron">til hvilke</t>
-	  <xg>
-	    <x>Guhtide daejtie ussjedamme?</x>
-	    <xt>Til hvilke har du tenkt (å gi) disse?</xt>
-	  </xg>
 	</tg>
       </mg>
    </e>
+   <! guhtine sjelden i bruk, bedre med "giejnie"--> 
    <e>
       <lg>
          <l pos="pron" type="rel">guhtine</l>
@@ -1043,7 +1055,7 @@
 	</tg>
       </mg>
    </e>
-
+   <! buerebe jiehtedh giejstie: --> 
    <e>
       <lg>
          <l pos="pron" type="rel">guhtijste</l>
@@ -1056,6 +1068,7 @@
          </tg>
       </mg>
    </e>
+    <! buerebe jiehtedh giejgujmie: --> 
    <e>
       <lg>
          <l pos="pron" type="rel" nr="pl">guhtigujmie</l>
@@ -1068,14 +1081,7 @@
          </tg>
       </mg>
    </e>
-
-
-
-
-<!-- guhte miniparadigm -->
-
- 
- 
+<!-- guhte miniparadigm --> 
     <e>
       <lg>
          <l pos="pron" type="rel">gåabpa</l>
@@ -1109,6 +1115,17 @@
             <xg>
                <x>Ij gåabpa govlh okse rïhpese jih aehtjie gon tjidtjieh tjåadtjoeminie vuartesjeminie.</x>
                <xt>Ikke noen av de to hører at døra går opp og mor og far står og ser på dem.</xt>
+               <xg>
+               <x>Gåabpa gïete? Åelkies vuj gårroeh?</x>
+               <xt>Hvilken hånd? Høyre eller venstre?</xt>
+            </xg>
+            <xg>
+               <x>Gåabpa gïete dïhte mij bååktjehke?</x>
+               <xt>Hvilken hånd er det som gjør vondt?</xt>
+            </xg>
+            <xg>
+               <x>Gåabpa dïhte nemhtie jeehti??</x>
+               <xt>Hvilken av de to sa det?</xt>
             </xg>
          </tg>
       </mg>
@@ -1147,13 +1164,10 @@
 	    <x>Dle edtjigan vuejnedh gåabpan veaksahkommes gïete.</x>
 	    <xt>Så skulle de to se hvem som hadde den sterkeste handa.</xt>
 	  </xg>
-	  <xg>
-	    <x></x>
-	    <xt></xt>
-	  </xg>
 	</tg>
       </mg>
    </e>
+   <! gåabpa-former fra genetiv t.o.m komitativ er lite i bruk -->
    <e>
      <lg>
        <l pos="pron" type="rel">gåabpasse</l>
@@ -1163,14 +1177,10 @@
      <mg>
        <tg>
 	 <t pos="pron">til hvilken av to</t>
-	 <xg>
-	   <x>Gåabpasse dam ussjedh vedtedh?</x>
-	   <xt>Til hvem av de to har du tenkt å gi denne?</xt>
-	 </xg>
        </tg>
      </mg>
    </e>
-   
+  <! Lite i bruk---> 
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpesne</l>
@@ -1183,19 +1193,14 @@
 	</tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron" type="rel">gåabpene</l>
-         <lemma_ref lemmaID="gåabpa_pron_rel">gåabpa</lemma_ref>
-         <analysis>Pron_Rel_Sg_Ine</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">i hvilken av to</t>
-         </tg>
-      </mg>
-   </e>
-
+   
+   <! gåabpelen bielesne lea dïhte?= på hvilken side er den av to sider?
+      gåabpatjahki bielesne - på begge sider
+      bedre å si "mennie bielesne lea bielesne?  
+      "aktene gåetense maahta guektelen jiehtedh" på to forskjellige måter-->
+  
+  <! former som er sjelden i bruk--> 
+  <! gåabpeste dam govleme? går ann, men begynner å bruke spørrepron "gie" mer i disse kasusene --> 
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpeste</l>
@@ -1208,6 +1213,7 @@
          </tg>
       </mg>
    </e>
+   <!form som er lite i bruk-->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpine</l>
@@ -1220,6 +1226,7 @@
          </tg>
       </mg>
    </e>
+   <!form som er lite i bruk -->
    <e>
       <lg>
          <l pos="pron" type="rel" nr="sg">gåabpine</l>
@@ -1236,7 +1243,9 @@
          </tg>
       </mg>
    </e>
-<!-- gåabpethe miniparadigm --> 
+<!-- gåabpetje miniparadigm "
+Gåabpetje er former som er lite i bruk, derfor ikke eksempler på dette -->
+<! gåabpatjahki lin seammalags gåptoeh--> 
     <e>
       <lg>
          <l pos="pron" type="rel">gåabpetje</l>
@@ -1272,10 +1281,7 @@
          </tg>
       </mg>
    </e>
-
 <!-- singleton forms -->
-
-
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpetjem</l>
@@ -1288,7 +1294,6 @@
          </tg>
       </mg>
    </e>
-
    <e>
      <lg>
        <l pos="pron" type="rel">gåabpetjen</l>
@@ -1311,10 +1316,6 @@
      <mg>
        <tg>
 	 <t pos="pron">til hvilken av to</t>
-	 <xg>
-	   <x>Gåabpatjasse vedtiejih?</x>
-	   <xt>Til hvem av de to gav du?</xt>
-	 </xg>
        </tg>
      </mg>
    </e>
@@ -1327,10 +1328,6 @@
       <mg>
          <tg>
             <t pos="pron">i hvilken av to</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1343,10 +1340,6 @@
       <mg>
          <tg>
             <t pos="pron">fra hvilken av to</t>
-            <xg>
-               <x>Gåabpatjistie dam veeltih?</x>
-               <xt>Fra hvem av de to tok du den?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1359,10 +1352,6 @@
       <mg>
          <tg>
             <t pos="pron">med hvilken av to</t>
-            <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
