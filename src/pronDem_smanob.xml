@@ -789,6 +789,147 @@
       </mg>
    </e>
 
+
+<!-- paradigme og eksempler for doeh -->
+
+<!-- doete miniparadigm -->
+
+   <e>
+      <lg>
+         <l pos="pron" type="dem">doeh</l>
+         <analysis>Pron_Dem_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Dem_Pl3_Acc">
+               <wordform>duejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Gen">
+               <wordform>doej</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ill">
+               <wordform>duejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ine">
+               <wordform>duejnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Ela">
+               <wordform>duejstie</wordform>
+            </analysis>
+            <analysis ms="Pron_Dem_Pl3_Com">
+               <wordform>doejgujmie</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">den/det (den/det der (nærmere deg))</t>
+            <xg>
+               <x>Doeh måvhkah orre.</x>
+               <xt>De der buksene er nye.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
+<!-- doeh eksempler -->
+
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duejtie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Acc</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">den/det (som er der borte)</t>
+            <xg>
+               <x>Baajh duejtie måvhkide årrodh!</x>
+               <x>La være de der buksene!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">doej</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Gen</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">dens/dets (som er der borte)</t>
+            <xg>
+               <x>Doej måvhkaj leah aaj låammah.</x>
+               <x>De buksene har også lommer.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duejtie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">til den/det (som er der borte)</t>
+            <xg>
+               <x>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</x>
+               <x>Jeg skal kjøpe nye knapper til de buksene.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duejnie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">hos den/det (som er der borte)</t>
+     <xg>
+               <x>Duejnie måvhkine aaj hijven lijhkie-måvhkah.</x>
+               <x>I/på de buksene er det også gode underbukser.</xt>
+            </xg>       
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">duejstie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">fra den/det (som er der borte)</t>
+         <xg>
+               <x>Duejstie bïsseldihkie måvhkijste njaelkies-laakan håpsoe</x>
+               <x>Fra de buksene lukter det godt.</xt>
+            </xg>     
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dojgujmie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <analysis>Pron_Dem_Pl3_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med den/det (som er der borte)</t>
+            <xg>
+               <x>Doj måvhkajgujmie hijven vaedtsedh.</x>
+               <x>Det er behagelig å gå med de buksene.</xt>
+            </xg>  
+         </tg>
+      </mg>
+   </e>
+
 <!-- *************************************** -->
 <!-- *************************************** -->
 <!--                                         -->
@@ -828,8 +969,8 @@
          <tg>
             <t pos="pron" type="dem">den/det det borte (fjernere)</t>
             <xg>
-               <x>Gien skuvtere dohte?</x>
-               <xt>Hvem sin skuter er det der borte?</xt>
+               <x>Dohte geegke dan dïeves vååjnoe.</x>
+               <xt>Den tønna ser så full ut.</xt>
             </xg>
          </tg>
       </mg>
@@ -846,8 +987,8 @@
          <tg>
             <t pos="pron" type="dem">den/det der borte</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Vaeltieh dom geegkem daestie.</x>
+               <xt>Ta den tønna herfra.</xt>
             </xg>
          </tg>
       </mg>
@@ -862,13 +1003,12 @@
          <tg>
             <t pos="pron" type="dem">i den/det der borte</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Daate lea don geegken leah luehkie.</x>
+               <xt>Dette er den tønnas lokk.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="dem">dosse</l>
@@ -879,14 +1019,12 @@
          <tg>
             <t pos="pron" type="dem">den/det der borte</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Dah edtjieh don geegkese.</x>
+               <xt>Disse skal til den tønna.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
-
    <e>
       <lg>
          <l pos="pron" type="dem">dusnie</l>
@@ -897,8 +1035,8 @@
          <tg>
             <t pos="pron" type="dem">den/det der borte</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Dunnie geegkesne leah bearkoeh.</x>
+               <xt>I den tønna er det kjøtt.</xt>
             </xg>
          </tg>
       </mg>
@@ -913,8 +1051,8 @@
          <tg>
             <t pos="pron" type="dem">fra den/det der borte</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Duhtie geegkeste edtjem bearkoeh döömedh.</x>
+               <xt>Fra den tønna skal jeg tømme kjøtt.</xt>
             </xg>
          </tg>
       </mg>
@@ -952,8 +1090,8 @@
          <tg>
             <t pos="pron" type="dem">de der borte</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Doh gåptoeh leah mov.</x>
+               <xt>De koftene er mine.</xt>
             </xg>
          </tg>
       </mg>
@@ -972,23 +1110,21 @@
        <tg>
 	 <t pos="pron" type="dem">dem der borte</t>
 	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+               <x>Vaeltieh meatan dujtie gåptojde.</x>
+               <xt>Ta med de koftene.</xt>
+            </xg> 
        </tg>
      </mg>
      <mg>
        <tg>
 	 <t pos="pron" type="dem">til dem der borte</t>
 	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+               <x>Duejtie gåptojde edtjem orre budtestahkh gåarodh.</x>
+               <xt>Jeg skal sy nye kantebånd til de koftene.</xt>
+            </xg>
        </tg>
      </mg>
-   </e>
-   
-   
+   </e> 
    <e>
      <lg>
        <l pos="pron" type="dem">doj</l>
@@ -998,14 +1134,13 @@
      <mg>
        <tg>
 	 <t pos="pron" type="dem">deres der borte</t>
-	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+	<xg>
+               <x>Doj gåptoej dan tjaebpies klaerieh.</x>
+               <xt>De koftene har så fine farger.</xt>
+            </xg>
        </tg>
      </mg>
-   </e>
-   
+   </e> 
    <e>
      <lg>
        <l pos="pron" type="dem">dyj</l>
@@ -1016,9 +1151,9 @@
        <tg>
 	 <t pos="pron" type="dem">deres der borte</t>
 	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+               <x>Dyj gåptoej dan tjaebpies klaerieh.</x>
+               <xt>De koftene har så fine farger.</xt>
+            </xg>
        </tg>
      </mg>
    </e>
@@ -1031,11 +1166,11 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron" type="dem">hos dere der borte</t>
+	 <t pos="pron" type="dem">i/på de der borte</t>
 	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+               <x>Dujnie gåptojne leah aaj sïlph.</x>
+               <xt>På/i de koftene er det også sølv.</xt>
+            </xg>
        </tg>
      </mg>
    </e>
@@ -1048,11 +1183,11 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron" type="dem">fra dere der borte</t>
+	 <t pos="pron" type="dem">fra de der borte</t>
 	 <xg>
-	   <x/>
-	   <xt/>
-	 </xg>
+               <x>Dujstie bïsseldihkie gåptojste njaelkies-laakan håpsoe.</x>
+               <xt>Det lukter godt av de nyvaskede kjolene.</xt>
+            </xg>
          </tg>
      </mg>
    </e>
@@ -1066,6 +1201,14 @@
      <mg>   
        <tg>
 	 <t pos="pron" type="dem">med dem der borte</t>
+	 <xg>
+               <x>Manne gåatan vualkam doj gåptoejgujmie.</x>
+               <xt>Jeg drar hjem med de koftene.</xt>
+            </xg>
+            <xg>
+               <x>Manne gåatan vualkam dyj gåptoejgujmie.</x>
+               <xt>Jeg drar hjem med de koftene.</xt>
+            </xg>
        </tg>
      </mg>
    </e>
