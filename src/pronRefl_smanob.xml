@@ -46,12 +46,17 @@
             </analysis>
             <analysis ms="Pron_Refl_Sg1_Ill">
                <wordform>jïjtsanne</wordform>
+               <wordform>jïjtsene</wordform>
             </analysis>
+            <analysis ms="Pron_Refl_Sg1_Ine">
+               <wordform>jïjtjemisnie</wordform>
             <analysis ms="Pron_Refl_Sg1_Ela">
                <wordform>jïjtjestanne</wordform>
+               <wordform>jïjtjenistie</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg1_Com">
                <wordform>jïjtjenæjnene</wordform>
+               <wordform>jïjtjeninie</wordform>
             </analysis>
          </mini_paradigm>
     </lg>
@@ -60,8 +65,8 @@
 	<t pos="pron">meg selv</t>
 	<t pos="pron">min egen</t>
 	<xg>
-	  <x>Manne jïjtjeme vuajnam.</x>
-	  <xt>Jeg ser meg selv.</xt>
+	  <x>Manne jïjtjemem guelmiedahkesne vuajnam.</x>
+	  <xt>Jeg ser meg selv i speilet.</xt>
 	</xg>
       </tg>
     </mg>
@@ -85,7 +90,6 @@
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtsanne</l>
@@ -96,8 +100,24 @@
          <tg>
             <t pos="pron">til meg selv</t>
             <xg>
-               <x>Manne jïjtsanne jeehtim.</x>
-               <xt>Jeg sa til meg selv.</xt>
+               <x>Jïjtsanne beapmoeh voessjim.</x>
+               <xt>Jeg kokte mat til meg selv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtsene</l>
+         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg selv</t>
+            <xg>
+               <x>Jïjtsene beapmoeh voessjim.</x>
+               <xt>Jeg kokte mat til meg selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -113,14 +133,60 @@
          <tg>
             <t pos="pron">til meg selv</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Im jïjtjestanne maam vedtieh.</x>
+               <xt>Jeg gir ingenting fra meg selv.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
-
+      <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjenistie</l>
+         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg selv</t>
+            <xg>
+               <x>Im jïjtjenistie maam vedtieh.</x>
+               <xt>Jeg gir ingenting fra meg selv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>  
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjemisnie</l>
+         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">på meg selv</t>
+            <xg>
+               <x>Jïjtjemisnie tsumhtsieh vööjnim.</x>
+               <xt>Jeg så rusk på meg selv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>  
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjeninie</l>
+         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med meg selv</t>
+            <xg>
+               <x>Tjoeverem jïjtjeninie latjkedh.</x>
+               <xt>Jeg må bli enig med meg selv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjenæjnene</l>
@@ -131,8 +197,8 @@
          <tg>
             <t pos="pron">med meg selv</t>
             <xg>
-               <x>Manne håalim jïjtjenæjnene</x>
-               <xt>Jeg snakket med meg selv.</xt>
+               <x>Tjoeverem jïjtjenæjnene latjkedh.</x>
+               <xt>Jeg må bli enig med meg selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -164,8 +230,8 @@
         <t pos="pron">deg selv</t>
         <t pos="pron">din egen</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Vaedtsieh jïjtje!</x>
+               <xt>Gå selv!</xt>
             </xg>
       </tg>
     </mg>
@@ -203,8 +269,8 @@
          <tg>
             <t pos="pron">din egen</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Vuajnah jïjtjedh aaltoem?</x>
+               <xt>Ser du din egen simle?</xt>
             </xg>
          </tg>
       </mg>
@@ -219,14 +285,28 @@
          <tg>
             <t pos="pron">til deg selv</t>
             <xg>
-               <x>Datne åastah jïjtsadth.</x>
-               <xt>Du kjøper til deg selv.</xt>
+               <x>Datne dån jïjtsadth åastah.</x>
+               <xt>Du kjøper vel til deg selv.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
-
+ <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjenadth</l>
+         <lemma_ref lemmaID="jïjtjemdh_pron_refl">jïjtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">i/på deg selv</t>
+            <xg>
+               <x>Jïjtjenadth dam damth.</x>
+               <xt>Det kjenner du på deg selv.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjestadth</l>
@@ -237,8 +317,8 @@
          <tg>
             <t pos="pron">fra deg selv</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Jïjtjestadth darjoeh.</x>
+               <xt>Du gjør det av deg selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -251,7 +331,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med seg selv</t>
+            <t pos="pron">med deg selv</t>
             <xg>
                <x></x>
                <xt></xt>
@@ -259,7 +339,22 @@
          </tg>
       </mg>
    </e>
-
+ <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjendh</l>
+         <lemma_ref lemmaID="jïjtjemdh_pron_refl">jïjtjemdh</lemma_ref>
+         <analysis>Pron_Refl_Sg2_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">med deg selv</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
 
 <!-- Refl Sg3 miniparadigm -->
@@ -277,6 +372,7 @@
             </analysis>
             <analysis ms="Pron_Refl_Sg3_Ela">
                <wordform>jïjtjestissie</wordform>
+               <wordform>jïjtsistie</wordform>
             </analysis>
             <analysis ms="Pron_Refl_Sg3_Com">
                <wordform>jïjtsinie</wordform>
@@ -288,8 +384,8 @@
         <t pos="pron">seg selv</t>
         <t pos="pron">sin egen</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Åvla jïjtje bæhtoem vaalta.</x>
+               <xt>Ola tar bøtta sjøl.</xt>
             </xg>
       </tg>
     </mg>
@@ -307,14 +403,12 @@
          <tg>
             <t pos="pron">med seg selv (om 1 person)</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Jïjtse voessem mååjsede.</x>
+               <xt>Han tar på seg sin egen sekk.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
-
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtsissie</l>
@@ -325,8 +419,8 @@
          <tg>
             <t pos="pron">til seg selv</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Barre jïjtsisse kaaffem vuassja.</x>
+               <xt>Han koker kaffe bare til seg selv.</xt>
             </xg>
          </tg>
       </mg>
@@ -339,7 +433,23 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til deg selv</t>
+            <t pos="pron">fra seg selv</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>   
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtsistie</l>
+         <lemma_ref lemmaID="jïjtjemse_pron_refl">jïjtjemse</lemma_ref>
+         <analysis>Pron_Refl_Sg3_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra seg selv</t>
             <xg>
                <x></x>
                <xt></xt>
@@ -347,6 +457,7 @@
          </tg>
       </mg>
    </e>
+   
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtsinie</l>
@@ -357,16 +468,12 @@
          <tg>
             <t pos="pron">til seg selv</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Piere tjåådtje jïjtsinie laavloeminie.</x>
+               <xt>Per står og synger for seg selv.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-
-
-
-
 <!-- Dual and plural forms, not in Bergsland -->
 
 </r>
