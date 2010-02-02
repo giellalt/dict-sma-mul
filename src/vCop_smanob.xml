@@ -36,6 +36,9 @@
             <analysis ms="V_Ind_Prs_Pl3">
                <wordform>leah</wordform>
             </analysis>
+            <analysis ms="V_ConNeg">
+               <wordform>leah</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -183,6 +186,22 @@
 	</tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="v" nr="conneg">leah</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+            <analysis>V_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x>Dïhte ij leah daesnie.</x>
+	    <xt>Han/hun er ikke her.</xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
 
 <!-- Past tense -->
 
@@ -217,6 +236,9 @@
             </analysis>
             <analysis ms="V_Ind_Prt_Pl3">
                <wordform>lin</wordform>
+            </analysis>
+            <analysis ms="V_ConNeg">
+               <wordform>leah</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -358,6 +380,22 @@
 	  <xg>
 	    <x>Dah lin daesnie.</x>
 	    <xt>De var her.</xt>
+	  </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v" nr="conneg">leah</l>
+         <lemma_ref lemmaID="lea_v">lea</lemma_ref>
+            <analysis>V_ConNeg</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="v">er</t>
+	  <xg>
+	    <x>Dïhte ij leah daesnie.</x>
+	    <xt>Han/hun er ikke her.</xt>
 	  </xg>
 	</tg>
       </mg>
