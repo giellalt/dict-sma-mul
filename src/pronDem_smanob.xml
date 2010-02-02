@@ -79,6 +79,7 @@
          <l pos="pron" type="dem">dan</l>
          <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref>
          <analysis>Pron_Dem_Sg_Gen</analysis>
+         <analysis>Pron_Dem_Sg_Ill</analysis>
       </lg>
       <mg>
          <tg>
@@ -92,13 +93,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="dem">dan</l>
-         <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref>
-         <analysis>Pron_Dem_Sg_Ill</analysis>
-      </lg>
       <mg>
          <tg>
             <t pos="pron" type="dem">til det</t>
@@ -774,7 +768,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">duejnie</l>
+         <l pos="pron" type="dem" nr="sg">duejnie</l>
          <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -838,6 +832,7 @@
          <l pos="pron" type="dem">duejtie</l>
          <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
          <analysis>Pron_Dem_Pl_Acc</analysis>
+         <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
          <tg>
@@ -845,6 +840,15 @@
             <xg>
                <x>Baajh duejtie måvhkide årrodh!</x>
                <xt>La være de der buksene!</xt>
+            </xg>
+         </tg>
+      </mg>
+            <mg>
+         <tg>
+            <t pos="pron" type="dem">til den/det (som er der borte)</t>
+            <xg>
+               <x>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</x>
+               <xt>Jeg skal kjøpe nye knapper til de buksene.</xt>
             </xg>
          </tg>
       </mg>
@@ -867,23 +871,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">duejtie</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
-         <analysis>Pron_Dem_Pl_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron" type="dem">til den/det (som er der borte)</t>
-            <xg>
-               <x>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</x>
-               <xt>Jeg skal kjøpe nye knapper til de buksene.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="dem">duejnie</l>
+         <l pos="pron" type="dem" nr="pl">duejnie</l>
          <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
          <analysis>Pron_Dem_Pl_Ine</analysis>
       </lg>
