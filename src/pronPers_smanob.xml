@@ -4,44 +4,9 @@
 <!DOCTYPE r
   PUBLIC "-//XMLmind//DTD gt_dictionary//SE" "../../scripts/gt_staticdictionary.dtd">
 <r>
-  <!-- personal pronouns: 1p, sg -->
-  <e>
-    <lg>
-      <l pos="pron" type="pers">manne</l>
-      <analysis>Pron_Pers_Sg1_Nom</analysis>
-      <mini_paradigm>
-	<analysis ms="Pron_Pers_Sg1_Acc">
-	  <wordform>mannem</wordform>
-	</analysis>
-	<analysis ms="Pron_Pers_Sg1_Gen">
-	  <wordform>mov</wordform>
-	</analysis>
-	<analysis ms="Pron_Pers_Sg1_Ill">
-	  <wordform>munnjien</wordform>
-	  <wordform>munnjan</wordform>
-	</analysis>
-	<analysis ms="Pron_Pers_Sg1_Ine">
-	  <wordform>mannesne</wordform>
-	</analysis>
-	<analysis ms="Pron_Pers_Sg1_Ela">
-	  <wordform>manneste</wordform>
-	</analysis>
-	<analysis ms="Pron_Pers_Sg1_Com">
-	  <wordform>mannine</wordform>
-	</analysis>
-      </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">jeg</t>
-	<xg>
-	  <x>Manne leam nïejte.</x>
-	  <xt>Jeg er ei jente.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-  
+
+<!-- Short forms paradigm -->
+
 
   <e>
     <lg>
@@ -89,7 +54,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">dån</l>
-         <lemma_ref lemmaID="månnoeh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
       </lg>
       <mg>
@@ -105,7 +70,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">sån</l>
-         <lemma_ref lemmaID="satne_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
       </lg>
       <mg>
@@ -121,7 +86,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">min</l>
-         <lemma_ref lemmaID="månnoeh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Du1_Nom</analysis>
       </lg>
       <mg>
@@ -137,7 +102,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">din</l>
-         <lemma_ref lemmaID="dåtnoeh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Du2_Nom</analysis>
       </lg>
       <mg>
@@ -153,7 +118,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">sin</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Du3_Nom</analysis>
       </lg>
       <mg>
@@ -170,7 +135,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">mih</l>
-         <lemma_ref lemmaID="mijjieh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
       </lg>
       <mg>
@@ -186,7 +151,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">dih</l>
-         <lemma_ref lemmaID="dijjieh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
       </lg>
       <mg>
@@ -202,7 +167,7 @@
    <e>
       <lg>
          <l pos="pron" type="pers">sih</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">mån</lemma_ref>
+         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
       </lg>
       <mg>
@@ -216,6 +181,47 @@
       </mg>
    </e>
 
+
+
+  <!-- personal pronouns long forms: 1p, sg -->
+  <e>
+    <lg>
+      <l pos="pron" type="pers">manne</l>
+      <analysis>Pron_Pers_Sg1_Nom</analysis>
+      <mini_paradigm>
+	<analysis ms="Pron_Pers_Sg1_Acc">
+	  <wordform>mannem</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg1_Gen">
+	  <wordform>mov</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg1_Ill">
+	  <wordform>munnjien</wordform>
+	  <wordform>munnjan</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg1_Ine">
+	  <wordform>mannesne</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg1_Ela">
+	  <wordform>manneste</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg1_Com">
+	  <wordform>mannine</wordform>
+	</analysis>
+      </mini_paradigm>
+    </lg>
+    <mg>
+      <tg>
+	<t pos="pron">jeg</t>
+	<xg>
+	  <x>Manne leam nïejte.</x>
+	  <xt>Jeg er ei jente.</xt>
+	</xg>
+      </tg>
+    </mg>
+  </e>
+  
+<!-- Singleton forms -->
 
    <e>
       <lg>
