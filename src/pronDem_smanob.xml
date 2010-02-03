@@ -26,9 +26,9 @@
             <analysis ms="Pron_Dem_Sg_Gen">
                <wordform>dan gåetien</wordform>
             </analysis>
-<!--            <analysis ms="Pron_Dem_Sg_Ill"> -->
-<!--               <wordform>dan</wordform>		 -->
-<!--            </analysis>						 -->
+            <analysis ms="Pron_Dem_Sg_Ill"> 
+               <wordform>dan gåatan</wordform>		
+            </analysis>						
             <analysis ms="Pron_Dem_Sg_Ine">
                <wordform>dennie gåetesne</wordform>
             </analysis>
@@ -83,10 +83,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">det</t>
-            <t pos="pron" type="dem">den</t>
-            <t pos="pron" type="dem">"det sin"</t>
-            <t pos="pron" type="dem">"den sin"</t>
+            <t pos="pron" type="dem">den/det sin</t>
             <xg>
                <x>Dan tjohpen ij naan duahpa.</x>
                <xt>Den lua har ingen dusk.</xt>
@@ -95,8 +92,7 @@
       </mg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">til det</t>
-            <t pos="pron" type="dem">til den</t>
+            <t pos="pron" type="dem">til den/det</t>
             <xg>
                <x>Dan tjohpese tjoeverh duahpam gårredidh.</x>
                <xt>Til den lua må du knytte en dusk.</xt>
@@ -112,8 +108,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">i eller på det</t>
-            <t pos="pron" type="dem">i eller på den</t>
+            <t pos="pron" type="dem">i det/det</t>
             <xg>
                <x>Dennie tjohpesne jïjnje ålloe.</x>
                <xt>I den lua er det mye ull.</xt>
@@ -129,11 +124,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">fra det</t>
-            <t pos="pron" type="dem">fra den</t>
+            <t pos="pron" type="dem">fra den/det</t>
             <xg>
                <x>Dehtie tjohpeste vuajna gie lea.</x>
-               <xt>Fra den lua ser du hvem det er.</xt>
+               <xt>Av den lua ser du hvem det er.</xt>
             </xg>
          </tg>
       </mg>
@@ -154,18 +148,18 @@
          </tg>
       </mg>
    </e>
-   <e>
-     <lg>
-       <l pos="pron" type="dem">dannasinie</l>
-       <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref>
-       <analysis>Pron_Dem_Pl_Ess</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">som dem</t>
-       </tg>
-     </mg>
-   </e>
+<!--   <e>														 -->
+<!--     <lg>													 -->
+<!--       <l pos="pron" type="dem">dannasinie</l>				 -->
+<!--       <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref> -->
+<!--       <analysis>Pron_Dem_Pl_Ess</analysis>					 -->
+<!--     </lg>													 -->
+<!--     <mg>													 -->
+<!--       <tg>													 -->
+<!--	 <t pos="pron" type="dem">som dem</t>					 -->
+<!--       </tg>												 -->
+<!--     </mg>													 -->
+<!--   </e>														 -->
 <!--  påpekende Demoun "dah" "de" -->
 <!-- dah miniparadigm (dïhte pl) -->
 
@@ -175,22 +169,24 @@
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dejtie</wordform>
+               <wordform>dejtie gåetide</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>dej</wordform>
+               <wordform>dej gåetiej</wordform>
+               <wordform>daj gåetiej</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
-               <wordform>dejtie</wordform>
+               <wordform>dejtie gåetide</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ine">
-               <wordform>dejnie</wordform>
+               <wordform>dejnie gåetine</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ela">
-               <wordform>dejstie</wordform>
+               <wordform>dejstie gåetijste</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>dejgujmie</wordform>
+               <wordform>dej gåetiegujmie</wordform>
+               <wordform>daj gåetiegujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -227,13 +223,23 @@
          <l pos="pron" type="dem">dej</l>
          <lemma_ref lemmaID="dah_pron_dem">dah</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">de sine</t>
+            <t pos="pron" type="dem">deres</t>
             <xg>
                <x>Dej gåetiej leah tjaebpies klaerieh.</x>
                <xt>De husene har fine farger.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem</t>
+            <xg>
+               <x>Hijven sjædta dej gåetiejgujmie.</x>
+               <xt>Det blir bra med de husene.</xt>
             </xg>
          </tg>
       </mg>
@@ -243,13 +249,23 @@
          <l pos="pron" type="dem">daj</l>
          <lemma_ref lemmaID="dah_pron_dem">dah</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
             <t pos="pron" type="dem">deres</t>
             <xg>
-               <x>daj gåetiej leah tjaebpies klaerieh.</x>
+               <x>Daj gåetiej leah tjaebpies klaerieh.</x>
                <xt>De husene har fine farger.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem</t>
+            <xg>
+               <x>Hijven sjædta daj gåetiejgujmie.</x>
+               <xt>Det blir bra med de husene.</xt>
             </xg>
          </tg>
       </mg>
@@ -303,22 +319,6 @@
       </mg>
    </e>
 
-   <e>
-      <lg>
-         <l pos="pron" type="dem">dejgujmie</l>
-         <lemma_ref lemmaID="dah_pron_dem">dah</lemma_ref>
-         <analysis>Pron_Dem_Pl_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron" type="dem">med dem</t>
-            <xg>
-               <x>Hijven sjædta dej gåetiejgujmie.</x>
-               <xt>Det blir bra med de husene.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
 <!-- *************************************** -->
 <!-- *************************************** -->
 <!--                                         -->
@@ -364,7 +364,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">denne/dette hos meg eller ved meg</t>
+            <t pos="pron" type="dem">denne/dette hos eller ved meg</t>
             <xg>
                <x>Daate gåetie lea mov.</x>
                <xt>Dette huset er mitt.</xt>
@@ -444,7 +444,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">i denne/dette (...)</t>
+            <t pos="pron" type="dem">i denne/dette</t>
             <xg>
                <x>Daennie gåetesne murredem.</x>
                <xt>I dette huset trives jeg.</xt>
@@ -472,7 +472,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">fra denne/dette (...)</t>
+            <t pos="pron" type="dem">fra denne/dette</t>
             <xg>
                <x>Daehtie gåeteste lea gåhkese staarese.</x>
                <xt>Fra dette huset er det langt til byen.</xt>
@@ -480,7 +480,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e>cc
       <lg>
          <l pos="pron" type="dem" nr="sg">daejnie</l>
          <lemma_ref lemmaID="daate_pron_dem">daate</lemma_ref>
@@ -491,7 +491,7 @@
             <t pos="pron" type="dem">med denne/dette</t>
             <xg>
                <x>Daejnie gåetine guhkiem bearkedem.</x>
-               <xt>Med dette huset berger jeg meg lenge.</xt>
+               <xt>Med dette huset berges jeg lenge.</xt>
             </xg>
          </tg>
       </mg>
@@ -522,16 +522,18 @@
                <wordform>daejstie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>daaj gåetiegujmie</wordform>
+               <wordform>daajgujmie</wordform>
                <wordform>daejgujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">denne/dette (hos meg el. ved meg)</t>
+            <t pos="pron" type="dem">denne/dette som hos meg)</t>
             <xg>
-               <x>Daah gåetieh leah mijjen.</x>
-               <xt>Disse husene er våre.</xt>
+               <x>Daah vaanhtsh leah mov.</x>
+               <xt>Disse vottene er mine.</xt>
             </xg>
          </tg>
       </mg>
@@ -551,8 +553,8 @@
          <tg>
             <t pos="pron" type="dem">disse</t>
             <xg>
-               <x>Daejtie gåetide dæjman ööstim.</x>
-               <xt>Disse husene kjøpte jeg i fjor.</xt>
+               <x>Daejtie vaanhtside dæjman ööstim.</x>
+               <xt>Disse vottene kjøpte jeg i fjor.</xt>
             </xg>
          </tg>
         <tg>
@@ -563,8 +565,8 @@
          <tg>
             <t pos="pron" type="dem">til disse</t>
             <xg>
-               <x>Manne edtjem orre klaash jih oksh åestedh daejtie gåetide.</x>
-               <xt>Jeg skal kjøpe nye vinduer og dører til disse husene.</xt>
+               <x>Manne edtjem daejtie måvhkide låammah gåarodh.</x>
+               <xt>Jeg skal sy lommer til de buksene.</xt>
             </xg>
          </tg>
       </mg>
@@ -574,13 +576,23 @@
          <l pos="pron" type="dem">daaj</l>
          <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">disse sin</t>
+            <t pos="pron" type="dem">disses</t>
             <xg>
-               <x>Daaj gåetiej leah göökte oksh jih vïjhte klaash.</x>
-               <xt>Disse husene har to dører og fem vinduer.</xt>
+               <x>Daaj vaanhtsi leah duahpah fïereguhtine soermine!</x>
+               <xt>Disse vottene har dusker på hver finger!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med disse</t>
+            <xg>
+               <x>Daaj vaanhtsigujmie guhkiem bearkedem.</x>  
+               <xt>Jeg berges lenge med disse vottene.</xt> 
             </xg>
          </tg>
       </mg>
@@ -596,8 +608,8 @@
             <t pos="pron" type="dem">i dette</t>
             <t pos="pron" type="dem">i denne</t>
             <xg>
-               <x>Daejnie gåetine leah hijven årrodh.</x>
-               <xt>I disse husene er det godt å bo.</xt>
+               <x>Daejnie måvhkine hijven vaedtsedh.</x>
+               <xt>Det er godt å gå med disse buksene.</xt>
             </xg>
          </tg>
       </mg>
@@ -620,20 +632,36 @@
       </mg>
    </e>
    <e>
-      <lg>
-         <l pos="pron" type="dem">daajgujmie</l>
-         <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
-         <analysis>Pron_Dem_Pl_Com</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron" type="dem">med disse</t>
-            <xg>
-               <x>Daaj gåetiejgujmie guhkiem bearkedem.</x>
-               <xt>Jeg berger meg lenge med disse husene.</xt>
+     <lg>
+       <l pos="pron" type="dem">daajgujmie</l>
+       <lemma_ref lemmaID="doh_pron_dem">daah</lemma_ref>
+       <analysis>Pron_Dem_Pl_Com</analysis>
+     </lg>
+     <mg>   
+       <tg>
+	 <t pos="pron" type="dem">med disse</t>
+	 <xg>
+               <x>Manne gåatan vualkam daajgujmie.</x>
+               <xt>Jeg drar hjem med disse.</xt>
             </xg>
-         </tg>
-      </mg>
+       </tg>
+     </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="pron" type="dem">daejgujmie</l>
+       <lemma_ref lemmaID="doh_pron_dem">daah</lemma_ref>
+       <analysis>Pron_Dem_Pl_Com</analysis>
+     </lg>
+     <mg>   
+       <tg>
+	 <t pos="pron" type="dem">med disse</t>
+	 <xg>
+               <x>Manne gåatan vualkam daejgujmie.</x>
+               <xt>Jeg drar hjem med disse.</xt>
+            </xg>
+       </tg>
+     </mg>
    </e>
 
 <!-- *************************************** -->
@@ -662,10 +690,10 @@
                <wordform>doese</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>duesnie</wordform>
+               <wordform>duennie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>duestie</wordform>
+               <wordform>duehtie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>duejnie</wordform>
@@ -674,7 +702,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">den/det der nærmere deg</t>
+            <t pos="pron" type="dem">den/det som er nærmere deg</t>
             <xg>
                <x>Doete buertie orre.</x>
                <xt>Det bordet ved siden av deg er nytt.</xt>
@@ -694,10 +722,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">den/det som er der borte</t>
+            <t pos="pron" type="dem">den/det der borte</t>
             <xg>
                <x>Doem buertiem aajja böökti.</x>
-               <xt>Det bordet bringet bestefar.</xt>
+               <xt>Det bordet bragte bestefar.</xt>
             </xg>
          </tg>
       </mg>
@@ -710,7 +738,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">dens/dets som er der borte</t>
+            <t pos="pron" type="dem">den/det der borte sitt</t>
             <xg>
                <x>Doen buertien tjeehpes juelkieh.</x>
                <xt>Det bordet har svarte bein.</xt>
@@ -726,7 +754,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">til den/det som er der borte</t>
+            <t pos="pron" type="dem">til den/det der borte</t>
             <xg>
                <x>Bïejh doen buartan.</x>
                <xt>legg på det bordet.</xt>
@@ -742,7 +770,7 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron" type="dem">hos den/det som er der borte</t>
+	  <t pos="pron" type="dem">hos den/det der borte</t>
 	  <xg>
 	    <x>Duennie buertesne lea dïhte kåahpe.</x>
 	    <xt>På det bordet er koppen.</xt>
@@ -758,7 +786,7 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron" type="dem">fra den/det som er der borte</t>
+	  <t pos="pron" type="dem">fra den/det der borte</t>
 	  <xg>
 	    <x>Duehtie buerteste bööti.</x>
 	    <xt>Det kom fra det bordet.</xt>
@@ -774,7 +802,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">med den/det som er der borte</t>
+            <t pos="pron" type="dem">med den/det der borte</t>
             <xg>
                <x>Tjaebpie sjædta duejnie buertine.</x>
                <xt>Det blir fint med det bordet.</xt>
@@ -809,13 +837,14 @@
                <wordform>duejstie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>doej gåetiegujmie</wordform>
                <wordform>doejgujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">den/det (den/det der (nærmere deg))</t>
+            <t pos="pron" type="dem">den/det som er nærmere deg</t>
             <xg>
                <x>Doeh måvhkah orre.</x>
                <xt>De der buksene er nye.</xt>
@@ -830,22 +859,22 @@
    <e>
       <lg>
          <l pos="pron" type="dem">duejtie</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <lemma_ref lemmaID="doete_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Acc</analysis>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">den/det som er der borte</t>
+            <t pos="pron" type="dem">de der borte</t>
             <xg>
                <x>Baajh duejtie måvhkide årrodh!</x>
-               <xt>La være de der buksene!</xt>
+               <xt>La de der buksene være!</xt>
             </xg>
          </tg>
       </mg>
             <mg>
          <tg>
-            <t pos="pron" type="dem">til den/det som er der borte</t>
+            <t pos="pron" type="dem">til de der borte</t>
             <xg>
                <x>Manne edtjem duejtie måvhkide orre båaloeh åestedh.</x>
                <xt>Jeg skal kjøpe nye knapper til de buksene.</xt>
@@ -856,63 +885,69 @@
    <e>
       <lg>
          <l pos="pron" type="dem">doej</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <lemma_ref lemmaID="doete_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">dens/dets som er der borte</t>
+            <t pos="pron" type="dem">de/de der borte sin</t>
             <xg>
                <x>Doej måvhkaj leah aaj låammah.</x>
                <xt>De buksene har også lommer.</xt>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem der borte</t>
+            <xg>
+               <x>Doj måvhkajgujmie hijven vaedtsedh.</x>
+               <xt>Det er behagelig å gå med de buksene.</xt>
+            </xg>  
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
          <l pos="pron" type="dem" nr="pl">duejnie</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <lemma_ref lemmaID="doete_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Ine</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">hos den/det som er der borte</t>
-     <xg>
-               <x>Duejnie måvhkine aaj hijven lijhkie-måvhkah.</x>
-               <xt>I/på de buksene er det også gode underbukser.</xt>
-            </xg>       
+            <t pos="pron" type="dem">hos den/det der borte</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
          <l pos="pron" type="dem">duejstie</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <lemma_ref lemmaID="doete_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Ela</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">fra den/det som er der borte</t>
+            <t pos="pron" type="dem">fra den/det der borte</t>
          <xg>
                <x>Duejstie bïsseldihkie måvhkijste njaelkies-laakan håpsoe</x>
-               <xt>Fra de buksene lukter det godt.</xt>
+               <xt>Av de nyvaskede buksene lukter det godt.</xt>
             </xg>     
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem">dojgujmie</l>
-         <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
+         <l pos="pron" type="dem">doejgujmie</l>
+         <lemma_ref lemmaID="doete_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">med den/det som er der borte</t>
+            <t pos="pron" type="dem">med den/det der borte</t>
             <xg>
-               <x>Doj måvhkajgujmie hijven vaedtsedh.</x>
-               <xt>Det er behagelig å gå med de buksene.</xt>
+               <x>Doejgujmie hijven vaedtsedh.</x>
+               <xt>Det er behagelig å gå med de der.</xt>
             </xg>  
          </tg>
       </mg>
@@ -991,7 +1026,7 @@
          <tg>
             <t pos="pron" type="dem">i den/det der borte</t>
             <xg>
-               <x>Daate lea don geegken leah luehkie.</x>
+               <x>Daate lea don geegken luehkie.</x>
                <xt>Dette er den tønnas lokk.</xt>
             </xg>
          </tg>
@@ -1045,6 +1080,22 @@
          </tg>
       </mg>
    </e>
+ <e>
+      <lg>
+         <l pos="pron" type="dem" nr="sg">dujnie</l>
+         <lemma_ref lemmaID="dohte_pron_dem">dohte</lemma_ref>
+         <analysis>Pron_Dem_Sg_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med den/det der borte</t>
+            <xg>
+               <x>Manne edtjem dujnie geegkine vaedtsedh.</x>
+               <xt>Jeg skal gå med den tønna.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
 
 <!-- doh miniparadigm -->
 
@@ -1070,6 +1121,8 @@
                <wordform>dujstie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
+               <wordform>doj gåetiegujmie</wordform>
+               <wordform>dyj gåetiegujmie</wordform>
                <wordform>dojgujmie</wordform>
             </analysis>
          </mini_paradigm>
@@ -1107,7 +1160,7 @@
        <tg>
 	 <t pos="pron" type="dem">til dem der borte</t>
 	 <xg>
-               <x>Duejtie gåptojde edtjem orre budtestahkh gåarodh.</x>
+               <x>Dujtie gåptojde edtjem orre budtestahkh gåarodh.</x>
                <xt>Jeg skal sy nye kantebånd til de koftene.</xt>
             </xg>
        </tg>
@@ -1118,13 +1171,23 @@
        <l pos="pron" type="dem">doj</l>
        <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
        <analysis>Pron_Dem_Pl_Gen</analysis>
+       <analysis>Pron_Dem_Pl_Com</analysis>
      </lg>
      <mg>
        <tg>
-	 <t pos="pron" type="dem">deres der borte</t>
+	 <t pos="pron" type="dem">de der borte sine</t>
 	<xg>
                <x>Doj gåptoej dan tjaebpies klaerieh.</x>
                <xt>De koftene har så fine farger.</xt>
+            </xg>
+       </tg>
+     </mg>
+     <mg>   
+       <tg>
+	 <t pos="pron" type="dem">med dem der borte</t>
+	 <xg>
+               <x>Manne gåatan vualkam doj gåptoejgujmie.</x>
+               <xt>Jeg drar hjem med de koftene.</xt>
             </xg>
        </tg>
      </mg>
@@ -1134,18 +1197,27 @@
        <l pos="pron" type="dem">dyj</l>
        <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
        <analysis>Pron_Dem_Pl_Gen</analysis>
+       <analysis>Pron_Dem_Pl_Com</analysis>
      </lg>
      <mg>
        <tg>
-	 <t pos="pron" type="dem">deres der borte</t>
+	 <t pos="pron" type="dem">der der borte sine</t>
 	 <xg>
                <x>Dyj gåptoej dan tjaebpies klaerieh.</x>
                <xt>De koftene har så fine farger.</xt>
             </xg>
        </tg>
      </mg>
-   </e>
-   
+     <mg>   
+       <tg>
+	 <t pos="pron" type="dem">med dem der borte</t>
+            <xg>
+               <x>Manne gåatan vualkam dyj gåptoejgujmie.</x>
+               <xt>Jeg drar hjem med de koftene.</xt>
+            </xg>
+       </tg>
+     </mg>
+   </e>  
    <e>
      <lg>
        <l pos="pron" type="dem" nr="pl">dujnie</l>
@@ -1155,10 +1227,6 @@
      <mg>
        <tg>
 	 <t pos="pron" type="dem">i/på de der borte</t>
-	 <xg>
-               <x>Dujnie gåptojne leah aaj sïlph.</x>
-               <xt>På/i de koftene er det også sølv.</xt>
-            </xg>
        </tg>
      </mg>
    </e>
@@ -1190,12 +1258,8 @@
        <tg>
 	 <t pos="pron" type="dem">med dem der borte</t>
 	 <xg>
-               <x>Manne gåatan vualkam doj gåptoejgujmie.</x>
-               <xt>Jeg drar hjem med de koftene.</xt>
-            </xg>
-            <xg>
-               <x>Manne gåatan vualkam dyj gåptoejgujmie.</x>
-               <xt>Jeg drar hjem med de koftene.</xt>
+               <x>Manne gåatan vualkam dojgujmie</x>
+               <xt>Jeg drar hjem med dem der borte.</xt>
             </xg>
        </tg>
      </mg>
