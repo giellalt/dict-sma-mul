@@ -40,14 +40,9 @@
             <t pos="pron">hva</t>
             <t pos="pron">hvilken, hvilket</t>
             <t pos="pron">noen, noe</t>
-            <t pos="pron">som</t>
 	    <xg>
 	      <x>Mij dïhte?</x>
 	      <xt>Hva er det?</xt>
-	    </xg>
-	    <xg>
-	      <x>Mij darhke daate?</x>
-	      <xt>Hva er nå dette?</xt>
 	    </xg>
 	    <xg>
 	      <x>Saaht mij.</x>
@@ -58,24 +53,8 @@
 	      <xt>Hva er det i veien med deg?</xt>
 	    </xg>
 	    <xg>
-	      <x>Mij askide lea?</x>
-	      <xt>Hvilken måned er det nå?</xt>
-	    </xg>
-	    <xg>
 	      <x>Mij biejjide daen biejjien?</x>
 	      <xt>Hvilken dag er det i dag?</xt>
-	    </xg>
-	    <xg>
-	      <x>Mij biejjide jååktan?</x>
-	      <xt>Hvilken dag var det i går?</xt>
-	    </xg>
-	    <xg>
-	      <x>mij astojde</x>
-	      <xt>tid til?</xt>
-	    </xg>
-	    <xg>
-	      <x>Ij leah, daajrah, mij astojde onterdidh.</x>
-	      <xt>Du vet, det er ikke tid til å undres.</xt>
 	    </xg>
 	    <xg>
 	      <x>Ij mij gænnah.</x>
@@ -84,8 +63,6 @@
          </tg>
       </mg>
    </e>
-
-
 
 <!-- relative pronoun singular singleton forms -->
 
@@ -130,13 +107,14 @@
       <mg>
 	<tg>
 	  <t pos="pron">hva</t>
+	  <t pos="pron">som har</t>
 	  <xg>
 	    <x>Man bïjre tjaelede</x>
 	    <xt>Hva skriver dere om?</xt>
 	  </xg>
 	  <xg>
 	    <x>Gien dïhte aaltoe man tsåalhkoeh bealloe lea.</x>
-	    <xt>Hvem sin simle er det som har den bjella med dump klang.</xt>
+	    <xt>Hvem sin simle er det som har bjelle med dump klang.</xt>
 	  </xg>
 	</tg>
       </mg>
@@ -149,7 +127,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvor</t>
+            <t pos="pron">til hva</t>
             <xg>
                <x>Mïsse edtjh dam utnedh?</x>
                <xt>Hva skal du bruke denne til?</xt>
@@ -169,7 +147,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvor</t>
+            <t pos="pron">til hva</t>
             <xg>
                <x>Masse edtjh dam utnedh?</x>
                <xt>Hva skal du bruke denne til?</xt>
@@ -206,7 +184,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvorfra</t>
+            <t pos="pron">av hva</t>
             <xg>
                <x>Vaeltieh dam gaeriem, mestie maahta tjaetsiem gurkedh.</x>
                <xt>Ta den skåla som du kan helle vann av.</xt>
@@ -249,6 +227,7 @@
             </analysis>
             <analysis ms="Pron_Rel_Pl_Gen">
                <wordform>maj</wordform>
+               <wordform>mej</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
                <wordform>mejtie</wordform>
@@ -279,8 +258,6 @@
          </tg>
       </mg>
    </e>
-
-
 <!-- relative pronoun plural singleton forms -->
 
    <e>
@@ -294,8 +271,12 @@
          <tg>
             <t pos="pron">hva</t>
             <xg>
-               <x>Dah nïejth, mejtie jååktan staaresne vööjnim.</x>
-               <xt>De jentene, som jeg så i byen i går.</xt>
+               <x>Mejtie dïhte daesnie?</x>
+               <xt>Er hun/han her?</xt>
+            </xg>
+            <xg>
+               <x>Dah nïejth, mejtie jååktan staaresne vööjnim...</x>
+               <xt>De jentene, som jeg så i byen i går...</xt>
             </xg>
          </tg>
       </mg>
@@ -303,17 +284,18 @@
          <tg>
             <t pos="pron">til hva (flertall)</t>
             <xg>
-            <x>Dah govsh, mejtie datne saelhtieh vedtih, dah hov bååstide båetieh.</x>
-            <xt>De kuene som du ga salt til, kommer jo tilbake.</xt>
-            </xg>
-            <xg>
                <x>Mejtie edtjh daejtie utnedh?</x>
                <xt>Til hva skal du bruke disse?</xt>
             </xg>
+            <xg>
+            <x>Dah govsh, mejtie datne saelhtieh vedtih, dah hov bååstide 
+                båetieh.</x>
+            <xt>De kuene som du ga salt til, kommer jo tilbake.</xt>
+            </xg>
+            
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="rel">maj</l>
@@ -324,8 +306,9 @@
          <tg>
             <t pos="pron">hvilke</t>
             <xg>
-               <x>Magkeres pearah, mej dan jassijes goelmesh?</x>
-               <xt>Hvilke poteter er det som har så tykt skall?</xt>
+               <x>Desnie lin gøøkte nierretjh årroeminie maj nomme Karijuse jih 
+                   Baktuse</x>
+              <xt>Der var to småtroll som bodde med navn karius og Baktus.</xt>
             </xg>
          </tg>
       </mg>
@@ -338,10 +321,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hva</t>
+            <t pos="pron">hvilke</t>
             <xg>
-               <x>Magkeres pearah, mej dan jassijes goelmesh?</x>
-               <xt>Hvilke poteter er det som har så tykt skall?</xt>
+               <x>Dah sïrvh, mej tsåalhkoeh bealloeh, leah mijjen sïrvh.</x>
+               <xt>De sauene, som har bjeller med dump lyd, er våre sauer.</xt>
             </xg>
          </tg>
       </mg>
@@ -354,15 +337,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">i hva (flertall)</t>
-            <xg>
-               <x>Dah sïrvh, mejnie tsåalhkoeh bealloeh, leah mijjen sïrvh.</x>
-               <xt>De sauer, som har bjeller med dump lyd, er våre sauer.</xt>
-            </xg>
+            <t pos="pron">i hva (flertall)</t>          
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="rel">mejstie</l>
@@ -374,7 +352,7 @@
             <t pos="pron">hvorfra</t>
             <xg>
                <x>Dah ïentjh, mejstie pearah kroehkeme, uvre tjeehpes vååjnoeh daelie.</x>
-               <xt>De åkrer, som man har gravd poteter fra, ser helt svarte ut nå.</xt>
+               <xt>De åkrene, hvor man har tatt opp poteter, ser helt svarte ut nå.</xt>
             </xg>
          </tg>
       </mg>
@@ -387,7 +365,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hva (flertall)</t>
+            <t pos="pron">med hvilke</t>
+            <xg>
+               <x>Mejgujmie vualkah?</x>
+               <xt>Med hvilke drar du?</xt>
+            </xg>
             <xg>
                <x>Bovtsh, mejgujmie eensilaakan barka, hov låebties sjidtieh.</x>
                <xt>Rein som man jobber ordentlig med, blir tamme.</xt>
@@ -409,8 +391,8 @@
          <tg>
             <t pos="pron">med hvilke</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Majgujmie vualkah?</x>
+               <xt>Med hvilke drar du?</xt>
             </xg>
             <xg>
                <x>Aamhtesh majgujmie Saemiedigkie barka.</x>
@@ -499,7 +481,7 @@
                <xt>Hvem så du?</xt>
             </xg>
             <xg>
-               <x>Dïhte rovkije, giem daen biejjien vööjnih, lea mov kraanna.</x>
+               <x>Dïhte rovkije, geam daen biejjien vööjnih, lea mov kraanna.</x>
                <xt>Den norske dama som du så i dag, er min nabo.</xt>
             </xg>
          </tg>
@@ -522,7 +504,7 @@
             </xg>
             <xg>
                <x>Dïhte almetje, gien doete bïjle, lea Sveerjeste.</x>
-               <xt>Det menneske som har den bilen, er fra Sverige.</xt>
+               <xt>Den personen som har den bilen, er fra Sverige.</xt>
             </xg>
             <xg>
                <x>Gie dïhte daajra gien miesie dïhte lea?</x>
@@ -561,8 +543,8 @@
          <tg>
             <t pos="pron">til hvem</t>
             <xg>
-               <x>Giese lea dïhte aevhkie?</x>
-               <xt>For hvem er det en fordel?</xt>
+               <x>Giese lea dïhte aevhkine?</x>
+               <xt>For hvem er det til nytte?</xt>
             </xg>
             <xg>
                <x>Dïhte maana giese tjohpem gurriejim, gåabph maa dïhte sjïdti?</x>
@@ -581,8 +563,8 @@
          <tg>
             <t pos="pron">til hvem</t>
             <xg>
-               <x>Gease lea dïhte aevhkie?</x>
-               <xt>For hvem er det en fordel?</xt>
+               <x>Gease lea dïhte aevhkine?</x>
+               <xt>For hvem er det til nytte?</xt>
             </xg>
             <xg>
                <x>Dïhte maana gease tjohpem gurriejim, gåabph maa dïhte sjïdti?</x>
@@ -599,14 +581,34 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">På, i hvem</t>
+            <t pos="pron">hos/på/i hvem</t>
             <xg>
                <x>Giesnie dam vuajnah?</x>
                <xt>På hvem ser du det?</xt>
             </xg>
             <xg>
                <x>Gie bist dïhte, giesnie manne jååktan dam rovnegs gajpem vööjnim?</x>
-               <xt>Hvem er nå det, som jeg så i går så en rar hatt på?</xt>
+               <xt>Hvem er nå det, som jeg så i går med så rar hatt?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="rel">giestie</l>
+         <lemma_ref lemmaID="gie_pron_rel">gie</lemma_ref>
+         <analysis>Pron_Rel_Sg_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">fra/av hvem</t>
+            <xg>
+               <x>Giestie lea dam åådtjeme?</x>
+               <xt>Fra hvem har du fått den?</xt>
+            </xg>
+            <xg>
+               <x>Birje, giestie dam åadtjoejim, lea mov muahra.</x>
+               <xt>Birje som jeg har fått denne av, er tanta mi.</xt>
             </xg>
          </tg>
       </mg>
@@ -620,10 +622,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvem?</t>
+            <t pos="pron">med hvem</t>
             <xg>
                <x>Giejnie ektesne böötih?</x>
-               <xt>Sammen med hvem kom du?</xt>
+               <xt>Hvem kom du sammen med?</xt>
             </xg>
             <xg>
                <x>Dïhte nyöjtetje, giejnie jååktan lim ektesne, lea mov aajkohke.</x>
@@ -664,24 +666,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem</t>
-            <xg>
-               <x>saaht gie</x>
-               <xt>hvem som helst</xt>
-            </xg>
-            <xg>
-               <x>Gie daajra?</x>
-               <xt>Hvem vet?</xt>
-            </xg>
+            <t pos="pron">hvem (flere)</t>
             <xg>
                <x>Gieh dah leah?</x>
                <xt>Hvem er de?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="pron">hvem</t>
             <xg>
                <x>Dah gieh beapmoeh sijhtieh, tjoeverieh skodtedh!</x>
                <xt>De som vil ha mat, må skynde seg!</xt>
@@ -703,6 +692,10 @@
          <tg>
             <t pos="pron">hvem (flere)</t>
             <xg>
+               <x>Giejtie daejtie ussjedh vedtedh?</x>
+               <xt>Til hvem har du tenkt å gi disse?</xt>
+            </xg>
+            <xg>
                <x>Gåabph dah guessieh sjidtin, giejtie vööjnih?</x>
                <xt>Hvor ble det av gjestene, som du så?</xt>
             </xg>
@@ -711,14 +704,9 @@
       <mg>
          <tg>
             <t pos="pron">til hvem (flere)</t>
-            <xg>
-               <x>Dah almetjh, giejtie niestiem doekimh, hov viht diekie båetieh.</x>
-               <xt>De personene, som du solgte nisterein til, kommer jo igjen hit.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
- 
  <e>
       <lg>
          <l pos="pron" type="rel">giej</l>
@@ -727,7 +715,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvem sine</t>
+            <t pos="pron">hvem sine (flere)</t>
+             <xg>
+               <x>Giej  daah?</x>
+               <xt>Personer som har tjukt hår, trenger ikke lue!</xt>
+            </xg>
             <xg>
                <x>Almetjh giej söökes voepth, eah tjohpem daarpesjh!</x>
                <xt>Personer som har tjukt hår, trenger ikke lue!</xt>
@@ -744,7 +736,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på hvem</t>
+            <t pos="pron">på/hos hvem (flere)</t>
             <xg>
                <x>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</x>
                <xt>Personer som du ser en slik poncho på, kommer jo langveis fra.</xt>
@@ -760,7 +752,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">fra hvem</t>
+            <t pos="pron">fra hvem (flere)</t>
             <xg>
                <x>Doh almetjh giejstie datne dam åadtjoejih, gieh lin dah?</x>
                <xt>De personene som du har fått denne fra, hvem er de?</xt>
@@ -832,23 +824,19 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken</t>
+            <t pos="pron">hvem av dem</t>
+            <t pos="pron">hvilken av dem</t>
             <xg>
                <x>Guhte dle bööremes?</x>
-               <xt>Hvem av en viss gruppe er så den beste?</xt>
+               <xt>Hvem av dem er så den beste?</xt>
             </xg>
             <xg>
                <x>Guhte dam jeehti?</x>
-               <xt>Hvem sa det?</xt>
+               <xt>Hvem av dem sa det?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="pron">hvilken</t>
             <xg>
                <x>Gie guhte naemhtie dorjeme?</x>
-               <xt>Hvem av en avgrenset gruppe er det som har gjort dette?</xt>
+               <xt>Hvem av dem er det som har gjort dette?</xt>
             </xg>
          </tg>
       </mg>
@@ -865,7 +853,7 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">hvilken</t>
+	  <t pos="pron">hvem av dem</t>
 	  <xg>
 	    <x>Im leah manne guhtem dan bïjre gihtjeme.</x>
 	    <xt>Jeg har ikke spurt noen om det.</xt>
@@ -881,10 +869,10 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron">hvilken</t>
+	 <t pos="pron">hvem av dem sin</t>
 	 <xg>
                <x>Guhten måvhkah leah daah?</x>
-               <xt>Hvems bukser er dette?</xt>
+               <xt>Hvem sine bukser er dette?</xt>
 	 </xg>
        </tg>
      </mg>
@@ -897,7 +885,7 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron">til hvilken</t>
+	 <t pos="pron">til hvem av dem</t>
 	 <xg>
 	   <x>Aellieh guhtese dam soptsesth!</x>
 	   <xt>Ikke fortell det til noen av dem!</xt>
@@ -914,7 +902,7 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron">i hvilken</t>
+	 <t pos="pron">i hvem av dem</t>
        </tg>
      </mg>
    </e> 
@@ -926,7 +914,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">fra hvilken</t>
+            <t pos="pron">fra hvem av dem</t>
             <xg>
                <x>Guhteste dam govleme?</x>
                <xt>Fra hvem har du hørt det?</xt>
@@ -943,7 +931,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvilken</t>
+            <t pos="pron">med hvem av dem</t>
          </tg>
       </mg>
    </e>
@@ -978,18 +966,18 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilken</t>
+            <t pos="pron">hvem (flere) av dem </t>
             <xg>
                <x>Guhth dah vöölkin?</x>
-               <xt>Hvem (flere) var det som dro?</xt>
+               <xt>Hvem av dem var det som dro?</xt>
             </xg>
             <xg>
                <x>Guhth dah nemhtie jeehtin?</x>
-               <xt>Hvem  (flere) sa det?</xt>
+               <xt>Hvem av dem sa det?</xt>
             </xg>
             <xg>
                <x>Dah guhth learoeh vaadtseme,verkebe barkoeh åadtjoeh.</x>
-               <xt>De som har gått i lære, får fortere jobber.</xt>
+               <xt>De som har gått i lære, får fortere jobb.</xt>
             </xg>
          </tg>
       </mg>
@@ -1000,15 +988,21 @@
          <l pos="pron" type="rel" case="acc">guhtide</l>
          <lemma_ref lemmaID="guhth_pron_rel">guhth</lemma_ref>
          <analysis>Pron_Rel_Pl_Acc</analysis>
+         <analysis>Pron_Rel_Pl_Ill</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hvilke</t>
+            <t pos="pron">hvem (flere) av dem</t>
             <xg>
-               <x>Ij leah gujhth guhtide gihtjeme dan bïjre.</x>
-               <xt>Han/Hun har ikke spurt noen om det.</xt>
+               <x>Laara ij leah gujhth guhtide gihtjeme dan bïjre.</x>
+               <xt>Laara har ikke spurt noen om det.</xt>
 	    </xg>
          </tg>
+      </mg>
+      <mg>
+	<tg>
+	  <t pos="pron">til hvem (flere) av dem</t>
+	</tg>
       </mg>
    </e>
    <e>
@@ -1019,27 +1013,15 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">hvilkens</t>
+	  <t pos="pron">hvem (flere) av dem sin</t>
 	  <xg>
                <x>Guhti vaarjoeh leah daah?</x>
-               <xt>Hvem sine klær er disse?</xt>
+               <xt>Hvem sine klær er dette?</xt>
 	    </xg>
 	</tg>
       </mg>
    </e>
    <!-- guhtide mindre brukt, bedre å bruke giejtie her -->
-   <e>
-      <lg>
-         <l pos="pron" type="rel" case="ill">guhtide</l>
-         <lemma_ref lemmaID="guhth_pron_rel">guhth</lemma_ref>
-         <analysis>Pron_Rel_Pl_Ill</analysis>
-      </lg>
-      <mg>
-	<tg>
-	  <t pos="pron">til hvilke</t>
-	</tg>
-      </mg>
-   </e>
    <!-- guhtine sjelden i bruk, bedre med "giejnie"--> 
    <e>
       <lg>
@@ -1049,7 +1031,7 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">i hvilke</t>
+	  <t pos="pron">hos/i hvem (flere) av dem</t>
 	</tg>
       </mg>
    </e>
@@ -1062,7 +1044,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">fra hvilke</t>
+            <t pos="pron">fra hvem (flere) av dem</t>
          </tg>
       </mg>
    </e>
@@ -1075,7 +1057,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med hvilken</t>
+            <t pos="pron">med hvem (flere) av dem</t>
          </tg>
       </mg>
    </e>
@@ -1124,7 +1106,7 @@
 	    </xg>
 	    <xg>
 	      <x>Gåabpa dïhte nemhtie jeehti??</x>
-	      <xt>Hvilken av de to sa det?</xt>
+	      <xt>Hvem av de to sa det?</xt>
 	    </xg>
 	 </tg>
       </mg>
@@ -1144,7 +1126,7 @@
             <t pos="pron">hvilken av to</t>
          <xg>
             <x>Gåabpam daejstie voessijste edtjem guedtedh?</x>
-            <xt>Hvilke av disse to sekkene skal jeg bære?</xt>
+            <xt>Hvilken av disse to sekkene skal jeg bære?</xt>
 	 </xg>
          </tg>
       </mg>
@@ -1158,10 +1140,10 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">hvilken av to</t>
+	  <t pos="pron">hvilken av to sin</t>
 	  <xg>
 	    <x>Dle edtjigan vuejnedh gåabpan veaksahkommes gïete.</x>
-	    <xt>Så skulle de to se hvem som hadde den sterkeste handa.</xt>
+	    <xt>Så skulle de to se hvem av dem som hadde den sterkeste handa.</xt>
 	  </xg>
 	</tg>
       </mg>
@@ -1169,7 +1151,7 @@
    <!-- gåabpa-former fra genetiv t.o.m komitativ er lite i bruk -->
    <e>
      <lg>
-       <l pos="pron" type="rel">gåabpasse</l>
+       <l pos="pron" type="rel">gåabpese</l>
        <lemma_ref lemmaID="gåabpa_pron_rel">gåabpa</lemma_ref>
        <analysis>Pron_Rel_Sg_Ill</analysis>
      </lg>
@@ -1230,7 +1212,7 @@
    <!-- form som er lite i bruk-->
    <e>
       <lg>
-         <l pos="pron" type="rel">gåabpine</l>
+         <l pos="pron" type="rel">gåabpede</l>
          <lemma_ref lemmaID="gåabpa_pron_rel">gåabpa</lemma_ref>
          <analysis>Pron_Rel_Sg_Ela</analysis>
       </lg>
@@ -1315,7 +1297,7 @@
      </lg>
      <mg>
        <tg>
-	 <t pos="pron">hvilken av to</t>
+	 <t pos="pron">hvilken av to sin</t>
        </tg>
      </mg>
    </e>
