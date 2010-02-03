@@ -42,18 +42,41 @@
     </mg>
   </e>
   
-<!-- singleton forms -->
 
-   <e>
-      <lg>
-         <l pos="pron" type="pers">mån</l>
-         <lemma_ref lemmaID="manne_pron_pers">manne</lemma_ref>
-         <analysis>Pron_Pers_Sg1_Nom</analysis>
-      </lg>
-      <mg>
+  <e>
+    <lg>
+      <l pos="pron" type="pers">mån</l>
+      <analysis>Pron_Pers_Sg1</analysis>
+      <mini_paradigm>
+	<analysis ms="Pron_Pers_Sg2">
+	  <wordform>dån</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Sg3">
+	  <wordform>sån</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Du1">
+	  <wordform>min</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Du2">
+	  <wordform>din</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Du3">
+	  <wordform>sin</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Pl1">
+	  <wordform>mih</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Pl2">
+	  <wordform>dih</wordform>
+	</analysis>
+	<analysis ms="Pron_Pers_Pl3">
+	  <wordform>sih</wordform>
+	</analysis>
+      </mini_paradigm>
+    </lg>
+    <mg>
          <tg>
-            <t pos="pron">jeg</t>
-            <t pos="pron">mån skiller seg fra manne ved at det uttrykker usikkerhet, tvil eller tenkt mulighet</t>
+            <t pos="pron">jeg (usikkerhet/mulighet)</t>
             <xg>
                <x>Jirreden mån båatam.</x>
                <xt>I morgen kommer jeg vel.</xt>
@@ -61,6 +84,139 @@
          </tg>
       </mg>
    </e>
+
+<!-- singleton forms -->
+   <e>
+      <lg>
+         <l pos="pron" type="pers">dån</l>
+         <lemma_ref lemmaID="månnoeh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Sg2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">du (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Datne dån daajrah.</x>
+               <xt>Du vet vel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">sån</l>
+         <lemma_ref lemmaID="satne_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">han/henne (usikkerhet/mulighet)</t>
+             <xg>
+               <x>Piere sån daajra.</x>
+               <xt>Piere vet vel.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">min</l>
+         <lemma_ref lemmaID="månnoeh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Du1_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi to (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Jirreden min båetien.</x>
+               <xt>Vi to kommer vel i morgen</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">din</l>
+         <lemma_ref lemmaID="dåtnoeh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Du2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere to (usikkerhet/mulighet)</t>
+             <xg>
+               <x>Dåtnoeh din aaj båeteden?</x>
+               <xt>Dere to kommer vel også?</xt>
+             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">sin</l>
+         <lemma_ref lemmaID="såtnoeh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de to (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Dah guaktah sin aaj desnie.</x>
+               <xt>De to var vel også der.</xt>
+            </xg>
+
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">mih</l>
+         <lemma_ref lemmaID="mijjieh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Pl1_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">vi (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</x>
+               <xt>Også vi kan vel lære noe av dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">dih</l>
+         <lemma_ref lemmaID="dijjieh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">dere (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</x>
+               <xt>Dere får vel også høre hvordan det blir, hva det blir til.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">sih</l>
+         <lemma_ref lemmaID="sijjieh_pron_pers">mån</lemma_ref>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">de (usikkerhet/mulighet)</t>
+            <xg>
+               <x>Jeehtin, nov sih sijjieh aaj båetieh.</x>
+               <xt>De sa at nå kommer vel de også.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+
    <e>
       <lg>
          <l pos="pron" type="pers">mannem</l>
@@ -104,13 +260,45 @@
    </e>
    <e>
       <lg>
+         <l pos="pron" type="pers">munnjien</l>
+         <lemma_ref lemmaID="manne_pron_pers">manne</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg</t>
+             <xg>
+               <x>Tjaelieh munnjien.</x>
+               <xt>Skriv til meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="pers">munnjan</l>
+         <lemma_ref lemmaID="manne_pron_pers">manne</lemma_ref>
+         <analysis>Pron_Pers_Sg1_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">til meg</t>
+             <xg>
+               <x>Tjaelieh munnjan</x>
+               <xt>Skriv til meg.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron" type="pers">mannesne</l>
          <lemma_ref lemmaID="manne_pron_pers">manne</lemma_ref>
          <analysis>Pron_Pers_Sg1_Ine</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på, i meg</t>
+            <t pos="pron">hos/i meg</t>
          </tg>
       </mg>
       <mg>
@@ -197,22 +385,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">min</l>
-         <lemma_ref lemmaID="månnoeh_pron_pers">månnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du1_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">vi to</t>
-            <xg>
-               <x>Jirreden min båetien.</x>
-               <xt>Vi to kommer vel i morgen</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">monnem</l>
          <lemma_ref lemmaID="månnoeh_pron_pers">månnoeh</lemma_ref>
          <analysis>Pron_Pers_Du1_Acc</analysis>
@@ -238,7 +410,7 @@
             <t pos="pron">vi to sin(e)</t>
             <xg>
                <x>Dïhte monnen maana!</x>
-               <xt>Det er vårt (vi to sitt) barn!</xt>
+               <xt>Det er vårt barn!</xt>
             </xg>
          </tg>
       </mg>
@@ -267,8 +439,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på oss to</t>
-            <t pos="pron">i oss to</t>
+            <t pos="pron">hos/i oss to</t>
          </tg>
       </mg>
    </e>
@@ -352,22 +523,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">mih</l>
-         <lemma_ref lemmaID="mijjieh_pron_pers">mijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl1_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">vi</t>
-            <xg>
-               <x>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</x>
-               <xt>Også vi kan vel lære noe av dem.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">mijjem</l>
          <lemma_ref lemmaID="mijjieh_pron_pers">mijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl1_Acc</analysis>
@@ -392,8 +547,8 @@
          <tg>
             <t pos="pron">vår</t>
             <xg>
-               <x>Mijjen dajvh, mijjen vaerieh.</x>
-               <xt>Våre områder, våre fjell.</xt>
+               <x>mijjen dajvh, mijjen vaerieh</x>
+               <xt>våre områder, våre fjell</xt>
             </xg>
          </tg>
       </mg>
@@ -425,7 +580,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på, i oss</t>
+            <t pos="pron">hos/i oss</t>
          </tg>
       </mg>
    </e>
@@ -440,7 +595,7 @@
             <t pos="pron">fra oss</t>
             <xg>
                <x>Nïejth voenesne hov mijjem lyjhkin, idtjin maa dah mijjeste bïllh!</x>
-               <xt>Jentene i bygda likte da oss, de var da ikke redde oss!</xt>
+               <xt>Jentene i bygda likte da oss, de var da ikke redde for oss!</xt>
             </xg>
          </tg>
       </mg>
@@ -457,7 +612,7 @@
             <t pos="pron">med oss</t>
             <xg>
                <x>Tjoeveri båetedh mijjine råårestalledh.</x>
-               <xt>Han måtte komme å rådføre seg med oss.</xt>
+               <xt>Han måtte komme for å rådføre seg med oss.</xt>
             </xg>
          </tg>
       </mg>
@@ -483,7 +638,7 @@
                <wordform>dutnjien</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg2_Ine">
-               <wordform>datnine</wordform>
+               <wordform>datnesne</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Sg2_Ela">
                <wordform>datneste</wordform>
@@ -508,22 +663,6 @@
 <!-- singleton forms -->
 
 
-    <e>
-      <lg>
-         <l pos="pron" type="pers">dån</l>
-         <lemma_ref lemmaID="datne_pron_pers">datne</lemma_ref>
-         <analysis>Pron_Pers_Sg2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">du</t>
-            <xg>
-               <x>Manne datnem dåeredem gåabpoeh dån vaadtsah.</x>
-               <xt>Jeg følger deg hvorhen du enn måtte gå.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="pron" type="pers">datnem</l>
@@ -536,6 +675,10 @@
             <xg>
                <x>Manne datnem eahtsam.</x>
                <xt>Jeg elsker deg.</xt>
+            </xg>
+            <xg>
+               <x>Manne datnem dåeredem gåabpoeh dån vaadtsah.</x>
+               <xt>Jeg følger deg hvorhen du enn måtte gå.</xt>
             </xg>
          </tg>
       </mg>
@@ -558,7 +701,7 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" type="pers">dutnijen</l>
+         <l pos="pron" type="pers">dutnjien</l>
          <lemma_ref lemmaID="datne_pron_pers">datne</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ill</analysis>
       </lg>
@@ -579,12 +722,10 @@
          <l pos="pron" type="pers">datnesne</l>
          <lemma_ref lemmaID="datne_pron_pers">datne</lemma_ref>
          <analysis>Pron_Pers_Sg2_Ine</analysis>
-         <analysis>Pron_Pers_Sg2_Com</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på deg</t>
-            <t pos="pron">i deg</t>
+            <t pos="pron">hos/i deg</t>
          </tg>          
       </mg>
    </e>
@@ -668,24 +809,6 @@
 
 
 
-<!-- dåtnoeh singleton forms -->
-
-   <e>
-      <lg>
-         <l pos="pron" type="pers">din</l>
-         <lemma_ref lemmaID="dåtnoeh_pron_pers">dåtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere to</t>
-             <xg>
-               <x>dåtnoeh din aaj båeteden?</x>
-               <xt>Dere to kommer vel også?</xt>
-             </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="pron" type="pers">dotnem</l>
@@ -710,7 +833,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">dere to sin(e)</t>
+            <t pos="pron">dere to sine</t>
             <xg>
                <x>Dotnen maana dïhte?</x>
                <xt>Er det deres to barn?</xt>
@@ -742,8 +865,7 @@
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">på dere to</t>
-	  <t pos="pron">i dere to</t>
+	  <t pos="pron">hos/i dere to</t>
 	</tg>
       </mg>
    </e>
@@ -823,22 +945,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">dih</l>
-         <lemma_ref lemmaID="dijjieh_pron_pers">dijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">dere</t>
-            <xg>
-               <x>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</x>
-               <xt>Dere får vel også høre hvordan det blir, hva det blir til.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">dijjem</l>
          <lemma_ref lemmaID="dijjieh_pron_pers">dijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl2_Acc</analysis>
@@ -871,14 +977,29 @@
    </e>
    <e>
       <lg>
+         <l pos="pron" type="pers">dijjese</l>
+         <lemma_ref lemmaID="dijjieh_pron_pers">dijjieh</lemma_ref>
+         <analysis>Pron_Pers_Pl2_Ill</analysis>
+      </lg>
+      <mg>
+	<tg>
+	  <t pos="pron">til dere</t>
+	  <xg>
+               <x>Dam dijjese vadtam.</x>
+               <xt>Denne gir jeg til dere.</xt>
+      </xg>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="pron" type="pers">dijjesne</l>
          <lemma_ref lemmaID="dijjieh_pron_pers">dijjieh</lemma_ref>
          <analysis>Pron_Pers_Pl2_Ine</analysis>
       </lg>
       <mg>
 	<tg>
-	  <t pos="pron">på dere</t>
-	  <t pos="pron">i dere</t>
+	  <t pos="pron">hos/i dere</t>
 	</tg>
       </mg>
    </e>
@@ -947,11 +1068,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">hun</t>
+            <t pos="pron">han/hun</t>
             <xg>
                <x>Pöövle jeehti satne edtji båetedh.</x>
-               <xt>Paul sa at han skulle komme.</xt>
+               <xt>Pöövle sa at han skulle komme.</xt>
             </xg>
          </tg>
       </mg>
@@ -962,34 +1082,16 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">sån</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">henne</t>
-             <xg>
-               <x></x>
-               <xt></xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">satnem</l>
          <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
          <analysis>Pron_Pers_Sg3_Acc</analysis>
       </lg>
       <mg>
          <tg>
-            <t pos="pron">ham</t>
-            <t pos="pron">henne</t>
+            <t pos="pron">han/henne</t>
              <xg>
                <x>Gihtji mejtie sïjhti båetedh satnem viehkiehtidh.</x>
-               <xt>Han spurte om han kunne komme å hjelpe ham.</xt>
+               <xt>Han spurte om han kunne komme for å hjelpe ham.</xt>
             </xg>
          </tg>
       </mg>
@@ -1002,10 +1104,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">henne</t>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans/hennes</t>
              <xg>
                <x>Jeehti sov miesie dïhte.</x>
                <xt>Han sa at det var hans kalv.</xt>
@@ -1021,8 +1120,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til han</t>
-            <t pos="pron">til henne</t>
+            <t pos="pron">til han/henne</t>
             <xg>
                <x>Stilli tjoeveri sutnjien aaj soptsestidh.</x>
                <xt>Han ba om at det måtte bli fortalt til ham også.</xt>
@@ -1039,12 +1137,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hos hhan/henne</t>
-            <t pos="pron">han/hun har</t>
-            <xg>
-               <x>Satnesne lea..</x>
-               <xt>på, i han eller henne er det..</xt>
-            </xg>
+            <t pos="pron">hos/i han/henne</t>
          </tg>
       </mg>
    </e>
@@ -1056,11 +1149,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han (har)</t>
-            <t pos="pron">hun (har)</t>
+            <t pos="pron">fra han/hun</t>
             <xg>
                <x>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</x>
-               <xt>Han ser at det er litt større enn ham og til og med fyldigere.</xt>
+               <xt>Han ser at hun er litt større enn ham og til og med fyldigere.</xt>
             </xg>
          </tg>
       </mg>
@@ -1073,11 +1165,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med henne</t>
-            <t pos="pron">med han</t>
+            <t pos="pron">med han/henne</t>
             <xg>
-               <x>Dïhte dan feejjen guhte vihth satnine sæjhta stååkedidh.</x>
-               <xt>Han var så glad for at noen igjen vil leke med ham.</xt>
+               <x>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</x>
+               <xt>Han er så glad for at noen igjen vil leke med ham.</xt>
             </xg>
             
          </tg>
@@ -1128,23 +1219,6 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers">sin</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de to</t>
-            <xg>
-               <x>Tjoeverim såtnoeh lægan desnie mïnneme.</x>
-               <xt>De fortalte at de hadde vært der en tur.</xt>
-            </xg>
-
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="pron" type="pers">sotnem</l>
          <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
          <analysis>Pron_Pers_Du3_Acc</analysis>
@@ -1154,9 +1228,8 @@
             <t pos="pron">de to</t>
             <xg>
                <x>Tjoeverim mïnnedh sotnem viehkiehtidh.</x>
-               <xt>Jeg måtte dra å hjelpe dem to.</xt>
+               <xt>Jeg måtte dra for å hjelpe de to.</xt>
             </xg>
-
          </tg>
       </mg>
    </e>
@@ -1188,7 +1261,7 @@
             <t pos="pron">til de to</t>
             <xg>
                <x>Soptsesti, man stoerre viehkine sotnese lij orreme.</x>
-               <xt>Han fortalte hvor stor hjelp han hadde vært for dem to.</xt>
+               <xt>Han fortalte hvor stor hjelp han hadde vært for de to.</xt>
             </xg>
          </tg>
       </mg>
@@ -1202,8 +1275,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på de to</t>
-            <t pos="pron">i de to</t>
+            <t pos="pron">hos/i de to</t>
          </tg>
       </mg>
    </e>
@@ -1278,8 +1350,8 @@
          <tg>
             <t pos="pron">de</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x>Jeehtin sijjieh edtjieh aaj båetedh.</x>
+               <xt>De sa at de også skal komme.</xt>
             </xg>
          </tg>
       </mg>
@@ -1287,22 +1359,6 @@
 
 <!-- singleton forms -->
 
-   <e>
-      <lg>
-         <l pos="pron" type="pers">sih</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">de</t>
-            <xg>
-               <x>Saarnoejin, sijjieh sih aaj båetieh.</x>
-               <xt>De fortalte da det at de kommer også vel.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="pron" type="pers">sijjem</l>
@@ -1314,7 +1370,7 @@
             <t pos="pron">dem</t>
             <xg>
                <x>Tjåarvoejin, tjoeverin sijjem båetedh viehkiehtidh.</x>
-               <xt>De ropte at de måtte komme å hjelpe dem.</xt>
+               <xt>De ropte at de måtte komme for å hjelpe dem.</xt>
             </xg>
          </tg>
       </mg>
@@ -1360,7 +1416,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på, i de</t>
+            <t pos="pron">hos/i dem</t>
          </tg>
       </mg>
    </e>
@@ -1374,7 +1430,7 @@
          <tg>
             <t pos="pron">fra dem</t>
             <xg>
-               <x>Saarnoeji, sijjeste lea dam åådtjeme.</x>
+               <x>Soptsesti, sijjeste lea dam åådtjeme.</x>
                <xt>Han/Hun fortalte at han hadde fått den av dem.</xt>
             </xg>
          </tg>
@@ -1396,11 +1452,6 @@
          </tg>
       </mg>
    </e>
- 
-  
-
-
-
 <!-- Take al look! dïhte, altese jïh satne -->
 <!-- personal pronoun third person -->
 <!-- satne follows directly after dïhte-->
@@ -1434,11 +1485,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">hun</t>
+            <t pos="pron">han/hun/det</t>
             <xg>
                <x>Dïhte lea båateme.</x>
-               <xt>Han/Hun har kommet.</xt>
+               <xt>Han/Hun er kommet.</xt>
             </xg>
          </tg>
       </mg>
@@ -1454,11 +1504,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">han</t>
-            <t pos="pron">henne</t>
+            <t pos="pron">han/henne/den</t>
             <xg>
-               <x>Dïhte lea båateme.</x>
-               <xt>Hun/han har kommet.</xt>
+               <x>Manne dam vuajnam.</x>
+               <xt>Jeg ser ham/henne.</xt>
             </xg>
          </tg>
       </mg>
@@ -1471,8 +1520,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans/hennes</t>
             <xg>
                <x>Dan gåetie lea stoerre.</x>
                <xt>Huset hennes er stort.</xt>
@@ -1488,8 +1536,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans/hennes</t>
             <xg>
                <x>Altese gåetie lea stoerre.</x>
                <xt>Huset hennes er stort.</xt>
@@ -1505,8 +1552,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans/hennes</t>
             <xg>
                <x>Elties gåetie lea stoerre.</x>
                <xt>Huset hennes er stort.</xt>
@@ -1522,10 +1568,9 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">hans</t>
-            <t pos="pron">hennes</t>
+            <t pos="pron">hans/hennes</t>
             <xg>
-               <x>Elties gåetie lea stoerre.</x>
+               <x>Eltie gåetie lea stoerre.</x>
                <xt>Huset hennes er stort.</xt>
             </xg>
          </tg>
@@ -1539,11 +1584,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">til han</t>
-            <t pos="pron">til henne</t>
+            <t pos="pron">til han/henne</t>
             <xg>
-               <x>Dïhte lea båateme.</x>
-               <xt>Hun/han har kommet.</xt>
+               <x>Piere dïsse gaahkoem vedti.</x>
+               <xt>Piere ga kake til ham/henne.</xt>
             </xg>
          </tg>
       </mg>
@@ -1557,11 +1601,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">på, hos eller i han/henne</t>
-            <xg>
-               <x>Dïhte lea båateme.</x>
-               <xt>Hun/han har kommet.</xt>
-            </xg>
+            <t pos="pron">hos/i han/henne</t>
          </tg>
       </mg>
    </e>
@@ -1574,10 +1614,9 @@
       <mg>
          <tg>
             <t pos="pron">fra han/henne</t>
-            <t pos="pron">fra han/henne</t>
 	    <xg>
-	      <x>Dïhte lea båateme.</x>
-	      <xt>Hun/han har kommet.</xt>
+	      <x>Piere hov destie vööjni, mij joem lij.</x>
+	      <xt>Piere så det på henne at det var noe.</xt>
 	    </xg>
          </tg>
       </mg>
@@ -1590,11 +1629,10 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">med henne</t>
-            <t pos="pron">med han</t>
+            <t pos="pron">med han/henne</t>
 	    <xg>
-	      <x>Dïhte lea båateme.</x>
-	      <xt>Hun/han har kommet.</xt>
+	      <x>Piere dejnie ektesne bööti.</x>
+	      <xt>Piere kom sammen med han/henne.</xt>
 	    </xg>
          </tg>
       </mg>
@@ -1643,9 +1681,10 @@
 
    <e>
       <lg>
-         <l pos="pron" type="pers" case="acc">dejtie</l>
+         <l pos="pron" type="pers">dejtie</l>
          <lemma_ref lemmaID="dah_pron_pers">dah</lemma_ref>
          <analysis>Pron_Pers_Pl3_Acc</analysis>
+         <analysis>Pron_Pers_Pl3_Ill</analysis>
       </lg>
       <mg>
          <tg>
@@ -1653,6 +1692,15 @@
             <xg>
                <x>Manne edtjem dejtie viehkiehtidh.</x>
                <xt>Jeg skal hjelpe dem.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron">til dem</t>
+             <xg>
+               <x>Tjoeverh dam dejtie seedtedh.</x>
+               <xt>Du må sende den til dem.</xt>
             </xg>
          </tg>
       </mg>
@@ -1673,23 +1721,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pron" type="pers" case="ill">dejtie</l>
-         <lemma_ref lemmaID="dah_pron_pers">dah</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ill</analysis>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="pron">til dem</t>
-             <xg>
-               <x>Tjoeverh dam dejtie seedtedh.</x>
-               <xt>Du må sende den til dem.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
- 
     <e>
       <lg>
          <l pos="pron" type="pers" nr="pl">dejnie</l>
@@ -1698,7 +1729,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="pron">de</t>
+            <t pos="pron">hos/i dem</t>
          </tg>
       </mg>
    </e>
