@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
-<!DOCTYPE r
-  PUBLIC "-//XMLmind//DTD gt_dictionary//SE" "../../scripts/gt_staticdictionary.dtd">
-
+<!DOCTYPE r PUBLIC "-//XMLmind//DTD gt_dictionary//SE"
+"../../scripts/gt_staticdictionary.dtd">
 <r>
    <lics xml:space="preserve">
-    <lic xml:lang="en">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,42 +26,28 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!--                                         -->
-<!-- Påpekende pronomenet -dïhte/dah=den/det og dah=de -->
-<!--                                         -->
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!-- dïhte miniparadigm -->
-
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!--                                         -->
+   <!-- Påpekende pronomenet -dïhte/dah=den/det og dah=de -->
+   <!--                                         -->
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!-- dïhte miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">dïhte</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-              <wordform>dam gåetiem</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
-               <wordform>dan gåetien</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ill"> 
-               <wordform>dan gåatan</wordform>		
-            </analysis>						
-            <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>dennie gåetesne</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>dehtie gåeteste</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Com">
-               <wordform>dejnie gåetine</wordform>
-            </analysis>
-<!--            <analysis ms="Pron_Dem_Sg_Ess"> -->
-<!--               <wordform/>					 -->
-<!--            </analysis>						 -->
+            <analysis ms="Pron_Dem_Sg_Acc"><wordform>dam gåetiem</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Gen"><wordform>dan gåetien</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ill"><wordform>dan gåatan</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ine"><wordform>dennie gåetesne</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ela"><wordform>dehtie gåeteste</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Com"><wordform>dejnie gåetine</wordform></analysis>
+            <!--            <analysis ms="Pron_Dem_Sg_Ess"> -->
+            <!--               <wordform/>					 -->
+            <!--            </analysis>						 -->
          </mini_paradigm>
       </lg>
       <mg>
@@ -77,11 +60,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- 
-
-
-<!-- dïhte sg singleton forms -->
-
+   <!-- dïhte sg singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="dem">dam</l>
@@ -158,7 +137,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="sg">dejnie</l>
+         <l nr="sg" pos="pron" type="dem">dejnie</l>
          <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -172,46 +151,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!--   <e>														 -->
-<!--     <lg>													 -->
-<!--       <l pos="pron" type="dem">dannasinie</l>				 -->
-<!--       <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref> -->
-<!--       <analysis>Pron_Dem_Pl_Ess</analysis>					 -->
-<!--     </lg>													 -->
-<!--     <mg>													 -->
-<!--       <tg>													 -->
-<!--	 <t pos="pron" type="dem">som dem</t>					 -->
-<!--       </tg>												 -->
-<!--     </mg>													 -->
-<!--   </e>														 -->
-<!--  påpekende Demoun "dah" "de" -->
-<!-- dah miniparadigm (dïhte pl) -->
-
+   <!--   <e>														 -->
+   <!--     <lg>													 -->
+   <!--       <l pos="pron" type="dem">dannasinie</l>				 -->
+   <!--       <lemma_ref lemmaID="dïhte_pron_dem">dïhte</lemma_ref> -->
+   <!--       <analysis>Pron_Dem_Pl_Ess</analysis>					 -->
+   <!--     </lg>													 -->
+   <!--     <mg>													 -->
+   <!--       <tg>													 -->
+   <!--	 <t pos="pron" type="dem">som dem</t>					 -->
+   <!--       </tg>												 -->
+   <!--     </mg>													 -->
+   <!--   </e>														 -->
+   <!--  påpekende Demoun "dah" "de" -->
+   <!-- dah miniparadigm (dïhte pl) -->
    <e>
       <lg>
          <l pos="pron" type="dem">dah</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dejtie gåetide</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>dej gåetiej</wordform>
-               <wordform>daj gåetiej</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ill">
-               <wordform>dejtie gåetide</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ine">
-               <wordform>dejnie gåetine</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ela">
-               <wordform>dejstie gåetijste</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>dej gåetiegujmie</wordform>
-               <wordform>daj gåetiegujmie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc"><wordform>dejtie gåetide</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Gen"><wordform>dej gåetiej</wordform> <wordform>daj gåetiej</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ill"><wordform>dejtie gåetide</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ine"><wordform>dejnie gåetine</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ela"><wordform>dejstie gåetijste</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Com"><wordform>dej gåetiegujmie</wordform> <wordform>daj
+            gåetiegujmie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -224,7 +189,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="dem">dejtie</l>
@@ -241,7 +205,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
    <e>
       <lg>
          <l pos="pron" type="dem">dej</l>
@@ -294,9 +257,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-     <e>
+   <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">dejtie</l>
+         <l nr="pl" pos="pron" type="dem">dejtie</l>
          <lemma_ref lemmaID="dah_pron_dem">dah</lemma_ref>
          <analysis>Pron_Dem_Pl_Ill</analysis>
       </lg>
@@ -312,7 +275,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">dejnie</l>
+         <l nr="pl" pos="pron" type="dem">dejnie</l>
          <lemma_ref lemmaID="dah_pron_dem">dah</lemma_ref>
          <analysis>Pron_Dem_Pl_Ine</analysis>
       </lg>
@@ -342,48 +305,26 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!--                                         -->
-<!-- Påpekende Demomenet -daate/daah denne/dette-denne,dette daah=disse -->
-<!--                                         -->
-<!-- *************************************** -->
-<!-- *************************************** -->
-
- 
-<!-- Demonstrative Demouns starting here -->   
-
-
-<!-- daate, miniparadigms -->
-
-
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!--                                         -->
+   <!-- Påpekende Demomenet -daate/daah denne/dette-denne,dette daah=disse -->
+   <!--                                         -->
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!-- Demonstrative Demouns starting here -->
+   <!-- daate, miniparadigms -->
    <e>
       <lg>
          <l pos="pron" type="dem">daate</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>daam</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
-               <wordform>daan</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ill">
-               <wordform>daase</wordform>
-               <wordform>daan</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>daesnie</wordform>
-               <wordform>daennie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>daestie</wordform>
-               <wordform>daehtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Com">
-               <wordform>daejnie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Sg_Acc"><wordform>daam</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Gen"><wordform>daan</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ill"><wordform>daase</wordform> <wordform>daan</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ine"><wordform>daesnie</wordform> <wordform>daennie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ela"><wordform>daestie</wordform> <wordform>daehtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Com"><wordform>daejnie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -396,9 +337,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- daate sg singleton forms -->
-
+   <!-- daate sg singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="dem">daam</l>
@@ -431,7 +370,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-  </e>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="dem">daase</l>
@@ -447,7 +386,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      </e>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="dem">daesnie</l>
@@ -506,7 +445,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="sg">daejnie</l>
+         <l nr="sg" pos="pron" type="dem">daejnie</l>
          <lemma_ref lemmaID="daate_pron_dem">daate</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -520,36 +459,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-
-<!-- daah daate pl miniparadigm -->
-
+   <!-- daah daate pl miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">daah</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>daejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>daaj</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ill">
-               <wordform>daejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ine">
-               <wordform>daejnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ela">
-               <wordform>daejstie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>daaj gåetiegujmie</wordform>
-               <wordform>daajgujmie</wordform>
-               <wordform>daejgujmie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc"><wordform>daejtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Gen"><wordform>daaj</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ill"><wordform>daejtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ine"><wordform>daejnie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ela"><wordform>daejstie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Com"><wordform>daaj gåetiegujmie</wordform> <wordform>daajgujmie</wordform>
+            <wordform>daejgujmie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -562,10 +484,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-<!-- daah singleton forms -->
- 
+   <!-- daah singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="dem">daejtie</l>
@@ -581,8 +500,8 @@ For the full license text, see the link above.</lic>
                <xt>Disse vottene kjøpte jeg i fjor.</xt>
             </xg>
          </tg>
-        <tg>
-            <t pos="pron" type="dem">til dem</t>      
+         <tg>
+            <t pos="pron" type="dem">til dem</t>
          </tg>
       </mg>
       <mg>
@@ -615,15 +534,15 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron" type="dem">med disse</t>
             <xg>
-               <x>Daaj vaanhtsigujmie guhkiem bearkedem.</x>  
-               <xt>Jeg berges lenge med disse vottene.</xt> 
+               <x>Daaj vaanhtsigujmie guhkiem bearkedem.</x>
+               <xt>Jeg berges lenge med disse vottene.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">daejnie</l>
+         <l nr="pl" pos="pron" type="dem">daejnie</l>
          <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
          <analysis>Pron_Dem_Pl_Ine</analysis>
       </lg>
@@ -648,7 +567,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="pron" type="dem">i dette</t>
             <t pos="pron" type="dem">i denne</t>
-             <xg>
+            <xg>
                <x>Daejstie gåetijste lea naa gåhkese bovrese.</x>
                <xt>Fra disse husene er det ganske langt til butikken.</xt>
             </xg>
@@ -656,72 +575,56 @@ For the full license text, see the link above.</lic>
       </mg>
    </e>
    <e>
-     <lg>
-       <l pos="pron" type="dem">daajgujmie</l>
-       <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
-       <analysis>Pron_Dem_Pl_Com</analysis>
-     </lg>
-     <mg>   
-       <tg>
-	 <t pos="pron" type="dem">med disse</t>
-	 <xg>
+      <lg>
+         <l pos="pron" type="dem">daajgujmie</l>
+         <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
+         <analysis>Pron_Dem_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med disse</t>
+            <xg>
                <x>Manne gåatan vualkam daajgujmie.</x>
                <xt>Jeg drar hjem med disse.</xt>
             </xg>
-       </tg>
-     </mg>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="pron" type="dem">daejgujmie</l>
-       <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
-       <analysis>Pron_Dem_Pl_Com</analysis>
-     </lg>
-     <mg>   
-       <tg>
-	 <t pos="pron" type="dem">med disse</t>
-	 <xg>
+      <lg>
+         <l pos="pron" type="dem">daejgujmie</l>
+         <lemma_ref lemmaID="daah_pron_dem">daah</lemma_ref>
+         <analysis>Pron_Dem_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med disse</t>
+            <xg>
                <x>Manne gåatan vualkam daejgujmie.</x>
                <xt>Jeg drar hjem med disse.</xt>
             </xg>
-       </tg>
-     </mg>
+         </tg>
+      </mg>
    </e>
-
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!--                                         -->
-<!--  Påpekende Demomenet -doete/doeh den der, doeh=de der -->
-<!--                                         -->
-<!-- *************************************** -->
-<!-- *************************************** -->
-
-
-<!-- doete miniparadigm -->
-
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!--                                         -->
+   <!--  Påpekende Demomenet -doete/doeh den der, doeh=de der -->
+   <!--                                         -->
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!-- doete miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">doete</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>doem</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
-               <wordform>doen</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ill">
-               <wordform>doese</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>duennie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>duehtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Com">
-               <wordform>duejnie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Sg_Acc"><wordform>doem</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Gen"><wordform>doen</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ill"><wordform>doese</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ine"><wordform>duennie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ela"><wordform>duehtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Com"><wordform>duejnie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -734,10 +637,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-<!-- singleton forms -->
-
+   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="dem">doem</l>
@@ -793,13 +693,13 @@ For the full license text, see the link above.</lic>
          <analysis>Pron_Dem_Sg_Ine</analysis>
       </lg>
       <mg>
-	<tg>
-	  <t pos="pron" type="dem">hos den/det der borte</t>
-	  <xg>
-	    <x>Duennie buertesne lea dïhte kåahpe.</x>
-	    <xt>På det bordet er koppen.</xt>
-	  </xg>       
-	</tg>
+         <tg>
+            <t pos="pron" type="dem">hos den/det der borte</t>
+            <xg>
+               <x>Duennie buertesne lea dïhte kåahpe.</x>
+               <xt>På det bordet er koppen.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -809,18 +709,18 @@ For the full license text, see the link above.</lic>
          <analysis>Pron_Dem_Sg_Ela</analysis>
       </lg>
       <mg>
-	<tg>
-	  <t pos="pron" type="dem">fra den/det der borte</t>
-	  <xg>
-	    <x>Duehtie buerteste bööti.</x>
-	    <xt>Det kom fra det bordet.</xt>
-	  </xg>     
-	</tg>
+         <tg>
+            <t pos="pron" type="dem">fra den/det der borte</t>
+            <xg>
+               <x>Duehtie buerteste bööti.</x>
+               <xt>Det kom fra det bordet.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="sg">duejnie</l>
+         <l nr="sg" pos="pron" type="dem">duejnie</l>
          <lemma_ref lemmaID="doete_pron_dem">doete</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -830,45 +730,29 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Tjaebpie sjædta duejnie buertine.</x>
                <xt>Det blir fint med det bordet.</xt>
-            </xg>  
+            </xg>
          </tg>
       </mg>
    </e>
-
-
-<!-- paradigme og eksempler for doeh -->
-
-<!-- doete miniparadigm -->
-
+   <!-- paradigme og eksempler for doeh -->
+   <!-- doete miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">doeh</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>duejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>doej</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ill">
-               <wordform>duejtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ine">
-               <wordform>duejnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ela">
-               <wordform>duejstie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>doej gåetiegujmie</wordform>
-               <wordform>doejgujmie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc"><wordform>duejtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Gen"><wordform>doej</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ill"><wordform>duejtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ine"><wordform>duejnie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ela"><wordform>duejstie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Com"><wordform>doej gåetiegujmie</wordform>
+            <wordform>doejgujmie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
          <tg>
-            <t pos="pron" type="dem">den/det som er nærmere deg</t>
+            <t pos="pron" type="dem">de som er nærmere deg</t>
             <xg>
                <x>Doeh måvhkah orre.</x>
                <xt>De der buksene er nye.</xt>
@@ -876,10 +760,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-<!-- doeh eksempler -->
-
+   <!-- doeh eksempler -->
    <e>
       <lg>
          <l pos="pron" type="dem">duejtie</l>
@@ -896,7 +777,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-            <mg>
+      <mg>
          <tg>
             <t pos="pron" type="dem">til de der borte</t>
             <xg>
@@ -928,13 +809,13 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Doj måvhkajgujmie hijven vaedtsedh.</x>
                <xt>Det er behagelig å gå med de buksene.</xt>
-            </xg>  
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="dem" nr="pl">duejnie</l>
+         <l nr="pl" pos="pron" type="dem">duejnie</l>
          <lemma_ref lemmaID="doeh_pron_dem">doeh</lemma_ref>
          <analysis>Pron_Dem_Pl_Ine</analysis>
       </lg>
@@ -953,10 +834,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron" type="dem">fra den/det der borte</t>
-         <xg>
+            <xg>
                <x>Duejstie bïsseldihkie måvhkijste njaelkies-laakan håpsoe</x>
                <xt>Av de nyvaskede buksene lukter det godt.</xt>
-            </xg>     
+            </xg>
          </tg>
       </mg>
    </e>
@@ -972,44 +853,29 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Doejgujmie hijven vaedtsedh.</x>
                <xt>Det er behagelig å gå med de der.</xt>
-            </xg>  
+            </xg>
          </tg>
       </mg>
    </e>
-
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!--                                         -->
-<!-- Påpekende Demomenet -dohte/doh den/det der borte, doh= de der borte -->
-<!--                                         -->
-<!-- *************************************** -->
-<!-- *************************************** -->
-
-<!-- dohte miniparadigm -->
-
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!--                                         -->
+   <!-- Påpekende Demomenet -dohte/doh den/det der borte, doh= de der borte -->
+   <!--                                         -->
+   <!-- *************************************** -->
+   <!-- *************************************** -->
+   <!-- dohte miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">dohte</l>
          <analysis>Pron_Dem_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Sg_Acc">
-               <wordform>dom</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Gen">
-               <wordform>don</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ill">
-               <wordform>dosse</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>dusnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>dustie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Sg_Com">
-               <wordform>dujnie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Sg_Acc"><wordform>dom</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Gen"><wordform>don</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ill"><wordform>dosse</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ine"><wordform>dusnie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Ela"><wordform>dustie</wordform></analysis>
+            <analysis ms="Pron_Dem_Sg_Com"><wordform>dujnie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1022,8 +888,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- dohte singleton forms -->
+   <!-- dohte singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="dem">dom</l>
@@ -1088,7 +953,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- <e>
+   <e>
       <lg>
          <l pos="pron" type="dem">dustie</l>
          <lemma_ref lemmaID="dohte_pron_dem">dohte</lemma_ref>
@@ -1104,9 +969,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- <e>
+   <e>
       <lg>
-         <l pos="pron" type="dem" nr="sg">dujnie</l>
+         <l nr="sg" pos="pron" type="dem">dujnie</l>
          <lemma_ref lemmaID="dohte_pron_dem">dohte</lemma_ref>
          <analysis>Pron_Dem_Sg_Com</analysis>
       </lg>
@@ -1120,35 +985,19 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- doh miniparadigm -->
-
+   <!-- doh miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="dem">doh</l>
          <analysis>Pron_Dem_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Dem_Pl_Acc">
-               <wordform>dujtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>doj</wordform>
-               <wordform>dyj</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ill">
-               <wordform>dujtie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ine">
-               <wordform>dujnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Ela">
-               <wordform>dujstie</wordform>
-            </analysis>
-            <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>doj gåetiegujmie</wordform>
-               <wordform>dyj gåetiegujmie</wordform>
-               <wordform>dojgujmie</wordform>
-            </analysis>
+            <analysis ms="Pron_Dem_Pl_Acc"><wordform>dujtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Gen"><wordform>doj</wordform> <wordform>dyj</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ill"><wordform>dujtie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ine"><wordform>dujnie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Ela"><wordform>dujstie</wordform></analysis>
+            <analysis ms="Pron_Dem_Pl_Com"><wordform>doj gåetiegujmie</wordform> <wordform>dyj gåetiegujmie</wordform>
+            <wordform>dojgujmie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1161,133 +1010,128 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
    <!--   singleton forms  -->
-   
    <e>
-     <lg>
-       <l pos="pron" type="dem">dujtie</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Acc</analysis>
-       <analysis>Pron_Dem_Pl_Ill</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">dem der borte</t>
-	 <xg>
+      <lg>
+         <l pos="pron" type="dem">dujtie</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Acc</analysis>
+         <analysis>Pron_Dem_Pl_Ill</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">dem der borte</t>
+            <xg>
                <x>Vaeltieh meatan dujtie gåptojde.</x>
                <xt>Ta med de koftene.</xt>
-            </xg> 
-       </tg>
-     </mg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">til dem der borte</t>
-	 <xg>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">til dem der borte</t>
+            <xg>
                <x>Dujtie gåptojde edtjem orre budtestahkh gåarodh.</x>
                <xt>Jeg skal sy nye kantebånd til de koftene.</xt>
             </xg>
-       </tg>
-     </mg>
-   </e> 
+         </tg>
+      </mg>
+   </e>
    <e>
-     <lg>
-       <l pos="pron" type="dem">doj</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Gen</analysis>
-       <analysis>Pron_Dem_Pl_Com</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">de der borte sine</t>
-	<xg>
+      <lg>
+         <l pos="pron" type="dem">doj</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">de der borte sine</t>
+            <xg>
                <x>Doj gåptoej dan tjaebpies klaerieh.</x>
                <xt>De koftene har så fine farger.</xt>
             </xg>
-       </tg>
-     </mg>
-     <mg>   
-       <tg>
-	 <t pos="pron" type="dem">med dem der borte</t>
-	 <xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem der borte</t>
+            <xg>
                <x>Manne gåatan vualkam doj gåptoejgujmie.</x>
                <xt>Jeg drar hjem med de koftene.</xt>
             </xg>
-       </tg>
-     </mg>
-   </e> 
+         </tg>
+      </mg>
+   </e>
    <e>
-     <lg>
-       <l pos="pron" type="dem">dyj</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Gen</analysis>
-       <analysis>Pron_Dem_Pl_Com</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">der der borte sine</t>
-	 <xg>
+      <lg>
+         <l pos="pron" type="dem">dyj</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Gen</analysis>
+         <analysis>Pron_Dem_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">der der borte sine</t>
+            <xg>
                <x>Dyj gåptoej dan tjaebpies klaerieh.</x>
                <xt>De koftene har så fine farger.</xt>
             </xg>
-       </tg>
-     </mg>
-     <mg>   
-       <tg>
-	 <t pos="pron" type="dem">med dem der borte</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem der borte</t>
             <xg>
                <x>Manne gåatan vualkam dyj gåptoejgujmie.</x>
                <xt>Jeg drar hjem med de koftene.</xt>
             </xg>
-       </tg>
-     </mg>
-   </e>  
-   <e>
-     <lg>
-       <l pos="pron" type="dem" nr="pl">dujnie</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Ine</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">i/på de der borte</t>
-       </tg>
-     </mg>
+         </tg>
+      </mg>
    </e>
-   
    <e>
-     <lg>
-       <l pos="pron" type="dem">dujstie</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Ela</analysis>
-     </lg>
-     <mg>
-       <tg>
-	 <t pos="pron" type="dem">fra de der borte</t>
-	 <xg>
+      <lg>
+         <l nr="pl" pos="pron" type="dem">dujnie</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">i/på de der borte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="dem">dujstie</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Ela</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">fra de der borte</t>
+            <xg>
                <x>Dujstie bïsseldihkie gåptojste njaelkies-laakan håpsoe.</x>
                <xt>Det lukter godt av de nyvaskede kjolene.</xt>
             </xg>
          </tg>
-     </mg>
+      </mg>
    </e>
-   
    <e>
-     <lg>
-       <l pos="pron" type="dem">dojgujmie</l>
-       <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
-       <analysis>Pron_Dem_Pl_Com</analysis>
-     </lg>
-     <mg>   
-       <tg>
-	 <t pos="pron" type="dem">med dem der borte</t>
-	 <xg>
+      <lg>
+         <l pos="pron" type="dem">dojgujmie</l>
+         <lemma_ref lemmaID="doh_pron_dem">doh</lemma_ref>
+         <analysis>Pron_Dem_Pl_Com</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron" type="dem">med dem der borte</t>
+            <xg>
                <x>Manne gåatan vualkam dojgujmie</x>
                <xt>Jeg drar hjem med dem der borte.</xt>
             </xg>
-       </tg>
-     </mg>
+         </tg>
+      </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
