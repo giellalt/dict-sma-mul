@@ -4,7 +4,7 @@
 "../../scripts/gt_dictionary.dtd">
 <r>
    <lics xml:space="preserve">
-    <lic xml:lang="en">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -12,12 +12,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -34,7 +32,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">verkende, vondt</t>
+            <t pos="a">verkende</t>
+            <t pos="a">vond</t>
          </tg>
       </mg>
    </e>
@@ -98,7 +97,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">fredelig, fritt for udyr</t>
+            <t pos="a">fredelig</t>
+            <tf>fritt for udyr</tf>
          </tg>
       </mg>
    </e>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">slik som den el. det</t>
+            <tf>slik som den el. det</tf>
          </tg>
       </mg>
    </e>
@@ -357,7 +357,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">gal, ikke riktig</t>
+            <t pos="a">gal</t>
+            <tf>ikke riktig</tf>
          </tg>
       </mg>
    </e>
@@ -367,7 +368,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">varme, varmt om vær og klær</t>
+            <t pos="a">varm</t>
+            <te>om vær og klær</te>
          </tg>
       </mg>
    </e>
@@ -387,7 +389,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">klosset og klønete</t>
+            <t pos="a">klossete</t>
+            <t pos="a">klønete</t>
          </tg>
       </mg>
    </e>
@@ -497,9 +500,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">dagens, fra i dag av</t>
+            <t pos="a">dagens</t>
+            <tf>fra i dag av</tf>
             <xg>
-               <x>daanbeajjetje leaksoeh</x>
+               <x>daan-beajjetje leaksoeh</x>
                <xt>dagens lekser</xt>
             </xg>
          </tg>
@@ -511,10 +515,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="a">godt likt</t>
+            <tf>godt likt</tf>
             <t pos="a">vennligsinnet</t>
             <t pos="a">trivelig</t>
-            <t pos="a">liketil og grei</t>
+            <t pos="a">liketil</t>
+            <t pos="a">grei</t>
          </tg>
       </mg>
    </e>
@@ -3686,6 +3691,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
