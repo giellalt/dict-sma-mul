@@ -69,11 +69,11 @@ For the full license text, see the link above.</lic>
         <semantics>
           <sem class="PROFESSION" />
         </semantics>
-	<t pos="n" xml:lang="nob">konsulent</t>
+        <t pos="n" xml:lang="nob">konsulent</t>
         <t pos="n" xml:lang="sme">konsuleanta</t>
         <t pos="n" xml:lang="sme">oaivadeaddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Berater</t>
       </tg>
     </mg>
@@ -96,8 +96,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">prest</t>
         <t pos="n" xml:lang="sme">báhppa</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Priester</t>
       </tg>
     </mg>
@@ -106,24 +106,35 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">sjovne</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
           <sem class="PROFESSION" />
         </semantics>
-	<t pos="n" xml:lang="nob">tjenestepike</t>
+        <apps>
+          <app name="oahpa">
+            <sources>
+              <book name="aalkoe1" />
+            </sources>
+          </app>
+        </apps>
+        <t pos="n" xml:lang="nob">tjenestepike</t>
         <t pos="n" xml:lang="nob">hushjelp</t>
         <t pos="n" xml:lang="sme">biigá</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Haushaltshilfe</t>
+      </tg>
+      <tg>
+        <semantics>
+          <sem class="PROFESSION" />
+        </semantics>
+        <t pos="n" xml:lang="nob">stuepike</t>
+        <t pos="n" xml:lang="sme">biigá</t>
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng">chambermaid</t>
+        <t pos="n" xml:lang="eng">maid</t>
+        <t pos="n" xml:lang="deu">Zimmermädchen</t>
       </tg>
     </mg>
   </e>
@@ -145,8 +156,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">sjåfør</t>
         <t pos="n" xml:lang="sme">vuoddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Fahrer</t>
       </tg>
     </mg>
@@ -155,13 +166,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">skïemtje-syjhtere</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -170,8 +174,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">sykepleier</t>
         <t pos="n" xml:lang="sme">buohccedikšu</t>
         <t pos="n" xml:lang="sme">buohccedivššár</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Krankenpfleger</t>
       </tg>
     </mg>
@@ -195,8 +199,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">forfatter</t>
         <t pos="n" xml:lang="nob">skribent</t>
         <t pos="n" xml:lang="sme">čálli</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Verfasser, Schreiber</t>
       </tg>
     </mg>
@@ -219,8 +223,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">lege</t>
         <t pos="n" xml:lang="sme">doavttir</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Arzt</t>
       </tg>
     </mg>
@@ -243,8 +247,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">fabrikkarbeider</t>
         <t pos="n" xml:lang="sme">fabrihkkabargi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Fabrikarbeiter</t>
       </tg>
     </mg>
@@ -267,8 +271,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">arbeider</t>
         <t pos="n" xml:lang="sme">bargi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Arbeiter</t>
       </tg>
     </mg>
@@ -292,8 +296,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">kjøpmann</t>
         <t pos="n" xml:lang="sme">gávpeolmmái</t>
         <t pos="n" xml:lang="sme">gávpejas</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Kaufmann</t>
       </tg>
     </mg>
@@ -302,13 +306,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">åesies-ålma</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -317,8 +314,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">kjøpmann</t>
         <t pos="n" xml:lang="sme">gávpeolmmái</t>
         <t pos="n" xml:lang="sme">gávpejas</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Kaufmann</t>
       </tg>
     </mg>
@@ -342,8 +339,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">gjeter</t>
         <t pos="n" xml:lang="nob">reingjeter</t>
         <t pos="n" xml:lang="sme">boazovázzi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Rentierhirte</t>
       </tg>
     </mg>
@@ -367,8 +364,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">fiskearbeider</t>
         <t pos="n" xml:lang="nob">fiskeriarbeider</t>
         <t pos="n" xml:lang="sme">guollebargi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Fischereiarbeiter</t>
       </tg>
     </mg>
@@ -392,8 +389,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">fisker</t>
         <t pos="n" xml:lang="sme">guollebivdi</t>
         <t pos="n" xml:lang="sme">guolásteaddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Fischer</t>
       </tg>
     </mg>
@@ -402,13 +399,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">åejvie</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -418,8 +408,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">sjef</t>
         <t pos="n" xml:lang="sme">hoavda</t>
         <t pos="n" xml:lang="sme">jođiheaddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Leiter</t>
       </tg>
     </mg>
@@ -428,13 +418,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">åvtehke</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -444,8 +427,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">leder</t>
         <t pos="n" xml:lang="sme">jođiheaddji</t>
         <t pos="n" xml:lang="sme">hoavda</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Leiter</t>
       </tg>
     </mg>
@@ -454,13 +437,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">kontovre-barkije</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -468,8 +444,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">kontorist</t>
         <t pos="n" xml:lang="sme">kánturbargi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Büroarbeiter</t>
       </tg>
     </mg>
@@ -478,13 +454,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">viehkiehtæjja</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -493,8 +462,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">hjelper</t>
         <t pos="n" xml:lang="nob">assistent</t>
         <t pos="n" xml:lang="sme">veahkki</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Helfer, Aushilfe</t>
       </tg>
     </mg>
@@ -518,8 +487,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">hjelper</t>
         <t pos="n" xml:lang="nob">assistent</t>
         <t pos="n" xml:lang="sme">veahkki</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Helfer, Aushilfe</t>
       </tg>
     </mg>
@@ -543,8 +512,8 @@ For the full license text, see the link above.</lic>
         <t pos="n" xml:lang="nob">barnepasser</t>
         <t pos="n" xml:lang="nob">barnevakt</t>
         <t pos="n" xml:lang="sme">mánnágeahčči</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Kindermädchen</t>
       </tg>
     </mg>
@@ -553,13 +522,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">lohkehtæjja</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -567,8 +529,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">lærer</t>
         <t pos="n" xml:lang="sme">oahpaheaddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng">teacher</t>
         <t pos="n" xml:lang="deu">Lehrer</t>
       </tg>
     </mg>
@@ -577,13 +539,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">trïengke</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -591,8 +546,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">dreng</t>
         <t pos="n" xml:lang="sme">reaŋga</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Knecht</t>
       </tg>
     </mg>
@@ -615,8 +570,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">reindriftssame</t>
         <t pos="n" xml:lang="sme">boazosápmelaš</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Samischer Rentierzüchter</t>
       </tg>
     </mg>
@@ -625,13 +580,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">snæhkere</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -639,8 +587,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">snekker</t>
         <t pos="n" xml:lang="sme">snihkkár</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Tischler, Schreiner</t>
       </tg>
     </mg>
@@ -649,13 +597,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">teknigkere</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -663,8 +604,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">tekniker</t>
         <t pos="n" xml:lang="sme">teknihkkár</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Techniker</t>
       </tg>
     </mg>
@@ -687,8 +628,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">kokk</t>
         <t pos="n" xml:lang="sme">koahkka</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Koch</t>
       </tg>
     </mg>
@@ -711,8 +652,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">selger</t>
         <t pos="n" xml:lang="sme">vuovdi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Verkäufer</t>
       </tg>
     </mg>
@@ -735,8 +676,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">slakter</t>
         <t pos="n" xml:lang="sme">njuovvi</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Schlachter, Metzger</t>
       </tg>
     </mg>
@@ -745,13 +686,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">aamhtese-gïetedallije</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
@@ -759,8 +693,8 @@ For the full license text, see the link above.</lic>
         </semantics>
         <t pos="n" xml:lang="nob">saksbehandler</t>
         <t pos="n" xml:lang="sme">áššemeannudeaddji</t>
-        <t pos="n" xml:lang="swe" />
-        <t pos="n" xml:lang="eng" />
+        <t pos="n" xml:lang="swe"></t>
+        <t pos="n" xml:lang="eng"></t>
         <t pos="n" xml:lang="deu">Sachbearbeiter</t>
       </tg>
     </mg>
@@ -769,13 +703,6 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">aarhskuvle-lohkehtæjja</l>
     </lg>
-    <apps>
-      <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
-      </app>
-    </apps>
     <mg>
       <tg>
         <semantics>
