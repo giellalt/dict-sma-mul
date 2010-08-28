@@ -49,8 +49,11 @@
 	    <xsl:attribute name="xml:lang">
 	      <xsl:value-of select="$trgl"/>
 	    </xsl:attribute>
-	    <!-- to generalize -->
-	    <xsl:for-each select="doc($inFile)/r/e[./apps/app/@name ='oahpa']">
+	    <!-- todo: correct mapping of the apps scope (cf. tjenestepike/stuepike entry) -->
+	    <xsl:for-each select="doc($inFile)/r/e[(./apps/app/@name ='oahpa')  or 
+				  (./mg/apps/app/@name ='oahpa') or 
+				  (./mg/tg/apps/app/@name ='oahpa')]">
+	      
 	      <xsl:for-each select="./mg/tg/t[./@xml:lang = $trgl]">
 		<e>
 		  <lg>
