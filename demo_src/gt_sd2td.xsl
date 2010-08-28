@@ -50,7 +50,7 @@
 	      <xsl:value-of select="$trgl"/>
 	    </xsl:attribute>
 	    <!-- to generalize -->
-	    <xsl:for-each select="doc($inFile)/r/e">
+	    <xsl:for-each select="doc($inFile)/r/e[./apps/app/@name ='oahpa']">
 	      <xsl:for-each select="./mg/tg/t[./@xml:lang = $trgl]">
 		<e>
 		  <lg>
