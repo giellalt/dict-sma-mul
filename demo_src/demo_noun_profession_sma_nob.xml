@@ -26,11 +26,12 @@
          <l pos="n">konsulent</l>
       </lg>
       <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
+         <sources>
+            <book name="aalkoe1"/>
+         </sources>
+         <sources>
+            <book name="aalkoe1"/>
+         </sources>
       </apps>
       <mg>
          <tg>
@@ -41,18 +42,6 @@
             <t xml:lang="sma" pos="n">raerie-vedtije</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">konsulent</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
             <semantics>
@@ -285,11 +274,9 @@
          <l pos="n">kjøpmann</l>
       </lg>
       <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
+         <sources>
+            <book name="aalkoe1"/>
+         </sources>
       </apps>
       <mg>
          <tg>
@@ -300,11 +287,6 @@
             <t xml:lang="sma" pos="n">åesies-maennie</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">kjøpmann</l>
-      </lg>
       <mg>
          <tg>
             <semantics>
@@ -433,6 +415,15 @@
             <t xml:lang="sma" pos="n">åejvie</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">åvtehke</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -447,25 +438,6 @@
             <t xml:lang="sma" pos="n">åejvie</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">sjef</l>
-      </lg>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN"/>
-               <sem class="PROFESSION"/>
-            </semantics>
-            <t xml:lang="sma" pos="n">åvtehke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">leder</l>
-      </lg>
       <mg>
          <tg>
             <semantics>
@@ -503,32 +475,6 @@
             <t xml:lang="sma" pos="n">viehkiehtæjja</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">assistent</l>
-      </lg>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN"/>
-               <sem class="PROFESSION"/>
-            </semantics>
-            <t xml:lang="sma" pos="n">viehkiehtæjja</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">hjelper</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
             <semantics>
@@ -543,13 +489,15 @@
       <lg>
          <l pos="n">assistent</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">viehkiehtæjja</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <semantics>
