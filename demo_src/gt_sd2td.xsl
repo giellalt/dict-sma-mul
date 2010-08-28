@@ -33,6 +33,7 @@
   <xsl:param name="srcl" select="'sma'"/>
   <!-- target language -->
   <xsl:param name="trgl" select="'nob'"/>
+  <xsl:variable name="tlangs" select="'nob sme eng deu'"/>
   
   <!-- Patterns for the feature values -->
   <xsl:variable name="output_format" select="'xml'"/>

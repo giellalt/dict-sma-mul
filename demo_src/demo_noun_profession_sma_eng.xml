@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
+<r xml:lang="eng">
    <e>
       <lg>
-         <l pos="n">rådgiver</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="l1"/>
-               <book name="l2"/>
-               <book name="l3"/>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN"/>
-               <sem class="PROFESSION"/>
-            </semantics>
-            <t xml:lang="sma" pos="n">raerie-vedtije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">konsulent</l>
+         <l pos="n">consultant</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -67,7 +43,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">prest</l>
+         <l pos="n">priest</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -91,7 +67,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">tjenestepike</l>
+         <l pos="n">home help</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -115,7 +91,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">hushjelp</l>
+         <l pos="n">chambermaid</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -139,7 +115,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">stuepike</l>
+         <l pos="n">maid</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -163,7 +139,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">sjåfør</l>
+         <l pos="n">driver</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -187,7 +163,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">forfatter</l>
+         <l pos="n">author</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -211,7 +187,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">skribent</l>
+         <l pos="n">writer</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -235,7 +211,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">lege</l>
+         <l pos="n">doctor</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -259,7 +235,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">fabrikkarbeider</l>
+         <l pos="n">physician</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">dåaktere</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">factory worker</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -283,7 +283,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">arbeider</l>
+         <l pos="n">factory employee</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">fabrigke-barkije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">worker</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -307,7 +331,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">kjøpmann</l>
+         <l pos="n">merchandiser</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -331,7 +355,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">gjeter</l>
+         <l pos="n">merchant</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">åesies-maennie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">reindeer herder</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -355,7 +403,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">reingjeter</l>
+         <l pos="n">reindeer sheperd</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -379,7 +427,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">fiskearbeider</l>
+         <l pos="n">fishery worker</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -403,31 +451,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">fiskeriarbeider</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="l1"/>
-               <book name="l2"/>
-               <book name="l3"/>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN"/>
-               <sem class="PROFESSION"/>
-            </semantics>
-            <t xml:lang="sma" pos="n">guelie-barkije</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">fisker</l>
+         <l pos="n">fisher</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -451,7 +475,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">hjelper</l>
+         <l pos="n">fisherman</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">göölije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">assistant</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -475,31 +523,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">assistent</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="l1"/>
-               <book name="l2"/>
-               <book name="l3"/>
-               <book name="aalkoe1"/>
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN"/>
-               <sem class="PROFESSION"/>
-            </semantics>
-            <t xml:lang="sma" pos="n">viehkie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">barnepasser</l>
+         <l pos="n">nanny</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -523,7 +547,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">barnevakt</l>
+         <l pos="n">nurse</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -547,7 +571,7 @@
    </e>
    <e>
       <lg>
-         <l pos="n">reindriftssame</l>
+         <l pos="n">a Sami person whose livelihood is reindeer</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -571,7 +595,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">kokk</l>
+         <l pos="n">Sami reindeer breeder</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">båatsoeburrie</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">chef</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -595,7 +643,31 @@
    </e>
    <e>
       <lg>
-         <l pos="n">selger</l>
+         <l pos="n">cook</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">jurjiehtæjja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">seller</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -619,7 +691,216 @@
    </e>
    <e>
       <lg>
-         <l pos="n">slakter</l>
+         <l pos="n">vender</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">vendor</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">shop assistant</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sales assistant</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sales clerk</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">salesclerk</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">salesman</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">salesperson</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+         <app name="oahpa">
+            <sources>
+               <book name="l1"/>
+               <book name="l2"/>
+               <book name="l3"/>
+               <book name="aalkoe1"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN"/>
+               <sem class="PROFESSION"/>
+            </semantics>
+            <t xml:lang="sma" pos="n">doekije</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">butcher</l>
       </lg>
       <apps>
          <app name="oahpa">
