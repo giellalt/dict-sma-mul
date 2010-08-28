@@ -8,7 +8,10 @@ do
 	echo "inverting the sma* dict into $tlang: $xfile --- $name"
 	java -Xmx2048m net.sf.saxon.Transform -it main gt_sd2td.xsl inFile=$xfile trgl=$tlang
 	java -Xmx2048m net.sf.saxon.Transform -it main gt_mergeEntry_td.xsl inFile=outDir/$name\_$tlang.xml
-	echo "$tlang done"
+	echo "$xfile done"
+	echo "   "
     done
+    echo "$tlang done"
+    echo "   "
 done
 

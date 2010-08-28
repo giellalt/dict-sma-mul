@@ -4,13 +4,15 @@
     <lg>
       <l p3p="pruvrie" pos="v">pruvredh</l>
     </lg>
-    <appls>
-      <appl name="oahpa">
+    <apps>
+      <app name="oahpa">
 	<sources>
-	  <book name=""/>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	</sources>
-      </appl>
-    </appls>
+      </app>
+    </apps>
     <mg>
       <tg>
 	<semantics>
@@ -22,7 +24,7 @@
 	<t xml:lang="swe" pos="v">gifta sig</t>
 	<t xml:lang="swe" pos="v">giftas</t>
 	<t xml:lang="eng" pos="v">marry</t>
-	<t xml:lang="ger" pos="v">heiraten</t>
+	<t xml:lang="deu" pos="v">heiraten</t>
       </tg>
     </mg>
   </e>
@@ -30,13 +32,15 @@
     <lg>
       <l pos="v">faelhkiedidh</l>
     </lg>
-    <appls>
-      <appl name="oahpa">
+    <apps>
+      <app name="oahpa">
 	<sources>
-	  <book name=""/>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	</sources>
-      </appl>
-    </appls>
+      </app>
+    </apps>
     <mg>
       <tg>
 	<semantics>
@@ -47,7 +51,7 @@
 	<t xml:lang="sme" pos="v">gihládit</t>
 	<t xml:lang="swe" pos="v"></t>
 	<t xml:lang="eng" pos="v">get engaged</t>
-	<t xml:lang="ger" pos="v">sich verloben</t>
+	<t xml:lang="deu" pos="v">sich verloben</t>
       </tg>
     </mg>
   </e>
@@ -55,13 +59,15 @@
     <lg>
       <l class="I" p3p="reakadahta" pos="v">reakadehtedh</l>
     </lg>
-    <appls>
-      <appl name="oahpa">
+    <apps>
+      <app name="oahpa">
 	<sources>
-	  <book name=""/>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	</sources>
-      </appl>
-    </appls>
+      </app>
+    </apps>
     <mg>
       <tg>
 	<semantics>
@@ -72,7 +78,7 @@
 	<t xml:lang="sme" pos="v">riegádahttit</t>
 	<t xml:lang="swe" pos="v"></t>
 	<t xml:lang="eng" pos="v">bear</t>
-	<t xml:lang="ger" pos="v">gebären</t>
+	<t xml:lang="deu" pos="v">gebären</t>
 	<xg>
 	  <x>Mov gåmma lea maanam reakadahteme.</x>
 	  <xt>Kona mi har født et barn.</xt>
@@ -84,13 +90,15 @@
     <lg>
       <l p3p="reakede" pos="v">reakadidh</l>
     </lg>
-    <appls>
-      <appl name="oahpa">
+    <apps>
+      <app name="oahpa">
 	<sources>
-	  <book name=""/>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	</sources>
-      </appl>
-    </appls>
+      </app>
+    </apps>
     <mg>
       <tg>
 	<semantics>
@@ -101,8 +109,8 @@
 	<t xml:lang="sme" pos="v">riegádit</t>
 	<t xml:lang="swe" pos="v"></t>
 	<t xml:lang="eng" pos="v">be born</t>
-	<t xml:lang="ger" pos="v">geboren sein</t>
-    <t xml:lang="ger" pos="v">geboren werden</t>
+	<t xml:lang="deu" pos="v">geboren sein</t>
+    <t xml:lang="deu" pos="v">geboren werden</t>
       </tg>
     </mg>
   </e>
@@ -110,20 +118,22 @@
     <lg>
       <l pos="v">bijjiedidh</l>
     </lg>
-    <appls>
-      <appl name="oahpa">
+    <apps>
+      <app name="oahpa">
 	<sources>
-	  <book name=""/>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	</sources>
-      </appl>
-    </appls>
+      </app>
+    </apps>
     <mg>
       <tg>
 	<t xml:lang="nob" pos="v">heve</t>
 	<t xml:lang="sme" pos="v">bajidit</t>
 	<t xml:lang="swe" pos="v">häva</t>
 	<t xml:lang="eng" pos="v">raise</t>
-	<t xml:lang="ger" pos="v">heben</t>
+	<t xml:lang="deu" pos="v">heben</t>
 	<xg>
 	  <x>åasam bijjiedidh</x>
 	  <xt>heve prisen</xt>
@@ -136,18 +146,21 @@
 	  <sem class="HUMAN"/>
 	  <sem class="FAMILY"/>
 	</semantics>
-	<appls>
-	  <appl name="oahpa">
-	    <sources>
-	      <book name=""/>
-	    </sources>
-	  </appl>
-	</appls>
+	<!-- scopus issue todo later -->
+	<!-- 	<apps> -->
+	<!-- 	  <app name="oahpa"> -->
+	<!-- 	    <sources> -->
+	<!-- 	      <book name="l1"/> -->
+	<!-- 	      <book name="l2"/> -->
+	<!-- 	      <book name="l3"/> -->
+	<!-- 	    </sources> -->
+	<!-- 	  </app> -->
+	<!-- 	</apps> -->
 	<t xml:lang="nob" pos="v">oppdra</t>
 	<t xml:lang="sme" pos="v">geassit bajas</t>
 	<t xml:lang="swe" pos="v"></t>
 	<t xml:lang="eng" pos="v">raise</t>
-	<t xml:lang="ger" pos="v">aufziehen</t>
+	<t xml:lang="deu" pos="v">aufziehen</t>
 	<xg>
 	  <x>maanide bijjiedidh</x>
 	  <xt>oppdra barn</xt>
