@@ -109,20 +109,28 @@ For the full license text, see the link above.</lic>
     <lg>
       <l pos="n">sjovne</l>
     </lg>
+    <apps>
+      <app name="oahpa">
+	<sources>
+	  <book name="aalkoe1" />
+	</sources>
+      </app>
+    </apps>
     <mg>
       <tg>
         <semantics>
           <sem class="HUMAN" />
           <sem class="PROFESSION" />
         </semantics>
-        <apps>
-          <app name="oahpa">
-            <sources>
-              <book name="aalkoe1" />
-            </sources>
-          </app>
-        </apps>
-        <t pos="n" xml:lang="nob">tjenestepike</t>
+	<!-- this is to be solved when starting the real work on sma-oahpa -->
+	<!--         <apps> -->
+	<!--           <app name="oahpa"> -->
+	<!--             <sources> -->
+	<!--               <book name="aalkoe1" /> -->
+	<!--             </sources> -->
+	<!--           </app> -->
+	<!--         </apps> -->
+	<t pos="n" xml:lang="nob">tjenestepike</t>
         <t pos="n" xml:lang="nob">hushjelp</t>
         <t pos="n" xml:lang="sme">biigá</t>
         <t pos="n" xml:lang="swe"></t>
