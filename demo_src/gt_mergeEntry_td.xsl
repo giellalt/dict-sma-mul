@@ -21,7 +21,7 @@
   <xsl:param name="inFile" select="'default.xml'"/>
   
   <!-- Output dir, files -->
-  <xsl:variable name="outputDir" select="'outmerge'"/>
+  <xsl:variable name="outputDir" select="'.'"/>
   
   <!-- Patterns for the feature values -->
   <xsl:variable name="output_format" select="'xml'"/>
