@@ -47,7 +47,7 @@
 		  <xsl:copy-of select="current-group()[1]/lg"/>
 		  <xsl:if test="./apps">
 		    <apps>
-		      <xsl:copy-of select="current-group()//app/*"/>
+		      <xsl:copy-of select="current-group()//app"/>
 		    </apps>
 		  </xsl:if>
 
