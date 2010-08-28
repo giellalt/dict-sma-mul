@@ -33,7 +33,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -60,23 +63,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">konsulent</t>
-        <t pos="n" xml:lang="sme">konsuleanta</t>
-        <t pos="n" xml:lang="sme">oaivadeaddji</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">consultant</t>
-        <t pos="n" xml:lang="deu">Berater</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">konsulent</t>
+	<t pos="n" xml:lang="sme">konsuleanta</t>
+	<t pos="n" xml:lang="sme">oaivadeaddji</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">consultant</t>
+	<t pos="n" xml:lang="deu">Berater</t>
       </tg>
     </mg>
   </e>
@@ -86,22 +92,25 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">prest</t>
-        <t pos="n" xml:lang="sme">báhppa</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">priest</t>
-        <t pos="n" xml:lang="deu">Priester</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">prest</t>
+	<t pos="n" xml:lang="sme">báhppa</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">priest</t>
+	<t pos="n" xml:lang="deu">Priester</t>
       </tg>
     </mg>
   </e>
@@ -112,42 +121,48 @@ For the full license text, see the link above.</lic>
     <apps>
       <app name="oahpa">
 	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
 	  <book name="aalkoe1" />
 	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
 	<!-- this is to be solved when starting the real work on sma-oahpa -->
 	<!--         <apps> -->
 	<!--           <app name="oahpa"> -->
-	<!--             <sources> -->
+	<!--                     <sources>
+	     <book name="l1"/>
+	     <book name="l2"/>
+	     <book name="l3"/> -->
 	<!--               <book name="aalkoe1" /> -->
 	<!--             </sources> -->
 	<!--           </app> -->
 	<!--         </apps> -->
 	<t pos="n" xml:lang="nob">tjenestepike</t>
-        <t pos="n" xml:lang="nob">hushjelp</t>
-        <t pos="n" xml:lang="sme">biigá</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">home help</t>
-        <t pos="n" xml:lang="deu">Haushaltshilfe</t>
+	<t pos="n" xml:lang="nob">hushjelp</t>
+	<t pos="n" xml:lang="sme">biigá</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">home help</t>
+	<t pos="n" xml:lang="deu">Haushaltshilfe</t>
       </tg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">stuepike</t>
-        <t pos="n" xml:lang="sme">biigá</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">chambermaid</t>
-        <t pos="n" xml:lang="eng">maid</t>
-        <t pos="n" xml:lang="deu">Zimmermädchen</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">stuepike</t>
+	<t pos="n" xml:lang="sme">biigá</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">chambermaid</t>
+	<t pos="n" xml:lang="eng">maid</t>
+	<t pos="n" xml:lang="deu">Zimmermädchen</t>
       </tg>
     </mg>
   </e>
@@ -157,22 +172,25 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">sjåfør</t>
-        <t pos="n" xml:lang="sme">vuoddji</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">driver</t>
-        <t pos="n" xml:lang="deu">Fahrer</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">sjåfør</t>
+	<t pos="n" xml:lang="sme">vuoddji</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">driver</t>
+	<t pos="n" xml:lang="deu">Fahrer</t>
       </tg>
     </mg>
   </e>
@@ -182,16 +200,16 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">sykepleier</t>
-        <t pos="n" xml:lang="sme">buohccedikšu</t>
-        <t pos="n" xml:lang="sme">buohccedivššár</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">hospital nurse</t>
-        <t pos="n" xml:lang="deu">Krankenpfleger, Krankenpflegerin</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">sykepleier</t>
+	<t pos="n" xml:lang="sme">buohccedikšu</t>
+	<t pos="n" xml:lang="sme">buohccedivššár</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">hospital nurse</t>
+	<t pos="n" xml:lang="deu">Krankenpfleger, Krankenpflegerin</t>
       </tg>
     </mg>
   </e>
@@ -201,24 +219,27 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">forfatter</t>
-        <t pos="n" xml:lang="nob">skribent</t>
-        <t pos="n" xml:lang="sme">čálli</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">author</t>
-        <t pos="n" xml:lang="eng">writer</t>
-        <t pos="n" xml:lang="deu">Verfasser, Schreiber</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">forfatter</t>
+	<t pos="n" xml:lang="nob">skribent</t>
+	<t pos="n" xml:lang="sme">čálli</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">author</t>
+	<t pos="n" xml:lang="eng">writer</t>
+	<t pos="n" xml:lang="deu">Verfasser, Schreiber</t>
       </tg>
     </mg>
   </e>
@@ -228,23 +249,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">lege</t>
-        <t pos="n" xml:lang="sme">doavttir</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">doctor</t>
-        <t pos="n" xml:lang="eng">physician</t>
-        <t pos="n" xml:lang="deu">Arzt</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">lege</t>
+	<t pos="n" xml:lang="sme">doavttir</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">doctor</t>
+	<t pos="n" xml:lang="eng">physician</t>
+	<t pos="n" xml:lang="deu">Arzt</t>
       </tg>
     </mg>
   </e>
@@ -254,23 +278,26 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">fabrikkarbeider</t>
-        <t pos="n" xml:lang="sme">fabrihkkabargi</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">factory worker</t>
-        <t pos="n" xml:lang="eng">factory employee</t>
-        <t pos="n" xml:lang="deu">Fabrikarbeiter</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">fabrikkarbeider</t>
+	<t pos="n" xml:lang="sme">fabrihkkabargi</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">factory worker</t>
+	<t pos="n" xml:lang="eng">factory employee</t>
+	<t pos="n" xml:lang="deu">Fabrikarbeiter</t>
       </tg>
     </mg>
   </e>
@@ -280,22 +307,25 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">arbeider</t>
-        <t pos="n" xml:lang="sme">bargi</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">worker</t>
-        <t pos="n" xml:lang="deu">Arbeiter</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">arbeider</t>
+	<t pos="n" xml:lang="sme">bargi</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">worker</t>
+	<t pos="n" xml:lang="deu">Arbeiter</t>
       </tg>
     </mg>
   </e>
@@ -305,24 +335,27 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">kjøpmann</t>
-        <t pos="n" xml:lang="sme">gávpeolmmái</t>
-        <t pos="n" xml:lang="sme">gávpejas</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">merchandiser</t>
-        <t pos="n" xml:lang="eng">merchant</t>
-        <t pos="n" xml:lang="deu">Kaufmann</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">kjøpmann</t>
+	<t pos="n" xml:lang="sme">gávpeolmmái</t>
+	<t pos="n" xml:lang="sme">gávpejas</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">merchandiser</t>
+	<t pos="n" xml:lang="eng">merchant</t>
+	<t pos="n" xml:lang="deu">Kaufmann</t>
       </tg>
     </mg>
   </e>
@@ -332,17 +365,17 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <semantics>
-          <sem class="HUMAN" />
-          <sem class="PROFESSION" />
-        </semantics>
-        <t pos="n" xml:lang="nob">kjøpmann</t>
-        <t pos="n" xml:lang="sme">gávpeolmmái</t>
-        <t pos="n" xml:lang="sme">gávpejas</t>
-        <t pos="n" xml:lang="swe"></t>
-        <t pos="n" xml:lang="eng">merchandiser</t>
-        <t pos="n" xml:lang="eng">merchant</t>
-        <t pos="n" xml:lang="deu">Kaufmann</t>
+	<semantics>
+	  <sem class="HUMAN" />
+	  <sem class="PROFESSION" />
+	</semantics>
+	<t pos="n" xml:lang="nob">kjøpmann</t>
+	<t pos="n" xml:lang="sme">gávpeolmmái</t>
+	<t pos="n" xml:lang="sme">gávpejas</t>
+	<t pos="n" xml:lang="swe"></t>
+	<t pos="n" xml:lang="eng">merchandiser</t>
+	<t pos="n" xml:lang="eng">merchant</t>
+	<t pos="n" xml:lang="deu">Kaufmann</t>
       </tg>
     </mg>
   </e>
@@ -352,9 +385,12 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
-        </sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
+	</sources>
       </app>
     </apps>
     <mg>
@@ -379,8 +415,11 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
-          <book name="aalkoe1" />
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
+	  <book name="aalkoe1" />
         </sources>
       </app>
     </apps>
@@ -405,7 +444,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -523,7 +565,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -549,7 +594,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -613,7 +661,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -678,7 +729,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -704,7 +758,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -738,7 +795,10 @@ For the full license text, see the link above.</lic>
     </lg>
     <apps>
       <app name="oahpa">
-        <sources>
+	<sources>
+	  <book name="l1"/>
+	  <book name="l2"/>
+	  <book name="l3"/>
           <book name="aalkoe1" />
         </sources>
       </app>
@@ -798,29 +858,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
-  <!--   <e> -->
-  <!--     <lg> -->
-  <!--       <l pos="n"></l> -->
-  <!--     </lg> -->
-  <!--       <apps> -->
-  <!-- 	<appl name="oahpa"> -->
-  <!-- 	  <sources> -->
-  <!-- 	    <book name=""/> -->
-  <!-- 	  </sources> -->
-  <!-- 	</appl> -->
-  <!--       </ag> -->
-  <!--     <mg> -->
-  <!--       <tg> -->
-  <!-- 	  <semantics> -->
-  <!-- 	    <sem class=""/> -->
-  <!-- 	  </semantics> -->
-  <!--         <t xml:lang="nob" pos="n"></t> -->
-  <!--         <t xml:lang="sme" pos="n"></t> -->
-  <!--         <t xml:lang="swe" pos="n"></t> -->
-  <!--         <t xml:lang="eng" pos="n"></t> -->
-  <!--         <t xml:lang="deu" pos="n"></t> -->
-  <!--       </tg> -->
-  <!--     </mg> -->
-  <!--   </e> -->
+
   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+
 </r>
