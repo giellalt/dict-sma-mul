@@ -1,299 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-  <e>
-    <lg>
-      <l pos="n">vielpele</l>
-    </lg>
-    <apps>
-      <app name="oahpa">
-	<sources>
-	  <book name="l1"/>
-	  <book name="l2"/>
-	  <book name="l3"/>
-	</sources>
-      </app>
-    </apps>
-    <mg>
-      <tg>
-	<semantics>
-	  <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	</semantics>
-	<t xml:lang="nob" pos="n">fetter</t>
-	<t xml:lang="sme" pos="n">2. vilbealli</t>
-	<t xml:lang="swe" pos="n"></t>
-	<t xml:lang="eng" pos="n">cousin</t>
-	<t xml:lang="deu" pos="n">Vetter</t>
-	<t xml:lang="deu" pos="n">Cousin</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">åerpele</l>
-    </lg>
-    <apps>
-      <app name="oahpa">
-	<sources>
-	  <book name="l1"/>
-	  <book name="l2"/>
-	  <book name="l3"/>
-	</sources>
-      </app>
-    </apps>
-    <mg>
-      <tg>
-	<semantics>
-	  <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	</semantics>
-	<t xml:lang="nob" pos="n">kusine</t>
-	<t xml:lang="sme" pos="n">2.oambealli</t>
-	<t xml:lang="swe" pos="n"></t>
-	<t xml:lang="eng" pos="n">cousin</t>
-	<t xml:lang="deu" pos="n">Cousine</t>
-	<t xml:lang="deu" pos="n">Kusine</t>
-	<t xml:lang="deu" pos="n">Base</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">laevie</l>
-    </lg>
-    <apps>
-      <app name="oahpa">
-	<sources>
-	  <book name="l1"/>
-	  <book name="l2"/>
-	  <book name="l3"/>
-	</sources>
-      </app>
-    </apps>
-    <mg>
-      <tg>
-	<semantics>
-	  <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	</semantics>
-	<t xml:lang="nob" pos="n">tremenning</t>
-	<t xml:lang="sme" pos="n">3. buolvvas   vilbealli/oambealli</t>
-	<t xml:lang="swe" pos="n"></t>
-	<t xml:lang="eng" pos="n">second cousin</t>
-	<t xml:lang="deu" pos="n">das Andergeschwisterkind; Verwandte zweiten Grades</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="n">baahtje</l>
-    </lg>
-    <apps>
-      <app name="oahpa">
-	<sources>
-	  <book name="l1"/>
-	  <book name="l2"/>
-	  <book name="l3"/>
-	</sources>
-      </app>
-    </apps>
-    <mg>
-      <tg>
-	<semantics>
-	  <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	</semantics>
-	<t xml:lang="nob" pos="n">gutt</t>
-	<t xml:lang="sme" pos="n">bárdni</t>
-	<t xml:lang="swe" pos="n"></t>
-	<t xml:lang="eng" pos="n">boy</t>
-	<t xml:lang="deu" pos="n">Junge</t>
-      </tg>
-    </mg>
-  </e>
    <e>
-     <lg>
-       <l pos="n">baernie</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	  <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">gutt</t>
-	 <t xml:lang="sme" pos="n">bárdni</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">boy</t>
-	 <t xml:lang="deu" pos="n">Junge</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">vielpele</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">fetter</t>
+            <t pos="n" xml:lang="sme">2. vilbealli</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">cousin</t>
+            <t pos="n" xml:lang="deu">Vetter</t>
+            <t pos="n" xml:lang="deu">Cousin</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">tjidtjie</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">mor</t>
-	 <t xml:lang="sme" pos="n">eadni</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">mother</t>
-	 <t xml:lang="deu" pos="n">Mutter</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">åerpele</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">kusine</t>
+            <t pos="n" xml:lang="sme">2.oambealli</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">cousin</t>
+            <t pos="n" xml:lang="deu">Cousine</t>
+            <t pos="n" xml:lang="deu">Kusine</t>
+            <t pos="n" xml:lang="deu">Base</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">tjidtjie-bielie</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">stemor</t>
-	 <t xml:lang="sme" pos="n">eadni-bealle</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">stepmother</t>
-	 <t xml:lang="deu" pos="n">Stiefmutter</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">laevie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">tremenning</t>
+            <t pos="n" xml:lang="sme">3. buolvvas vilbealli/oambealli</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">second cousin</t>
+            <t pos="n" xml:lang="deu">das Andergeschwisterkind; Verwandte zweiten Grades</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">jiekie</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	   <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">farbror, fars eldre bror</t>
-	 <t xml:lang="sme" pos="n">eahki</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">uncle</t>
-	 <t xml:lang="deu" pos="n">Onkel</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">baahtje</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">gutt</t>
+            <t pos="n" xml:lang="sme">bárdni</t>
+            <t pos="n" xml:lang="swe">pojke</t>
+            <t pos="n" xml:lang="eng">boy</t>
+            <t pos="n" xml:lang="deu">Junge</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">jiekuve</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">onkelbarn, av fars eldre bror</t>
-	 <t xml:lang="sme" pos="n">eahkit</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n"></t>
-	 <t xml:lang="deu" pos="n"></t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">baernie</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">gutt</t>
+            <t pos="n" xml:lang="sme">bárdni</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">boy</t>
+            <t pos="n" xml:lang="deu">Junge</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">geellege</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">kone</t>
-	 <t xml:lang="sme" pos="n">eamit</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">wife</t>
-	 <t xml:lang="deu" pos="n">Ehefrau</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">tjidtjie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">mor</t>
+            <t pos="n" xml:lang="sme">eadni</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">mother</t>
+            <t pos="n" xml:lang="deu">Mutter</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">jyöne</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">morbror</t>
-	 <t xml:lang="sme" pos="n">eanu</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n"></t>
-	 <t xml:lang="deu" pos="n"></t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">tjidtjie-bielie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">stemor</t>
+            <t pos="n" xml:lang="sme">eadni-bealle</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">stepmother</t>
+            <t pos="n" xml:lang="deu">Stiefmutter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiekie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">farbror, fars eldre bror</t>
+            <t pos="n" xml:lang="sme">eahki</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">uncle</t>
+            <t pos="n" xml:lang="deu">Onkel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jiekuve</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">onkelbarn, av fars eldre bror</t>
+            <t pos="n" xml:lang="sme">eahkit</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">geellege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">kone</t>
+            <t pos="n" xml:lang="sme">eamit</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">wife</t>
+            <t pos="n" xml:lang="deu">Ehefrau</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">jyöne</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">morbror</t>
+            <t pos="n" xml:lang="sme">eanu</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
          <l pos="n">jueskiedahke</l>
       </lg>
       <apps>
-	<app name="oahpa">
-	  <sources>
-	    <book name="l1"/>
-	    <book name="l2"/>
-	    <book name="l3"/>
-	  </sources>
-	</app>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
       </apps>
       <mg>
-	<tg>
-	  <semantics>
-	    <sem class="HUMAN"/>
-	    <sem class="FAMILY"/>
-	  </semantics>
-	  <t xml:lang="nob" pos="n">kjøleskap</t>
-	  <t xml:lang="sme" pos="n">galbmaskáhpe</t>
-	  <t xml:lang="swe" pos="n"></t>
-	  <t xml:lang="eng" pos="n">fridge</t>
-	  <t xml:lang="deu" pos="n">Kühlschrank</t>
-	</tg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">kjøleskap</t>
+            <t pos="n" xml:lang="sme">galbmaskáhpe</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">fridge</t>
+            <t pos="n" xml:lang="deu">Kühlschrank</t>
+         </tg>
       </mg>
    </e>
    <e>
@@ -302,177 +306,177 @@
       </lg>
       <mg>
          <tg>
-	   <semantics>
-	     <sem class="HUMAN"/>
-	   </semantics>
-	   <t xml:lang="nob" pos="n">tante, mors eldre søster</t>
-            <t xml:lang="sme" pos="n">goaski</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">tante, mors eldre søster</t>
+            <t pos="n" xml:lang="sme">goaski</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">gåeskuve</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">tantebarn, av mors eldre søster</t>
-	 <t xml:lang="sme" pos="n">goaskit</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n"></t>
-	 <t xml:lang="deu" pos="n"></t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">gåeskuve</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">tantebarn, av mors eldre søster</t>
+            <t pos="n" xml:lang="sme">goaskit</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">neebne</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	   <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">navnesøster, navnebror</t>
-	 <t xml:lang="sme" pos="n">gáibmi</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">namesake</t>
-	 <t xml:lang="deu" pos="n">Namensschwester; Namensvetter, Namensbruder</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">neebne</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">navnesøster, navnebror</t>
+            <t pos="n" xml:lang="sme">gáibmi</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">namesake</t>
+            <t pos="n" xml:lang="deu">Namensschwester; Namensvetter, Namensbruder</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
          <l pos="n">geelle</l>
       </lg>
       <mg>
-	<tg>
-	  <semantics>
-	    <sem class="HUMAN"/>
-	  </semantics>
-	  <t xml:lang="nob" pos="n">ektemann</t>
-	  <t xml:lang="sme" pos="n">isit, boadnji</t>
-	  <t xml:lang="swe" pos="n"></t>
-	  <t xml:lang="eng" pos="n">husband</t>
-	  <t xml:lang="deu" pos="n">Ehemann</t>
-	</tg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">ektemann</t>
+            <t pos="n" xml:lang="sme">isit, boadnji</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">husband</t>
+            <t pos="n" xml:lang="deu">Ehemann</t>
+         </tg>
       </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">muahra</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">tante, mors yngre søster</t>
-	 <t xml:lang="sme" pos="n">muoŧŧá</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">aunt</t>
-	 <t xml:lang="deu" pos="n">Tante</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">muahra</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">tante, mors yngre søster</t>
+            <t pos="n" xml:lang="sme">muoŧŧá</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">aunt</t>
+            <t pos="n" xml:lang="deu">Tante</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">maana</l>
-     </lg>
-       <apps>
-	 <app name="oahpa">
-	   <sources>
-	     <book name="l1"/>
-	     <book name="l2"/>
-	     <book name="l3"/>
-	   </sources>
-	 </app>
-       </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	  <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">barn</t>
-	 <t xml:lang="sme" pos="n">mánná</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">child</t>
-	 <t xml:lang="deu" pos="n">Kind</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">maana</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">barn</t>
+            <t pos="n" xml:lang="sme">mánná</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">child</t>
+            <t pos="n" xml:lang="deu">Kind</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">maadteraahka</l>
-     </lg>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">oldemor</t>
-	 <t xml:lang="sme" pos="n">máttaráhkku</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n"></t>
-	 <t xml:lang="deu" pos="n"></t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">maadteraahka</l>
+      </lg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">oldemor</t>
+            <t pos="n" xml:lang="sme">máttaráhkku</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">neapede</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	   <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">nevø</t>
-	 <t xml:lang="sme" pos="n">neahpi</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">nephew</t>
-	 <t xml:lang="deu" pos="n">Neffe</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">neapede</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">nevø</t>
+            <t pos="n" xml:lang="sme">neahpi</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">nephew</t>
+            <t pos="n" xml:lang="deu">Neffe</t>
+         </tg>
+      </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">nïejte</l>
-     </lg>
-     <mg>
-       <tg>
-            <t xml:lang="nob" pos="n">jente</t>
-            <t xml:lang="sme" pos="n">nieida</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+      <lg>
+         <l pos="n">nïejte</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n" xml:lang="nob">jente</t>
+            <t pos="n" xml:lang="sme">nieida</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -482,11 +486,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">kvinne</t>
-            <t xml:lang="sme" pos="n">nisu</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">kvinne</t>
+            <t pos="n" xml:lang="sme">nisu</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -496,38 +500,38 @@
       </lg>
       <mg>
          <tg>
-	   <semantics>
-	     <sem class="HUMAN"/>
-	   </semantics>
-	   <t xml:lang="nob" pos="n">søster</t>
-	   <t xml:lang="sme" pos="n">oabbá</t>
-	   <t xml:lang="swe" pos="n"></t>
-	   <t xml:lang="eng" pos="n"></t>
-	   <t xml:lang="deu" pos="n"></t>
-	 </tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">søster</t>
+            <t pos="n" xml:lang="sme">oabbá</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
+         </tg>
       </mg>
    </e>
    <e>
-     <lg>
+      <lg>
          <l pos="n">alma</l>
       </lg>
       <apps>
-	<app name="oahpa">
-	  <sources>
-	    <book name="l1"/>
-	    <book name="l2"/>
-	    <book name="l3"/>
-	  </sources>
-	</app>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
       </apps>
       <mg>
-	<tg>
-	  <t xml:lang="nob" pos="n">mann</t>
-	  <t xml:lang="sme" pos="n">olmmái, dievdu</t>
-	  <t xml:lang="swe" pos="n"></t>
-	  <t xml:lang="eng" pos="n">man</t>
-	  <t xml:lang="deu" pos="n">Mann</t>
-	</tg>
+         <tg>
+            <t pos="n" xml:lang="nob">mann</t>
+            <t pos="n" xml:lang="sme">olmmái, dievdu</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">man</t>
+            <t pos="n" xml:lang="deu">Mann</t>
+         </tg>
       </mg>
    </e>
    <e>
@@ -535,44 +539,44 @@
          <l pos="n">kaarre</l>
       </lg>
       <mg>
-	<tg>
-	  <semantics>
-	    <sem class="HUMAN"/>
-	  </semantics>
-	  <t xml:lang="nob" pos="n">mann</t>
-	  <t xml:lang="sme" pos="n">olmmái, dievdu</t>
-	  <t xml:lang="swe" pos="n"></t>
-	  <t xml:lang="eng" pos="n">man</t>
-	  <t xml:lang="deu" pos="n">Mann</t>
-	</tg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+            </semantics>
+            <t pos="n" xml:lang="nob">mann</t>
+            <t pos="n" xml:lang="sme">olmmái, dievdu</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">man</t>
+            <t pos="n" xml:lang="deu">Mann</t>
+         </tg>
       </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">ålma</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	   <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">mann</t>
-	 <t xml:lang="sme" pos="n">olmmái, dievdu</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">man</t>
-	 <t xml:lang="deu" pos="n">Mann</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">ålma</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">mann</t>
+            <t pos="n" xml:lang="sme">olmmái, dievdu</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">man</t>
+            <t pos="n" xml:lang="deu">Mann</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -580,11 +584,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">samboer</t>
-            <t xml:lang="sme" pos="n">ovttasorru</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">samboer</t>
+            <t pos="n" xml:lang="sme">ovttasorru</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -594,11 +598,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">gudmor</t>
-            <t xml:lang="sme" pos="n">risteadni</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">gudmor</t>
+            <t pos="n" xml:lang="sme">risteadni</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -608,11 +612,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">gudfar</t>
-            <t xml:lang="sme" pos="n">ristáhčči</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">gudfar</t>
+            <t pos="n" xml:lang="sme">ristáhčči</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -622,11 +626,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">tantebarn, av mors eldre søster</t>
-            <t xml:lang="sme" pos="n">siessal</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">tantebarn, av mors eldre søster</t>
+            <t pos="n" xml:lang="sme">siessal</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -636,11 +640,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">tante, mors eldre søster</t>
-            <t xml:lang="sme" pos="n">siessá</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">tante, mors eldre søster</t>
+            <t pos="n" xml:lang="sme">siessá</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -650,40 +654,40 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">bror</t>
-            <t xml:lang="sme" pos="n">viellja</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">bror</t>
+            <t pos="n" xml:lang="sme">viellja</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
    <e>
-     <lg>
-       <l pos="n">aajkohke</l>
-     </lg>
-     <apps>
-       <app name="oahpa">
-	 <sources>
-	   <book name="l1"/>
-	   <book name="l2"/>
-	   <book name="l3"/>
-	 </sources>
-       </app>
-     </apps>
-     <mg>
-       <tg>
-	 <semantics>
-	   <sem class="HUMAN"/>
-	   <sem class="FAMILY"/>
-	 </semantics>
-	 <t xml:lang="nob" pos="n">søskenbarn</t>
-	 <t xml:lang="sme" pos="n">vilbealli/oambealli</t>
-	 <t xml:lang="swe" pos="n"></t>
-	 <t xml:lang="eng" pos="n">(first) cousin</t>
-	 <t xml:lang="deu" pos="n">Geschwisterkind</t>
-       </tg>
-     </mg>
+      <lg>
+         <l pos="n">aajkohke</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN" />
+               <sem class="FAMILY" />
+            </semantics>
+            <t pos="n" xml:lang="nob">søskenbarn</t>
+            <t pos="n" xml:lang="sme">vilbealli/oambealli</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng">(first) cousin</t>
+            <t pos="n" xml:lang="deu">Geschwisterkind</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -691,11 +695,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">barnebarn, av bestefar</t>
-            <t xml:lang="sme" pos="n">áddjut</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">barnebarn, av bestefar</t>
+            <t pos="n" xml:lang="sme">áddjut</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -705,11 +709,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">bestefar</t>
-            <t xml:lang="sme" pos="n">áddjá</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">bestefar</t>
+            <t pos="n" xml:lang="sme">áddjá</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -719,11 +723,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">bestemor</t>
-            <t xml:lang="sme" pos="n">áhkku</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">bestemor</t>
+            <t pos="n" xml:lang="sme">áhkku</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -733,11 +737,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">barnebarn, av bestemor</t>
-            <t xml:lang="sme" pos="n">áhkkut</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">barnebarn, av bestemor</t>
+            <t pos="n" xml:lang="sme">áhkkut</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -747,11 +751,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">far</t>
-            <t xml:lang="sme" pos="n">áhčči</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">far</t>
+            <t pos="n" xml:lang="sme">áhčči</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -761,11 +765,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">farbror, fars yngre bror</t>
-            <t xml:lang="sme" pos="n">čeahci</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">farbror, fars yngre bror</t>
+            <t pos="n" xml:lang="sme">čeahci</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
@@ -775,11 +779,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="nob" pos="n">onkelbarn, av fars yngre bror</t>
-            <t xml:lang="sme" pos="n">čeahcit</t>
-            <t xml:lang="swe" pos="n"></t>
-            <t xml:lang="eng" pos="n"></t>
-            <t xml:lang="deu" pos="n"></t>
+            <t pos="n" xml:lang="nob">onkelbarn, av fars yngre bror</t>
+            <t pos="n" xml:lang="sme">čeahcit</t>
+            <t pos="n" xml:lang="swe" />
+            <t pos="n" xml:lang="eng" />
+            <t pos="n" xml:lang="deu" />
          </tg>
       </mg>
    </e>
