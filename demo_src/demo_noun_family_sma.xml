@@ -11,7 +11,6 @@
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="l1" />
                <book name="l2" />
                <book name="l3" />
             </sources>
@@ -24,6 +23,10 @@
                <sem class="FAMILY" />
             </semantics>
             <t pos="n" xml:lang="nob">fetter</t>
+            <t pos="n" xml:lang="nob">søskenbarn</t>
+            <t pos="n" xml:lang="nob">mannlig tremenning</t>
+            <t pos="n" xml:lang="nob">mannlig søskenbarn</t>
+            <t pos="n" xml:lang="nob">tremenning</t>
             <t pos="n" xml:lang="sme">2. vilbealli</t>
             <t pos="n" xml:lang="swe" />
             <t pos="n" xml:lang="eng">cousin</t>
@@ -39,7 +42,6 @@
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="l1" />
                <book name="l2" />
                <book name="l3" />
             </sources>
@@ -52,6 +54,10 @@
                <sem class="FAMILY" />
             </semantics>
             <t pos="n" xml:lang="nob">kusine</t>
+            <t pos="n" xml:lang="nob">søskenbarn</t>
+           <t pos="n" xml:lang="nob">kvinnelig søskenbarn</t>
+           <t pos="n" xml:lang="nob">kvinnelig tremenning</t>
+           <t pos="n" xml:lang="nob">tremenning</t>
             <t pos="n" xml:lang="sme">2.oambealli</t>
             <t pos="n" xml:lang="swe" />
             <t pos="n" xml:lang="eng">cousin</t>
@@ -204,7 +210,10 @@
                <sem class="HUMAN" />
                <sem class="FAMILY" />
             </semantics>
-            <t pos="n" xml:lang="nob">farbror, fars eldre bror</t>
+            <t pos="n" xml:lang="nob">fars eldre bror</t>
+             <t pos="n" xml:lang="nob">farbror</t>
+              <t pos="n" xml:lang="nob">fars eldre fetter</t>
+               <t pos="n" xml:lang="nob">onkel</t>
             <t pos="n" xml:lang="sme">eahki</t>
             <t pos="n" xml:lang="swe" />
             <t pos="n" xml:lang="eng">uncle</t>
@@ -304,16 +313,34 @@
       <lg>
          <l pos="n">gåeskie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="l1" />
+               <book name="l2" />
+               <book name="l3" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <semantics>
                <sem class="HUMAN" />
             </semantics>
-            <t pos="n" xml:lang="nob">tante, mors eldre søster</t>
+            <t pos="n" xml:lang="nob" level="l2">mors eldre søster</t>
+            <t pos="n" xml:lang="nob" level="l1">tante</t>
+            <t pos="n" xml:lang="nob" level="l1">moster</t>
+            <t pos="n" xml:lang="nob" level="l2">mors eldre kusine</t>
+            <t pos="n" xml:lang="nob" level="l3">mormors eldre søster</t>
             <t pos="n" xml:lang="sme">goaski</t>
-            <t pos="n" xml:lang="swe" />
-            <t pos="n" xml:lang="eng" />
-            <t pos="n" xml:lang="deu" />
+            <t pos="n" xml:lang="swe" level="l2">mors äldre syster</t>
+            <t pos="n" xml:lang="swe" level="l1">tant</t>
+            <t pos="n" xml:lang="swe" level="l">mors äldre syster</t>
+            <t pos="n" xml:lang="swe" level="l1">moster</t>
+            <t pos="n" xml:lang="swe" level="l2">mors äldre kusin</t>
+            <t pos="n" xml:lang="swe" level="l3">mormors äldre syster</t>
+            <t pos="n" xml:lang="eng">aunt</t>
+            <t pos="n" xml:lang="deu">Tante</t>
          </tg>
       </mg>
    </e>
