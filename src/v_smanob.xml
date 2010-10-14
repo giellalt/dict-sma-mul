@@ -104,8 +104,8 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
             </semantics>
             <t pos="v" xml:lang="nob">oppdage</t>
-            <t pos="n">bli var</t>
-            <t pos="v" xml:lang="nob">legge merke til</t>
+            <t pos="phrase">bli var</t>
+            <t pos="phrase" xml:lang="nob">legge merke til</t>
             <t pos="v" xml:lang="nob">merke</t>
          </tg>
       </mg>
@@ -406,7 +406,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="AUX_V" />
+               <sem class="TIME_V" />
             </semantics>
             <t pos="v" xml:lang="nob">begynne</t>
          </tg>
@@ -473,8 +474,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
-               <sem class="ZZZ" />
+               <sem class="EXPERIENCE_V" />
             </semantics>
             <t pos="v" xml:lang="nob">anta</t>
             <t pos="v" xml:lang="nob">forstå</t>
@@ -621,10 +621,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
-               <sem class="ZZZ" />
+               <sem class="TIME_V" />
+               <sem class="AUX_V" />
             </semantics>
-            <t pos="v" xml:lang="nob">ha tid til noe</t>
+            <t pos="phrase" xml:lang="nob">ha tid</t>
          </tg>
       </mg>
    </e>
@@ -5821,12 +5821,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">tilby</t>
-            <t pos="n">by</t>
-            <t pos="n">gi tilbud</t>
          </tg>
       </mg>
    </e>
@@ -5904,12 +5902,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">omfavne</t>
-            <t pos="???">omfavne hverandre</t>
-            <t pos="???">omfavne flere etter tur</t>
          </tg>
       </mg>
    </e>
@@ -5938,7 +5934,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="EXPERIENCE_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">våkne</t>
@@ -6015,12 +6011,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="TRAVEL_V" />
+               <sem class="YYY" />
+               <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">reise</t>
             <t pos="v" xml:lang="nob">fare</t>
             <t pos="v" xml:lang="nob">drive på å farte</t>
-            <t pos="???">drive på å reise</t>
          </tg>
       </mg>
    </e>
@@ -6065,7 +6061,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="TRAVEL_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">reise</t>
@@ -6093,7 +6089,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="TRAVEL_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">fare</t>
@@ -6290,10 +6286,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="YYY" />
+               <sem class="ZZZ" />
             </semantics>
-            <t pos="phrase" xml:lang="nob">ha det travelt</t>
-            <t pos="phrase">skynde seg</t>
+            <t pos="v" xml:lang="nob">ha det traveltskynde seg</t>
          </tg>
       </mg>
    </e>
@@ -6317,7 +6313,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">mangle</t>
@@ -6366,12 +6362,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t pos="phrase" xml:lang="nob">bli heftet</t>
-            <t pos="phrase" xml:lang="nob">hefte seg</t>
-            <t pos="phrase" xml:lang="nob">bli oppholdt</t>
+            <t pos="v" xml:lang="nob">hefte seg</t>
+            <t pos="v" xml:lang="nob">bli heftet</t>
+            <t pos="v" xml:lang="nob">bli oppholdt</t>
          </tg>
       </mg>
    </e>
@@ -6447,12 +6443,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
-               <sem class="FEELING" />
+               <sem class="YYY" />
+               <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">le</t>
-            <t pos="v">flire</t>
-            <t pos="v">skratte</t>
          </tg>
       </mg>
    </e>
@@ -6496,13 +6490,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
-               <sem class="BODY_V" />
+               <sem class="YYY" />
+               <sem class="ZZZ" />
             </semantics>
             <t pos="v" xml:lang="nob">stirre</t>
             <t pos="v" xml:lang="nob">nistirre</t>
-            <t pos="n">glane</t>
-            <t pos="n">glo</t>
          </tg>
       </mg>
    </e>
@@ -6528,17 +6520,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t pos="phrase" xml:lang="nob">skynde seg</t>
-         </tg>
-         <tg>
-            <semantics>
-               <sem class="LEISURETIME_HOME_V" />
-            </semantics>
-            <t pos="phrase">kappes</t>
-            <t pos="phrase">løpe om kapp</t>
+            <t pos="v" xml:lang="nob">kappes</t>
+            <t pos="v" xml:lang="nob">skynde seg</t>
          </tg>
       </mg>
    </e>
@@ -6583,11 +6569,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_V" />
+               <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t pos="v" xml:lang="nob">vade</t>
-            <t pos="phrase">drive på å vade</t>
+            <t pos="v" xml:lang="nob">drive på å vade</t>
          </tg>
       </mg>
    </e>
@@ -6628,9 +6613,6 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t pos="v" xml:lang="nob">falle om</t>
          </tg>
-         <tg>
-            <t pos="phrase">falle bakover</t>
-         </tg>
       </mg>
    </e>
    <e>
@@ -6656,17 +6638,7 @@ For the full license text, see the link above.</lic>
                <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t pos="phrase" xml:lang="nob">plutselig falle bakover</t>
-         </tg>
-         <tg>
-            <t pos="phrase">falle på ryggen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <semantics />
-            <t pos="phrase">dø om dyr</t>
-            <t pos="v" translationcomment="yes">dø</t>
+            <t pos="v" xml:lang="nob">plutselig falle bakover</t>
          </tg>
       </mg>
    </e>
