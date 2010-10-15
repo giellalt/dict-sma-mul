@@ -140,6 +140,15 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="YYY" />
+               <sem class="ZZZ" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" translationcomment="no" xml:lang="nob">tidlig</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4128,6 +4137,7 @@ For the full license text, see the link above.</lic>
                <book name="s3" />
                <book name="dej" />
                <book name="åa1" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -4183,6 +4193,7 @@ For the full license text, see the link above.</lic>
                <book name="s2" />
                <book name="dej" />
                <book name="åa5" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -4218,8 +4229,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">luvrege</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="ANIMAL_A" />
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" translationcomment="no">lydig</t>
          </tg>
       </mg>
@@ -4243,6 +4265,26 @@ For the full license text, see the link above.</lic>
                <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" translationcomment="no" xml:lang="nob">tung</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">låabpoeh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HERDING" />
+            </semantics>
+            <t pos="a">spredt</t>
          </tg>
       </mg>
    </e>
@@ -4384,6 +4426,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -4429,7 +4472,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="s3" />
-               <book name="åa1" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
