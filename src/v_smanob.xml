@@ -18705,6 +18705,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s4" />
                <book name="åa3" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -18749,14 +18750,10 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="dej" />
                <book name="åa5" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no">forlate, la bli igjen, legge igjen</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <semantics>
@@ -18807,6 +18804,27 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="v" translationcomment="no">slå</t>
             <t dict="yes" oa="yes" pos="v" translationcomment="no">pryle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">laemtjiestidh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HERDING" />
+            </semantics>
+            <t pos="m">legge på kjøretøm</t>
+            <t pos="m">legge på leietøm</t>
          </tg>
       </mg>
    </e>
@@ -19033,6 +19051,7 @@ For the full license text, see the link above.</lic>
                <book name="s2" />
                <book name="a1" />
                <book name="åa1" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -19048,8 +19067,35 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="v">leamkodh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="YYY" />
+            </semantics>
+            <t pos="v">tine</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l p3p="leamoste" pos="v">leamoestidh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="v" translationcomment="no">koke ut kraft, koke ut kraft (f.eks. av bein), koka
@@ -19058,6 +19104,40 @@ For the full license text, see the link above.</lic>
                <x>måaroeh leamoestidh</x>
                <xt>koke kraft av bein</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="YYY" />
+            </semantics>
+            <t pos="v">forvelle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">leatskodh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="YYY" />
+            </semantics>
+            <t pos="phrase">synke ned</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="YYY" />
+            </semantics>
+            <t pos="phrase">synke sammen</t>
          </tg>
       </mg>
    </e>
@@ -19276,9 +19356,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v">libnjiedidh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="v" translationcomment="no">stinke</t>
+            <t pos="phrase">lukte vondt</t>
             <xg>
                <x>libnjede</x>
                <xt>det stinker</xt>
@@ -19582,6 +19670,7 @@ For the full license text, see the link above.</lic>
                <book name="dej" />
                <book name="åa1" />
                <book name="åa3" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -19696,6 +19785,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="v">lovvehtidh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="CLOTHES_V" />
+            </semantics>
+            <t pos="n">bløyte</t>
+            <t pos="phrase">legge i vann</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l minip="notSg1" p3p="lovvesje" pos="v">lovvesjidh</l>
       </lg>
       <mg>
@@ -19755,7 +19865,29 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="I" p3p="luajhta" pos="v">luejhtedh</l>
+         <l pos="v">luehkedh</l>
+      </lg>
+      <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="VÆTNOE" />
+            </semantics>
+            <t pos="v">flamme</t>
+            <t pos="phrase">flamme skoband</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l class="I" p3p="luajhta" pos="n">luejhtedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -19763,6 +19895,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s4" />
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -19959,6 +20092,7 @@ For the full license text, see the link above.</lic>
                <book name="dej" />
                <book name="åa2" />
                <book name="åa5" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -19970,10 +20104,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="HUMAN_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">løfte</t>
+            <t pos="v">heve</t>
          </tg>
       </mg>
    </e>
@@ -20034,6 +20169,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s3" />
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -20045,7 +20181,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="HUMAN_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">like</t>
@@ -20133,18 +20269,20 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="åa3" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="CLOTHES_V" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">smette på</t>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">putte fotsålen ned i skoen</t>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">putte fotsålen med i tøffelen</t>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">smette på</t>
+            <t dict="no" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">putte fotsålen ned i skoen</t>
+            <t dict="no" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">putte fotsålen med i tøffelen</t>
+            <t dict="no" pos="phrase">ta på sko løselig</t>
          </tg>
       </mg>
    </e>
@@ -20199,6 +20337,27 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="n">lårhvoehbïenje</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="ANIMAL_PET" />
+            </semantics>
+            <t pos="phrase">lurvet hund</t>
+            <t pos="phrase">hund med tykk pels</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="v1">låsmtsdehtedh</l>
       </lg>
       <mg>
@@ -20222,14 +20381,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l p3p="låvna" pos="v">låvnedh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no">sprette av forskrekkelse</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no">stå opp (om sol)</t>
+            <semantics>
+               <sem class="NATURE_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no">stå opp</t>
+            <t pos="phrase">sprette opp om sola</t>
          </tg>
       </mg>
    </e>
@@ -20330,14 +20495,10 @@ For the full license text, see the link above.</lic>
                <book name="s2" />
                <book name="åa3" />
                <book name="åa5" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no">hvile</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <semantics>
@@ -20399,6 +20560,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="åa2" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -20414,7 +20576,7 @@ For the full license text, see the link above.</lic>
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">temperere</t>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">lunke på</t>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">lunke på</t>
          </tg>
       </mg>
    </e>
@@ -20550,13 +20712,14 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="HUMAN_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">breie utover</t>
@@ -20617,6 +20780,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="v">løønelidh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t pos="phrase">låne bort som snarest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l p3p="lööneste" pos="v">löönestidh</l>
       </lg>
       <mg>
@@ -20634,6 +20817,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="åa3" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -20649,12 +20833,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="NATURE_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">kløyve</t>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">flekke (om kjøtt,fisk)</t>
-            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">skjære opp langsetter</t>
+            <t dict="yes" oa="yes" pos="v" translationcomment="no" xml:lang="nob">flekke</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t pos="phrase">skjære opp langsetter</t>
          </tg>
       </mg>
    </e>
