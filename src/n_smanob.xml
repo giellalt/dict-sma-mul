@@ -28790,6 +28790,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="a1" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -28815,9 +28816,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">najpetje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="m" translationcomment="no">liten kniv</t>
+            <semantics>
+               <sem />
+            </semantics>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no">liten kniv</t>
          </tg>
       </mg>
    </e>
@@ -29494,6 +29505,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="s4" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -29503,8 +29515,28 @@ For the full license text, see the link above.</lic>
                <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="n" translationcomment="no" xml:lang="nob">tørr</t>
-            <t dict="yes" oa="yes" pos="n" translationcomment="no" xml:lang="nob">gressbevokst voll</t>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">tørrlendt voll</t>
+            <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">gressbevokst voll</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">njevlie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem />
+            </semantics>
+            <t pos="phrase">slim på stein i elv</t>
          </tg>
       </mg>
    </e>
@@ -29656,6 +29688,26 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="n">njoktjeme</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem />
+            </semantics>
+            <t pos="n">tunge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">njuana</l>
       </lg>
       <stem class="bisyllabic"></stem>
@@ -29664,6 +29716,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="dej" />
                <book name="åa1" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -29721,6 +29774,7 @@ For the full license text, see the link above.</lic>
                <book name="s3" />
                <book name="åa1" />
                <book name="åa2" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -29736,6 +29790,13 @@ For the full license text, see the link above.</lic>
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="n" translationcomment="no" xml:lang="nob">nese</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem />
+            </semantics>
+            <t pos="n">fjellnase</t>
+            <t pos="phrase">utløper av fjell</t>
          </tg>
       </mg>
    </e>
@@ -29873,8 +29934,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">njïdtjele</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem />
+            </semantics>
             <t dict="yes" oa="yes" pos="m" translationcomment="no">godkvae</t>
          </tg>
       </mg>
@@ -30136,6 +30207,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s2" />
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -30183,6 +30255,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="dej" />
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
