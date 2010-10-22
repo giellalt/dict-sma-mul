@@ -8851,14 +8851,8 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">stirre, nistirre</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="HUMAN_V" />
-               <sem class="BODY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">stirre</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">nistirre</t>
@@ -8882,11 +8876,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="HUMAN_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">måpe</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">stirre</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t pos="v">stirre</t>
          </tg>
       </mg>
    </e>
@@ -8904,11 +8903,6 @@ For the full license text, see the link above.</lic>
             </sources>
          </app>
       </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">skynde seg, løpe om kapp</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <semantics>
@@ -8963,11 +8957,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">vade</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="NATURE_V" />
                <sem class="ZZZ" />
@@ -8992,10 +8981,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="FISHING" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">greie ut (garn)</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">greie ut</t>
+            <t pos="phrase">greie ut garn</t>
          </tg>
       </mg>
    </e>
@@ -9024,13 +9014,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">falle om</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">falle bakover</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">dø (om dyr)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="YYY" />
                <sem class="ZZZ" />
@@ -9039,6 +9022,11 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t dict="yes" oa="yes" pos="phrase" tcomm="no">falle bakover</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="">dø</t>
          </tg>
       </mg>
    </e>
