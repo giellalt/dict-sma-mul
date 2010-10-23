@@ -224,7 +224,6 @@ For the full license text, see the link above.</lic>
                <sem class="ABSTRACT" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">lett</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">lettvint</t>
          </tg>
       </mg>
@@ -928,9 +927,8 @@ For the full license text, see the link above.</lic>
                <sem class="BODY_A" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">vondt</t>
+            <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">vondt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">vond</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">er vond</t>
          </tg>
       </mg>
    </e>
@@ -989,7 +987,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">slik (som denne her)</t>
+            <t dict="yes" oa="yes" pos="a" tcomm="no">slik som denne her</t>
          </tg>
       </mg>
    </e>
@@ -1163,6 +1161,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="a" tcomm="no">svak</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">uvel</t>
+         </tg>
+         <tg>
             <t dict="yes" oa="yes" pos="a" tcomm="no">syk</t>
          </tg>
       </mg>
@@ -1279,18 +1279,16 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">dyr</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">kostbar</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="CLOTHES_A" />
                <sem class="SHOP" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyr (om pris)</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyrt</t>
+            <re>om pris</re>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyr</t>
+            <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyrt</t>
+         </tg>
+         <tg>
+            <t pos="a">kostbar</t>
          </tg>
       </mg>
    </e>
@@ -3687,8 +3685,7 @@ For the full license text, see the link above.</lic>
                <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">grønn om vekster</t>
-            <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">grønt om vekster</t>
+            <tf dict="yes" oa="yes" xml:lang="nob">grønn om vekster</tf>
          </tg>
       </mg>
    </e>
