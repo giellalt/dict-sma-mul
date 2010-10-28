@@ -5122,13 +5122,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="ACTION_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">holde på å trampe</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">tråkke</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">trampe</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">tråkke om flere</t>
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">holde på å tråkke</t>
+            <t dict="no" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">trampe</t>
+            <t dict="no" pos="phrase">tråkke</t>
          </tg>
       </mg>
    </e>
@@ -5157,17 +5157,20 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">komme, komme til syne, komme langveis fra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="YYY" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">komme</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">komme til syne</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem />
+            </semantics>
+            <t pos="phrase">komme til syne</t>
+         </tg>
+         <tg>
+            <t pos="phrase">komme langveis fra</t>
          </tg>
       </mg>
    </e>
@@ -5187,7 +5190,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="ACTION_V" />
                <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">komme til rette</t>
@@ -5232,7 +5235,24 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">kjenne</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">føle</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">smake på</t>
+            <xg>
+               <x>snuehtiem damtedh</x>
+               <xt>få vær av det første gresset om våren</xt>
+            </xg>
+            <xg>
+               <x>Dam badth damtem.</x>
+               <xt>Han kjenner jeg da</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="phrase">smake på</t>
+            <t pos="v">smake</t>
+         </tg>
+         <tg>
+            <t pos="v">oppleve</t>
+         </tg>
+         <tg>
+            <t pos="phrase">bli kjent med</t>
          </tg>
       </mg>
    </e>
