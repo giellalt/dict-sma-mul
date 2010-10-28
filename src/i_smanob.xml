@@ -39,9 +39,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="interj">jidtedh</l>
+         <l pos="i">jidtedh</l>
       </lg>
-      <stem class="bisyllabic"></stem>
+      <stem class="bisyllabic" />
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="interj" translationcomment="no">å jøje meg</t>
@@ -89,6 +89,27 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="x">ja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="i">saarnoeh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="LANGUAGEPART" />
+               <sem class="NUMNOUN" />
+            </semantics>
+            <t pos="interj" xml:lang="nob">hva i all verden</t>
          </tg>
       </mg>
    </e>
