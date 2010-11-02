@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6"/>
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -85,7 +85,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t pos="pron">noe</t>
-            <t pos="???"> noen få</t>
+            <t pos="???">noen få</t>
          </tg>
       </mg>
    </e>
@@ -299,7 +299,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4"/>
+               <book name="åa4" />
             </sources>
          </app>
       </apps>
@@ -337,7 +337,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4"/>
+               <book name="åa4" />
             </sources>
          </app>
       </apps>
@@ -372,5 +372,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

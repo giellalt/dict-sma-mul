@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -50,7 +50,10 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Dem_Sg_Com">
                <wordform>dejnie gåetine</wordform>
             </analysis>
-            <!--            <analysis ms="Pron_Dem_Sg_Ess"> --><!--               <wordform/>					 --><!--            </analysis>						 --></mini_paradigm>
+            <!--            <analysis ms="Pron_Dem_Sg_Ess"> -->
+            <!--               <wordform/>					 -->
+            <!--            </analysis>						 -->
+         </mini_paradigm>
       </lg>
       <mg>
          <tg>
@@ -161,7 +164,7 @@ For the full license text, see the link above.</lic>
                <wordform>dejtie gåetide</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>dej gåetiej</wordform> 
+               <wordform>dej gåetiej</wordform>
                <wordform>daj gåetiej</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -174,9 +177,8 @@ For the full license text, see the link above.</lic>
                <wordform>dejstie gåetijste</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>dej gåetiegujmie</wordform> 
-               <wordform>daj
-            gåetiegujmie</wordform>
+               <wordform>dej gåetiegujmie</wordform>
+               <wordform>daj gåetiegujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -318,15 +320,15 @@ For the full license text, see the link above.</lic>
                <wordform>daan</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ill">
-               <wordform>daase</wordform> 
+               <wordform>daase</wordform>
                <wordform>daan</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ine">
-               <wordform>daesnie</wordform> 
+               <wordform>daesnie</wordform>
                <wordform>daennie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Ela">
-               <wordform>daestie</wordform> 
+               <wordform>daestie</wordform>
                <wordform>daehtie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Sg_Com">
@@ -486,7 +488,7 @@ For the full license text, see the link above.</lic>
                <wordform>daejstie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>daaj gåetiegujmie</wordform> 
+               <wordform>daaj gåetiegujmie</wordform>
                <wordform>daajgujmie</wordform>
                <wordform>daejgujmie</wordform>
             </analysis>
@@ -1026,7 +1028,7 @@ For the full license text, see the link above.</lic>
                <wordform>dujtie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Gen">
-               <wordform>doj</wordform> 
+               <wordform>doj</wordform>
                <wordform>dyj</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Ill">
@@ -1039,7 +1041,7 @@ For the full license text, see the link above.</lic>
                <wordform>dujstie</wordform>
             </analysis>
             <analysis ms="Pron_Dem_Pl_Com">
-               <wordform>doj gåetiegujmie</wordform> 
+               <wordform>doj gåetiegujmie</wordform>
                <wordform>dyj gåetiegujmie</wordform>
                <wordform>dojgujmie</wordform>
             </analysis>
@@ -1177,5 +1179,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

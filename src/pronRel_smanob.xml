@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -163,16 +163,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="s2"/>
-               <book name="s3"/>
+               <book name="s2" />
+               <book name="s3" />
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY"/>
-               <sem class="ZZZ"/>
+               <sem class="YYY" />
+               <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">hva slags</t>
             <t dict="yes" oa="yes" pos="phrase" translationcomment="no" xml:lang="nob">hva for</t>
@@ -268,7 +268,7 @@ For the full license text, see the link above.</lic>
                <wordform>mejtie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Gen">
-               <wordform>maj</wordform> 
+               <wordform>maj</wordform>
                <wordform>mej</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Ill">
@@ -281,7 +281,7 @@ For the full license text, see the link above.</lic>
                <wordform>mejstie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
-               <wordform>mejgujmie</wordform> 
+               <wordform>mejgujmie</wordform>
                <wordform>majgujmie</wordform>
             </analysis>
          </mini_paradigm>
@@ -444,15 +444,15 @@ For the full license text, see the link above.</lic>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Rel_Sg_Acc">
-               <wordform>giem</wordform> 
+               <wordform>giem</wordform>
                <wordform>geam</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Gen">
-               <wordform>gien</wordform> 
+               <wordform>gien</wordform>
                <wordform>gean</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ill">
-               <wordform>giese</wordform> 
+               <wordform>giese</wordform>
                <wordform>gease</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ine">
@@ -686,7 +686,7 @@ For the full license text, see the link above.</lic>
                <wordform>giejstie</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Pl_Com">
-               <wordform>giejgujmie</wordform> 
+               <wordform>giejgujmie</wordform>
                <wordform>geajgujmie</wordform>
             </analysis>
          </mini_paradigm>
@@ -1095,11 +1095,11 @@ For the full license text, see the link above.</lic>
                <wordform>gåabpese</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ine">
-               <wordform>gåabpesne</wordform> 
+               <wordform>gåabpesne</wordform>
                <wordform>gåabpene</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Ela">
-               <wordform>gåabpeste</wordform> 
+               <wordform>gåabpeste</wordform>
                <wordform>gåabpede</wordform>
             </analysis>
             <analysis ms="Pron_Rel_Sg_Com">
@@ -1340,5 +1340,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -31,11 +31,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">sjaavedh</l>
       </lg>
-      <stem class="bisyllabic"/>
+      <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">stille</t>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">tyst</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">stille</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">tyst</t>
          </tg>
       </mg>
    </e>
@@ -43,10 +43,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">slåaveldh</l>
       </lg>
-      <stem class="bisyllabic"/>
+      <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">dengt</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">dengt</t>
          </tg>
       </mg>
    </e>
@@ -54,12 +54,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">steegkeldh</l>
       </lg>
-      <stem class="bisyllabic"/>
+      <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">utestengt</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">utestengt</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -67,7 +67,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6"/>
+               <book name="åa6" />
             </sources>
          </app>
       </apps>
@@ -99,7 +99,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v" mod="ind" nr="sg">leah</l>
+         <l mod="ind" nr="sg" pos="v">leah</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Sg2</analysis>
       </lg>
@@ -131,7 +131,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v" mod="ind">lidien</l>
+         <l mod="ind" pos="v">lidien</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Du2</analysis>
       </lg>
@@ -179,7 +179,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v" mod="ind">lidie</l>
+         <l mod="ind" pos="v">lidie</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Pl2</analysis>
       </lg>
@@ -195,7 +195,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v" mod="ind" nr="pl">leah</l>
+         <l mod="ind" nr="pl" pos="v">leah</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_Ind_Prs_Pl3</analysis>
       </lg>
@@ -211,7 +211,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="v" pol="neg">leah</l>
+         <l pol="neg" pos="v">leah</l>
          <lemma_ref lemmaID="lea_v">lea</lemma_ref>
          <analysis>V_ConNeg</analysis>
       </lg>
@@ -397,5 +397,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
