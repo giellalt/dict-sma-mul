@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -27,7 +27,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <!-- Indefinite pronouns -->
    <e>
       <lg>
          <l pos="pron" type="indef">måedtie</l>
@@ -54,6 +53,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="indef">muvhtine</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t pos="pron">noen ganger</t>
@@ -83,7 +89,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- quantifiers -->
    <e>
       <lg>
          <l pos="pron" type="indef">fïerhten</l>
@@ -151,7 +156,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- other -->
    <e>
       <lg>
          <l pos="pron" type="indef">gïekh</l>
@@ -248,20 +252,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!--   <e>										   -->
-   <!--      <lg>									   -->
-   <!--         <l pos="pron" type="xx">maab</l>	   -->
-   <!--      </lg>									   -->
-   <!--      <mg>									   -->
-   <!--         <tg>								   -->
-   <!--            <t pos="pron">hva</t>			   -->
-   <!--            <t pos="pron">hvilken, hvilket</t> -->
-   <!--            <t pos="pron">noen, noe</t>		   -->
-   <!--            <t pos="pron">som</t>			   -->
-   <!--         </tg>								   -->
-   <!--      </mg>									   -->
-   <!--   </e>										   -->
-   <!--											   -->
    <e>
       <lg>
          <l pos="pron" type="indef">maamkh</l>
@@ -306,6 +296,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="indef">fïerhte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t pos="pron">hver</t>
@@ -337,6 +334,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pron" type="indef">såemies</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t pos="pron">en viss</t>
@@ -368,5 +372,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

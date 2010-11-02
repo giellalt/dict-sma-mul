@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -27,20 +27,35 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <!-- Short forms paradigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">mån</l>
          <analysis>Pron_Pers_Sg1</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg2"><wordform>dån</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3"><wordform>sån</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1"><wordform>min</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2"><wordform>din</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3"><wordform>sin</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1"><wordform>mih</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2"><wordform>dih</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3"><wordform>sih</wordform></analysis>
+            <analysis ms="Pron_Pers_Sg2">
+               <wordform>dån</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3">
+               <wordform>sån</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1">
+               <wordform>min</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2">
+               <wordform>din</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3">
+               <wordform>sin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1">
+               <wordform>mih</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2">
+               <wordform>dih</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3">
+               <wordform>sih</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -53,7 +68,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">dån</l>
@@ -186,20 +200,39 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- personal pronouns long forms: 1p, sg -->
    <e>
       <lg>
          <l pos="pron" type="pers">manne</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg1_Acc"><wordform>mannem</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg1_Gen"><wordform>mov</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg1_Ill"><wordform>munnjien</wordform> <wordform>munnjan</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg1_Ine"><wordform>mannesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg1_Ela"><wordform>manneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg1_Com"><wordform>mannine</wordform></analysis>
+            <analysis ms="Pron_Pers_Sg1_Acc">
+               <wordform>mannem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Gen">
+               <wordform>mov</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munnjien</wordform> 
+               <wordform>munnjan</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ine">
+               <wordform>mannesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ela">
+               <wordform>manneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>mannine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t pos="pron">jeg</t>
@@ -210,7 +243,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- Singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">mannem</l>
@@ -334,19 +366,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- dual -->
-   <!-- miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">månnoeh</l>
          <analysis>Pron_Pers_Du1_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Du1_Acc"><wordform>monnem</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1_Gen"><wordform>monnen</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1_Ill"><wordform>monnese</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1_Ine"><wordform>monnesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1_Ela"><wordform>monneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Du1_Com"><wordform>monnine</wordform></analysis>
+            <analysis ms="Pron_Pers_Du1_Acc">
+               <wordform>monnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Gen">
+               <wordform>monnen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ill">
+               <wordform>monnese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ine">
+               <wordform>monnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ela">
+               <wordform>monneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Com">
+               <wordform>monnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -359,7 +401,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">monnem</l>
@@ -454,19 +495,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- plural -->
-   <!-- miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">mijjieh</l>
          <analysis>Pron_Pers_Pl1_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Pl1_Acc"><wordform>mijjem</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1_Gen"><wordform>mijjen</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1_Ill"><wordform>mijjese</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1_Ine"><wordform>mijjesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1_Ela"><wordform>mijjeste</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl1_Com"><wordform>mijjine</wordform></analysis>
+            <analysis ms="Pron_Pers_Pl1_Acc">
+               <wordform>mijjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Gen">
+               <wordform>mijjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ill">
+               <wordform>mijjese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ine">
+               <wordform>mijjesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ela">
+               <wordform>mijjeste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Com">
+               <wordform>mijjine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -479,7 +530,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">mijjem</l>
@@ -573,19 +623,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- second person -->
-   <!-- datne miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">datne</l>
          <analysis>Pron_Pers_Sg2_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg2_Acc"><wordform>datnem</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg2_Gen"><wordform>dov</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg2_Ill"><wordform>dutnjien</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg2_Ine"><wordform>datnesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg2_Ela"><wordform>datneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg2_Com"><wordform>datnine</wordform></analysis>
+            <analysis ms="Pron_Pers_Sg2_Acc">
+               <wordform>datnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Gen">
+               <wordform>dov</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ill">
+               <wordform>dutnjien</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ine">
+               <wordform>datnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ela">
+               <wordform>datneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Com">
+               <wordform>datnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -598,7 +658,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">datnem</l>
@@ -700,19 +759,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- dual forms -->
-   <!-- dåtnoeh miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">dåtnoeh</l>
          <analysis>Pron_Pers_Du2_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Du2_Acc"><wordform>dotnem</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2_Gen"><wordform>dotnen</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2_Ill"><wordform>dotnese</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2_Ine"><wordform>dotnesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2_Ela"><wordform>dotneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Du2_Com"><wordform>dotnine</wordform></analysis>
+            <analysis ms="Pron_Pers_Du2_Acc">
+               <wordform>dotnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Gen">
+               <wordform>dotnen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ill">
+               <wordform>dotnese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ine">
+               <wordform>dotnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ela">
+               <wordform>dotneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Com">
+               <wordform>dotnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -818,19 +887,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- plural forms -->
-   <!-- dijjieh miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">dijjieh</l>
          <analysis>Pron_Pers_Pl2_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Pl2_Acc"><wordform>dijjem</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2_Gen"><wordform>dijjen</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2_Ill"><wordform>dijjese</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2_Ine"><wordform>dijjesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2_Ela"><wordform>dijjeste</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl2_Com"><wordform>dijjine</wordform></analysis>
+            <analysis ms="Pron_Pers_Pl2_Acc">
+               <wordform>dijjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Gen">
+               <wordform>dijjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ill">
+               <wordform>dijjese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ine">
+               <wordform>dijjesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ela">
+               <wordform>dijjeste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Com">
+               <wordform>dijjine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -843,7 +922,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- dijjieh singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">dijjem</l>
@@ -937,22 +1015,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- ******************************************** -->
-   <!-- **************                 ************* -->
-   <!-- **************       satne     ************* -->
-   <!-- **************                 ************* -->
-   <!-- ******************************************** -->
    <e>
       <lg>
          <l pos="pron" type="pers">satne</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg3_Acc"><wordform>satnem</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Gen"><wordform>sov</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ill"><wordform>sutnjien</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ine"><wordform>satnesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ela"><wordform>satneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Com"><wordform>satnine</wordform></analysis>
+            <analysis ms="Pron_Pers_Sg3_Acc">
+               <wordform>satnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Gen">
+               <wordform>sov</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>sutnjien</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ine">
+               <wordform>satnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ela">
+               <wordform>satneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>satnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -967,7 +1052,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">satnem</l>
@@ -1075,19 +1159,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- dual forms -->
-   <!-- miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">såtnoeh</l>
          <analysis>Pron_Pers_Du3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Du3_Acc"><wordform>sotnem</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3_Gen"><wordform>sotnen</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3_Ill"><wordform>sotnese</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3_Ine"><wordform>sotnesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3_Ela"><wordform>sotneste</wordform></analysis>
-            <analysis ms="Pron_Pers_Du3_Com"><wordform>sotnine</wordform></analysis>
+            <analysis ms="Pron_Pers_Du3_Acc">
+               <wordform>sotnem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Gen">
+               <wordform>sotnen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ill">
+               <wordform>sotnese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ine">
+               <wordform>sotnesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ela">
+               <wordform>sotneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Com">
+               <wordform>sotnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1100,7 +1194,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">sotnem</l>
@@ -1194,19 +1287,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- plural forms -->
-   <!-- miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">sijjieh</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Pl3_Acc"><wordform>sijjem</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Gen"><wordform>sijjen</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ill"><wordform>sijjese</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ine"><wordform>sijjesne</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ela"><wordform>sijjeste</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Com"><wordform>sijjine</wordform></analysis>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>sijjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>sijjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>sijjese</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ine">
+               <wordform>sijjesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ela">
+               <wordform>sijjeste</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>sijjine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1219,7 +1322,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">sijjem</l>
@@ -1313,21 +1415,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- Take al look! dïhte, altese jïh satne -->
-   <!-- personal pronoun third person -->
-   <!-- satne follows directly after dïhte-->
    <e>
       <lg>
          <l pos="pron" type="pers">dïhte</l>
          <analysis>Pron_Pers_Sg3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg3_Acc"><wordform>dam</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Gen"><wordform>dan</wordform> <wordform>altese</wordform>
-            <wordform>elties</wordform> <wordform>eltie</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ill"><wordform>dïsse</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ine"><wordform>desnie</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Ela"><wordform>destie</wordform></analysis>
-            <analysis ms="Pron_Pers_Sg3_Com"><wordform>dejnie</wordform></analysis>
+            <analysis ms="Pron_Pers_Sg3_Acc">
+               <wordform>dam</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Gen">
+               <wordform>dan</wordform> 
+               <wordform>altese</wordform>
+               <wordform>elties</wordform> 
+               <wordform>eltie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>dïsse</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ine">
+               <wordform>desnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ela">
+               <wordform>destie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>dejnie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1343,7 +1456,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">dam</l>
@@ -1504,19 +1616,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- plural forms -->
-   <!-- miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="pers">dah</l>
          <analysis>Pron_Pers_Pl3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Pl3_Acc"><wordform>dejtie</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Gen"><wordform>dej</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ill"><wordform>dejtie</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ine"><wordform>dejnie</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Ela"><wordform>dejstie</wordform></analysis>
-            <analysis ms="Pron_Pers_Pl3_Com"><wordform>dejgujmie</wordform></analysis>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>dejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>dej</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>dejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ine">
+               <wordform>dejnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ela">
+               <wordform>dejstie</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>dejgujmie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1529,7 +1651,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="pers">dejtie</l>
@@ -1617,5 +1738,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -27,19 +27,32 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <!-- Relative pronoun -->
    <e>
       <lg>
          <l pos="pron" type="rel">mij</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc"><wordform>maam</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Gen"><wordform>man</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>mïsse</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>masse</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ine"><wordform>mesnie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ela"><wordform>mestie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Com"><wordform>mejnie</wordform></analysis>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>maam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>man</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>mïsse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>masse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>mesnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>mestie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>mejnie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -74,7 +87,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- relative pronoun singular singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">maam</l>
@@ -247,18 +259,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- Relative pronoun plural miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="rel">mah</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc"><wordform>mejtie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Gen"><wordform>maj</wordform> <wordform>mej</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ill"><wordform>mejtie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ine"><wordform>mejnie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ela"><wordform>mejstie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Com"><wordform>mejgujmie</wordform> <wordform>majgujmie</wordform></analysis>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>mejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>maj</wordform> 
+               <wordform>mej</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>mejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>mejnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
+               <wordform>mejstie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>mejgujmie</wordform> 
+               <wordform>majgujmie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -275,7 +300,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- relative pronoun plural singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">mejtie</l>
@@ -414,18 +438,32 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- Relative pronoun g- -->
    <e>
       <lg>
          <l pos="pron" type="rel">gie</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc"><wordform>giem</wordform> <wordform>geam</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Gen"><wordform>gien</wordform> <wordform>gean</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>giese</wordform> <wordform>gease</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ine"><wordform>giesnie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ela"><wordform>giestie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Com"><wordform>giejnie</wordform></analysis>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>giem</wordform> 
+               <wordform>geam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gien</wordform> 
+               <wordform>gean</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>giese</wordform> 
+               <wordform>gease</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>giesnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>giestie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>giejnie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -442,7 +480,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gie singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">giem</l>
@@ -628,18 +665,30 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gieh miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="rel">gieh</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc"><wordform>giejtie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Gen"><wordform>giej</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ill"><wordform>giejtie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ine"><wordform>giejnie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ela"><wordform>giejstie</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Com"><wordform>giejgujmie</wordform> <wordform>geajgujmie</wordform></analysis>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>giejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>giej</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>giejtie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>giejnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
+               <wordform>giejstie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>giejgujmie</wordform> 
+               <wordform>geajgujmie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -656,7 +705,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gieh singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">giejtie</l>
@@ -783,18 +831,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- guhte miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="rel">guhte</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc"><wordform>guhtem</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Gen"><wordform>guhten</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>guhtese</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ine"><wordform>guhtesne</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ela"><wordform>guhteste</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Com"><wordform>guhtine</wordform></analysis>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>guhtem</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>guhten</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>guhtese</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>guhtesne</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>guhteste</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>guhtine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -816,7 +875,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">guhtem</l>
@@ -865,7 +923,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- en form som er sjelden i bruk i muntlig tale -->
    <e>
       <lg>
          <l pos="pron" type="rel">guhtesne</l>
@@ -894,7 +951,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- form som ikke er så mye i bruk -->
    <e>
       <lg>
          <l nr="sg" pos="pron" type="rel">guhtine</l>
@@ -907,18 +963,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- guhth miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="rel">guhth</l>
          <analysis>Pron_Rel_Pl_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Pl_Acc"><wordform>guhtide</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Gen"><wordform>guhti</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ill"><wordform>guhtide</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ine"><wordform>guhtine</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Ela"><wordform>guhtijste</wordform></analysis>
-            <analysis ms="Pron_Rel_Pl_Com"><wordform>guhtigujmie</wordform></analysis>
+            <analysis ms="Pron_Rel_Pl_Acc">
+               <wordform>guhtide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Gen">
+               <wordform>guhti</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ill">
+               <wordform>guhtide</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ine">
+               <wordform>guhtine</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Ela">
+               <wordform>guhtijste</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Pl_Com">
+               <wordform>guhtigujmie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -939,7 +1006,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l case="acc" pos="pron" type="rel">guhtide</l>
@@ -978,8 +1044,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- guhtide mindre brukt, bedre å bruke giejtie her -->
-   <!-- guhtine sjelden i bruk, bedre med "giejnie"-->
    <e>
       <lg>
          <l pos="pron" type="rel">guhtine</l>
@@ -992,7 +1056,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- buerebe jiehtedh giejstie: -->
    <e>
       <lg>
          <l pos="pron" type="rel">guhtijste</l>
@@ -1005,7 +1068,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- buerebe jiehtedh giejgujmie: -->
    <e>
       <lg>
          <l nr="pl" pos="pron" type="rel">guhtigujmie</l>
@@ -1018,18 +1080,31 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- guhte miniparadigm -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpa</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc"><wordform>gåabpam</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Gen"><wordform>gåabpan</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>gåabpese</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ine"><wordform>gåabpesne</wordform> <wordform>gåabpene</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ela"><wordform>gåabpeste</wordform> <wordform>gåabpede</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Com"><wordform>gåabpine</wordform></analysis>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>gåabpam</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gåabpan</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>gåabpese</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>gåabpesne</wordform> 
+               <wordform>gåabpene</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>gåabpeste</wordform> 
+               <wordform>gåabpede</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>gåabpine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1054,7 +1129,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpam</l>
@@ -1087,7 +1161,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gåabpa-former fra genetiv t.o.m komitativ er lite i bruk -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpese</l>
@@ -1100,7 +1173,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- Lite i bruk -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpesne</l>
@@ -1129,12 +1201,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gåabpelen bielesne lea dïhte?= på hvilken side er den av to sider?
-      gåabpatjahki bielesne - på begge sider
-      bedre å si "mennie bielesne lea bielesne?  
-      "aktene gåetense maahta guektelen jiehtedh" på to forskjellige måter-->
-   <!-- former som er sjelden i bruk-->
-   <!-- gåabpeste dam govleme? går ann, men begynner å bruke spørrepron "gie" mer i disse kasusene -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpeste</l>
@@ -1147,7 +1213,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- form som er lite i bruk-->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpede</l>
@@ -1160,7 +1225,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- form som er lite i bruk -->
    <e>
       <lg>
          <l nr="sg" pos="pron" type="rel">gåabpine</l>
@@ -1173,19 +1237,29 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- gåabpetje miniparadigm " -->
-   <!-- gåabpatjahki lin seammalags gåptoeh-->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpetje</l>
          <analysis>Pron_Rel_Sg_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Rel_Sg_Acc"><wordform>gåabpetjem</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Gen"><wordform>gåabpetjen</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ill"><wordform>gåabpatjasse</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ine"><wordform>gåabpatjisnie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Ela"><wordform>gåabpatjistie</wordform></analysis>
-            <analysis ms="Pron_Rel_Sg_Com"><wordform>gåabpatjinie</wordform></analysis>
+            <analysis ms="Pron_Rel_Sg_Acc">
+               <wordform>gåabpetjem</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Gen">
+               <wordform>gåabpetjen</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ill">
+               <wordform>gåabpatjasse</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ine">
+               <wordform>gåabpatjisnie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Ela">
+               <wordform>gåabpatjistie</wordform>
+            </analysis>
+            <analysis ms="Pron_Rel_Sg_Com">
+               <wordform>gåabpatjinie</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -1194,7 +1268,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="rel">gåabpetjem</l>
@@ -1267,5 +1340,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

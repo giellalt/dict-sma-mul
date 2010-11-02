@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -33,8 +34,8 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">stille</t>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">tyst</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">stille</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">tyst</t>
          </tg>
       </mg>
    </e>
@@ -45,7 +46,7 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">dengt</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">dengt</t>
          </tg>
       </mg>
    </e>
@@ -56,9 +57,9 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">utestengt</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">utestengt</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
-"../../scripts/gt_staticdictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -27,16 +27,23 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <!-- reciprocal pronouns (singular?) -->
    <e>
       <lg>
          <l pos="pron" type="recipr">sinsitniem</l>
          <analysis>Pron_Recipr_Acc</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Recipr_Gen"><wordform>sinsitnien</wordform></analysis>
-            <analysis ms="Pron_Recipr_Ill"><wordform>sinsætnan</wordform></analysis>
-            <analysis ms="Pron_Recipr_Ela"><wordform>sinsitneste</wordform></analysis>
-            <analysis ms="Pron_Recipr_Com"><wordform>sinsitnine</wordform></analysis>
+            <analysis ms="Pron_Recipr_Gen">
+               <wordform>sinsitnien</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Ill">
+               <wordform>sinsætnan</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Ela">
+               <wordform>sinsitneste</wordform>
+            </analysis>
+            <analysis ms="Pron_Recipr_Com">
+               <wordform>sinsitnine</wordform>
+            </analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -49,7 +56,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- reciprocal pronouns, singleton forms -->
    <e>
       <lg>
          <l pos="pron" type="recipr">sinsitnien</l>
@@ -134,20 +140,20 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="LANGUAGEPART" />
-               <sem class="NUMNOUN" />
+               <sem class="LANGUAGEPART"/>
+               <sem class="NUMNOUN"/>
             </semantics>
             <t pos="pron" xml:lang="nob">seg i mellom</t>
             <t pos="pron" xml:lang="nob">hverandre</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

@@ -2,10 +2,10 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML" "../../scripts/gt_staticdictionary.dtd">
-<r>
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
-    <lic xml:lang="en">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -13,12 +13,10 @@ You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
 For the full license text, see the link above.</lic>
-
-     <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
           available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-
-     <sourcenote>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -29,30 +27,17 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-<!-- *************************************** -->
-<!-- *************************************** -->
-<!--                                         -->
-<!-- Reflexive pronouns, the basic paradigms -->
-<!--                                         -->
-<!-- *************************************** -->
-<!-- *************************************** -->
-
-
-
-<!-- The Refl intensifier jïjtje, it is outside the Px-ed paradigms -->
-
- <e>
-   <lg>
-     <l pos="pron" type="refl">jïjtje</l>
-   </lg>
-   <mg>
-     <tg>
-       <t pos="pron">selv</t>
-       <xg>
-         <x>Biegke jårra gåabph jïjtje sæjhta.</x>
-         <xt>Vinden blåser dit den vil selv.</xt>
-       </xg>		
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtje</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">selv</t>
+            <xg>
+               <x>Biegke jårra gåabph jïjtje sæjhta.</x>
+               <xt>Vinden blåser dit den vil selv.</xt>
+            </xg>
             <xg>
                <x>Åvla jïjtje bæhtoem vaalta.</x>
                <xt>Åvla tar bøtta sjøl.</xt>
@@ -61,17 +46,12 @@ For the full license text, see the link above.</lic>
                <x>Vaedtsieh jïjtje!</x>
                <xt>Gå selv!</xt>
             </xg>
-     </tg>
-   </mg>
- </e>
-
-<!-- Each person-number combination its own paradigm -->
-
-<!-- Refl Sg1 miniparadigm -->
-
-  <e>
-    <lg>
-      <l pos="pron" type="refl">jïjtjeme</l>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjeme</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg1_Gen">
@@ -93,21 +73,20 @@ For the full license text, see the link above.</lic>
                <wordform>jïjtjenæjnene</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">meg selv</t>
-	<xg>
-	  <x>Manne jïjtjeme guelmiedahkesne vuajnam.</x>
-	  <xt>Jeg ser meg selv i speilet.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="pron" type="refl">jïjtjemem</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">meg selv</t>
+            <xg>
+               <x>Manne jïjtjeme guelmiedahkesne vuajnam.</x>
+               <xt>Jeg ser meg selv i speilet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjemem</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg1_Gen">
@@ -129,20 +108,17 @@ For the full license text, see the link above.</lic>
                <wordform>jïjtjenæjnene</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-	<t pos="pron">meg selv</t>
-	<xg>
-	  <x>Manne jïjtjemem guelmiedahkesne vuajnam.</x>
-	  <xt>Jeg ser meg selv i speilet.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-<!-- Refl Sg1 singleton forms -->
-
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">meg selv</t>
+            <xg>
+               <x>Manne jïjtjemem guelmiedahkesne vuajnam.</x>
+               <xt>Jeg ser meg selv i speilet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjene</l>
@@ -195,7 +171,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjestanne</l>
@@ -213,7 +188,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e>
+   <e>
       <lg>
          <l pos="pron" type="refl">jïjtjenistie</l>
          <lemma_ref lemmaID="jïjtjemem_pron_refl">jïjtjemem</lemma_ref>
@@ -229,7 +204,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjemisnie</l>
@@ -246,7 +221,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>  
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjeninie</l>
@@ -281,12 +256,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- Refl Sg2 miniparadigm -->
-
    <e>
-    <lg>
-      <l pos="pron" type="refl">jïjtjemdh</l>
+      <lg>
+         <l pos="pron" type="refl">jïjtjemdh</l>
          <analysis>Pron_Refl_Sg2_Acc</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg2_Gen">
@@ -306,40 +278,17 @@ For the full license text, see the link above.</lic>
                <wordform>jïjtjendh</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">deg selv</t>
-	<xg>
-	  <x>Datne jïjtjemdh guelmiedahkesne vuajnah.</x>
-	  <xt>Du ser deg selv i speilet.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-<!-- Refl Sg2 singleton forms -->
-
-
-<!-- Sg2 -->   
-<!--   <e>											 -->
-<!--      <lg>										 -->
-<!--         <l pos="pron" type="refl">jïjtjemdh</l> -->
-<!--         <lemma_ref lemmaID="jïjtjemdh_pron_refl">jïjtjemdh</lemma_ref>		 -->
-<!--         <analysis>Pron_Refl_Sg2_Acc</analysis>	 -->
-<!--      </lg>										 -->
-<!--      <mg>										 -->
-<!--         <tg>									 -->
-<!--            <t pos="pron">til deg selv</t>		 -->
-<!--            <xg>								 -->
-<!--               <x>don oasttát jïjtjemdh</x>		 -->
-<!--               <xt>du kjøper til deg selv</xt>	 -->
-<!--            </xg>								 -->
-<!--         </tg>									 -->
-<!--      </mg>										 -->
-<!--   </e>											 -->
-
-
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">deg selv</t>
+            <xg>
+               <x>Datne jïjtjemdh guelmiedahkesne vuajnah.</x>
+               <xt>Du ser deg selv i speilet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjedh</l>
@@ -372,7 +321,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- <e>
+   <e>
       <lg>
          <l pos="pron" type="refl">jïjtjenadth</l>
          <lemma_ref lemmaID="jïjtjemdh_pron_refl">jïjtjemdh</lemma_ref>
@@ -420,7 +369,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
- <e>
+   <e>
       <lg>
          <l pos="pron" type="refl">jïjtjendh</l>
          <lemma_ref lemmaID="jïjtjemdh_pron_refl">jïjtjemdh</lemma_ref>
@@ -436,13 +385,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-
-<!-- Refl Sg3 miniparadigm -->
-
-  <e>
-    <lg>
-      <l pos="pron" type="refl">jïjtjemse</l>
+   <e>
+      <lg>
+         <l pos="pron" type="refl">jïjtjemse</l>
          <analysis>Pron_Refl_Sg3_Acc</analysis>
          <mini_paradigm>
             <analysis ms="Pron_Refl_Sg3_Gen">
@@ -462,20 +407,17 @@ For the full license text, see the link above.</lic>
                <wordform>jïjtsinie</wordform>
             </analysis>
          </mini_paradigm>
-    </lg>
-    <mg>
-      <tg>
-        <t pos="pron">seg selv</t>
-	<xg>
-	  <x>Åvla jïjtjemse guelmiedahkesne vuajna.</x>
-	  <xt>Åvla ser seg selv i speilet.</xt>
-	</xg>
-      </tg>
-    </mg>
-  </e>
-
-<!-- Refl Sg3 Singleton forms -->
-
+      </lg>
+      <mg>
+         <tg>
+            <t pos="pron">seg selv</t>
+            <xg>
+               <x>Åvla jïjtjemse guelmiedahkesne vuajna.</x>
+               <xt>Åvla ser seg selv i speilet.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtse</l>
@@ -523,7 +465,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtjestissie</l>
@@ -539,7 +481,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-   </e>   
+   </e>
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtsistie</l>
@@ -556,7 +498,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
    <e>
       <lg>
          <l pos="pron" type="refl">jïjtsinie</l>
@@ -573,7 +514,5 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-<!-- Dual and plural forms, not in Bergsland -->
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"
-                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

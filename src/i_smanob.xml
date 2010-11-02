@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -33,7 +33,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="i">skål</t>
+            <t pos="i" oa="yes" dict="yes" tcomm="no">skål</t>
          </tg>
       </mg>
    </e>
@@ -41,10 +41,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="i">jidtedh</l>
       </lg>
-      <stem class="bisyllabic" />
+      <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="interj" translationcomment="no">å jøje meg</t>
+            <t dict="yes" oa="yes" pos="interj" translationcomment="no" tcomm="no">å jøje meg</t>
          </tg>
       </mg>
    </e>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="i">takk for mat og drikke</t>
+            <t pos="i" oa="yes" dict="yes" tcomm="no">takk for mat og drikke</t>
             <xg>
                <x>Gudtsien prïhtjegen åvteste!</x>
                <xt>Takk for kaffen!</xt>
@@ -68,7 +68,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="i">ja, det har du sannelig rett i</t>
+            <t pos="i" oa="yes" dict="yes" tcomm="no">ja, det har du sannelig rett i</t>
          </tg>
       </mg>
    </e>
@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">nei</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">nei</t>
          </tg>
       </mg>
    </e>
@@ -88,7 +88,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">ja</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">ja</t>
          </tg>
       </mg>
    </e>
@@ -99,19 +99,19 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="LANGUAGEPART" />
-               <sem class="NUMNOUN" />
+               <sem class="LANGUAGEPART"/>
+               <sem class="NUMNOUN"/>
             </semantics>
-            <t pos="interj" xml:lang="nob">hva i all verden</t>
+            <t pos="interj" xml:lang="nob" oa="yes" dict="yes" tcomm="no">hva i all verden</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>

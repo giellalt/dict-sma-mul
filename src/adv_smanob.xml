@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
-<r>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -33,8 +33,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nettopp</t>
-            <t pos="adv">nylig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nettopp</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nylig</t>
          </tg>
       </mg>
    </e>
@@ -44,8 +44,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">også</t>
-            <t pos="adv">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">også</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
             <xg>
                <x>Aahka aaj gåetesne.</x>
                <xt>Også bestemor er hjemme.</xt>
@@ -59,9 +59,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">atter</t>
-            <tf>på nytt</tf>
-            <t pos="adv">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">atter</t>
+            <tf oa="yes" dict="yes">på nytt</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
             <xg>
                <x>Laara aaj-vihth.</x>
                <xt>Laara gjør det på nytt.</xt>
@@ -75,8 +75,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">igjen</t>
-            <t pos="adv">i behold</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i behold</t>
          </tg>
       </mg>
    </e>
@@ -86,8 +86,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">igjen</t>
-            <t pos="adv">i behold</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i behold</t>
          </tg>
       </mg>
    </e>
@@ -97,8 +97,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i behold</t>
-            <t pos="adv">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i behold</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
          </tg>
       </mg>
    </e>
@@ -106,9 +106,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">aatsolen</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">over</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">over</t>
             <xg>
                <x>Bïejh dam aatsolen.</x>
                <xt>Legg denne over.</xt>
@@ -122,7 +129,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">lettvint</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">lettvint</t>
          </tg>
       </mg>
    </e>
@@ -132,7 +139,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en lettvint måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en lettvint måte</t>
          </tg>
       </mg>
    </e>
@@ -142,7 +149,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">før</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">før</t>
             <xg>
                <x>aerebi goh</x>
                <xt>innen</xt>
@@ -153,7 +160,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg>
-            <t pos="adv">tidligere</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">tidligere</t>
             <xg>
                <x>Dïhte lij aarebi voenen skuvlesne barkeme.</x>
                <xt>Tidligere arbeidet han/hun i skolen.</xt>
@@ -165,9 +172,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">aereden</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">om morgenen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">om morgenen</t>
          </tg>
       </mg>
    </e>
@@ -177,13 +191,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stadig</t>
-            <tf>i ett</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stadig</t>
+            <tf oa="yes" dict="yes">i ett</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <tf>for evig</tf>
+            <tf oa="yes" dict="yes">for evig</tf>
             <xg>
                <x>Dïhte ahkedh vöölki.</x>
                <xt>Han/Hun dro for evig (døde).</xt>
@@ -197,7 +211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bare</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bare</t>
          </tg>
       </mg>
    </e>
@@ -207,12 +221,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf>én for én</tf>
+            <tf oa="yes" dict="yes">én for én</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <tf>én og én</tf>
+            <tf oa="yes" dict="yes">én og én</tf>
          </tg>
       </mg>
    </e>
@@ -222,7 +236,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">forferdelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -232,7 +246,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ennå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ennå</t>
             <xg>
                <x>Guktie ij annje baahtsh.</x>
                <xt>Slik at han/hun ikke engang kunne komme forbi.</xt>
@@ -246,7 +260,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf>før i tiden</tf>
+            <tf oa="yes" dict="yes">før i tiden</tf>
          </tg>
       </mg>
    </e>
@@ -256,7 +270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">snart</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">snart</t>
             <xg>
                <x>Irmesne baaltes lea.</x>
                <xt>Han/Hun bli fort harm.</xt>
@@ -270,7 +284,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bare</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bare</t>
          </tg>
       </mg>
    </e>
@@ -280,7 +294,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf>om dagen</tf>
+            <tf oa="yes" dict="yes">om dagen</tf>
          </tg>
       </mg>
    </e>
@@ -290,7 +304,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ovenfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ovenfra</t>
          </tg>
       </mg>
    </e>
@@ -300,7 +314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">forbi (om tid)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">forbi (om tid)</t>
             <xg>
                <x>Rïhkedahken bijjelen.</x>
                <xt>Brunsttiden er forbi.</xt>
@@ -318,8 +332,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ovenfra</t>
-            <tf>fra ovenfor</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ovenfra</t>
+            <tf oa="yes" dict="yes">fra ovenfor</tf>
          </tg>
       </mg>
    </e>
@@ -327,9 +341,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">bijjene</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">oppe</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">oppe</t>
          </tg>
       </mg>
    </e>
@@ -339,7 +360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">lenger opp</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">lenger opp</t>
          </tg>
       </mg>
    </e>
@@ -349,9 +370,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bra</t>
-            <t pos="adv">vel</t>
-            <tf>på god måte</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">vel</t>
+            <tf oa="yes" dict="yes">på god måte</tf>
          </tg>
       </mg>
    </e>
@@ -361,7 +382,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bedre</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bedre</t>
          </tg>
       </mg>
    </e>
@@ -371,7 +392,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf>på en god måte</tf>
+            <tf oa="yes" dict="yes">på en god måte</tf>
          </tg>
       </mg>
    </e>
@@ -381,8 +402,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">feil</t>
-            <tf>på feil måte</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">feil</t>
+            <tf oa="yes" dict="yes">på feil måte</tf>
          </tg>
       </mg>
    </e>
@@ -392,9 +413,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en gal måte</t>
-            <t pos="adv">på en feil måte</t>
-            <t pos="adv">på en misvisende måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en gal måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en feil måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en misvisende måte</t>
          </tg>
       </mg>
    </e>
@@ -402,9 +423,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">bååstede</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">tilbake</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">tilbake</t>
          </tg>
       </mg>
    </e>
@@ -414,7 +442,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">tilbake</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">tilbake</t>
          </tg>
       </mg>
    </e>
@@ -422,10 +450,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">bæjjese</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">opp</t>
-            <t pos="adv">oppover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">opp</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">oppover</t>
          </tg>
       </mg>
    </e>
@@ -435,7 +470,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utenfor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utenfor</t>
          </tg>
       </mg>
    </e>
@@ -445,8 +480,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">her</t>
-            <tf>forbi her</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">her</t>
+            <tf oa="yes" dict="yes">forbi her</tf>
          </tg>
       </mg>
    </e>
@@ -456,7 +491,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">her på disse kanter</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">her på disse kanter</t>
          </tg>
       </mg>
    </e>
@@ -466,7 +501,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stadig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stadig</t>
          </tg>
       </mg>
    </e>
@@ -476,7 +511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stadig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stadig</t>
          </tg>
       </mg>
    </e>
@@ -486,7 +521,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stadig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stadig</t>
             <xg>
                <x>Tjuatsa daamtaj.</x>
                <xt>Det snør i ett.</xt>
@@ -504,7 +539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">akkurat der borte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">akkurat der borte</t>
          </tg>
       </mg>
    </e>
@@ -514,7 +549,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">herfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">herfra</t>
          </tg>
       </mg>
    </e>
@@ -524,8 +559,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hitover</t>
-            <t pos="adv">hitenfor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hitover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hitenfor</t>
          </tg>
       </mg>
    </e>
@@ -535,7 +570,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">her</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">her</t>
          </tg>
       </mg>
    </e>
@@ -545,7 +580,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nærmere her</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nærmere her</t>
          </tg>
       </mg>
    </e>
@@ -555,11 +590,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nå</t>
-            <tf>nå for tiden</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nå</t>
+            <tf oa="yes" dict="yes">nå for tiden</tf>
          </tg>
          <tg>
-            <t pos="adv">her</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">her</t>
          </tg>
       </mg>
    </e>
@@ -569,7 +604,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">om vinteren</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">om vinteren</t>
          </tg>
       </mg>
    </e>
@@ -579,7 +614,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i dag</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i dag</t>
          </tg>
       </mg>
    </e>
@@ -589,8 +624,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der</t>
-            <t pos="???">der omkring</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">der omkring</t>
          </tg>
       </mg>
    </e>
@@ -600,8 +635,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der</t>
-            <t pos="???">der omkring</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">der omkring</t>
          </tg>
       </mg>
    </e>
@@ -611,7 +646,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">dit</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">dit</t>
          </tg>
       </mg>
    </e>
@@ -621,7 +656,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">de tiders</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">de tiders</t>
          </tg>
       </mg>
    </e>
@@ -631,7 +666,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der omkring</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der omkring</t>
          </tg>
       </mg>
    </e>
@@ -641,8 +676,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">øyeblikkelig</t>
-            <tf>med en gang</tf>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">øyeblikkelig</t>
+            <tf oa="yes" dict="yes">med en gang</tf>
             <xg>
                <x>Daelie dallah!</x>
                <xt>Nå med en gang!</xt>
@@ -660,7 +695,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nesten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nesten</t>
          </tg>
       </mg>
    </e>
@@ -670,7 +705,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">med én gang</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">med én gang</t>
          </tg>
       </mg>
    </e>
@@ -680,9 +715,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">straks</t>
-            <t pos="adv">med én gang</t>
-            <t pos="adv">så snart som</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">straks</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">med én gang</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">så snart som</t>
          </tg>
       </mg>
    </e>
@@ -692,9 +727,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">just</t>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">akkurat idet</t>
-            <t dict="yes" oa="yes" pos="adv" translationcomment="no">nettopp</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">just</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">akkurat idet</t>
+            <t dict="yes" oa="yes" pos="adv" translationcomment="no" tcomm="no">nettopp</t>
          </tg>
       </mg>
    </e>
@@ -704,11 +739,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utover</t>
-            <t pos="phrase">ut fra land</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utover</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">ut fra land</t>
          </tg>
          <tg>
-            <t pos="phrase">ut mot kysten</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">ut mot kysten</t>
          </tg>
       </mg>
    </e>
@@ -718,11 +753,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">derfra</t>
-            <t pos="phrase">der borte fra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">derfra</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">der borte fra</t>
          </tg>
          <tg>
-            <t pos="">lenger borte</t>
+            <t pos="" oa="yes" dict="yes" tcomm="no">lenger borte</t>
          </tg>
       </mg>
    </e>
@@ -732,7 +767,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der borte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der borte</t>
          </tg>
       </mg>
    </e>
@@ -742,8 +777,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">i gamle dager</t>
-            <t pos="phrase">før i tiden</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">i gamle dager</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">før i tiden</t>
          </tg>
       </mg>
    </e>
@@ -753,14 +788,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">da</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">da</t>
             <xg>
                <x>Ov dellie gaatesjen.</x>
                <xt>Det var synd.</xt>
             </xg>
          </tg>
          <tg>
-            <t pos="adv">derpå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">derpå</t>
          </tg>
       </mg>
    </e>
@@ -770,8 +805,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">da</t>
-            <t pos="adv">så</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">da</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">så</t>
          </tg>
       </mg>
    </e>
@@ -781,7 +816,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hit</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hit</t>
             <xg>
                <x>dohkh diekie</x>
                <xt>hit og dit</xt>
@@ -795,12 +830,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">da</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">da</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">så</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">så</t>
          </tg>
       </mg>
    </e>
@@ -810,7 +845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der omkring, hos deg</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der omkring, hos deg</t>
          </tg>
       </mg>
    </e>
@@ -820,7 +855,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utover, dit, bortover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utover, dit, bortover</t>
             <xg>
                <x>iehkedsbiejjie doekoe</x>
                <xt>utover ettermiddagen</xt>
@@ -838,12 +873,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der borte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der borte</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="phrase">i den retningen</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">i den retningen</t>
             <xg>
                <x>Dogkoe vöölki.</x>
                <xt>Den dro i den retningen.</xt>
@@ -857,8 +892,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">fram og tilbake</t>
-            <t pos="phrase">hit og dit</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">fram og tilbake</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">hit og dit</t>
             <xg>
                <x>Tjelmieh vååjnoeh dohkh diekie juhtieh.</x>
                <xt>Øynene beveger seg fram og tilbake.</xt>
@@ -872,7 +907,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">dit</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">dit</t>
          </tg>
       </mg>
    </e>
@@ -882,8 +917,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">der borte</t>
-            <t pos="phrase">der omkring</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">der borte</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">der omkring</t>
          </tg>
       </mg>
    </e>
@@ -893,8 +928,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">til og med</t>
-            <t pos="adv">endog</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">til og med</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">endog</t>
             <xg>
                <x>dovne abpe eatnamasse vuesiehtidh</x>
                <xt>endog vise til hele verden</xt>
@@ -916,7 +951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der borte fra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der borte fra</t>
          </tg>
       </mg>
    </e>
@@ -926,7 +961,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">derfra, der borte fra, litt lenger bortifra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">derfra, der borte fra, litt lenger bortifra</t>
          </tg>
       </mg>
    </e>
@@ -936,7 +971,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">der borte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">der borte</t>
          </tg>
       </mg>
    </e>
@@ -946,7 +981,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">til lenger bort</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">til lenger bort</t>
          </tg>
       </mg>
    </e>
@@ -956,8 +991,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bortenfor</t>
-            <t pos="phrase">lenger bort</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bortenfor</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">lenger bort</t>
          </tg>
       </mg>
    </e>
@@ -967,7 +1002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bak, rommet bak</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bak, rommet bak</t>
          </tg>
       </mg>
    </e>
@@ -977,12 +1012,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">langt utpå, langt fra land</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">langt utpå, langt fra land</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">ut til kysten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ut til kysten</t>
          </tg>
       </mg>
    </e>
@@ -992,7 +1027,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på høflig/høvisk vis</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på høflig/høvisk vis</t>
          </tg>
       </mg>
    </e>
@@ -1002,11 +1037,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utover</t>
-            <t pos="phrase">ut fra land</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utover</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">ut fra land</t>
          </tg>
          <tg>
-            <t pos="phrase">ut mot kysten</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">ut mot kysten</t>
          </tg>
       </mg>
    </e>
@@ -1016,7 +1051,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i fjor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i fjor</t>
             <xg>
                <x>Dæjman jïjnjh muerjieh.</x>
                <xt>I fjor var det mye bær.</xt>
@@ -1030,8 +1065,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">da først</t>
-            <t pos="phrase">nettopp da</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">da først</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">nettopp da</t>
          </tg>
       </mg>
    </e>
@@ -1041,13 +1076,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">grundig</t>
-            <t pos="adv">skikkelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">grundig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">skikkelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">på en grundig og skikkelig måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en grundig og skikkelig måte</t>
          </tg>
       </mg>
    </e>
@@ -1057,9 +1092,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">akkurat</t>
-            <t pos="adv">aldeles</t>
-            <t pos="adv">helt og holdent</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">akkurat</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">aldeles</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">helt og holdent</t>
             <xg>
                <x>Maanetje vaedtsiemistie eevre syjle.</x>
                <xt>Lillebarnet blir helt trøtt av gåingen.</xt>
@@ -1073,7 +1108,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bestandig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bestandig</t>
          </tg>
       </mg>
    </e>
@@ -1083,12 +1118,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i en retning</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i en retning</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">i samme retning</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i samme retning</t>
          </tg>
       </mg>
    </e>
@@ -1098,7 +1133,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sammen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sammen</t>
          </tg>
       </mg>
    </e>
@@ -1108,7 +1143,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sammen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sammen</t>
          </tg>
       </mg>
    </e>
@@ -1118,7 +1153,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ennå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ennå</t>
          </tg>
       </mg>
    </e>
@@ -1128,17 +1163,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">litt for</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">litt for</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">nesten for</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nesten for</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">betydelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">betydelig</t>
          </tg>
       </mg>
    </e>
@@ -1148,14 +1183,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="phrase">litt for</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">litt for</t>
             <xg>
                <x>Gaeptie faagkan åenehks.</x>
                <xt>Kofta er litt for kort.</xt>
             </xg>
          </tg>
          <tg>
-            <t pos="">betydelig</t>
+            <t pos="" oa="yes" dict="yes" tcomm="no">betydelig</t>
          </tg>
       </mg>
    </e>
@@ -1165,7 +1200,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">plutselig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">plutselig</t>
          </tg>
       </mg>
    </e>
@@ -1175,7 +1210,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">våken</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">våken</t>
          </tg>
       </mg>
    </e>
@@ -1185,7 +1220,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hver</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hver</t>
          </tg>
       </mg>
    </e>
@@ -1195,8 +1230,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">unnskyld</t>
-            <t pos="adv">beklager</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">unnskyld</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">beklager</t>
             <xg>
                <x>Ov dellie gaatesjen.</x>
                <xt>Det var synd.</xt>
@@ -1214,7 +1249,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på midten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på midten</t>
             <xg>
                <x>gaskoeh juekedh</x>
                <xt>dele på midten</xt>
@@ -1228,7 +1263,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">(er) bakpå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">(er) bakpå</t>
             <xg>
                <x>Genhtsiemisnie duahpah.</x>
                <xt>Bakpå (lua) er det dusker.</xt>
@@ -1242,7 +1277,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nemlig, sikkert</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nemlig, sikkert</t>
          </tg>
       </mg>
    </e>
@@ -1250,9 +1285,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">giesege</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">om sommeren</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">om sommeren</t>
          </tg>
       </mg>
    </e>
@@ -1262,7 +1304,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvor, hvilken veg</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor, hvilken veg</t>
          </tg>
       </mg>
    </e>
@@ -1272,7 +1314,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">til (om tid)</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">til (om tid)</t>
             <xg>
                <x>Vuertieh goske Birje båata, destie åadtjoeh govledh.</x>
                <xt>Vent til Birje kommer, du får høre fra henne.</xt>
@@ -1286,12 +1328,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">når</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">når</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">hvor hen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor hen</t>
          </tg>
       </mg>
    </e>
@@ -1299,9 +1341,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">gubpede</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">hvorfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvorfra</t>
          </tg>
       </mg>
    </e>
@@ -1311,7 +1360,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor</t>
          </tg>
       </mg>
    </e>
@@ -1321,7 +1370,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">med</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">med</t>
             <xg>
                <x>Idtji badth dïhte fihkh vuelkijh guejmie.</x>
                <xt>Han/Hun fikk nå ikke reise med.</xt>
@@ -1339,7 +1388,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">lenge</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">lenge</t>
             <xg>
                <x>Guhkiem hov sjïdtih.</x>
                <xt>Du ble jo så lenge borte.</xt>
@@ -1353,7 +1402,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i allfall, nok</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i allfall, nok</t>
             <xg>
                <x>Manne gujht båatam.</x>
                <xt>Jeg kommer i allfall.</xt>
@@ -1379,7 +1428,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">med</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">med</t>
             <xg>
                <x>Idtji badth dïhte fihkh vuelkijh gujmie.</x>
                <xt>Han/Hun fikk nå ikke reise med.</xt>
@@ -1393,7 +1442,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvordan</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvordan</t>
             <xg>
                <x>Guktie dov nomme?</x>
                <xt>Hva heter du?</xt>
@@ -1406,8 +1455,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="phrase">på noen måte</t>
-            <t pos="phrase">slik at</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">på noen måte</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">slik at</t>
             <xg>
                <x>Dah sïrvh lin tjåenghkesne lovvesjeminie guktie idtji gie gænnah baahtsh vaedtsedh.</x>
                <xt>De sauene lå samlet og hvilte, slik at ingen kom seg forbi.</xt>
@@ -1419,9 +1468,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">gusnie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">hvor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor</t>
          </tg>
       </mg>
    </e>
@@ -1431,7 +1487,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvorfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvorfra</t>
          </tg>
       </mg>
    </e>
@@ -1441,7 +1497,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i hvilken retning (av to)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i hvilken retning (av to)</t>
             <xg>
                <x>Gåabpelen vöölki?</x>
                <xt>I hvilken retning (av to) dro han/hun?</xt>
@@ -1453,9 +1509,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">gåabph</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">hvor, hvor hen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor, hvor hen</t>
          </tg>
       </mg>
    </e>
@@ -1465,22 +1528,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">feilaktig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">feilaktig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">motsols</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">motsols</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">vrangvillig, tverr</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">vrangvillig, tverr</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">vrangt, bakvendt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">vrangt, bakvendt</t>
          </tg>
       </mg>
    </e>
@@ -1490,7 +1553,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">krummet</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">krummet</t>
          </tg>
       </mg>
    </e>
@@ -1500,7 +1563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvor, i hvilken retning</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvor, i hvilken retning</t>
          </tg>
       </mg>
    </e>
@@ -1510,7 +1573,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hvorfra?</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hvorfra?</t>
             <xg>
                <x>Gåebpielistie bööti?</x>
                <xt>Hvorfra kom han/hun?</xt>
@@ -1524,7 +1587,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">når</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">når</t>
             <xg>
                <x>Gåessie busse jåhta?</x>
                <xt>Når går bussen?</xt>
@@ -1538,7 +1601,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">langt av sted</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">langt av sted</t>
             <xg>
                <x>Dïhte gåhkese vöölki.</x>
                <xt>Den dro langt av sted.</xt>
@@ -1547,7 +1610,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">langt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">langt</t>
          </tg>
       </mg>
    </e>
@@ -1557,7 +1620,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">om våren</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">om våren</t>
          </tg>
       </mg>
    </e>
@@ -1567,8 +1630,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">parvis</t>
-            <t pos="adv">to og to</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">parvis</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">to og to</t>
          </tg>
       </mg>
    </e>
@@ -1578,7 +1641,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en bra måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en bra måte</t>
          </tg>
       </mg>
    </e>
@@ -1588,9 +1651,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">faktisk</t>
-            <t pos="adv">nettopp</t>
-            <t pos="phrase">jo visst</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">faktisk</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nettopp</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">jo visst</t>
          </tg>
       </mg>
    </e>
@@ -1600,7 +1663,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">da, jo</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">da, jo</t>
          </tg>
       </mg>
    </e>
@@ -1610,8 +1673,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">heldigvis</t>
-            <t pos="???">vel</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">heldigvis</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">vel</t>
             <xg>
                <x>Dellie hågkh utnehte.</x>
                <xt>Nå holder han/hun vel fast. / Nå holder det heldigvis.</xt>
@@ -1625,7 +1688,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på naturlig vis</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på naturlig vis</t>
          </tg>
       </mg>
    </e>
@@ -1635,8 +1698,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nettopp</t>
-            <t pos="adv">for kort tid siden</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nettopp</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">for kort tid siden</t>
             <xg>
                <x>Saarnoeh, ihke aahka ieskien skïemtjegåatan vualkeme.</x>
                <xt>Fortell at bestemor nettopp har dratt til sykehuset.</xt>
@@ -1650,7 +1713,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sammen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sammen</t>
             <xg>
                <x>Gåptan ohtsem ikte sampeldehtedh.</x>
                <xt>Lukke barmåpningen på kofte med sampele.</xt>
@@ -1664,12 +1727,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stadig, uavlatelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stadig, uavlatelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">etter hverandre</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">etter hverandre</t>
             <xg>
                <x>Galka riehpenem jïh gaajhkide raejkide gaptjedh golme iehkedh ikte-mearan.</x>
                <xt>Han/Hun skal dekke til ljoren og alle åpninger tre kvelder etter hverandre.</xt>
@@ -1683,8 +1746,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">alltid</t>
-            <t pos="adv">bestandig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alltid</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bestandig</t>
          </tg>
       </mg>
    </e>
@@ -1694,7 +1757,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">alltid</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alltid</t>
          </tg>
       </mg>
    </e>
@@ -1704,7 +1767,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">engang</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">engang</t>
          </tg>
       </mg>
    </e>
@@ -1714,7 +1777,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">og så videre (o.s.v)</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">og så videre (o.s.v)</t>
             <xg>
                <x>jïh nimhtie vijriebasse</x>
                <xt>og så videre</xt>
@@ -1728,7 +1791,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">knapt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">knapt</t>
             <xg>
                <x>Onnevïelle lea jallan göökten jaepien båeries.</x>
                <xt>Lillebror er knapt to år gammel.</xt>
@@ -1742,7 +1805,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">vestover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">vestover</t>
          </tg>
       </mg>
    </e>
@@ -1752,7 +1815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">mesteparten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">mesteparten</t>
          </tg>
       </mg>
    </e>
@@ -1762,7 +1825,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i vest</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i vest</t>
          </tg>
       </mg>
    </e>
@@ -1772,7 +1835,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i morgen tidlig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i morgen tidlig</t>
          </tg>
       </mg>
    </e>
@@ -1782,7 +1845,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">særdeles, særskilt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">særdeles, særskilt</t>
             <xg>
                <x>joekoen bååvteres</x>
                <xt>særdeles lodden</xt>
@@ -1808,7 +1871,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">da</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">da</t>
             <xg>
                <x>Gåabpoeh joem?</x>
                <xt>Hvor hen da? Noen steds hen, men hvor hen?</xt>
@@ -1832,9 +1895,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">johkebeala</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">nedetter eller oppetter elva</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nedetter eller oppetter elva</t>
          </tg>
       </mg>
    </e>
@@ -1844,7 +1914,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i går</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i går</t>
          </tg>
       </mg>
    </e>
@@ -1852,9 +1922,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">jïjnje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">mye</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">mye</t>
          </tg>
       </mg>
    </e>
@@ -1864,7 +1941,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">mer</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">mer</t>
          </tg>
       </mg>
    </e>
@@ -1874,7 +1951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i morgen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i morgen</t>
          </tg>
       </mg>
    </e>
@@ -1884,7 +1961,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">kanskje</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">kanskje</t>
          </tg>
       </mg>
    </e>
@@ -1894,7 +1971,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i tillegg (til)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i tillegg (til)</t>
             <xg>
                <x>dïsse lissine</x>
                <xt>i tillegg til det</xt>
@@ -1908,7 +1985,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">østover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">østover</t>
          </tg>
       </mg>
    </e>
@@ -1918,8 +1995,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">øst</t>
-            <t pos="adv">østpå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">øst</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">østpå</t>
          </tg>
       </mg>
    </e>
@@ -1929,7 +2006,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">østafor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">østafor</t>
          </tg>
       </mg>
    </e>
@@ -1939,7 +2016,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">likevel</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">likevel</t>
             <xg>
                <x>Geasan læjhkan nuepiem åådtje hierkiejgujmie barkedh.</x>
                <xt>Til sommeren får han/hun likevel mulighet til å jobbe med hester.</xt>
@@ -1953,7 +2030,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">likevel</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">likevel</t>
          </tg>
       </mg>
    </e>
@@ -1961,9 +2038,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">maaje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">riktignok</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">riktignok</t>
             <xg>
                <x>Piere pleahkan johkese gahtji maaje klaahkine meatan.</x>
                <xt>Piere falt pladask på ryggen i bekken enda han hadde med seg stav.</xt>
@@ -1977,7 +2061,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">noe som helst</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">noe som helst</t>
             <xg>
                <x>Idtji Piere maam-gih utnieh.</x>
                <xt>Piere hadde ikke noe som helst.</xt>
@@ -1989,9 +2073,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">mahte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">nesten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nesten</t>
             <xg>
                <x>Measetje mahte raajkan dabrani.</x>
                <xt>Den lille reinkalven bar nesten fast i hullet.</xt>
@@ -2003,9 +2094,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">meatan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">med</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">med</t>
             <xg>
                <x>meatan vaeltedh</x>
                <xt>ta med</xt>
@@ -2019,8 +2117,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">omtrent</t>
-            <t pos="adv">cirka</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">omtrent</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">cirka</t>
             <xg>
                <x>Dahkoe leah medtie tjïjhtje mïjlh.</x>
                <xt>Det er ca. 7 mil dit.</xt>
@@ -2034,12 +2132,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">bakover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bakover</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">bakfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bakfra</t>
          </tg>
       </mg>
    </e>
@@ -2049,7 +2147,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">den neste, følgende</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">den neste, følgende</t>
             <xg>
                <x>minngeben aereden</x>
                <xt>neste morgen</xt>
@@ -2063,7 +2161,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sist, på det siste</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sist, på det siste</t>
             <xg>
                <x>Guktie sån sjædta minngemes?</x>
                <xt>Hvordan skal det vel gå til sist?</xt>
@@ -2077,7 +2175,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nå og da</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nå og da</t>
          </tg>
       </mg>
    </e>
@@ -2085,9 +2183,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">mænngese</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">bakover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">bakover</t>
          </tg>
       </mg>
    </e>
@@ -2097,7 +2202,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nokså, temmelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nokså, temmelig</t>
             <xg>
                <x>naa stoerre</x>
                <xt>temmelig stor</xt>
@@ -2111,7 +2216,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slik som denne el. dette</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik som denne el. dette</t>
          </tg>
       </mg>
    </e>
@@ -2119,9 +2224,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">naemhtie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">slik, på denne måten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik, på denne måten</t>
          </tg>
       </mg>
    </e>
@@ -2131,17 +2243,17 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">uten, uten videre</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">uten, uten videre</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">uten å ha spist</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">uten å ha spist</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">gratis</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">gratis</t>
          </tg>
       </mg>
    </e>
@@ -2151,8 +2263,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slik</t>
-            <t pos="adv">på denne måten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på denne måten</t>
          </tg>
       </mg>
    </e>
@@ -2162,8 +2274,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slik</t>
-            <t pos="adv">på denne måten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på denne måten</t>
             <xg>
                <x>Dïhte jis nimhtie vuesiehti guktie lij.</x>
                <xt>Han/Hun viste på denne måte hvordan det var.</xt>
@@ -2173,8 +2285,8 @@ For the full license text, see the link above.</lic>
                <xt>og så videre</xt>
             </xg>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -2185,7 +2297,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nordom</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nordom</t>
          </tg>
       </mg>
    </e>
@@ -2195,7 +2307,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nordover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nordover</t>
          </tg>
       </mg>
    </e>
@@ -2205,7 +2317,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">jo</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">jo</t>
          </tg>
       </mg>
    </e>
@@ -2215,7 +2327,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nok, tilstrekkelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nok, tilstrekkelig</t>
          </tg>
       </mg>
    </e>
@@ -2225,15 +2337,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slik</t>
-            <t pos="???">på den måten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">på den måten</t>
             <xg>
                <x>Jïh numhtegh frurkehte olkese.</x>
                <xt>På den måten fløy den ut.</xt>
             </xg>
          </tg>
          <tg>
-            <t pos="">uten videre</t>
+            <t pos="" oa="yes" dict="yes" tcomm="no">uten videre</t>
          </tg>
       </mg>
    </e>
@@ -2243,8 +2355,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">slik</t>
-            <t pos="phrase">på den der måten</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">slik</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">på den der måten</t>
          </tg>
       </mg>
    </e>
@@ -2254,7 +2366,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på dårlig vis</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på dårlig vis</t>
          </tg>
       </mg>
    </e>
@@ -2264,7 +2376,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">faktisk</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">faktisk</t>
             <xg>
                <x>Bïrje ojhte buektiehti dam learoem tjïrrehtidh.</x>
                <xt>Bïrje klarte faktisk å gjennomføre studiene.</xt>
@@ -2276,9 +2388,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">oktegh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">alene</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alene</t>
          </tg>
       </mg>
    </e>
@@ -2288,8 +2407,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">alene</t>
-            <t pos="???">ensom</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alene</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">ensom</t>
          </tg>
       </mg>
    </e>
@@ -2297,9 +2416,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">olkese</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">ut</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ut</t>
          </tg>
       </mg>
    </e>
@@ -2309,8 +2435,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">unnskyld</t>
-            <t pos="adv">beklager</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">unnskyld</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">beklager</t>
             <xg>
                <x>Ov-gath maana.</x>
                <xt>Beklager barnet.</xt>
@@ -2324,12 +2450,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nettopp (ikke), slettes (ikke)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nettopp (ikke), slettes (ikke)</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">like (etter)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">like (etter)</t>
          </tg>
       </mg>
    </e>
@@ -2339,8 +2465,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">riktig</t>
-            <t pos="adv">helt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">riktig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">helt</t>
             <xg>
                <x>Ibie raaktan daejrieh daelie mejtie lea daerpies joekedidh.</x>
                <xt>Vi vet ikke riktig hva som er nødvendig å dele ut.</xt>
@@ -2352,9 +2478,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">rïekte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">rett, beint</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">rett, beint</t>
             <xg>
                <x>Ih dån rïekte båetieh laabjehten pluevieh?</x>
                <xt>Du kommer vel ikke slaskende beint over myrene?</xt>
@@ -2368,7 +2501,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en utholdende måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en utholdende måte</t>
          </tg>
       </mg>
    </e>
@@ -2378,7 +2511,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">meget</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">meget</t>
          </tg>
       </mg>
    </e>
@@ -2388,7 +2521,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">meget</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">meget</t>
             <xg>
                <x>Laara sagki båarasåbpoe Aanneste.</x>
                <xt>Laara er meget eldre enn Anne.</xt>
@@ -2402,7 +2535,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">like ... som</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">like ... som</t>
             <xg>
                <x>seamma båeries manneste</x>
                <xt>like gammel som jeg</xt>
@@ -2420,7 +2553,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">faktisk</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">faktisk</t>
          </tg>
       </mg>
    </e>
@@ -2430,7 +2563,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">raskt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">raskt</t>
             <xg>
                <x>Snaebpie doegkoe vaedtsedh.</x>
                <xt>Det er raskt å gå der.</xt>
@@ -2444,7 +2577,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en hurtig måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en hurtig måte</t>
          </tg>
       </mg>
    </e>
@@ -2452,9 +2585,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">soejmetje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">(ganske) sakte, forsiktig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">(ganske) sakte, forsiktig</t>
          </tg>
       </mg>
    </e>
@@ -2464,7 +2604,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">(ganske) sakte, forsiktig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">(ganske) sakte, forsiktig</t>
             <xg>
                <x>Soejmetji aalkam tjööledh dam onne gualetjem.</x>
                <xt>Forsiktig begynner jeg å sløye den lille fisken.</xt>
@@ -2476,14 +2616,21 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">soejmi</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">sakte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sakte</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t pos="adv">forsiktig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">forsiktig</t>
             <xg>
                <x>Soejmi!</x>
                <xt>Forsiktig!</xt>
@@ -2497,7 +2644,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i smug</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i smug</t>
          </tg>
       </mg>
    </e>
@@ -2507,7 +2654,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i smug</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i smug</t>
          </tg>
       </mg>
    </e>
@@ -2517,7 +2664,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">vel</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">vel</t>
          </tg>
       </mg>
    </e>
@@ -2527,8 +2674,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">fint</t>
-            <t pos="phrase">på en fin måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">fint</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">på en fin måte</t>
          </tg>
       </mg>
    </e>
@@ -2538,8 +2685,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">fint</t>
-            <t pos="phrase">på en fin måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">fint</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">på en fin måte</t>
          </tg>
       </mg>
    </e>
@@ -2549,9 +2696,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sterkt</t>
-            <t pos="adv">hardt</t>
-            <t pos="adv">i høy grad</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sterkt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hardt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i høy grad</t>
          </tg>
       </mg>
    </e>
@@ -2561,7 +2708,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på en netthendt måte</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på en netthendt måte</t>
          </tg>
       </mg>
    </e>
@@ -2571,8 +2718,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">alene</t>
-            <t pos="phrase">for seg sjøl</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alene</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">for seg sjøl</t>
          </tg>
       </mg>
    </e>
@@ -2582,8 +2729,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">alene</t>
-            <t pos="phrase">for seg sjøl</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">alene</t>
+            <t pos="phrase" oa="yes" dict="yes" tcomm="no">for seg sjøl</t>
          </tg>
       </mg>
    </e>
@@ -2593,9 +2740,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">hardt</t>
-            <t pos="adv">av alle krefter</t>
-            <t pos="adv">energisk</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">hardt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">av alle krefter</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">energisk</t>
          </tg>
       </mg>
    </e>
@@ -2603,9 +2750,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tjåanghkan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">sammen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sammen</t>
          </tg>
       </mg>
    </e>
@@ -2615,7 +2769,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">sammen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">sammen</t>
          </tg>
       </mg>
    </e>
@@ -2623,9 +2777,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">varke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">fort</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">fort</t>
             <xg>
                <x>Dïhte varke båata vaedtsien.</x>
                <xt>Han/Hun kommer gående fort.</xt>
@@ -2639,7 +2800,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">fort</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">fort</t>
             <xg>
                <x>Dïhte varki båata vaedtsien.</x>
                <xt>Han/Hun kommer gående fort.</xt>
@@ -2653,8 +2814,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">stygt</t>
-            <t pos="adv">forferdelig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">stygt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -2662,9 +2823,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vielie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">mer</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">mer</t>
          </tg>
       </mg>
    </e>
@@ -2674,7 +2842,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
             <xg>
                <x>Dïhte viht baernien gåajkoe vualka.</x>
                <xt>Han/Hun drar igjen til gutten.</xt>
@@ -2688,8 +2856,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">igjen</t>
-            <t pos="adv">atter</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">igjen</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">atter</t>
          </tg>
       </mg>
    </e>
@@ -2697,9 +2865,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">voestegh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">først</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">først</t>
          </tg>
       </mg>
    </e>
@@ -2709,7 +2885,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">første (av flere)</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">første (av flere)</t>
          </tg>
       </mg>
    </e>
@@ -2719,7 +2895,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nedenfor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nedenfor</t>
          </tg>
       </mg>
    </e>
@@ -2729,7 +2905,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nedenfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nedenfra</t>
          </tg>
       </mg>
    </e>
@@ -2739,7 +2915,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">lenger ned(e)</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">lenger ned(e)</t>
          </tg>
       </mg>
    </e>
@@ -2749,8 +2925,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">nedenfra</t>
-            <t pos="???">fra nedenfor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nedenfra</t>
+            <t pos="???" oa="yes" dict="yes" tcomm="no">fra nedenfor</t>
          </tg>
       </mg>
    </e>
@@ -2758,9 +2934,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vuelnie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">nede</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nede</t>
          </tg>
       </mg>
    </e>
@@ -2770,7 +2953,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t oa="no" pos="phrase">ser ut til XXX</t>
+            <t oa="no" pos="phrase" dict="yes" tcomm="no">ser ut til XXX</t>
             <xg>
                <x>Elmien mænngan vååjnoes böövti.</x>
                <xt>Etter uværet ser det ut til å klarne opp.</xt>
@@ -2782,10 +2965,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">våålese</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">ned</t>
-            <t pos="adv">nedover</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ned</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">nedover</t>
          </tg>
       </mg>
    </e>
@@ -2795,7 +2985,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">i sør, sørpå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">i sør, sørpå</t>
          </tg>
       </mg>
    </e>
@@ -2805,7 +2995,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utenfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utenfra</t>
             <xg>
                <x>Maana ålkede båata.</x>
                <xt>Barnet kommer utenfra.</xt>
@@ -2819,7 +3009,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">ute</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">ute</t>
          </tg>
       </mg>
    </e>
@@ -2827,9 +3017,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ålkode</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">utenfra</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utenfra</t>
             <xg>
                <x>Maana ålkode båata.</x>
                <xt>Barnet kommer utenfra.</xt>
@@ -2843,7 +3040,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">på utsiden</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">på utsiden</t>
          </tg>
       </mg>
    </e>
@@ -2853,8 +3050,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">utenpå</t>
-            <t pos="adv">utvendig</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utenpå</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">utvendig</t>
          </tg>
       </mg>
    </e>
@@ -2864,7 +3061,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">voldsomt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">voldsomt</t>
             <xg>
                <x>ålvas stoerre</x>
                <xt>voldsomt stor</xt>
@@ -2876,9 +3073,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ånnetji</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">litt</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">litt</t>
          </tg>
       </mg>
    </e>
@@ -2886,9 +3090,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">åvtesne</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="x">før i tiden</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">før i tiden</t>
          </tg>
       </mg>
    </e>
@@ -2898,7 +3109,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="x">før i tiden</t>
+            <t pos="x" oa="yes" dict="yes" tcomm="no">før i tiden</t>
          </tg>
       </mg>
    </e>
@@ -2906,10 +3117,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">åvtine</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">foran</t>
-            <t pos="adv">framme</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">foran</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">framme</t>
             <xg>
                <x>Edtjh åvtene tjahkasjidh?</x>
                <xt>Skal du sitte foran (i bilen)?</xt>
@@ -2923,7 +3141,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t pos="adv">altfor</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">altfor</t>
             <xg>
                <x>Gaeptie ååpsen åenehks.</x>
                <xt>Kofta er altfor kort.</xt>
@@ -2935,11 +3153,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">öövre</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa4"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="adv">akkurat</t>
-            <t pos="adv">aldeles</t>
-            <t pos="adv">helt og holdent</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">akkurat</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">aldeles</t>
+            <t pos="adv" oa="yes" dict="yes" tcomm="no">helt og holdent</t>
          </tg>
       </mg>
    </e>
@@ -2950,17 +3175,17 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4" />
+               <book name="åa4"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">før i tiden</t>
-            <t pos="adv" xml:lang="nob">i gamle dager</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">før i tiden</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">i gamle dager</t>
          </tg>
       </mg>
    </e>
@@ -2971,16 +3196,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4" />
+               <book name="åa4"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">fra nord</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">fra nord</t>
          </tg>
       </mg>
    </e>
@@ -2991,16 +3216,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4" />
+               <book name="åa4"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">forferdelig</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">forferdelig</t>
          </tg>
       </mg>
    </e>
@@ -3011,16 +3236,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">på liksom</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">på liksom</t>
          </tg>
       </mg>
    </e>
@@ -3031,16 +3256,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">lenger bakom</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">lenger bakom</t>
          </tg>
       </mg>
    </e>
@@ -3051,16 +3276,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">nokså</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">nokså</t>
          </tg>
       </mg>
    </e>
@@ -3071,16 +3296,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">hvordan</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">hvordan</t>
          </tg>
       </mg>
    </e>
@@ -3091,16 +3316,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">bar på hals og bryst</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">bar på hals og bryst</t>
          </tg>
       </mg>
    </e>
@@ -3111,17 +3336,17 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">innenfor</t>
-            <t pos="adv" xml:lang="nob">på innersiden</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">innenfor</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">på innersiden</t>
          </tg>
       </mg>
    </e>
@@ -3132,16 +3357,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">om høsten</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">om høsten</t>
          </tg>
       </mg>
    </e>
@@ -3152,18 +3377,18 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="ZZZ"/>
             </semantics>
-            <t pos="adv" xml:lang="nob">varsomt</t>
+            <t pos="adv" xml:lang="nob" oa="yes" dict="yes" tcomm="no">varsomt</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript"/>
 </r>
