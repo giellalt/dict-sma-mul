@@ -206,7 +206,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">heldigvis, vel, skal tro</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">heldigvis</t>
+            <t pos="adv">vel</t>
+            <tf>skal tro</tf>
             <xg>
                <x>Vaajkoe hogkh dïhte bööti viehkine.</x>
                <xt>Heldigvis kom han til hjelp.</xt>
@@ -224,7 +226,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">jo visst, sannelig (se amma)</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">jo visst</t>
+            <t pos="adv">sannelig</t>
             <xg>
                <x>die sån maa</x>
                <xt>da vel</xt>
@@ -238,7 +241,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså, slik nå jeg forstår</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså</t>
+            <tf>slik nå jeg forstår</tf>
          </tg>
       </mg>
    </e>
@@ -248,7 +252,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså, slik nå jeg forstår</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså</t>
+            <tf>slik nå jeg forstår</tf>
          </tg>
       </mg>
    </e>
@@ -268,7 +273,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">faktisk, nettopp, jo visst (som ventet)</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">faktisk</t>
+            <t pos="adv">nettopp</t>
+            <tf>jo visst</tf>
+            <tf>som ventet</tf>
          </tg>
       </mg>
    </e>
@@ -287,7 +295,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">da, den gang da</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">da</t>
+            <tf>den gang da</tf>
             <xg>
                <x>Dillie goh aahka lij onne.</x>
                <xt>Da bestemor var liten.</xt>
@@ -296,7 +305,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">som, liksom, som om</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">som</t>
+            <t pos="???">liksom</t>
+            <tf>som om</tf>
             <xg>
                <x>Tjuajka goh gaajege.</x>
                <xt>Renner (på ski) som en gal.</xt>
@@ -319,12 +330,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="x" tcomm="no">men hvordan da</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">allikevel, da, virkelig, riktignok</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">allikevel</t>
+            <t pos="???">da</t>
+            <t pos="???">virkelig</t>
+            <t pos="???">riktignok</t>
             <xg>
                <x>Gukt´darhkan?</x>
                <xt>Hvordan da?</xt>
@@ -338,7 +347,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">så, egentlig</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">så</t>
+            <t pos="adv">egentlig</t>
             <xg>
                <x>Giese darhke datne jis lohkh?</x>
                <xt>Hvem leser så du for?</xt>
@@ -364,8 +374,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså, bare, da, ja, nok, virkelig (uttrykker selvfølge,
-            forvissning, oppfordring grunnet på forvissning)</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">altså</t>
+            <t pos="???">bare</t>
+            <t pos="???">da</t>
+            <t pos="???">nok</t>
+            <t pos="???">virkelig</t>
+            <te>uttrykker selvfølge, forvissning, oppfordring grunnet på forvissning</te>
             <xg>
                <x>Nimhtie badth dah ussjedh.</x>
                <xt>Slik tenker de, ja.</xt>
@@ -452,7 +466,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">vær så god, se der, der (har du)</t>
+            <tf dict="yes" oa="yes">vær så god</tf>
+            <tf>der har du</tf>
+            <xg>
+               <x>Duelie doem.</x>
+               <xt>Vær så god og ta denne.</xt>
+            </xg>
+         </tg>
+         <tg>
+            <tf>se der</tf>
             <xg>
                <x>Duelie mov tjidtjien tjelmieh.</x>
                <xt>Der ser du min mors øyne.</xt>
@@ -460,10 +482,6 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Duelie guessieh båetieh.</x>
                <xt>Se der kommer gjester.</xt>
-            </xg>
-            <xg>
-               <x>Duelie doem.</x>
-               <xt>Vær så god og ta denne.</xt>
             </xg>
          </tg>
       </mg>
