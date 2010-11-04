@@ -66,11 +66,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <te>om rein</te>
             <t dict="yes" oa="yes" pos="phrase" tcomm="no">som går for seg selv</t>
-            <xg>
-               <x>om rein</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -395,11 +392,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="BODY_A" />
             </semantics>
+            <te>om spor</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no">fersk</t>
-            <xg>
-               <x>om spor</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -544,8 +538,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">bieljehts</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="BODY_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">døv</t>
          </tg>
       </mg>
@@ -554,8 +558,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">bihtseds</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUP_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">bitter</t>
             <tf dict="yes" oa="yes">stram i smaken</tf>
          </tg>
@@ -870,11 +884,8 @@ For the full license text, see the link above.</lic>
                <sem class="HERDING" />
                <sem class="HUMAN_A" />
             </semantics>
+            <te>om rein og folk</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">spredt</t>
-            <xg>
-               <x>om rein og folk</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -965,11 +976,8 @@ For the full license text, see the link above.</lic>
                <sem class="WEATHER_A" />
                <sem class="CLOTHES_A" />
             </semantics>
+            <te>om klær og vær</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no">varm</t>
-            <xg>
-               <x>om klær og vær</x>
-               <xt></xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1116,7 +1124,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="ABSTRACT" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">slik</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">slik som den</t>
@@ -1329,8 +1337,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">dåajmijes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">forekommende</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">høvisk</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">høflig</t>
@@ -1403,18 +1421,30 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">eadtjohke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+               <sem class="ANIMAL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">ivrig</t>
             <xg>
                <x>Dïhte maa eadtjohke.</x>
                <xt>Hun er da ivrig.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">energisk og flittig</t>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
+            <t pos="">energisk og flittig</t>
             <xg>
                <x>Dïhte dan barkere jïh eadtjohke dejnie.</x>
                <xt>Han er så arbeidsom og flittig med det.</xt>
@@ -1426,8 +1456,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">ealjoeh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">giddesløs</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">likegyldig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">sløv</t>
@@ -1444,7 +1484,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="a" tcomm="no">giddesløs</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">likegyldig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">sløv</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">uten arbeidslyst</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no">uten arbeidslyst</t>
             <xg>
                <x>Piere dan ealjohts!</x>
                <xt>Piere er så sløv og likegyldig!</xt>
@@ -1483,6 +1523,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="HUMAN_A" />
+               <sem class="SCHOOL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">skikkelig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">ordentlig</t>
@@ -1618,7 +1659,6 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HUMAN_A" />
             </semantics>
-            <t dict="yes" oa="yes" pos="???" tcomm="no">z</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">munter</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">glad</t>
             <xg>
@@ -1780,6 +1820,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="ABSTRACT" />
+               <sem class="HUMAN_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">eksisterende</t>
             <t dict="yes" oa="yes" pos="x" tcomm="no">som finnes</t>
@@ -1860,7 +1901,7 @@ For the full license text, see the link above.</lic>
                <sem class="SOUP_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">ferdig</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">ferdig til bruk</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">ferdig til bruk</t>
          </tg>
       </mg>
    </e>
@@ -2135,11 +2176,18 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">vanskelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="WEATHER_A" />
+            </semantics>
+            <te>om vær</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no">dårlig</t>
          </tg>
       </mg>
@@ -2250,8 +2298,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">giefies</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">fattig</t>
          </tg>
       </mg>
@@ -2271,7 +2329,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="EXPERIENCE_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">spennende</t>
             <xg>
@@ -2296,7 +2354,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="FEELING" />
                <sem class="HUMAN_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">kjær</t>
@@ -2454,7 +2512,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="NATURE_WATER" />
                <sem class="FISHING" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">fiskeløs</t>
@@ -2539,6 +2597,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+               <sem class="ANIMAL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">snar</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">rask</t>
          </tg>
@@ -2595,6 +2657,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HUMAN_A" />
                <sem class="OBJECT_A" />
+               <sem class="CLOTHES_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dugelig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">brukbar</t>
@@ -2676,8 +2739,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">gåffoeh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">dum</t>
             <xg>
                <x>gåffoeh almetje</x>
@@ -2721,7 +2794,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="ABSTRACT" />
-               <sem class="EXPERIENCE_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">bra</t>
          </tg>
@@ -2831,20 +2903,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">gïemhpe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">snill</t>
-            <xg>
-               <x>Dïhte maa gïemhpe almetje.</x>
-               <xt>Det var da snilt menneske.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">gïemhpes</l>
       </lg>
       <apps>
@@ -2865,6 +2923,10 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">snill</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">tjenestevilling</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">flink</t>
+            <xg>
+               <x>Dïhte maa gïemhpe almetje.</x>
+               <xt>Det var da snilt menneske.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2883,7 +2945,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="NATURE_WATER" />
             </semantics>
             <re>om elvsjø</re>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyp</t>
@@ -2905,6 +2967,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="HUMAN_A" />
+               <sem class="OBJECT_A" />
             </semantics>
             <re>om mennesker og runde ting</re>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">tykk</t>
@@ -2915,8 +2978,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">göögkeles</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">prektig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">staselig</t>
             <xg>
@@ -2950,7 +3023,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="NATURE_WATER" />
                <sem class="FISHING" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">gunstig for fiske</t>
@@ -3055,7 +3128,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="FEELING" />
                <sem class="EXPERIENCE_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">bra</t>
@@ -3067,8 +3140,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">hujnies</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">bedrøvet</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">mismodig</t>
          </tg>
@@ -3080,16 +3163,25 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
+            <te>om person</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no">bedrøvet</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">trist</t>
-            <te>om person</te>
          </tg>
       </mg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">blyg</t>
          </tg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">redd</t>
          </tg>
       </mg>
@@ -3138,8 +3230,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">jaame</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="ANIMAL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">død</t>
             <xg>
                <x>Desnie lea jaame ledtie.</x>
@@ -3163,6 +3265,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="NATURE_A" />
+               <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">jevnt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">slett</t>
@@ -3280,8 +3383,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">jearmijes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">klok og forstandig</t>
             <xg>
                <x>Nov maa dïhte jearmijes almetje.</x>
@@ -3294,8 +3407,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">jearsoes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+               <sem class="ANIMAL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">trygg</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">tillitsfull</t>
          </tg>
@@ -3359,8 +3483,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">joekehts</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">forskjellig</t>
             <xg>
                <x>Saemieh leah akte åålmege jalhts joekehts laantine orre</x>
@@ -3404,8 +3538,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">jovje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="CLOTHES_A" />
+               <sem class="REINDEER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">lysegrå</t>
          </tg>
       </mg>
@@ -3414,8 +3559,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">jueskies</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="WEATHER_A" />
+            </semantics>
+            <te>om vær og vind</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no">kjølig</t>
          </tg>
       </mg>
@@ -3442,18 +3598,19 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="NATURE_A" />
             </semantics>
+            <te>om pulk og ski</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">glatt</t>
+            <t pos="phrase">som glir godt</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
-               <sem class="ABSTRACT" />
+               <sem class="HERDING" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">som går</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">løper lett</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">glir lett</t>
+            <te>om rein som er lett å drxive</te>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">som går</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">løper lett</t>
          </tg>
       </mg>
    </e>
@@ -3526,15 +3683,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">dum</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">toskete</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="HUMAN_A" />
             </semantics>
+            <t pos="???">dum</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">tøysete</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">tullete</t>
          </tg>
@@ -3568,6 +3720,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="ANIMAL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">mange</t>
             <xg>
                <x>Dillie lij jïjnje svaale.</x>
@@ -3647,7 +3802,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="NATUREPLACE" />
             </semantics>
             <re>om land og fjell</re>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">kupert</t>
@@ -3668,6 +3823,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="CLOTHES_A" />
+               <sem class="REINDEER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">grå</t>
          </tg>
       </mg>
@@ -3688,7 +3847,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PLANT" />
             </semantics>
-            <tf dict="yes" oa="yes" xml:lang="nob">grønn om vekster</tf>
+            <te>om vekster</te>
+            <tf dict="yes" oa="yes" xml:lang="nob">grønn</tf>
          </tg>
       </mg>
    </e>
@@ -3831,7 +3991,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUP_A" />
                <sem class="OBJECT_A" />
                <sem class="CLOTHES_A" />
                <sem />
@@ -3933,7 +4092,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_A" />
                <sem class="EXPERIENCE_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">morsom</t>
@@ -4016,6 +4174,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="HERDING" />
+               <sem class="ABSTRACT" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">spredt</t>
          </tg>
@@ -4057,7 +4216,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="WEATHER_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">vindstille</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">stilt</t>
@@ -4138,8 +4297,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="WEATHER_A" />
             </semantics>
+            <te>om vær</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mildt</t>
          </tg>
       </mg>
@@ -4377,13 +4537,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">mubpie</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">andre</t>
@@ -4397,13 +4550,28 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">murreds</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="EXPERIENCE_A" />
+               <sem class="FEELING" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">trivelig</t>
          </tg>
       </mg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="EXPERIENCE_A" />
+               <sem class="FEELING" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">interessant</t>
          </tg>
       </mg>
@@ -4428,17 +4596,11 @@ For the full license text, see the link above.</lic>
                <sem class="CLOTHES_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mjuk</t>
+            <t pos="a">myk</t>
+            <t pos="a">mjukt</t>
+            <t pos="a">mykt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mjuke</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">myövhkes</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">mjuk</t>
+            <t pos="a">myke</t>
          </tg>
       </mg>
    </e>
@@ -4489,17 +4651,12 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">dårlig</t>
-            <te>kan også brukes om føre</te>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="HUMAN_A" />
                <sem class="ANIMAL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">syk</t>
+            <t pos="a">dårlig</t>
          </tg>
       </mg>
    </e>
@@ -4612,20 +4769,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">trøtt</t>
             <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">trett</t>
-         </tg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">søvnig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">nannoes</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">solid</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">slitesterk</t>
+            <t pos="a">søvnig</t>
          </tg>
       </mg>
    </e>
@@ -4651,20 +4795,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">nieljede</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">fjerde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">njaalmeldh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">muntlig</t>
          </tg>
       </mg>
@@ -4774,16 +4918,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">njieljede</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">fjerde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">njoetjeles</l>
       </lg>
       <apps>
@@ -4796,15 +4930,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="PLANT" />
             </semantics>
+            <te>om bjørkekvister</te>
+            <t pos="a">glatt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mykt</t>
-         </tg>
-         <tg>
-            <semantics>
-               <sem class="NATURE_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">glatt</t>
+            <t pos="a">tynn</t>
          </tg>
       </mg>
    </e>
@@ -4822,10 +4953,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE_A" />
+               <sem class="PLANT" />
             </semantics>
+            <te>om bær</te>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">moden</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">moden om bær</t>
          </tg>
       </mg>
    </e>
@@ -4926,32 +5057,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">nåake</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="dej" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">vond</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPERIENCE_A" />
-               <sem class="CLOTHES_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dårlig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">nåekies</l>
       </lg>
       <apps>
@@ -4959,6 +5064,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s2" />
                <book name="a1" />
+               <book name="dej" />
             </sources>
          </app>
       </apps>
@@ -4967,6 +5073,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="EXPERIENCE_A" />
                <sem class="CLOTHES_A" />
+               <sem class="WEATHER_A" />
+               <sem class="BODY_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dårlig</t>
          </tg>
@@ -5023,16 +5131,14 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">sterk</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="OBJECT_A" />
+               <sem class="CLOTHES_A" />
+               <sem class="TOOL" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">solid</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">holdbar</t>
+            <t pos="a">sterk</t>
          </tg>
       </mg>
    </e>
@@ -5155,7 +5261,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="OBJECT_A" />
+               <sem class="CLOTHES_A" />
                <sem class="SOUP_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">ny</t>
@@ -5311,7 +5417,7 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">svaksynt</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">sein til å oppdage</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">sein til å oppdage</t>
          </tg>
       </mg>
    </e>
@@ -5364,6 +5470,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="NATURE_A" />
+               <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">flat</t>
             <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">slett</t>
@@ -5388,11 +5495,6 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">bratt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">vanskelig</t>
          </tg>
       </mg>
    </e>
@@ -5552,8 +5654,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="ABSTRACT" />
+               <sem class="SCHOOL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">sant</t>
+            <t pos="a">riktig</t>
          </tg>
       </mg>
    </e>
@@ -5588,6 +5692,9 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg>
+            <semantics>
+               <sem class="TRAVELLING" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">klar</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">reiseklar</t>
          </tg>
@@ -5608,6 +5715,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="HUMAN_A" />
+               <sem class="ANIMAL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">underlig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">rar</t>
@@ -5653,9 +5761,25 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="x">rutjkes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="CLOTHES_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">brun</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="CLOTHES_A" />
+            </semantics>
+            <t pos="">rødbrun</t>
          </tg>
       </mg>
    </e>
@@ -5663,8 +5787,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">ræjhkoes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">rik</t>
          </tg>
       </mg>
@@ -5799,8 +5933,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">saelhties</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUP_A" />
+            </semantics>
+            <t pos="a">saltet</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">salta</t>
          </tg>
       </mg>
@@ -5819,7 +5964,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="FEELING" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">fredelig</t>
          </tg>
@@ -5896,8 +6041,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">sieties</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUP_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">søt</t>
          </tg>
       </mg>
@@ -5920,8 +6075,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="FEELING" />
                <sem class="NATURE_A" />
+               <sem class="SCHOOL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">stille</t>
             <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">tyst</t>
@@ -5941,24 +6097,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">passelige</t>
-            <xg>
-               <x>sjiehteles vaarjoeh</x>
-               <xt>passelige klær</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">høvelig</t>
-            <xg>
-               <x>Sjiehteles barkoe munnjien dïhte.</x>
-               <xt>Det er et høvelig arbeid til meg det.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">høflig og forekommende</t>
             <xg>
                <x>sjiehteles almetje</x>
@@ -5974,6 +6115,10 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">passende</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">liketil</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">høvelig</t>
+            <xg>
+               <x>sjiehteles vaarjoeh munnjien</x>
+               <xt>passelige klær</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6014,6 +6159,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="NATURE_A" />
+               <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">glatt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">jevn</t>
@@ -6058,6 +6204,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HUMAN_A" />
                <sem class="ANIMAL_A" />
+               <sem class="ABSTRACT" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">særskilt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">særegen</t>
@@ -6076,9 +6223,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">skaavhtege</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">kantet</t>
+            <semantics>
+               <sem class="OBJECT_A" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" tcomm="no">kaintet</t>
             <xg>
                <x>vïjhtenskaavhtege</x>
                <xt>femkantet</xt>
@@ -6101,17 +6258,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">skïemtje</l>
       </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">syk</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">sjuk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">skïemtjes</l>
-      </lg>
       <apps>
          <app name="oahpa">
             <sources>
@@ -6128,28 +6274,6 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">syk</t>
             <t dict="no" oa="yes" pos="a" tcomm="no">sjuk</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">skïemtjine</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa3" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="HUMAN_A" />
-               <sem class="ANIMAL_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">syk</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">med sykdom</t>
          </tg>
       </mg>
    </e>
@@ -6223,8 +6347,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">slovves</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">farkåt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">slu</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no">listig</t>
@@ -6248,6 +6382,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="ANIMAL_A" />
+               <sem class="PLANT" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">liten</t>
          </tg>
       </mg>
@@ -6427,16 +6565,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">stoere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no">stor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">stoerre</l>
       </lg>
       <apps>
@@ -6498,9 +6626,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">sïejhme</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no">vanlig</t>
+            <t pos="a">alminnelig</t>
          </tg>
       </mg>
    </e>
