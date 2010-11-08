@@ -848,12 +848,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">for ... skyld, til fordel for</t>
+            <tf dict="yes" oa="yes" pos="pr">for ... skyld</tf>
+            <tf pos="???">til fordel for</tf>
+            <xg>
+               <x>Nov amma mov gaavhtan!</x>
+               <xt>Gjerne for min skyld!</xt>
+            </xg>
+            <xg>
+               <x>vuesiehtimmien gaavhtan</x>
+               <xt>for eksempel</xt>
+            </xg>
          </tg>
-      </mg>
-      <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="x" tcomm="no">på grunn av , i anledning av</t>
+            <tf pos="">på grunn av</tf>
+            <tf pos="???">i anledning av</tf>
          </tg>
       </mg>
    </e>
@@ -1863,6 +1871,10 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Daan jaepien påaske voerhtjen gaskoeh båata.</x>
                <xt>I år kommer påsken i midten av april.</xt>
+            </xg>
+            <xg>
+               <x>daan asken gaskoeh</x>
+               <xt>midt i denne måneden</xt>
             </xg>
          </tg>
       </mg>
@@ -3330,7 +3342,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />            
+               <sem class="ZZZ" />
             </semantics>
             <t dict="yes" oa="yes" pos="po" tcomm="no" xml:lang="nob">oppå</t>
          </tg>
