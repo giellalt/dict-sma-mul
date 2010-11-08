@@ -2583,11 +2583,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">bråke</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="ANIMAL_V" />
             </semantics>
@@ -2959,12 +2954,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="v" tcomm="no">bre ut</t>
             <te>klær og saker</te>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <tf dict="yes" oa="yes">bli oppsporet</tf>
-            <tf dict="yes" oa="yes">bli oppdaget</tf>
          </tg>
       </mg>
    </e>
@@ -3892,11 +3881,6 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">snakke grovt</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <t dict="yes" oa="yes" pos="v" tcomm="no">banne</t>
          </tg>
       </mg>
@@ -4224,11 +4208,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">vaske</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="HUMAN_V" />
                <sem class="FOOD_DRINK_V" />
@@ -4255,11 +4234,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">vaske seg</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="HUMAN_V" />
             </semantics>
@@ -4282,12 +4256,6 @@ For the full license text, see the link above.</lic>
             </sources>
          </app>
       </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">innby</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">by</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <semantics>
@@ -4422,11 +4390,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">bøtelegge</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="YYY" />
             </semantics>
@@ -4543,7 +4506,11 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">sløse bort, sette over styr, søle til, stryke, klappe (hund)</t>
+            <tf dict="yes" oa="yes">sløse bort</tf>
+            <tf>sette over styr</tf>
+            <tf>søle til</tf>
+            <t pos="v">stryke</t>
+            <tf>klappe (hund)</tf>
          </tg>
       </mg>
    </e>
@@ -5079,7 +5046,8 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">trampe på litt, trampe litt</t>
+            <tf dict="yes" oa="yes">trampe på litt, </tf>
+            <tf>trampe litt</tf>
          </tg>
       </mg>
    </e>
@@ -5129,10 +5097,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics></semantics>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">komme til rette</t>
+            <tf dict="yes" oa="yes" xml:lang="nob">komme til rette</tf>
          </tg>
          <tg>
-            <t pos="v">komme til syne</t>
+            <tf>komme til syne</tf>
          </tg>
       </mg>
    </e>
@@ -5233,7 +5201,8 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">være overens, kjenne hverandre</t>
+            <tf dict="yes" oa="yes">være overens, </tf>
+            <tf>kjenne hverandre</tf>
          </tg>
       </mg>
    </e>
@@ -5277,7 +5246,8 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">spørre, forhøre seg</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">spørre</t>
+            <tf>forhøre seg</tf>
          </tg>
       </mg>
    </e>
@@ -5433,12 +5403,15 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">kurere (sykdom)</t>
+            <re>om sykdom</re>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">kurere</t>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">gjelde (rein), kastrere</t>
+            <re>rein</re>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">gjelde</t>
+            <t pos="???">kastrere</t>
          </tg>
       </mg>
    </e>
@@ -5505,7 +5478,9 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">vemmes, synes (noe) er motbydelig, miste matlysten, bli kvalm</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">vemmes</t>
+            <tf>bli kvalm</tf>
+            <tf>miste matlysten</tf>
          </tg>
       </mg>
    </e>
@@ -5516,7 +5491,9 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">vemmes, synes (noe) er motbydelig, miste matlysten, bli kvalm</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">vemmes</t>
+            <tf>bli kvalm</tf>
+            <tf>miste matlysten</tf>
          </tg>
       </mg>
    </e>
@@ -5527,7 +5504,8 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">være vemmelig, se snusket ut</t>
+            <tf dict="yes" oa="yes">være vemmelig, </tf>
+            <tf dict="yes" oa="yes">se snusket ut</tf>
          </tg>
       </mg>
    </e>
@@ -5588,11 +5566,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">feste, feste sammen (noe)</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
             <semantics>
                <sem class="YYY" />
             </semantics>
@@ -5620,7 +5593,8 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">stryke, klappe</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">stryke</t>
+            <t pos="v">klappe</t>
          </tg>
       </mg>
    </e>
@@ -5721,7 +5695,7 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">bedra (ved f.eks i handel)</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no">bedra</t>
          </tg>
       </mg>
    </e>
@@ -6366,7 +6340,7 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">gjøre seg til</t>
+            <tf dict="yes" oa="yes">gjøre seg til</tf>
          </tg>
       </mg>
       <mg>
