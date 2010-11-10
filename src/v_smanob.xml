@@ -9335,7 +9335,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="EXPOSURE_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">flyte</t>
          </tg>
@@ -9551,7 +9551,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">miste</t>
             <t pos="phrase">kaste bort</t>
-            <t dict="no" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">somle bort </t>
+            <t dict="no" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">somle bort</t>
             <t pos="phrase">la komme bort</t>
          </tg>
       </mg>
@@ -9626,7 +9626,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l class="IV" p3p="gahpa" pos="v">gahpedh</l>
       </lg>
@@ -9640,15 +9640,16 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">streve etter å komme opp, reise seg på to (for å slå)</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no">streve etter å komme opp</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="REINDEER" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">reise seg på to for å slå (om kjørerein)</t>
+            <re>om rein</re>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">reise seg på to for å slå </t>
          </tg>
       </mg>
    </e>
@@ -9684,10 +9685,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="EXPOSURE_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">falle</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">ramle ned</t>
+            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="nob">ramle ned</t>
+            <t pos="v">ramle</t>
+            <t dict="no" pos="phrase">falle ned</t>
             <xg>
                <x>Laara vuebnien morte gahtjesti jïh boelehtji.</x>
                <xt>Laara falt borti ovnen og brente seg.</xt>
