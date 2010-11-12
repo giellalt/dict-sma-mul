@@ -30,8 +30,11 @@
   <xsl:variable name="cl" select="':'"/>
   <xsl:variable name="scl" select="';'"/>
   <xsl:variable name="us" select="'_'"/>
+  <xsl:variable name="rbl" select="'('"/>
+  <xsl:variable name="rbr" select="')'"/>
   <xsl:variable name="qm" select="'&#34;'"/>
   <xsl:variable name="cm" select="','"/>
+  <xsl:variable name="debug" select="'true_gogo'"/>
 
   <!-- input file, extention of the output file -->
   <xsl:param name="inFile" select="'default'"/>
@@ -44,6 +47,14 @@
     <xsl:choose>
       <xsl:when test="unparsed-text-available($inFile)">
 
+	<xsl:if test="$debug = 'true_gogo'">
+	  <xsl:message terminate="no">
+	    <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
+	    <xsl:value-of select="concat('processing file ', $inFile, $nl)"/>
+	    <xsl:value-of select="'-----------------------------------------'"/>
+	  </xsl:message>
+	</xsl:if>
+	
 	<!-- file -->
 	<xsl:variable name="file" select="unparsed-text($inFile)"/>
 	<xsl:variable name="file_lines" select="distinct-values(tokenize($file, $nl))" as="xs:string+"/>
@@ -54,15 +65,25 @@
 <!-- 	      <xsl:analyze-string select="$normLine" regex="^([^\s|$us]+)(\s|\t)*$us(\s|\t)*([^\s|$us]+)(\s|\t)*$us(\s|\t)*([^\s|$us]+)(.*)$" flags="s"> -->
 	      <xsl:analyze-string select="$normLine" regex="^([^\s|\t|{$us}]+)[\s|\t]*{$us}[\s|\t]*([^\s|\t|{$us}]+)[\s|\t]*{$us}[\s|\t]*([^{$us}]+)(.*)$" flags="s">
 		<xsl:matching-substring>
+
 		  <xsl:variable name="lemma" select="regex-group(1)"/>
 		  <xsl:variable name="pos" select="regex-group(2)"/>
 		  <xsl:variable name="target" select="tokenize(regex-group(3), $scl)"/>
 		  <xsl:variable name="rest" select="regex-group(4)"/>
+		  
+		  <xsl:if test="$debug = 'true_gogo'">
+		    <xsl:message terminate="no">
+		      <xsl:value-of select="concat('lemma: ', $lemma, $nl)"/>
+		      <xsl:value-of select="'............'"/>
+		    </xsl:message>
+		  </xsl:if>
+
+
 		  <e>
 		    <lg>
 		      <l>
 			<xsl:attribute name="pos">
-			  <xsl:value-of select="normalize-space($pos)"/>
+			  <xsl:value-of select="lower-case(normalize-space($pos))"/>
 			</xsl:attribute>
 			<xsl:value-of select="normalize-space($lemma)"/>
 		      </l>
@@ -71,13 +92,49 @@
 		      <mg>
 			<tg>
 			  <xsl:for-each select="tokenize(., $cm)">
-			    <t>
-			      <xsl:attribute name="pos">
-				<xsl:value-of select="normalize-space($pos)"/>
-<!--				<xsl:value-of select="'xxx'"/> -->
-			      </xsl:attribute>
-			      <xsl:value-of select="normalize-space(.)"/>
-			    </t>
+
+			    <xsl:variable name="translation" select="normalize-space(.)"/>
+			    <xsl:if test="not(contains($translation, $rbl))">
+			      <xsl:if test="count(tokenize($translation, ' ')) &gt; 1">
+				<tf>
+				  <xsl:attribute name="pos">
+				    <xsl:value-of select="'phrase'"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$translation"/>
+				</tf>
+			      </xsl:if>
+			      <xsl:if test="count(tokenize($translation, ' ')) = 1">
+				<t>
+				  <xsl:attribute name="pos">
+				    <xsl:value-of select="lower-case(normalize-space($pos))"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$translation"/>
+				</t>
+			      </xsl:if>
+			    </xsl:if>
+			    
+			    <xsl:if test="contains($translation, $rbl)">
+			      <xsl:variable name="pure_translation" select="normalize-space(substring-before($translation, $rbl))"/>
+			      <xsl:if test="count(tokenize($pure_translation, ' ')) &gt; 1">
+				<tf>
+				  <xsl:attribute name="pos">
+				    <xsl:value-of select="'phrase'"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$pure_translation"/>
+				</tf>
+			      </xsl:if>
+			      <xsl:if test="count(tokenize($pure_translation, ' ')) = 1">
+				<t>
+				  <xsl:attribute name="pos">
+				    <xsl:value-of select="lower-case(normalize-space($pos))"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$pure_translation"/>
+				</t>
+			      </xsl:if>
+			      <te>
+				<xsl:value-of select="normalize-space(substring-before(substring-after($translation, $rbl), $rbr))"/>	     
+			      </te>
+			    </xsl:if>
 			  </xsl:for-each>
 			</tg>
 		      </mg>
@@ -92,6 +149,12 @@
 		  </e>
 		</xsl:matching-substring>
 		<xsl:non-matching-substring>
+		  <xsl:if test="$debug = 'true_gogo'">
+		    <xsl:message terminate="no">
+		      <xsl:value-of select="concat('non-matching-line', ., $nl)"/>
+		      <xsl:value-of select="'............'"/>
+		    </xsl:message>
+		  </xsl:if>
 		  <xxx><xsl:value-of select="."/></xxx>
 		</xsl:non-matching-substring>
 	      </xsl:analyze-string>
