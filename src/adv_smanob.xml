@@ -619,7 +619,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">der</t>
-            <t dict="yes" oa="yes" pos="???" tcomm="no">der omkring</t>
+            <tf dict="no" tcomm="no">der omkring</tf>
          </tg>
       </mg>
    </e>
@@ -630,7 +630,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">der</t>
-            <t dict="yes" oa="yes" pos="???" tcomm="no">der omkring</t>
+            <tf dict="no" tcomm="no">der omkring</tf>
+
          </tg>
       </mg>
    </e>
@@ -1531,7 +1532,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">hvor</t>
-            <t pos="???">hvor hen</t>
+            <t dict="yes" oa="yes" pos="adv">hvorhen</t>
             <xg>
                <x>Gåabph edtjh?</x>
                <xt>Hvor skal du?</xt>
@@ -1556,7 +1557,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">vrangvillig</t>
-            <t pos="???">tverr</t>
          </tg>
       </mg>
       <mg>
@@ -1583,7 +1583,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">hvor</t>
-            <t pos="???">i hvilken rerning</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">hvorhen</t>
          </tg>
       </mg>
    </e>
@@ -1699,7 +1699,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">heldigvis</t>
-            <t dict="yes" oa="yes" pos="???" tcomm="no">vel</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">vel</t>
             <xg>
                <x>Dellie hågkh utnehte.</x>
                <xt>Nå holder han vel fast. / Nå holder det heldigvis.</xt>
@@ -2174,12 +2174,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="adv">minngebe</l>
+         <l pos="a">minngebe</l>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">den neste</t>
-            <t pos="???">følgende</t>
+            <t decl="3" dict="yes" oa="yes" pos="a" tcomm="no">neste</t>
+            <t decl="3" pos="a">følgende</t>
             <xg>
                <x>minngeben aereden</x>
                <xt>neste morgen</xt>
@@ -2453,7 +2453,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">alene</t>
-            <t dict="yes" oa="yes" pos="???" tcomm="no">ensom</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">ensomt</t>
          </tg>
       </mg>
    </e>
@@ -2499,13 +2499,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">nettopp (ikke)</t>
-            <t pos="???">slettes (ikke)</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">nettopp</t>
+            <tf>slettes ikke</tf>
          </tg>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">like (etter)</t>
+            <re>om tid</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">rett</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">like ved</t>
+            <xg>
+               <x>Daate tjaktjedaelvie, raakth jåvli åvtelen.</x>
+               <xt>Det var på høstvinteren, rett før jul.</xt>
+	    </xg>
+            <xg>
+               <x>Dah voestes lopmetjelmieh böetieh raakth mænngan goh leah joksedamme.</x>
+               <xt>De første snøflaka om rett etter at vi hadde spent på oss skia.</xt>
+	    </xg>
          </tg>
       </mg>
    </e>
@@ -2538,7 +2548,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">rett</t>
-            <t pos="adv">beaint</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no">beint</t>
             <xg>
                <x>Ih dån rïekte båetieh laabjehten pluevieh?</x>
                <xt>Du kommer vel ikke slaskende beint over myrene?</xt>
