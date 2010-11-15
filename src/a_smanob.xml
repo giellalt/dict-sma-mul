@@ -29,7 +29,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="a">aajnege</l>
+         <l pos="a">aajnehke</l>
       </lg>
       <mg>
          <tg>
@@ -207,10 +207,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <apps>
          <app name="oahpa">
-	   <sources>
-	     <book name="xxx" />
-	   </sources>
-	 </app>
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
       </apps>
       <mg>
          <tg>
@@ -1734,26 +1734,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">gaajhke-såårhts</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">alle slags</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">gaajhke-såårts</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">alle slags</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">gaajpeles</l>
       </lg>
       <apps>
@@ -3035,7 +3015,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">hartsoeh</l>
+         <l pos="a">harhtsoeh</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -5252,7 +5232,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">ov-vïssjeles</l>
+         <l pos="a">ovvissjeles</l>
       </lg>
       <mg>
          <tg>
@@ -5676,7 +5656,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="a">rutjehke</l>
+         <l pos="a">ruhtjege</l>
       </lg>
       <mg>
          <tg>
@@ -6020,6 +6000,8 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <book name="s3" />
+               <book name="dej" />
+               <book name="åa5" />
             </sources>
          </app>
       </apps>
@@ -6091,27 +6073,6 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">glatt</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">jevn</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">sjiehteles</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="dej" />
-               <book name="åa5" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="CLOTHES_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">passende</t>
          </tg>
       </mg>
    </e>
@@ -7316,11 +7277,11 @@ For the full license text, see the link above.</lic>
          <l pos="a">vesties</l>
       </lg>
       <apps>
-	<app name="oahpa">
-	  <sources>
-	    <book name="xxx" />
-	  </sources>
-	</app>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
       </apps>
       <mg>
          <tg>
@@ -8406,7 +8367,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="a" xml:lang="nob">pen</t>
             <t pos="a" xml:lang="nob">vakker</t>
-            <tf pos="phrase" xml:lang="nob">på en pen måte</tf>
          </tg>
       </mg>
    </e>
@@ -8428,7 +8388,27 @@ For the full license text, see the link above.</lic>
                <sem class="YYY" />
             </semantics>
             <re>om rein</re>
-            <t dict="yes" oa="yes" pos="xxx" xml:lang="nob">lysegrå</t>
+            <t dict="yes" oa="yes" pos="a" xml:lang="nob">lysegrå</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaajhkesåarhts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">alle slags</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">gaajhkesåårts</l>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">alle slags</t>
          </tg>
       </mg>
    </e>
