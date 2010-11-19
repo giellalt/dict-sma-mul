@@ -8955,17 +8955,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">dåehkie</l>
-      </lg>
-      <mg>
-         <tg>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">gruppe</t>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">utvalg</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n">dueljie</l>
       </lg>
       <stem class="bisyllabic"></stem>
@@ -8985,7 +8974,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="REINDEER" />
+               <sem class="TRAD_OTHER" />
+               <sem class="HERDING" />
+               <sem class="SPORT" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skinn</t>
             <te dict="yes" oa="yes" xml:lang="nob">med hår</te>
@@ -8996,8 +8987,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">dulvie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NATURE_WATER" />
+            </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">flom</t>
          </tg>
       </mg>
@@ -9006,10 +9007,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">durrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NATURE_PLACE" />
+            </semantics>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">skar</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fjelldal</t>
-            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">skar</t>
          </tg>
       </mg>
    </e>
@@ -9059,9 +9070,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="THING" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">noe å støtte med</tf>
+            <t pos="n">støtte</t>
          </tg>
       </mg>
    </e>
@@ -9286,10 +9298,19 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="REINDEER" />
+               <sem class="HERDING" />
+            </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">flokk</t>
          </tg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL" />
+               <sem class="JOB" />
+            </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">gruppe</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">utvalg</t>
          </tg>
          <tg>
             <t decl="1" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">kompani</t>
@@ -9332,6 +9353,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">hindring</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">vanskelighet</t>
+            <t pos="n">problemT</t>
          </tg>
       </mg>
    </e>
@@ -9376,13 +9398,13 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="HERDING" />
+               <sem class="TRAD_OTHER" />
+               <sem class="SPORT" />
             </semantics>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bål</t>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">ild</t>
-         </tg>
-         <tg>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">varme</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ild</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">bål</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">varme</t>
          </tg>
       </mg>
    </e>
