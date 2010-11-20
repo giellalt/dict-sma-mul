@@ -9124,8 +9124,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">dåahka</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="TOY" />
+            </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">dukke</t>
          </tg>
       </mg>
@@ -9161,7 +9171,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="PROFESSION" />
-               <sem class="ILLNESS" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">doktor</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">lege</t>
@@ -9437,7 +9446,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="GAMME" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ildsted</t>
          </tg>
@@ -9469,7 +9478,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="SLEEPINGROOM" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">hodepute</t>
          </tg>
@@ -9667,7 +9676,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="FOOD_GROCERY" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">sukker</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">farin</t>
@@ -15228,7 +15237,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="YYY" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">den innerste del av tykktarmen</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">den innerste del av
+            tykktarmen</tf>
             <te dict="yes" oa="yes" xml:lang="nob">nærmest småtarmene</te>
          </tg>
          <tg>
@@ -15765,8 +15775,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">blindtarm hos rein og andre
             drøvtyggere</tf>
-        </tg>
-        <tg>
+         </tg>
+         <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">langmagen</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">tykktarmen</t>
          </tg>
@@ -16000,15 +16010,15 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="FAMILY" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tantebarn til mors eldre søster</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tantebarn til mors eldre
+            søster</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">niese</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">nevø</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en kvinnes yngre søsters sønn</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en kvinnes yngre søsters datter</tf>
          </tg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tantebarn av mors eldre
-            søster</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tantebarn av mors eldre søster</tf>
          </tg>
       </mg>
    </e>
@@ -17043,7 +17053,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="YYY" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">siderom i reingjerde for skilling</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">siderom i reingjerde for
+            skilling</tf>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">gjerde</t>
          </tg>
       </mg>
@@ -21246,8 +21257,7 @@ For the full license text, see the link above.</lic>
          </app>
       </apps>
       <mg>
-         <tg>
-         </tg>
+         <tg></tg>
          <tg>
             <semantics>
                <sem class="SPORT" />
