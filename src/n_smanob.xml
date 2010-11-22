@@ -120,8 +120,8 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">bestemor</t>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">mormor</t>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">farmor</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" stat="pref" tcomm="yes" xml:lang="nob">mormor</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">farmor</t>
          </tg>
          <tg>
             <semantics>
@@ -289,7 +289,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">farfars barnebarn</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">barnebarn til morfar</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">barnebarn til farfar</tf>
-            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">barnebarn</t>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="yes" xml:lang="nob">barnebarn</t>
          </tg>
       </mg>
    </e>
@@ -323,9 +323,10 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">søskenbarn innbyrdes</tf>
-            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">søskenbarn</t>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">kusiner</t>
-            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fettere</t>
+            <tf dict="no">innbyrdes søskenbarn</tf>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="yes" xml:lang="nob">søskenbarn</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">kusiner</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="yes" xml:lang="nob">fettere</t>
          </tg>
       </mg>
    </e>
@@ -366,8 +367,8 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">søskenbarn</t>
-            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fetter</t>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">kusine</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="yes" xml:lang="nob">fetter</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">kusine</t>
          </tg>
       </mg>
    </e>
@@ -391,12 +392,25 @@ For the full license text, see the link above.</lic>
          <l pos="n">aajnehke</l>
       </lg>
       <stem class="trisyllabic" soggi="e"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">enebarn</t>
+            <semantics>
+               <sem class="FAMILY" />
+            </semantics>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">enebarn</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">simle som skiller seg ut fra de andre</tf>
+            <tf dict="yes" oa="no" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">simle som skiller seg ut fra de
+            andre</tf>
          </tg>
       </mg>
    </e>
@@ -14252,10 +14266,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="ANIMAL_OTHER" />
             </semantics>
-            <re>om dyr</re>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">hår</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">dyrehår</t>
+            <t gen="n" pos="n" tcomm="yes">hår</t>
+            <t gen="n" pos="n" tcomm="yes">reinhår</t>
+         </tg>
+         <tg>
+            <t gen="n" pos="n">kroppshår</t>
          </tg>
       </mg>
    </e>
@@ -20734,6 +20752,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l pos="n">jueskiedahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t decl="1" oa="no" pos="n">kjøleskap</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="n">juhteme</l>
       </lg>
       <stem class="trisyllabic" soggi="e"></stem>
@@ -26919,7 +26947,8 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tantebarn til mors yngre
             søster</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mosters tantebarn</tf>
-            <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en kvinnes eldre søsters barn</tf>
+            <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">kvinnes eldre søsters barn</tf>
+            <t pos="n" tcomm="yes">tantebarn</t>
          </tg>
          <tg>
             <semantics>
@@ -27260,8 +27289,8 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">mors yngre søster</tf>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">moster</t>
-            <t decl="1" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">tante</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">moster</t>
+            <t decl="1" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">tante</t>
          </tg>
          <tg>
             <semantics>
@@ -27274,7 +27303,6 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">eldre kvinne</tf>
-            <te dict="yes" oa="yes" xml:lang="nob">ikke nødvendigvis i slekt</te>
          </tg>
       </mg>
    </e>
@@ -27600,7 +27628,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">mor</t>
-            <te dict="yes" oa="yes" xml:lang="nob">særlig om prestekone</te>
+         </tg>
+         <tg>
+            <t decl="2" gen="f" pos="n">prestekone</t>
          </tg>
          <tg>
             <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">gammel kjerring</tf>
@@ -31521,6 +31551,7 @@ For the full license text, see the link above.</lic>
    <e>
       <lg>
          <l pos="n">radijovve</l>
+         <lsub pos="???">radijove</lsub>
       </lg>
       <stem class="trisyllabic" soggi="e"></stem>
       <apps>
