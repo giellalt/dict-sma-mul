@@ -4847,6 +4847,9 @@ For the full license text, see the link above.</lic>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">halvsirkel</t>
          </tg>
+         <tg>
+            <tf pos="">halv omkrets</tf>
+         </tg>
       </mg>
    </e>
    <e>
@@ -12996,7 +12999,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">garretsïengeles</l>
+         <l pos="n">garretsïengele</l>
       </lg>
       <mg>
          <tg>
@@ -16089,7 +16092,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">koftekrage</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">koftekrage</t>
+            <t decl="1" gen="m" pos="n">pelskrage</t>
          </tg>
       </mg>
    </e>
@@ -17476,7 +17480,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="THING" />
             </semantics>
+            <t decl="1" gen="m" pos="n">topp</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">toppende</t>
+            <xg>
+               <x>tjohpen gïerhgietjie</x>
+               <xt>toppen av lua</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19311,30 +19320,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf dict="yes" gen="n" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">noe man må bøte for</tf>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="n">iehtseles</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="xxx" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="PEOPLE" />
-            </semantics>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">elskede</t>
-            <xg>
-               <x>mov iehtseles</x>
-               <xt>min elskede</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -40400,6 +40385,11 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kilo</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t decl="1" gen="m" pos="n">kile</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -48645,7 +48635,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">reektehts</l>
       </lg>
-      <stem class="bisyllabic"></stem>
+      <stem class="trisyllabic"></stem>
       <apps>
          <app name="oahpa">
             <sources>
@@ -50800,6 +50790,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tvunnet ornament</tf>
+            <tf pos="???">tvunnet og snodd skinnsnor</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">pruvnieldahke</l>
+      </lg>
+      <stem class="bisyllabic" soggi="e"></stem>
+      <mg>
+         <tg>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tvunnet ornament</tf>
+            <tf pos="???">tvunnet og snodd skinnsnor</tf>
          </tg>
       </mg>
    </e>
@@ -51335,6 +51338,86 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <tf pos="x">enden av ikke helt oppbrent ved</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goepehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">sko med sømmen ut</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">goepege</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">sko med sømmen ut</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gåaromedeerpegh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="n">sysaker</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gierkiesarjehtahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">perlevedheng til belte</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ditneldhsarjehtahke</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">tinnvedheng til belte</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">gååjvetje</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf pos="x">liten hakke</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">ollehke</l>
+      </lg>
+      <mg>
+         <tg>
+            <t gen="m" pos="n">randhøvel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">rehkere</l>
+      </lg>
+      <mg>
+         <tg>
+            <t gen="m" pos="n">høvel</t>
          </tg>
       </mg>
    </e>
