@@ -19508,7 +19508,7 @@ For the full license text, see the link above.</lic>
                <sem class="VÆTNOE" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">flamme skoband</t>
-            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">flamme </tf>
+            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">flamme</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">veve skoband</tf>
          </tg>
       </mg>
@@ -19700,7 +19700,10 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">more seg</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">ha det artig</tf>
+            <tf>ha det morsomt</tf>
+            <tf>ha det moro</tf>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">leke</t>
+            <t dict="no" pos="v">feste</t>
          </tg>
       </mg>
    </e>
@@ -19727,6 +19730,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">løfte</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">heve</t>
+            <tf dict="no">løfte opp</tf>
          </tg>
       </mg>
    </e>
@@ -19832,12 +19836,13 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_V" />
                <sem class="HANDICRAFTS" />
             </semantics>
-            <re>flere ting f. eks ved</re>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">kløyve</t>
+            <t pos="???">klyve</t>
+            <te>flere ting, f.eks ved</te>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="v">låapoehtidh</l>
       </lg>
@@ -19861,7 +19866,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="v">låepiehtidh</l>
       </lg>
@@ -19920,7 +19925,7 @@ For the full license text, see the link above.</lic>
             <re>om dyr og mennesker</re>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">anfalle</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">angripe</t>
-            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå på</tf>
+            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">gå på</tf>
          </tg>
       </mg>
    </e>
@@ -19978,6 +19983,7 @@ For the full license text, see the link above.</lic>
             <re>om sola</re>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">stå opp</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">sprette opp</tf>
+            <tf dict="no">stige opp</tf>
          </tg>
       </mg>
    </e>
