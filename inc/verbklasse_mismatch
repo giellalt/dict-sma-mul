@@ -1,48 +1,150 @@
-Disse verbene har i LMM to forskjellige verbklasser. Er det samme semantikk? evt TV vs IV? hvis ikke samme semantikk, så må de tagges i fst slik at vi kan skille dem når vi genererer paradigmer for dict.
+Jeg har sjekka verbklassene til alle verbene i smanob-dict, og retta mange. Men det er noen problematiske verb igjen - som nok også berører fst.
 
-
-         <l class="III" p3p="darhkoe/darhkaXXX" pos="v">darhkedh</l>
-         LMM:  1*   darhkedh III     undersøke nøye
- 2    darhkedh IV      duge (med nektelse og i spørsmål) ij mïsse gænnah
-darhkh  det duger ikke til noe; mejtie dïsse maahta darhkedh?  tro om det
-kan duge til det?
-
-         <l class="IV" p3p="dijmieXXXdæjma/dïjmh" pos="v">dïjmedh</l>
-      dïjmedh IV, *dyjmedh V bli myk, bli mør; koke mørt, bli gjennom-
-kokt; koke for meget (f.eks. om kjøtt)
-
-         <l class="IV" p3p="tjalkoe/tjalkaXXXtjalkah" pos="v">tjalkedh</l>
-          2    tjalkedh III     falle igjenom, synke ned i tjalkoe jïengese (foten)
-faller igjennom isen
-1     tjalkedh IV      spytte
-         
-         <l class="IV" p3p="pråvhkaIVXXXprovhkoeV" pos="v">provhkedh</l>       provhkedh IV, V  bruke, pleie, pleie å ha
-
-         <l minip="notSg1" p3p="svæjra/svijrieXXX" pos="v">svijredh</l>       svijredh, *svijdedh I, VI   svi (f.eks.  om øyne, sår)
-
-------------
 Disse verbene har annen verbklasse i fst enn hos LMM:
 
+gaatelassjedh+V+Ind+Prs+Sg3	gaatelassjoe
+gaatelassjedh+V+Ind+Prs+Sg2	gaatelassjh
 
-         <l class="I" p3p="buvvieXXX" pos="v">buvvedh</l> LMM: I
+fst: V
+LMM: IV
+      gaatelassjedh IV 1. ønske, ville ha  2. beklage
 
-         <l class="V" p3p="bårrestahtaXXXbårrestohth" pos="v">bårrestohtedh</l> LMM:V
+--------------
+girmedh+V+Ind+Prs+Sg3	gærma
+girmedh+V+Ind+Prs+Sg2	gærmah
 
-         <l class="IV" p3p="dalhkoeXXX" pos="v">dalhkedh</l> LMM:IV
+fst: I
+LMM: IV
+      girmedh [gî-] VI rose, skryte av jïjtjemse girmie  roser  seg selv
 
-         <l class="IV" p3p="gaatelassjoeXXX" pos="v">gaatelassjedh</l> LMM: IV
+gïrmedh+V+Ind+Prs+Sg3	gærma
+gïrmedh+V+Ind+Prs+Sg2	gïrmh
 
-         <l class="VI" p3p="XXXgærmah" pos="v">girmedh</l>  LMM: IV
-           
+LMM: IV
+      gïrmedh IV stimle sammen
 
-         <l class="VI" p3p="skuvlaXXXskuvlh" pos="v">skuvledh</l>  LMM: VI
+-------------           
+skuvledh+V+Ind+Prs+Sg3	skuvla
+skuvledh+V+Ind+Prs+Sg2	skuvlh
 
-         <l class="V" p3p="syjhtieXXXsyjhta syjhth" pos="v">syjhtedh</l>  finnes ikke i LMM
+fst: IV
+LMM: VI
+      skuvledh VI      skylle (f.eks. klær)
 
-         <l class="I" p3p="tjihtie/tjæhtaXXXtjihth" pos="v">tjihtedh</l>
-          1    tjihtedh I, VI   sette kile i, kile fast (nïrrem,  skaft, på øks)
+-------------
+syjhtedh+V+Ind+Prs+Sg3	syjhta
+syjhtedh+V+Ind+Prs+Sg2	syjhth
+
+fst: IV
+finnes ikke i Verbh
+ finnes ikke hos LMM, men dette finnes:
+       sujhtedh VI      pleie (syke), passe (barn), ha omsorg for
+
+sujhtedh+V+Ind+Prs+Sg2	sujhth
+sujhtedh+V+Ind+Prs+Sg3	sujhtie
+
+Feilstaving i dict/fst??
+---------
+tsegkedh+V+Ind+Prs+Sg3	tsagka
+tsegkedh+V+Ind+Prs+Sg2	tsagkah
+
+fst: I
+
+finnes ikke i LMM eller i Verbh
+Men dette finnes:
+      tseegkedh VI     sette opp, reise opp, bygge; sette på (kjøttgryte
+til koking); anstifte (opprør)
+
+Feilstaving i dict/fst??
+
+------------
+lyhpedh+V+Ind+Prs+Sg3	lyhpoe
+lyhpedh+V+Ind+Prs+Sg2	lyhph
+
+fst: V
+LMM: IV
+============================
+
+Følgende verb har to verbklasser hos LMM og i fst, men forskjellig semantikk. Kan de merkes med tag for å kunne skille dem i dict? 
+
+darhkedh+V+Ind+Prs+Sg3	darhkoe
+darhkedh+V+Ind+Prs+Sg3	darhka
+
+darhkedh+V+Ind+Prs+Sg2	darhkh
+darhkedh+V+Ind+Prs+Sg2	darhkah
+
+LMM:  
+1*   darhkedh III     undersøke nøye
+2    darhkedh IV      duge (med nektelse og i spørsmål) ij mïsse gænnah darhkh  det duger ikke til noe; mejtie dïsse maahta darhkedh?  tro om det kan duge til det?
+
+Kommentar:
+her ser det ut til å være en TV og en IV.
+
+-------
+
+tjalkedh+V+Ind+Prs+Sg3	tjalkoe
+tjalkedh+V+Ind+Prs+Sg3	tjalka
+
+tjalkedh+V+Ind+Prs+Sg2	tjalkh
+tjalkedh+V+Ind+Prs+Sg2	tjalkah
+
+LMM:
+2    tjalkedh III     falle igjenom, synke ned i tjalkoe jïengese (foten) faller igjennom isen
+1     tjalkedh IV      spytte
+
+Kommentar:
+her ser det ut til å være en TV og en IV.
+
+
+------------
+
+tjihtedh+V+Ind+Prs+Sg3	tjihtie
+tjihtedh+V+Ind+Prs+Sg3	tjæhta
+
+tjihtedh+V+Ind+Prs+Sg2	tjihth
+tjihtedh+V+Ind+Prs+Sg2	tjæhtah
+
+LMM:
+ 1    tjihtedh I, VI   sette kile i, kile fast (nïrrem,  skaft, på øks)
  2    tjihtedh VI      sprenge, kile vekk; fortrenge
+ 
+Kommentar: Disse kan være fulle synonymer?
 
-         <l class="I" p3p="tseegkieXXXtsagka tsagkah" pos="v">tsegkedh</l> ikke i LMM
+--------------
 
-         <l class="IV" p3p="lyhpoeXXX" pos="v">lyhpedh</l>   LMM: IV
+provhkedh+V+Ind+Prs+Sg3	provhkoe
+provhkedh+V+Ind+Prs+Sg3	pråvhka
+
+provhkedh+V+Ind+Prs+Sg2	provhkh
+  
+         
+LMM:         
+provhkedh IV, V  bruke, pleie, pleie å ha
+
+Kommentar:
+her ser det ut til å være samme semantikk? Og da er det vel ikke behov for å tagge?
+
+
+---------
+
+svijredh+V+Ind+Prs+Sg3	svijrie
+svijredh+V+Ind+Prs+Sg3	svæjra
+
+svijredh+V+Ind+Prs+Sg2
+svijredh+V+Ind+Prs+Sg2	svijrh
+svijredh+V+Ind+Prs+Sg2	svæjrah
+
+svijdedh+V+Ind+Prs+Sg3	svijdie
+svijdedh+V+Ind+Prs+Sg3	svæjda
+
+svijdedh+V+Ind+Prs+Sg2	svijdh
+svijdedh+V+Ind+Prs+Sg2	svæjdah
+
+         
+LMM:         
+svijredh, *svijdedh I, VI   svi (f.eks.  om øyne, sår)
+
+Kommentar:
+her ser det ut til å være samme semantikk? Og da er det vel ikke behov for å tagge?
+
+
