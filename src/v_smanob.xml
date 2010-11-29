@@ -2578,6 +2578,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="s4" />
                <book name="dej" />
+               <book name="åa3" />
             </sources>
          </app>
       </apps>
@@ -2585,10 +2586,12 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="VERBAL_V" />
+               <sem class="HUMAN_V" />
                <sem class="VUEKIE" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">hilse</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">håndhilse</t>
+            <tf dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">hilse på</tf>
          </tg>
       </mg>
    </e>
@@ -3064,30 +3067,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l class="I" pos="v" umlaut="full" vow="x">båarastehtedh</l>
-      </lg>
-      <stem class="bisyllabic"></stem>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa3" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="VUEKIE" />
-               <sem class="HUMAN_V" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">håndhilse</t>
-            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">hilse på</tf>
-         </tg>
-      </mg>
-   </e>
-   <e>
+    <e>
       <lg>
          <l class="I" pos="v" umlaut="full" vow="x">båarhkoedestedh</l>
       </lg>
