@@ -18886,8 +18886,8 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
                <sem class="SCHOOL_V" />
             </semantics>
-            <t pos="v">undervise</t>
-            <tf>lære fra seg</tf>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">undervise</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">lære fra seg</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">lære ut</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">lære bort</tf>
             <tf dict="yes">lære noen noe</tf>
@@ -18921,7 +18921,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">undervise</t>
             <tf dict="no">lære fra seg</tf>
-            <tf dict="no">lære andre</tf>
+            <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">lære andre</tf>
             <tf dict="no">lære ut</tf>
             <tf dict="no">lære bort</tf>
             <tf dict="no">lære bort noe</tf>
@@ -23060,10 +23060,10 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re>om snø, jordmasser, torv osv</re>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">sige ned</tf>
-            <t dict="no" pos="v">sige</t>
+            <t dict="no" oa="yes" pos="v">sige</t>
          </tg>
          <tg>
-            <t pos="">gli av</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">gli av</tf>
             <t dict="no" pos="v">gli</t>
          </tg>
       </mg>
@@ -28535,7 +28535,6 @@ For the full license text, see the link above.</lic>
       </lg>
        
       <stem class="bisyllabic" />
-       f 
       <mg>
          <tg>
             <re>om væske</re>
