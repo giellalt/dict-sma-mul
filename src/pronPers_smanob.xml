@@ -111,9 +111,9 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no">han eller hun</t>
-            <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no">han/hun</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">han</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hun</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">han/hun</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">han</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hun</t>
             <xg>
                <x>Piere sån daajra.</x>
                <xt>Piere vet vel.</xt>
@@ -158,7 +158,8 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <re>om to personer</re>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to (du og han/hun)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere to</t>
             <xg>
                <x>Dåtnoeh din aaj båeteden?</x>
                <xt>Dere to kommer vel også?</xt>
@@ -225,7 +226,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere (du og han/hun)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere</t>
             <xg>
                <x>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</x>
                <xt>Dere får vel også høre hvordan det blir, hva det blir til.</xt>
@@ -379,7 +381,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="pron" type="pers">munnjan</l>
          <lemma_ref lemmaID="manne_pron_pers">manne</lemma_ref>
@@ -415,8 +417,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">på meg</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i meg</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på meg</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i meg</t>
          </tg>
       </mg>
    </e>
@@ -435,7 +437,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra meg</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">av meg</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">av meg</t>
             <xg>
                <x>Manneste dam åadtjoeji!</x>
                <xt>Han fikk den av meg!</xt>
@@ -547,6 +549,8 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">vår to sin</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">vår to sine</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">oss to sin</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">oss to sine</t>
             <xg>
                <x>Dïhte monnen maana!</x>
@@ -603,8 +607,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">på oss to</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i oss to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på oss to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i oss to</t>
          </tg>
       </mg>
    </e>
@@ -785,8 +789,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">på oss</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i oss</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på oss</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i oss</t>
          </tg>
       </mg>
    </e>
@@ -805,6 +809,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra oss</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">av oss</t>
             <xg>
                <x>Nïejth voenesne hov mijjem lyjhkin, idtjin maa dah mijjeste bïllh!</x>
                <xt>Jentene i bygda likte da oss, de var da ikke redde for oss!</xt>
@@ -969,8 +974,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hos deg</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i deg</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i deg</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos deg</t>
          </tg>
       </mg>
    </e>
@@ -989,6 +994,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra deg</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">av deg</t>
             <xg>
                <x>Elkie, dov sådtoeh leah datneste luajhtaldihkie.</x>
                <xt>Sønn, dine synder er sluppet fra deg.</xt>
@@ -1055,7 +1061,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to (du og han/hun)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere to</t>
             <xg>
                <x>Dåtnoeh lidien daesnie.</x>
                <xt>Dere to er her.</xt>
@@ -1081,7 +1088,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to (deg og ham/henne)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere to</t>
             <xg>
                <x>Manne dotnem vuajnam!</x>
                <xt>Jeg ser dere to!</xt>
@@ -1103,7 +1111,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to sine</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to sin</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">dere to sine</t>
             <xg>
                <x>Dotnen maana dïhte?</x>
                <xt>Er det deres to barn?</xt>
@@ -1157,8 +1166,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">på dere to</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i dere to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i dere to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">på dere to</t>
          </tg>
       </mg>
    </e>
@@ -1239,7 +1248,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere (du og de andre)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere</t>
             <xg>
                <x>Dijjieh lidie saemieh.</x>
                <xt>Dere er samer.</xt>
@@ -1261,7 +1271,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere (deg og de andre)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">dere</t>
             <xg>
                <x>Dijjem sïjhtebe viehkiehtidh</x>
                <xt>Vi vil hjelpe dere.</xt>
@@ -1284,6 +1295,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">deres (din og de andres)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">deres</t>
             <xg>
                <x>Dijjen vaarjoeh daah?</x>
                <xt>Er disse deres klær?</xt>
@@ -1327,8 +1339,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">på dere</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i dere</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">på dere</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i dere</t>
          </tg>
       </mg>
    </e>
@@ -1409,9 +1421,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">han</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hun</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">han</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hun</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">han/hun</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">han eller hun</t>
             <xg>
                <x>Pöövle jeehti satne edtji båetedh.</x>
                <xt>Pöövle sa at han skulle komme.</xt>
@@ -1433,11 +1446,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">henne</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">ham/henne</t>
-            <t dict="no" oa="yes" pos="pron" tcomm="no">han</t>
-            <t dict="no" oa="yes" pos="pron" tcomm="no">hun</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">ham/henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">ham eller henne</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="yes">han</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="yes">hun</t>
             <xg>
                <x>Gihtji mejtie sïjhti båetedh satnem viehkiehtidh.</x>
                <xt>Han spurte om han kunne komme for å hjelpe ham.</xt>
@@ -1459,8 +1473,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans eller hennes</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hans</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hennes</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hans/hennes</t>
             <xg>
                <x>Jeehti sov miesie dïhte.</x>
@@ -1483,9 +1498,14 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">til ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">til henne</t>
-            <t dict="no" oa="yes" pos="pron" tcomm="no">til han</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">til ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">til ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">til ham/henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">til henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">til hun</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="yes">til han</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">til han/henne</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">til han/hun</t>
             <xg>
                <x>Stilli tjoeveri sutnjien aaj soptsestidh.</x>
                <xt>Han ba om at det måtte bli fortalt til ham også.</xt>
@@ -1507,10 +1527,11 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hos ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos henne</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">i ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">i henne</t>
          </tg>
       </mg>
    </e>
@@ -1528,8 +1549,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">fra henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">fra ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">fra henne</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">fra ham/henne</t>
             <xg>
                <x>Vuajna dïhte ånnetji stueriebadtje satneste jïh dovne joevteråbpoe.</x>
@@ -1552,8 +1574,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">med ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">med henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">med ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">med ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">med henne</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">med ham/henne</t>
             <xg>
                <x>Dïhte dan feejjen, juhkoe gie joem vihth satnine sæjhta stååkedidh.</x>
@@ -1617,7 +1640,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dem to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">de to</t>
             <xg>
                <x>Tjoeverim mïnnedh sotnem viehkiehtidh.</x>
                <xt>Jeg måtte dra for å hjelpe de to.</xt>
@@ -1639,7 +1663,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de to sine</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de to sin</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">de to sine</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">deres to sine</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">deres to sin</t>
             <xg>
                <x>Ånnetji mænngan dellie aajhtsijægan aehtjemes sotnen gaskesne tjåadtjoeminie.</x>
                <xt>Etter litt oppdager de to at deres far står i mellom dem.</xt>
@@ -1683,8 +1710,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hos de to</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i de to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos de to</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i de to</t>
          </tg>
       </mg>
    </e>
@@ -1703,6 +1730,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra de to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">av de to</t>
             <xg>
                <x>Saarnoejigan, sotneste vielie båetieh.</x>
                <xt>De ga beskjed om at det kommer mer fra dem.</xt>
@@ -1809,7 +1837,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">deres</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">deres (hans/hennes og de andres)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">deres</t>
             <xg>
                <x>Soptsestin, sijjen gåetie dunnie raedtesne lij.</x>
                <xt>De fortalte at huset deres var på den der kanten.</xt>
@@ -1853,8 +1882,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hos dem</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i dem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos dem</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i dem</t>
          </tg>
       </mg>
    </e>
@@ -1873,6 +1902,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra dem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">av dem</t>
             <xg>
                <x>Soptsesti, sijjeste lea dam åådtjeme.</x>
                <xt>Han/Hun fortalte at han hadde fått den av dem.</xt>
@@ -1938,10 +1968,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">han</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hun</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">det</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">han/hun/det</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">han, hun, den eller det</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">han</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hun</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">det</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">den</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">han/hun/den/det</t>
             <xg>
                <x>Dïhte lea båateme.</x>
                <xt>Han/Hun er kommet.</xt>
@@ -1963,10 +1995,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">henne</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">den</t>
-            <t dict="no" oa="yes" pos="pron" tcomm="no">ham/henne/den</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">ham, henne, den eller det</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">den</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">det</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">ham/henne/den/det</t>
             <xg>
                <x>Manne dam vuajnam.</x>
                <xt>Jeg ser ham/henne.</xt>
@@ -1988,8 +2022,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans eller hennes</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hans</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hennes</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hans/hennes</t>
             <xg>
                <x>Dan gåetie lea stoerre.</x>
@@ -2012,8 +2047,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans eller hennes</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hans</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hennes</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hans/hennes</t>
             <xg>
                <x>Altese gåetie lea stoerre.</x>
@@ -2036,8 +2072,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans eller hennes</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hans</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hennes</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hans/hennes</t>
             <xg>
                <x>Elties gåetie lea stoerre.</x>
@@ -2060,8 +2097,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hans eller hennes</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hans</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hennes</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hans/hennes</t>
             <xg>
                <x>Eltie gåetie lea stoerre.</x>
@@ -2084,8 +2122,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">til ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">til henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">til ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">til ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">til henne</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">til ham/henne</t>
             <xg>
                <x>Piere dïsse gaahkoem vedti.</x>
@@ -2108,11 +2147,13 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hos ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">i ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hos henne</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">hos ham/henne</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i henne</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">hos ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">i ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">i henne</t>
             <t dict="no" oa="yes" pos="pron" tcomm="no">i ham/henne</t>
          </tg>
       </mg>
@@ -2131,8 +2172,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">fra henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">fra ham/henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">fra ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">fra henne</t>
             <xg>
                <x>Piere hov destie vööjni, mij joem lij.</x>
                <xt>Piere så det på henne at det var noe.</xt>
@@ -2154,8 +2197,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">med ham</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">med henne</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">med ham eller henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">med ham/henne</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">med ham</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">med henne</t>
             <xg>
                <x>Piere dejnie ektesne bööti.</x>
                <xt>Piere kom sammen med han/henne.</xt>
@@ -2253,7 +2298,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PRON" />
             </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">deres</t>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">deres (hans/hennes og de andres)</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hans og de andres</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hennes og de andres</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="yes">deres</t>
             <xg>
                <x>Daah leah dej vaarjoeh.</x>
                <xt>Disse er deres klær.</xt>
@@ -2295,6 +2343,7 @@ For the full license text, see the link above.</lic>
                <sem class="PRON" />
             </semantics>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">fra dem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">av dem</t>
             <xg>
                <x>Dam lea dejstie åådtjeme.</x>
                <xt>Den har han fått av dem.</xt>
