@@ -1362,6 +1362,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" tcomm="no">i gamle dager</tf>
             <tf dict="yes" oa="yes" tcomm="no">før i tiden</tf>
+            <tf dict="no">gamle dager</tf>
          </tg>
       </mg>
    </e>
@@ -3127,9 +3128,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="PLACE_STAYING" />
             </semantics>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no">i vest</tf>
+            <t pos="adv">vestpå</t>
          </tg>
       </mg>
    </e>
@@ -3147,7 +3149,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no">i morgen tidlig</tf>
          </tg>
@@ -3171,7 +3173,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <tf pos="adv" xml:lang="nob">i morgen</tf>
          </tg>
@@ -3280,7 +3282,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no">i går</tf>
          </tg>
@@ -3300,7 +3302,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <tf pos="adv" xml:lang="nob">i går kveld</tf>
          </tg>
@@ -3401,9 +3403,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">luvlene</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">øst</t>
+            <semantics>
+               <sem class="PLACE_STAYING" />
+            </semantics>
+            <tf stat="pref">i øst</tf>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">østpå</t>
          </tg>
       </mg>
@@ -3639,7 +3651,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <tf pos="adv" xml:lang="nob">til slutt</tf>
             <tf pos="adv" xml:lang="nob">til sist</tf>
@@ -3916,6 +3928,27 @@ For the full license text, see the link above.</lic>
             <t pos="adv" xml:lang="nob">nordafor</t>
             <tf pos="adv" xml:lang="nob">nord om</tf>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">nordom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="adv">noerhtene</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE_STAYING" />
+            </semantics>
+            <tf>i nord</tf>
+            <t pos="adv">nordpå</t>
          </tg>
       </mg>
    </e>
@@ -4343,7 +4376,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t pos="adv" xml:lang="nob">sent</t>
          </tg>
@@ -5086,8 +5119,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">åarjene</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="PLACE_STAYING" />
+            </semantics>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no">i sør</tf>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">sørpå</t>
          </tg>
@@ -5122,7 +5165,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="PLACE_STAYING" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">ute</t>
          </tg>
@@ -5167,7 +5210,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="PLACE_STAYING" />
             </semantics>
             <t pos="adv" xml:lang="nob">utenfor</t>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no">på utsiden</tf>
@@ -5189,7 +5232,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="PLACE_STAYING" />
             </semantics>
             <t pos="adv" xml:lang="nob">ute</t>
          </tg>
@@ -5394,10 +5437,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="TIME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="nob">før i tiden</tf>
             <tf dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">i gamle dager</tf>
+            <tf dict="no">gamle dager</tf>
          </tg>
       </mg>
    </e>
@@ -5577,7 +5621,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="YYY" />
+               <sem class="TIME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="nob">om høsten</tf>
          </tg>
@@ -5849,18 +5893,38 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">iehkeden</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <tf pos="x">på kvelden</tf>
+            <semantics>
+               <sem class="TIME" />
+            </semantics>
+            <tf pos="x">om kvelden</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="adv">jïjjege</l>
+         <l pos="adv">jïjjen</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="TIME" />
+            </semantics>
             <tf pos="x">om natta</tf>
          </tg>
       </mg>
