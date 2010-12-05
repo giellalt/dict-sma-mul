@@ -102,7 +102,7 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">god morgen</t>
          </tg>
@@ -122,7 +122,7 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">god dag</t>
          </tg>
@@ -142,9 +142,29 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">god kveld</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">buerie jijje</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf>god natt</tf>
          </tg>
       </mg>
    </e>
@@ -182,9 +202,11 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
-            <t pos="x" xml:lang="nob">i morges (denne morgenen)</t>
+            <tf>i dag tidlig</tf>
+            <tf xml:lang="nob">i morges</tf>
+            <tf dict="no">denne morgenen</tf>
          </tg>
       </mg>
    </e>
@@ -204,7 +226,7 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">i dag</t>
          </tg>
@@ -225,9 +247,29 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">i dag</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">daen jijjen</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf>i natt</tf>
          </tg>
       </mg>
    </e>
@@ -431,7 +473,7 @@
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME_U" />
             </semantics>
             <t pos="x" xml:lang="nob">forrige dag</t>
          </tg>
