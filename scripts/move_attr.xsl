@@ -66,7 +66,19 @@
 		  <lg>
 		<l>	
 		<xsl:copy-of select="./lg/l/@*"/> 		
-		<xsl:copy-of select="./stem/@*"/> 		
+		<xsl:copy-of select="./stem/@*[not(local-name() = 'class')]"/> 	
+	    <xsl:if test=".[(stem/@class)]">
+	      <xsl:if test="starts-with(./stem/@class, 'bi')">
+			<xsl:attribute name="class">
+			  <xsl:value-of select="'2syll'"/>
+			<xsl:attribute>
+	      </xsl:if>
+	      <xsl:if test="starts-with(./stem/@class, 'tri')">
+			<xsl:attribute name="class">
+			  <xsl:value-of select="'3syll'"/>
+			<xsl:attribute>
+	      </xsl:if>
+	    </xsl:if>
 		<xsl:value-of select="./lg/l"/> 		
 		</l>	  
 		  </lg>
