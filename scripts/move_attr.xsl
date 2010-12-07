@@ -55,12 +55,6 @@
 	    </xsl:if>
 	    
 	    <xsl:if test=".[stem]">
-	      <!-- 	      <doch-oahpa> -->
-	      <!-- 		<orig> -->
-	      <!-- 		  <xsl:copy-of select="."/> -->
-	      <!-- 		</orig> -->
-	      
-	      <!-- 		<changed> -->
 	      <e>
 		<xsl:copy-of select="./@*"/>
 		  <lg>
