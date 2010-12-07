@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">nettopp</t>
          </tg>
@@ -287,9 +287,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">aelhkieslaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">lettvint</t>
+            <tf>på en lett måte</tf>
          </tg>
       </mg>
    </e>
@@ -297,6 +308,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">aerebi</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">før</t>
@@ -310,6 +328,9 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg>
+            <semantics>
+               <sem class="TIME" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">tidligere</t>
             <xg>
                <x>Dïhte lij aarebi voenen skuvlesne barkeme.</x>
@@ -623,7 +644,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="BODY_ADV" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">på kne</tf>
          </tg>
@@ -663,7 +684,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">naken</t>
             <tf pos="phrase" xml:lang="nob">uten klær</tf>
@@ -926,7 +947,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t pos="adv" xml:lang="nob">ofte</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">stadig</t>
@@ -1191,7 +1212,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">øyeblikkelig</t>
             <tf dict="yes" oa="yes" tcomm="no">med en gang</tf>
@@ -1687,7 +1708,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="FOOD_OTHER" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">se der</tf>
             <tf pos="phrase" xml:lang="nob">vær så god</tf>
@@ -1836,7 +1857,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">på en ivrig måte</tf>
             <tf pos="phrase" xml:lang="nob">på en modig måte</tf>
@@ -1888,7 +1909,8 @@ For the full license text, see the link above.</lic>
             <t pos="adv" xml:lang="nob">først</t>
             <tf pos="phrase" xml:lang="nob">først da</tf>
             <tf pos="phrase" xml:lang="nob">først nå</tf>
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no">da først</tf>
+            <tf dict="no" oa="yes" pos="phrase" tcomm="no">da først</tf>
+            <tf dict="no">nå først</tf>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">nettopp da</tf>
          </tg>
       </mg>
@@ -1907,7 +1929,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">ordentlig</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">grundig</t>
@@ -2004,7 +2026,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">sammen</t>
          </tg>
@@ -2049,7 +2071,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">ennå</t>
          </tg>
@@ -2248,7 +2270,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">ordentlig</t>
             <tf pos="phrase" xml:lang="nob">på skikkelig vis</tf>
@@ -2846,10 +2868,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">hijvenlaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">bra</t>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">godt</t>
+            <tf>på en bra måte</tf>
          </tg>
       </mg>
    </e>
@@ -3708,10 +3740,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">med omtanke</tf>
-            <t pos="adv" xml:lang="nob">forsiktig</t>
+            <tf>på en forsiktig måte</tf>
+            <t pos="adv" xml:lang="nob">forsiktigt</t>
          </tg>
       </mg>
    </e>
@@ -3818,10 +3851,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
-            <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">slik</t>
-            <tf dict="yes" oa="yes" tcomm="no">på denne måten</tf>
+            <tf dict="yes" oa="yes" stat="pref" tcomm="no">på denne måten</tf>
+            <t pos="adv" tcomm="yes">slik</t>
          </tg>
       </mg>
    </e>
@@ -3875,10 +3908,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">slik</t>
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no">på denne måten</tf>
+            <tf dict="yes" oa="yes" pos="phrase" stat="pref" tcomm="no">på denne måten</tf>
+            <t pos="adv" tcomm="yes">slik</t>
             <xg>
                <x>Aajja jis nimhtie vuesiehti guktie lij.</x>
                <xt>Bestefar viste på denne måte hvordan det var.</xt>
@@ -3912,10 +3945,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="FOOD_OTHER" />
             </semantics>
-            <t pos="adv" xml:lang="nob">god</t>
-            <tf pos="phrase" xml:lang="nob">godt på en behagelig måte</tf>
+            <t pos="???" xml:lang="nob">godt </t>
+            <tf>på en behagelig måte</tf>
          </tg>
       </mg>
    </e>
@@ -4030,7 +4063,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">nok</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">tilstrekkelig</t>
@@ -4073,10 +4106,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">slik</t>
-            <tf dict="yes" oa="yes" tcomm="no">på den der måten</tf>
+            <tf stat="pref">på den der måten</tf>
+            <t dict="yes" oa="yes" pos="adv" tcomm="yes">slik</t>
+            <t pos="adv" tcomm="yes">så</t>
          </tg>
       </mg>
    </e>
@@ -4084,9 +4118,21 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">nåakelaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <tf dict="yes" oa="yes" tcomm="no">på dårlig vis</tf>
+            <tf>på en dårlig måte</tf>
+            <t dict="yes" pos="adv">dårlig</t>
          </tg>
       </mg>
    </e>
@@ -4143,9 +4189,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">alene</t>
+            <t pos="adv">ensomt</t>
+            <t dict="no" pos="adv">ensom</t>
          </tg>
       </mg>
    </e>
@@ -4189,7 +4237,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="adv">ovmese</l>
+         <l pos="adv">ovmessie</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -4202,9 +4250,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">forskjellig</t>
+            <tf>litt av hvert</tf>
+            <t pos="adv">ymse</t>
          </tg>
       </mg>
    </e>
@@ -4212,8 +4262,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ovgath</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">unnskyld</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">beklager</t>
             <xg>
@@ -4333,7 +4393,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">samme</t>
             <tf pos="phrase" xml:lang="nob">det kan være det samme</tf>
@@ -4364,7 +4424,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">på samme vis</tf>
             <t pos="adv" xml:lang="nob">likedan</t>
@@ -4406,10 +4466,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t pos="adv" xml:lang="nob">stille</t>
             <tf pos="phrase" xml:lang="nob">på en lydløs måte</tf>
+            <tf dict="no">på en stille måte</tf>
          </tg>
       </mg>
    </e>
@@ -4461,9 +4522,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">sneehpeslaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">raskt</t>
+            <tf>på en rask måte</tf>
          </tg>
       </mg>
    </e>
@@ -4480,6 +4552,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="BODY_ADV" />
+            </semantics>
             <tf dict="yes" oa="yes" pos="phrase" stat="pref" tcomm="no">ganske sakte</tf>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">forsiktig</t>
          </tg>
@@ -4515,9 +4590,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">sakte</t>
+            <t pos="adv">langsomt</t>
          </tg>
       </mg>
       <mg>
@@ -4628,9 +4704,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">fint</t>
+            <tf>på en fin måte</tf>
          </tg>
       </mg>
    </e>
@@ -4670,7 +4747,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">netthendt</t>
             <tf pos="phrase" xml:lang="nob">på dyktig måte</tf>
@@ -4705,8 +4782,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tjimkeslaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">hardt</t>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">av alle krefter</tf>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">energisk</t>
@@ -4728,7 +4815,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">sammen</t>
          </tg>
@@ -4761,7 +4848,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">fort</t>
             <t pos="adv" xml:lang="nob">snart</t>
@@ -4786,7 +4873,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">fort</t>
             <t pos="adv" xml:lang="nob">snart</t>
@@ -4801,8 +4888,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vestieslaakan</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SCHOOL_ADV" />
+            </semantics>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">stygt</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">forferdelig</t>
          </tg>
@@ -5047,9 +5144,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">på en flink måte</tf>
+            <t pos="adv">flink</t>
          </tg>
       </mg>
    </e>
@@ -5067,9 +5165,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <tf pos="phrase" xml:lang="nob">på en tålmodig og utholdende måte</tf>
+            <tf dict="no">tålmodig og utholdende</tf>
          </tg>
       </mg>
    </e>
@@ -5304,7 +5403,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ZZZ" />
+               <sem class="TIME" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no">litt</t>
             <tf pos="phrase" xml:lang="nob">om en kort stund</tf>
@@ -5757,8 +5856,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ABSTRACT" />
-               <sem class="SCHOOL_A" />
+               <sem class="SCHOOL_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="nob">sant</t>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">riktig</t>
@@ -5808,7 +5906,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_A" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="nob">krumrygget</t>
          </tg>
@@ -5828,7 +5926,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="HUMAN_A" />
+               <sem class="BODY_ADV" />
             </semantics>
             <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="nob">dragende</t>
          </tg>
