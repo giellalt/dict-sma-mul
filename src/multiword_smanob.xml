@@ -22,15 +22,15 @@
             </semantics>
             <t pos="n" stat="pref" xml:lang="nob">ungkar</t>
             <tf xml:lang="nob">alene kar</tf>
-            <tf dict="no">mann som ikke er gift</tf>
-            <tf dict="no">man som ikke har kjæreste</tf>
+            <tf dict="no" xml:lang="nob">mann som ikke er gift</tf>
+            <tf dict="no" xml:lang="nob">mann som ikke har kjæreste</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
          <l note="I am either in the wrong file or there is a space lacking in my string___xxx___"
-         pos="x">aeriebistie</l>
+         pos="phrase">aeriebistie</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -44,7 +44,7 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">fra tidligere</t>
+            <tf stat="pref" xml:lang="nob">fra tidligere</tf>
          </tg>
       </mg>
    </e>
@@ -87,8 +87,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">fra dag til dag</t>
-            <t pos="x" xml:lang="nob">fra den ene dagen til den andre</t>
+            <tf pos="phrase" stat="pref" xml:lang="nob">fra dag til dag</tf>
+            <tf pos="phrase" xml:lang="nob">fra den ene dagen til den andre</tf>
          </tg>
       </mg>
    </e>
@@ -109,7 +109,7 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">god morgen</t>
+            <tf stat="pref" xml:lang="nob">god morgen</tf>
          </tg>
       </mg>
    </e>
@@ -129,9 +129,8 @@
             <semantics>
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
-               <sem />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">god dag</t>
+            <tf stat="pref" xml:lang="nob">god dag</tf>
          </tg>
       </mg>
    </e>
@@ -152,13 +151,13 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">god kveld</t>
+            <tf stat="pref" xml:lang="nob">god kveld</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">buerie jijje</l>
+         <l pos="phrase">buerie jijje</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -173,7 +172,7 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf>god natt</tf>
+            <tf stat="pref" xml:lang="nob">god natt</tf>
          </tg>
       </mg>
    </e>
@@ -214,9 +213,9 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf>i dag tidlig</tf>
+            <tf xml:lang="nob">i dag tidlig</tf>
             <tf stat="pref" xml:lang="nob">i morges</tf>
-            <tf dict="no">denne morgenen</tf>
+            <tf dict="no" xml:lang="nob">denne morgenen</tf>
          </tg>
       </mg>
    </e>
@@ -267,7 +266,7 @@
    </e>
    <e>
       <lg>
-         <l pos="x">daen jijjen</l>
+         <l pos="phrase">daen jijjen</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -282,7 +281,7 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf>i natt</tf>
+            <tf stat="pref" xml:lang="nob">i natt</tf>
          </tg>
       </mg>
    </e>
@@ -303,7 +302,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">så mye som helst</tf>
-            <tf>så mye</tf>
+            <tf xml:lang="nob">så mye</tf>
          </tg>
       </mg>
    </e>
@@ -343,7 +342,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">alldeles</t>
+            <t pos="adv" xml:lang="nob">alldeles</t>
          </tg>
       </mg>
    </e>
@@ -381,7 +380,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">for dem</t>
+            <tf xml:lang="nob">for dem</tf>
          </tg>
       </mg>
    </e>
@@ -402,7 +401,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">heldigvis</t>
+            <t pos="adv" stat="pref" xml:lang="nob">heldigvis</t>
             <tf xml:lang="nob">nå endelig</tf>
          </tg>
       </mg>
@@ -424,7 +423,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hit og dit</tf>
-            <tf>dit og hit</tf>
+            <tf xml:lang="nob">dit og hit</tf>
          </tg>
       </mg>
    </e>
@@ -445,7 +444,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">ditt og datt</tf>
-            <t pos="adv" xml:lang="nob">forskjellig</t>
+            <t pos="x" xml:lang="nob">forskjellig</t>
          </tg>
       </mg>
    </e>
@@ -467,7 +466,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">forrige dag</tf>
-            <tf>i går</tf>
+            <tf xml:lang="nob">i går</tf>
          </tg>
       </mg>
    </e>
@@ -505,7 +504,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">der borte på den andre siden</t>
+            <tf xml:lang="nob">der borte på den andre siden</tf>
          </tg>
       </mg>
    </e>
@@ -526,7 +525,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">her og der</tf>
-            <tf>der og her</tf>
+            <tf xml:lang="nob">der og her</tf>
          </tg>
       </mg>
    </e>
@@ -543,7 +542,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">samle krefter</t>
+            <tf xml:lang="nob">samle krefter</tf>
          </tg>
       </mg>
    </e>
@@ -564,7 +563,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">alle steder</tf>
-            <t pos="x">overalt</t>
+            <t pos="adv">overalt</t>
          </tg>
       </mg>
    </e>
@@ -607,7 +606,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">på mange plasser</tf>
-            <tf>på mangel plasser</tf>
+            <tf xml:lang="nob">på mangel plasser</tf>
          </tg>
       </mg>
    </e>
@@ -684,7 +683,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">i to</t>
+            <tf xml:lang="nob">i to</tf>
          </tg>
       </mg>
    </e>
@@ -705,7 +704,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hvordan går det</tf>
-            <tf>hvordan er det</tf>
+            <tf xml:lang="nob">hvordan er det</tf>
          </tg>
       </mg>
    </e>
@@ -722,7 +721,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">i to deler</t>
+            <tf xml:lang="nob">i to deler</tf>
          </tg>
       </mg>
    </e>
@@ -743,7 +742,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">det er bra</tf>
-            <tf>bra er det</tf>
+            <tf xml:lang="nob">bra er det</tf>
          </tg>
       </mg>
    </e>
@@ -760,7 +759,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">hodet mitt kan ikke ta imot mer</t>
+            <tf xml:lang="nob">hodet mitt kan ikke ta imot mer</tf>
          </tg>
       </mg>
    </e>
@@ -780,7 +779,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">ja selvfølgelig</t>
+            <tf stat="pref" xml:lang="nob">ja selvfølgelig</tf>
          </tg>
       </mg>
    </e>
@@ -800,7 +799,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">ja selvfølgelig</t>
+            <tf stat="pref" xml:lang="nob">ja selvfølgelig</tf>
          </tg>
       </mg>
    </e>
@@ -820,7 +819,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">innen rekkevidde</t>
+            <tf stat="pref" xml:lang="nob">innen rekkevidde</tf>
          </tg>
       </mg>
    </e>
@@ -840,8 +839,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">intens regnskur</tf>
-            <tf>intens snøskur</tf>
+            <tf stat="pref" xml:lang="nob">intens regnskur</tf>
+            <tf xml:lang="nob">intens snøskur</tf>
             <t pos="n" xml:lang="nob">snøskur</t>
          </tg>
       </mg>
@@ -863,7 +862,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">tillaget mat</tf>
-            <tf>ferdiglaget mat</tf>
+            <tf xml:lang="nob">ferdiglaget mat</tf>
          </tg>
       </mg>
    </e>
@@ -884,7 +883,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">for moro skyld</tf>
-            <tf>for moros skyld</tf>
+            <tf xml:lang="nob">for moros skyld</tf>
          </tg>
       </mg>
    </e>
@@ -965,7 +964,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">i hvilken hensikt</tf>
-            <tf>hvorfor det</tf>
+            <tf xml:lang="nob">hvorfor det</tf>
          </tg>
       </mg>
    </e>
@@ -1092,7 +1091,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">hvorfor</t>
+            <t pos="adv" stat="pref" xml:lang="nob">hvorfor</t>
          </tg>
       </mg>
    </e>
@@ -1109,7 +1108,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">så langt at det står igjen å rynke og sy fast overstykket på en sko</t>
+            <tf xml:lang="nob">så langt at det står igjen å rynke og sy fast overstykket på en sko</tf>
          </tg>
       </mg>
    </e>
@@ -1150,7 +1149,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hva er i veien</tf>
-            <tf>hva feiler</tf>
+            <tf xml:lang="nob">hva feiler</tf>
          </tg>
       </mg>
    </e>
@@ -1171,7 +1170,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hva mere</tf>
-            <tf>hva mer</tf>
+            <tf xml:lang="nob">hva mer</tf>
          </tg>
       </mg>
    </e>
@@ -1188,7 +1187,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">fra meg</t>
+            <tf xml:lang="nob">fra meg</tf>
          </tg>
       </mg>
    </e>
@@ -1230,7 +1229,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">nokså lenge</tf>
-            <tf>ganske lenge</tf>
+            <tf xml:lang="nob">ganske lenge</tf>
          </tg>
       </mg>
    </e>
@@ -1315,7 +1314,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">selvfølgelig</t>
+            <t pos="adv" stat="pref" xml:lang="nob">selvfølgelig</t>
          </tg>
       </mg>
    </e>
@@ -1377,8 +1376,8 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf xml:lang="nob">lever bra</tf>
-            <tf>har det bra</tf>
-            <tf>et bra liv</tf>
+            <tf xml:lang="nob">har det bra</tf>
+            <tf xml:lang="nob">et bra liv</tf>
             <tf stat="pref" xml:lang="nob">vi lever bra</tf>
          </tg>
       </mg>
@@ -1400,7 +1399,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <t pos="x" stat="pref" xml:lang="nob">adjø</t>
-            <tf>ha det bra</tf>
+            <tf xml:lang="nob">ha det bra</tf>
          </tg>
       </mg>
    </e>
@@ -1421,9 +1420,9 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">adjø så lenge</tf>
-            <tf>adjø og på gjensyn</tf>
-            <tf>ha det bra så lenge</tf>
-            <tf>ha det bra og på gjensyn</tf>
+            <tf xml:lang="nob">adjø og på gjensyn</tf>
+            <tf xml:lang="nob">ha det bra så lenge</tf>
+            <tf xml:lang="nob">ha det bra og på gjensyn</tf>
             <tf xml:lang="nob">på gjensyn</tf>
          </tg>
       </mg>
@@ -1445,9 +1444,9 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf xml:lang="nob">du store min</tf>
-            <tf>du verden</tf>
+            <tf xml:lang="nob">du verden</tf>
             <tf stat="pref" xml:lang="nob">”du store min”</tf>
-            <tf>"du verden"</tf>
+            <tf xml:lang="nob">"du verden"</tf>
          </tg>
       </mg>
    </e>
@@ -1481,7 +1480,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">bratt bakke</t>
+            <tf xml:lang="nob">bratt bakke</tf>
          </tg>
       </mg>
    </e>
@@ -1503,11 +1502,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            
-            <tf xml:lang="nob">i alle dager</tf>
-            
+            <tf stat="pref" xml:lang="nob">i alle dager</tf>
             <tf xml:lang="nob">hva i all verden sier du</tf>
-             
          </tg>
       </mg>
    </e>
@@ -1528,7 +1524,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">snakk samisk</tf>
-            <tf>snakk samisk da</tf>
+            <tf xml:lang="nob">snakk samisk da</tf>
          </tg>
       </mg>
    </e>
@@ -1545,15 +1541,11 @@
       </apps>
       <mg>
          <tg>
-             
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">skynd deg</tf>
-             
-            <tf>fort deg</tf>
-             
+            <tf stat="pref" xml:lang="nob">skynd deg</tf>
+            <tf xml:lang="nob">fort deg</tf>
          </tg>
       </mg>
    </e>
@@ -1570,7 +1562,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">hundre tusen</t>
+            <tf xml:lang="nob">hundre tusen</tf>
          </tg>
       </mg>
    </e>
@@ -1587,7 +1579,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob">bortom fjellene</t>
+            <tf xml:lang="nob">bortom fjellene</tf>
          </tg>
       </mg>
    </e>
@@ -1608,8 +1600,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <t pos="x" xml:lang="nob">til forveksling</t>
+            <tf stat="pref" xml:lang="nob">til forveksling</tf>
              
          </tg>
       </mg>
@@ -1631,12 +1622,9 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">i førstningen</tf>
-             
-            <tf>fra begynnelsen</tf>
-             
-            <tf>i begynnelsen</tf>
+            <tf stat="pref" xml:lang="nob">i førstningen</tf>
+            <tf xml:lang="nob">fra begynnelsen</tf>
+            <tf xml:lang="nob">i begynnelsen</tf>
              
          </tg>
       </mg>
@@ -1658,19 +1646,12 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">vær så god og gå inn</tf>
-             
-            <tf>vær så god og kom inn</tf>
-             
-            <tf>vær så god og stig på</tf>
-             
-            <tf>vær så god og stig inn</tf>
-             
-            <t pos="x" xml:lang="nob">vær så god å stige på</t>
-             
-            <tf>vær så god å stige inn</tf>
-             
+            <tf stat="pref" xml:lang="nob">vær så god og gå inn</tf>
+            <tf xml:lang="nob">vær så god og kom inn</tf>
+            <tf xml:lang="nob">vær så god og stig på</tf>
+            <tf xml:lang="nob">vær så god og stig inn</tf>
+            <tf xml:lang="nob">vær så god å stige på</tf>
+            <tf xml:lang="nob">vær så god å stige inn</tf>
          </tg>
       </mg>
    </e>
@@ -1691,13 +1672,9 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">vent litt</tf>
-             
-            <tf>vent en stund</tf>
-             
+            <tf stat="pref" xml:lang="nob">vent litt</tf>
+            <tf xml:lang="nob">vent en stund</tf>
             <t pos="v">vent</t>
-             
          </tg>
       </mg>
    </e>
@@ -1718,21 +1695,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">hodet verker</tf>
-             
-            <tf>hodene verker</tf>
-             
-            <tf>vondt i hodet</tf>
-             
-            <tf>hodet er vondt</tf>
-             
+            <tf stat="pref" xml:lang="nob">hodet verker</tf>
+            <tf xml:lang="nob">hodene verker</tf>
+            <tf xml:lang="nob">vondt i hodet</tf>
+            <tf xml:lang="nob">hodet er vondt</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">gårroeh bielie</l>
+         <l pos="phrase">gårroeh bielie</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1746,7 +1718,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf>venstre side</tf>
+            <tf stat="pref" xml:lang="nob">venstre side</tf>
          </tg>
       </mg>
    </e>
@@ -1768,11 +1740,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-             &gt;&gt;&gt;&gt;&gt;&gt;&gt; .r37366 
-            <tf xml:lang="nob">høyre side</tf>
-             
+            <tf stat="pref" xml:lang="nob">høyre side</tf>
             <tf xml:lang="nob">høgre side</tf>
-             
          </tg>
       </mg>
    </e>
