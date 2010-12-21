@@ -2621,7 +2621,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="TRAVEL_V" />
-               <sem class="MOVEMENT_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">bringe</t>
             <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">komme med</t>
@@ -3178,7 +3177,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MOVEMENT_V" />
                <sem class="TRAVEL_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">komme</t>
@@ -11042,7 +11040,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ANIMAL_V" />
+               <sem class="BIRD_FISH_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">sveve</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">kretse</t>
@@ -14369,8 +14367,18 @@ For the full license text, see the link above.</lic>
          <l diph="yes" p3p="haelehte" pos="v" stem="3syll">haeliehtidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="BIRD_FISH_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">fly</t>
          </tg>
       </mg>
@@ -17361,7 +17369,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ANIMAL_V" />
+               <sem class="BIRD_FISH_V" />
             </semantics>
             <re>om gjøk</re>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">gale gjentatte ganger</tf>
@@ -17387,7 +17395,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ANIMAL_V" />
+               <sem class="BIRD_FISH_V" />
             </semantics>
             <re>om gjøken</re>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">gale</t>
@@ -17585,8 +17593,19 @@ For the full license text, see the link above.</lic>
          <l class="I" pos="v" stem="2syll" umlaut="full" vow="x">kraejedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="ANIMAL_V" />
+               <sem class="REINDEER" />
+            </semantics>
             <re>om rein</re>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">grynte</t>
          </tg>
@@ -19165,9 +19184,6 @@ For the full license text, see the link above.</lic>
             <t dict="no" pos="v">løsnes</t>
          </tg>
          <tg>
-            <semantics>
-               <sem class="TRAVEL_V" />
-            </semantics>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">komme seg av gårde</tf>
          </tg>
       </mg>
@@ -21170,6 +21186,7 @@ For the full license text, see the link above.</lic>
             <tf>gå forbi hverandre</tf>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">omgås</t>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå forbi hverandre uten å vite om det</tf>
+            <tf dict="no">gå forbi</tf>
          </tg>
       </mg>
    </e>
@@ -23342,7 +23359,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ANIMAL_V" />
+               <sem class="BIRD_FISH_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">kvitre</t>
          </tg>
