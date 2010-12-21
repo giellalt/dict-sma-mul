@@ -39428,7 +39428,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">undres</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">fundere</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">undre</t>
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">undre</t>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">undre seg</tf>
          </tg>
       </mg>
@@ -39473,6 +39473,8 @@ For the full license text, see the link above.</lic>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">klinge</t>
+            <t dict="no" pos="v">ringle</t>
+            <t dict="no" pos="v">ringe</t>
          </tg>
       </mg>
    </e>
@@ -39495,6 +39497,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">ødelegges</t>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå i stykker</tf>
+            <tf dict="no">bli ødelagt</tf>
          </tg>
       </mg>
    </e>
@@ -39739,6 +39742,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">røre om</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">røre sammen i en fart</tf>
+            <t pos="v">røre</t>
          </tg>
       </mg>
    </e>
@@ -39780,10 +39784,11 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
-            <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">gå til alters</tf>
+            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå til alters</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå for presten</tf>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">konfirmeres</t>
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">konfirmeres</t>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå til konfirmasjon</tf>
+            <tf dict="yes" stat="pref">bli konfirmert</tf>
          </tg>
       </mg>
    </e>
@@ -39827,6 +39832,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">slå ut</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">helle ut</tf>
+            <tf dict="no">tømme ut</tf>
          </tg>
       </mg>
    </e>
@@ -39848,6 +39854,8 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_V" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">slå gras</tf>
+            <tf dict="no">slå gress</tf>
+            <tf dict="no">slå høy</tf>
          </tg>
       </mg>
    </e>
@@ -39894,7 +39902,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l diph="yes" pos="v" stem="3syll">sperniedidh</l>
       </lg>
@@ -39933,6 +39941,7 @@ For the full license text, see the link above.</lic>
                <sem class="EXPERIENCE_V" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">være bekymret</tf>
+            <tf dict="no">bekymre seg</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">nære mistanke</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">nære tvil</tf>
          </tg>
@@ -39956,6 +39965,7 @@ For the full license text, see the link above.</lic>
                <sem class="EXPERIENCE_V" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">bli forstyrret</tf>
+            <t dict="no" pos="v">forstyrres</t>
          </tg>
       </mg>
    </e>
@@ -39978,6 +39988,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re>om melk</re>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">begynne å bli tykk</tf>
+            <tf dict="no">bli tykk</tf>
+            <t dict="no" pos="v">tyknes</t>
          </tg>
       </mg>
    </e>
@@ -40066,7 +40078,12 @@ For the full license text, see the link above.</lic>
                <sem class="EXPOSURE_V" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">brekkes av</tf>
+            <tf dict="no">brytes av</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå i stykker</tf>
+            <tf dict="no">bli brekt</tf>
+            <tf dict="no">bli brutt av</tf>
+            <t dict="no" pos="v">brekkes</t>
+            <t dict="no" pos="v">brytes</t>
          </tg>
       </mg>
    </e>
@@ -40131,6 +40148,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">falle om</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">falle til siden</tf>
+            <tf>gli til siden</tf>
+            <tf dict="no">gli av</tf>
+            <t dict="no" pos="v">falle</t>
          </tg>
       </mg>
    </e>
@@ -40174,6 +40194,7 @@ For the full license text, see the link above.</lic>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">bli kjent</tf>
+            <tf dict="no">bli kjent med flere</tf>
             <te dict="yes" oa="yes">med flere</te>
          </tg>
       </mg>
@@ -40201,7 +40222,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e exclude="smanob">
+   <e>
       <lg>
          <l class="IV" pos="v" stem="2syll" vow="a">ååjsehtalledh</l>
       </lg>
@@ -40220,6 +40241,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">måtte gi seg over</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gi opp på grunn av tretthet</tf>
+            <tf dict="no">gi opp</tf>
+            <tf dict="no">gi seg</tf>
+            <tf dict="no">gi seg over</tf>
          </tg>
       </mg>
    </e>
@@ -40228,9 +40252,21 @@ For the full license text, see the link above.</lic>
          <l pos="v" stem="3syll">buaranidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="BODY_V" />
+            </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bli bedre</tf>
+            <tf dict="no">bli friskere</tf>
+            <tf dict="no">friskne til</tf>
             <xg>
                <x>Novh leam gossehtsijstie buaranamme.</x>
                <xt>Jeg har blitt bedre av hosten.</xt>
