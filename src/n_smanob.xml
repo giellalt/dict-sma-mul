@@ -132,6 +132,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">eldre dame</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">gammel kvinne</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">gammel dame</tf>
+            <tf dict="no">gammel kone</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -444,8 +445,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <tf dict="yes" oa="no" pos="phrase_n" tcomm="no" xml:lang="nob">simle som skiller seg ut fra de
-            andre</tf>
+            <tf dict="yes" oa="no" pos="phrase_n" tcomm="no" xml:lang="nob">simle som skiller seg ut fra de andre</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -1254,7 +1254,9 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">enke</t>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">enkemann</t>
+         </tg>
+         <tg>
+            <t pos="n">enkemann</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -1371,7 +1373,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="oe" stem="2syll">aavoe</l>
+         <l illpl="no" pos="n" soggi="oe" stem="2syll">aavoe</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -1971,6 +1973,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinkadaver</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">kadaver</t>
+            <tf dict="no">kadaver av rein</tf>
+            <t dict="no" pos="n">reinsdyrskadaver</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -2183,7 +2187,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" stem="2syll">aktengiertien</l>
+         <l illpl="no" pos="n" stem="2syll">aktengiertien</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2436,7 +2440,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="ie" stem="2syll">askedibie</l>
+         <l illpl="no" pos="n" soggi="ie" stem="2syll">askedibie</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2484,7 +2488,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="oe" stem="2syll">astoe</l>
+         <l illpl="no" pos="n" soggi="oe" stem="2syll">astoe</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2560,7 +2564,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="e" stem="2syll">baahke</l>
+         <l illpl="no" pos="n" soggi="e" stem="2syll">baahke</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2589,7 +2593,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="ie" stem="2syll">baahkestjaetsie</l>
+         <l illpl="no" pos="n" soggi="ie" stem="2syll">baahkestjaetsie</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2620,7 +2624,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="ie" stem="2syll">baahketjaetsie</l>
+         <l illpl="no" pos="n" soggi="ie" stem="2syll">baahketjaetsie</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2705,6 +2709,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">smågutt</t>
+            <tf dict="no">liten gutt</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -2754,7 +2759,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="oe" stem="2syll">baajkoe</l>
+         <l illpl="no" pos="n" soggi="oe" stem="2syll">baajkoe</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -2771,6 +2776,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">sprengkulde</t>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">sterk kulde</tf>
+            <t dict="no" pos="n" tcomm="yes">kulde</t>
          </tg>
       </mg>
    </e>
@@ -3729,7 +3735,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="ie" stem="2syll">baenievaerhkie</l>
+         <l illpl="no" pos="n" soggi="ie" stem="2syll">baenievaerhkie</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -3944,6 +3950,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bak</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">ræv</t>
+            <t dict="no" pos="n">rompe</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -3966,7 +3973,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l margo="e" pos="n" soggi="e" stem="3syll">bajsjeme</l>
+         <l illpl="no" margo="e" pos="n" soggi="e" stem="3syll">bajsjeme</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -4044,6 +4051,7 @@ For the full license text, see the link above.</lic>
                <sem class="MYTH_HUMAN" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">spøkelse</t>
+            <t dict="no" pos="n">skrømt</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4306,7 +4314,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="e" stem="2syll">barkoestradtje</l>
+         <l illpl="no" pos="n" soggi="e" stem="2syll">barkoestradtje</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -4346,6 +4354,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">arbeidsform</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">arbeidsmåte</t>
+            <t dict="no" pos="n">arbeidsmetode</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4442,6 +4451,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">spæl</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinhale</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">reinspæl</t>
+            <t dict="no" pos="n">hale</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4922,7 +4932,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" soggi="e" stem="2syll">bensïjne</l>
+         <l illpl="no" pos="n" soggi="e" stem="2syll">bensïjne</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -5664,6 +5674,7 @@ For the full license text, see the link above.</lic>
                <sem class="BODYPART" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tommel</t>
+            <t dict="no" pos="n">tommelfinger</t>
          </tg>
          <tg>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">hansketommel</t>
