@@ -301,9 +301,12 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">bestefars barnebarn</tf>
+            <tf dict="no">bestefar sitt barnebarn</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">barnebarn til bestefar</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">morfars barnebarn</tf>
+            <tf dict="no">morfar sitt barnebarn</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">farfars barnebarn</tf>
+            <tf dict="no">farfar sitt barnebarn</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">barnebarn til morfar</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">barnebarn til farfar</tf>
             <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="yes" xml:lang="nob">barnebarn</t>
@@ -692,6 +695,7 @@ For the full license text, see the link above.</lic>
                <sem class="PEOPLE" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">urfolk</t>
+            <t pos="n">urbefolkning</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -17824,10 +17828,31 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">mors eldre søster</tf>
+            <tf dict="no">mammas eldre søster</tf>
+            <tf dict="no">mor sin eldre søster</tf>
+            <tf dict="no">mamma sin eldre søster</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">moster som er eldre enn mor</tf>
+            <tf dict="no">moster som er eldre enn mamma</tf>
+            <tf dict="no">moster eldre enn mor</tf>
+            <tf dict="no">moster eldre enn mamma</tf>
+            <t dict="no" pos="n" tcomm="yes">moster</t>
             <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">tante</t>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mors eldre kusine</tf>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mormors eldre søster</tf>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="FAMILY" />
+            </semantics>
+            <tf>mors eldre kusine</tf>
+            <tf dict="no">mammas eldre kusine</tf>
+            <tf dict="no">mor sin eldre kusine</tf>
+            <tf dict="no">mamma sin eldre kusine</tf>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="FAMILY" />
+            </semantics>
+            <tf>mormors eldre søster</tf>
+            <tf dict="no">mormor sin eldre søster</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -18216,7 +18241,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l margo="e" pos="n" soggi="e" stem="2syll">gåmmebe</l>
       </lg>
@@ -21837,6 +21862,13 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" gen="n" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tantebarn til
             filletante</tf>
+            <tf dict="no">tantebarn til inngift tante</tf>
+            <tf dict="no">filletantes tantebarn</tf>
+            <tf dict="no">inngift tantes tantebarn</tf>
+            <tf>filletante sitt tantebarn</tf>
+            <tf dict="no">inngift tante sitt tantebarn</tf>
+            <tf dict="no" tcomm="yes">tantes tantebarn</tf>
+            <tf dict="no" tcomm="yes">tante sitt tantebarn</tf>
          </tg>
       </mg>
    </e>
@@ -24349,6 +24381,7 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">gudmor</t>
+            <t dict="no" pos="n">gumor</t>
          </tg>
       </mg>
    </e>
@@ -27986,6 +28019,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">herkomst</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">slekt</t>
+            <t dict="no" pos="n">opphav</t>
          </tg>
       </mg>
       <mg>
@@ -32058,9 +32092,13 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="FAMILY" />
             </semantics>
-            <t decl="x" dict="no" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">onkelbarn til
-            filleonkel</t>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="yes" xml:lang="nob">onkelbarn</t>
+            <tf dict="no" gen="n" oa="yes" stat="pref" tcomm="no" xml:lang="nob">onkelbarn til filleonkel</tf>
+            <tf dict="no">onkelbarn til inngift onkel</tf>
+            <tf dict="no">filleonkels onkelbarn</tf>
+            <tf dict="no">inngift onkels onkelbarn</tf>
+            <tf dict="no">filleonkel sitt onkelbarn</tf>
+            <tf dict="no">inngift onkel sitt onkelbarn</tf>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="yes" xml:lang="nob">onkelbarn</t>
             <te dict="yes" oa="yes">niese til han som er gift med mors eller fars søster, eller en annen eldre kvinnelig
             slektning</te>
          </tg>
@@ -42420,7 +42458,18 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" gen="n" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tantebarn av fars
             søster</tf>
+            <tf dict="no">tantebarn av pappas søster</tf>
+            <tf dict="no">tantebarn av far sin søster</tf>
+            <tf dict="no">tantebarn av pappa sin søster</tf>
+            <tf dict="no">tantebarn til fars søster</tf>
+            <tf dict="no">tantebarn til pappas søster</tf>
+            <tf dict="no">tantebarn til far sin søster</tf>
+            <tf dict="no">tantebarn til pappa sin søster</tf>
             <tf dict="no" gen="n" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tantebarn på farssiden</tf>
+            <tf dict="no">fars søsters tantebarn</tf>
+            <tf dict="no">pappas søsters tantebarn</tf>
+            <tf dict="no">far sin søster sitt tantebarn</tf>
+            <tf dict="no">pappa sin søster sitt tantebarn</tf>
             <t dict="no" pos="n" tcomm="yes">tantebarn</t>
          </tg>
       </mg>
@@ -43918,8 +43967,13 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">onkelbarn til fars yngre
             bror</tf>
+            <tf dict="no">onkelbarn til pappas yngre bror</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en manns eldre brors sønn</tf>
             <tf dict="no" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en manns eldre brors datter</tf>
+            <tf dict="no">fars yngre brors onkelbarn</tf>
+            <tf dict="no">pappas yngre brors onkelbarn</tf>
+            <tf dict="no">far sin yngre brors onkelbarn</tf>
+            <tf dict="no">pappa sin yngre brors onkelbarn</tf>
          </tg>
       </mg>
    </e>
@@ -48102,7 +48156,14 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">svigerfar</t>
+            <tf dict="no">ektefelles far</tf>
+            <tf dict="no">ektefelle sin far</tf>
+            <tf dict="no">ektemannens far</tf>
+            <tf dict="no">ektemannen sin far</tf>
             <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ektefelles stefar</tf>
+            <tf dict="no">ektefelle sin stefar</tf>
+            <tf dict="no">ektemannens stefar</tf>
+            <tf dict="no">ektemannen sin stefar</tf>
          </tg>
       </mg>
    </e>
