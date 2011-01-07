@@ -46183,6 +46183,7 @@ For the full license text, see the link above.</lic>
                <sem class="FOOD_DISH" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">pikkebrød</t>
+            <t dict="no" pos="n" stat="pref">brød</t>
          </tg>
       </mg>
    </e>
@@ -46547,6 +46548,7 @@ For the full license text, see the link above.</lic>
                <sem class="THOUGHT" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tanke</t>
+            <t dict="no" pos="n">mening</t>
          </tg>
       </mg>
    </e>
@@ -46767,7 +46769,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="n" soggi="a" stem="2syll">vaanghkamåara</l>
       </lg>
@@ -46810,6 +46812,7 @@ For the full license text, see the link above.</lic>
                <sem class="CLOTHING" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vott</t>
+            <t dict="no" pos="n">hanske</t>
          </tg>
       </mg>
    </e>
@@ -47237,6 +47240,7 @@ For the full license text, see the link above.</lic>
                <sem class="BUILDING" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjellstue</t>
+            <t dict="no" pos="n">fjellhytte</t>
          </tg>
       </mg>
    </e>
@@ -47362,7 +47366,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="n" soggi="a" stem="2syll">vealma</l>
       </lg>
@@ -48303,6 +48307,7 @@ For the full license text, see the link above.</lic>
                <sem class="PEOPLE" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">lille venn</tf>
+            <tf dict="no">liten venn</tf>
          </tg>
       </mg>
    </e>
@@ -48492,7 +48497,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l margo="e" pos="n" soggi="e" stem="3syll">voerpehke</l>
       </lg>
@@ -49579,7 +49584,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="n" soggi="ie" stem="2syll">vïerngeraedtie</l>
       </lg>
@@ -49724,7 +49729,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l num="pl" pos="n" soggi="e" stem="3syll">åabpetjh</l>
       </lg>
@@ -49784,7 +49789,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PEOPLE" />
             </semantics>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kjenning</t>
+            <t pos="n" stat="pref">bekjent</t>
+            <t dict="no" pos="n">kjenning</t>
+            <t dict="no" pos="n">kjentmann</t>
+            <tf>kjent person</tf>
          </tg>
       </mg>
    </e>
@@ -49840,6 +49848,7 @@ For the full license text, see the link above.</lic>
                <sem class="PEOPLE" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">sørsame</t>
+            <t dict="no" pos="n">sydsame</t>
          </tg>
       </mg>
    </e>
@@ -49862,6 +49871,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" gen="n" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">sørsamisk språk</tf>
             <t dict="yes" oa="yes" pos="n" tcomm="no">sørsamisk</t>
+            <tf>sørsamisk språk</tf>
          </tg>
       </mg>
    </e>
