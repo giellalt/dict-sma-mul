@@ -33412,6 +33412,8 @@ For the full license text, see the link above.</lic>
             <re>om solen</re>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bli svart</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bli formørket</tf>
+            <t dict="no" pos="v">mørkne</t>
+            <t dict="no" pos="v">svartne</t>
          </tg>
       </mg>
    </e>
@@ -40902,9 +40904,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-
-<!-- the smaswe verbs begin here. XXX -->
-
+   <!-- the smaswe verbs begin here. XXX -->
    <e>
       <lg>
          <l class="I" pos="v" stem="even" umlaut="A">baerhkieldistedh</l>
@@ -42058,7 +42058,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="I" nob_class="VI">
+   <e nob_class="VI" state="both_swe_and_nob" swe_class="I">
       <lg>
          <l class="I" pos="v" stem="even" umlaut="A">rintedh</l>
       </lg>
@@ -45085,7 +45085,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="III" nob_class="IV">
+   <e nob_class="IV" state="both_swe_and_nob" swe_class="III">
       <lg>
          <l class="III" pos="v" stem="even" umlaut="B">tjalkedh</l>
       </lg>
@@ -46044,7 +46044,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">bohkedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">bohkedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -46705,7 +46705,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">doksedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">doksedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -47428,7 +47428,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">gohpedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">gohpedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -47436,9 +47436,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="V">
+   <e nob_class="V" state="both_swe_and_nob" swe_class="IV">
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">govledh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">govledh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -47708,7 +47708,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">hohtjedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">hohtjedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -47978,7 +47978,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">jovhkedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">jovhkedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -48016,7 +48016,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="I">
+   <e nob_class="I" state="both_swe_and_nob" swe_class="IV">
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">jåaskoedehtedh</l>
       </lg>
@@ -48256,7 +48256,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="I">
+   <e nob_class="I" state="both_swe_and_nob" swe_class="IV">
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">njilledh</l>
       </lg>
@@ -48272,7 +48272,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="I">
+   <e nob_class="I" state="both_swe_and_nob" swe_class="IV">
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">njelledh</l>
       </lg>
@@ -48340,7 +48340,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">noffedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">noffedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -48358,7 +48358,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="VI">
+   <e nob_class="VI" state="both_swe_and_nob" swe_class="IV">
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">nuhtjedh</l>
       </lg>
@@ -49830,7 +49830,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="IV" pos="v" type="TV" stem="even" umlaut="D">skorpedh</l>
+         <l class="IV" pos="v" stem="even" type="TV" umlaut="D">skorpedh</l>
       </lg>
       <mg lang="nob">
          <tg>
@@ -49838,7 +49838,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="IV" nob_class="VI">
+   <e nob_class="VI" state="both_swe_and_nob" swe_class="IV">
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">skuvledh</l>
       </lg>
@@ -50323,7 +50323,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e state="both_swe_and_nob" swe_class="V" nob_class="VI">
+   <e nob_class="VI" state="both_swe_and_nob" swe_class="V">
       <lg>
          <l class="V" pos="v" stem="even" umlaut="E">heevtedh</l>
       </lg>
@@ -55539,7 +55539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-            <t pos="v">dra  sammen sysøm</t>
+            <t pos="v">dra sammen sysøm</t>
          </tg>
       </mg>
    </e>
@@ -57230,8 +57230,8 @@ For the full license text, see the link above.</lic>
             <re>om vær</re>
             <t pos="v">være dårlig</t>
             <xg>
-              <x>elmie fraasede</x>
-              <xt>det er dårlig vær</xt>
+               <x>elmie fraasede</x>
+               <xt>det er dårlig vær</xt>
             </xg>
          </tg>
       </mg>
@@ -59125,7 +59125,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">svinge med horna</t>
          </tg>
       </mg>
@@ -59192,7 +59192,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om flere rein</re>
+            <re>om flere rein</re>
             <t pos="v">omkomme</t>
          </tg>
       </mg>
@@ -59213,7 +59213,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om lyn</re>
+            <re>om lyn</re>
             <t pos="v">slå ned</t>
          </tg>
       </mg>
@@ -59256,7 +59256,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">omkomme eller skade seg ved fall</t>
          </tg>
       </mg>
@@ -59343,7 +59343,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om hubro</re>
+            <re>om hubro</re>
             <t pos="v">skrike</t>
          </tg>
       </mg>
@@ -59354,7 +59354,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om hund</re>
+            <re>om hund</re>
             <t pos="v">sende i veg for å drive opp rein</t>
          </tg>
       </mg>
@@ -59406,13 +59406,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om ugle</re>
+            <re>om ugle</re>
             <t pos="v">skrike</t>
          </tg>
       </mg>
       <mg lang="nob">
          <tg>
-         <re>om enkelbekkasin</re>
+            <re>om enkelbekkasin</re>
             <t pos="v">lade</t>
          </tg>
       </mg>
@@ -59423,7 +59423,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om enkelbekkasin</re>
+            <re>om enkelbekkasin</re>
             <t pos="v">lade</t>
          </tg>
       </mg>
@@ -59445,7 +59445,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">være motvillig</t>
          </tg>
       </mg>
@@ -60033,7 +60033,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg lang="nob">
          <tg>
-         <re>om skudd</re>
+            <re>om skudd</re>
             <t pos="v">gå av</t>
          </tg>
       </mg>
@@ -60270,7 +60270,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om mannsarbeid</re>
+            <re>om mannsarbeid</re>
             <t pos="v">snekre</t>
             <t pos="v">lage sko</t>
          </tg>
@@ -60419,7 +60419,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om sykdom</re>
+            <re>om sykdom</re>
             <t pos="v">smitte</t>
          </tg>
       </mg>
@@ -60555,7 +60555,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om snø</re>
+            <re>om snø</re>
             <t pos="v">virvle over vegen</t>
          </tg>
       </mg>
@@ -60671,7 +60671,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kløvdyr og hovdyr</re>
+            <re>om kløvdyr og hovdyr</re>
             <t pos="v">ligge og hvile</t>
          </tg>
       </mg>
@@ -60902,13 +60902,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om regn</re>
+            <re>om regn</re>
             <t pos="v">viske ut</t>
          </tg>
       </mg>
       <mg lang="nob">
          <tg>
-         <re>om smerte</re>
+            <re>om smerte</re>
             <t pos="v">lette</t>
             <t pos="v">gi seg</t>
          </tg>
@@ -60970,7 +60970,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om katter</re>
+            <re>om katter</re>
             <t pos="v">jamre seg</t>
          </tg>
       </mg>
@@ -61211,7 +61211,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">plukke blad</t>
          </tg>
       </mg>
@@ -61232,7 +61232,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">ville tilbake dit den kom fra</t>
          </tg>
       </mg>
@@ -61243,7 +61243,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">ville tilbake dit den kom fra</t>
          </tg>
       </mg>
@@ -61284,7 +61284,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om barn</re>
+            <re>om barn</re>
             <t pos="v">bærsje</t>
          </tg>
       </mg>
@@ -61295,7 +61295,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om barn</re>
+            <re>om barn</re>
             <t pos="v">bærsje</t>
          </tg>
       </mg>
@@ -61336,7 +61336,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kjørerein</re>
+            <re>om kjørerein</re>
             <t pos="v">piske</t>
          </tg>
       </mg>
@@ -61347,7 +61347,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kjørerein</re>
+            <re>om kjørerein</re>
             <t pos="v">piske en gang</t>
          </tg>
       </mg>
@@ -61388,7 +61388,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om himmelen</re>
+            <re>om himmelen</re>
             <t pos="v">bli blå</t>
          </tg>
       </mg>
@@ -61454,7 +61454,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">beite i ro og fred</t>
          </tg>
       </mg>
@@ -61506,7 +61506,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om barn</re>
+            <re>om barn</re>
             <t pos="v">være ulydig</t>
          </tg>
       </mg>
@@ -61754,7 +61754,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om hund</re>
+            <re>om hund</re>
             <t pos="v">bli utmatta</t>
          </tg>
       </mg>
@@ -61815,7 +61815,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rype</re>
+            <re>om rype</re>
             <t pos="v">klukke</t>
          </tg>
       </mg>
@@ -61877,7 +61877,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg lang="nob">
          <tg>
-         <re>om rype</re>
+            <re>om rype</re>
             <t pos="v">klukke</t>
          </tg>
       </mg>
@@ -61888,7 +61888,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om reinkalv</re>
+            <re>om reinkalv</re>
             <t pos="v">grynte etter simle</t>
          </tg>
       </mg>
@@ -62049,7 +62049,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rev</re>
+            <re>om rev</re>
             <t pos="v">bjeffe</t>
          </tg>
       </mg>
@@ -62240,7 +62240,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kaffekjele</re>
+            <re>om kaffekjele</re>
             <t pos="v">stormkoke kaffe</t>
          </tg>
       </mg>
@@ -62251,7 +62251,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kaffekjele</re>
+            <re>om kaffekjele</re>
             <t pos="v">stormkoke kaffe</t>
          </tg>
       </mg>
@@ -62362,7 +62362,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om ski</re>
+            <re>om ski</re>
             <t pos="v">bøye seg på midten</t>
          </tg>
       </mg>
@@ -62573,7 +62573,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om månen</re>
+            <re>om månen</re>
             <t pos="v">få ring runt seg</t>
          </tg>
       </mg>
@@ -62764,7 +62764,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om sår</re>
+            <re>om sår</re>
             <t pos="v">gå opp</t>
          </tg>
       </mg>
@@ -62855,7 +62855,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-            <t pos="v">dra  omkull i spøk</t>
+            <t pos="v">dra omkull i spøk</t>
          </tg>
       </mg>
    </e>
@@ -62986,7 +62986,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-            <t pos="v">dra  over ende for spøk</t>
+            <t pos="v">dra over ende for spøk</t>
          </tg>
       </mg>
    </e>
@@ -63097,7 +63097,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om ulv</re>
+            <re>om ulv</re>
             <t pos="v">skade rein</t>
          </tg>
       </mg>
@@ -63183,7 +63183,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rev og hund</re>
+            <re>om rev og hund</re>
             <t pos="v">sette i gang og bjeffe</t>
          </tg>
       </mg>
@@ -63244,7 +63244,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om saks</re>
+            <re>om saks</re>
             <t pos="v">avgi skjærende lyd</t>
          </tg>
       </mg>
@@ -63285,7 +63285,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om spøkelser</re>
+            <re>om spøkelser</re>
             <t pos="v">spøke</t>
          </tg>
       </mg>
@@ -63336,7 +63336,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om bjørk</re>
+            <re>om bjørk</re>
             <t pos="v">forgreine seg</t>
          </tg>
       </mg>
@@ -63442,7 +63442,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om senetråd</re>
+            <re>om senetråd</re>
             <t pos="v">se stor ut</t>
          </tg>
       </mg>
@@ -63453,7 +63453,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om senetråd</re>
+            <re>om senetråd</re>
             <t pos="v">se stor ut</t>
          </tg>
       </mg>
@@ -63474,7 +63474,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om senetråd</re>
+            <re>om senetråd</re>
             <t pos="v">se stor ut</t>
          </tg>
       </mg>
@@ -63616,7 +63616,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om planter</re>
+            <re>om planter</re>
             <t pos="v">lukte</t>
          </tg>
       </mg>
@@ -63647,7 +63647,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om uvær</re>
+            <re>om uvær</re>
             <t pos="v">plutselig begynne</t>
          </tg>
       </mg>
@@ -63658,7 +63658,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">bli feit</t>
          </tg>
       </mg>
@@ -63929,7 +63929,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om spøkelser</re>
+            <re>om spøkelser</re>
             <t pos="v">spøke</t>
          </tg>
       </mg>
@@ -63950,7 +63950,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">stange</t>
          </tg>
       </mg>
@@ -63971,7 +63971,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">stange</t>
          </tg>
       </mg>
@@ -64002,7 +64002,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skinn</re>
+            <re>om skinn</re>
             <t pos="v">krafse</t>
          </tg>
       </mg>
@@ -64268,7 +64268,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">slikke urin</t>
          </tg>
       </mg>
@@ -64440,7 +64440,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skinnklær</re>
+            <re>om skinnklær</re>
             <t pos="v">være tørre og stive</t>
          </tg>
       </mg>
@@ -64471,7 +64471,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om bjørn, okse</re>
+            <re>om bjørn, okse</re>
             <t pos="v">brøle</t>
          </tg>
       </mg>
@@ -64542,7 +64542,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om båt</re>
+            <re>om båt</re>
             <t pos="v">vippe</t>
          </tg>
       </mg>
@@ -64763,7 +64763,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om dyr</re>
+            <re>om dyr</re>
             <t pos="v">halte</t>
          </tg>
       </mg>
@@ -65167,7 +65167,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om unghund</re>
+            <re>om unghund</re>
             <t pos="v">springe omkring og jage alt mulig</t>
          </tg>
       </mg>
@@ -65243,7 +65243,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg lang="nob">
          <tg>
-         <re>om månen</re>
+            <re>om månen</re>
             <t pos="v">minke</t>
          </tg>
       </mg>
@@ -65724,7 +65724,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om melk</re>
+            <re>om melk</re>
             <t pos="v">surne</t>
          </tg>
       </mg>
@@ -65765,7 +65765,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om fugl</re>
+            <re>om fugl</re>
             <t pos="v">sveve</t>
          </tg>
       </mg>
@@ -65776,7 +65776,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om mat</re>
+            <re>om mat</re>
             <t pos="v">røyke</t>
          </tg>
       </mg>
@@ -65787,8 +65787,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om fugl</re>
-            <t pos="v">sveve </t>
+            <re>om fugl</re>
+            <t pos="v">sveve</t>
          </tg>
       </mg>
    </e>
@@ -65848,7 +65848,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om været</re>
+            <re>om været</re>
             <t pos="v">bli kjølig</t>
          </tg>
       </mg>
@@ -65889,7 +65889,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om simle</re>
+            <re>om simle</re>
             <t pos="v">overgi kalven sin</t>
          </tg>
       </mg>
@@ -65930,7 +65930,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skohøy</re>
+            <re>om skohøy</re>
             <t pos="v">gulne</t>
          </tg>
       </mg>
@@ -65951,7 +65951,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om fjelltopp</re>
+            <re>om fjelltopp</re>
             <t pos="v">rage høyt</t>
          </tg>
       </mg>
@@ -66062,7 +66062,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kaffe</re>
+            <re>om kaffe</re>
             <t pos="v">være svak</t>
          </tg>
       </mg>
@@ -66223,7 +66223,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om simle</re>
+            <re>om simle</re>
             <t pos="v">kalve</t>
          </tg>
       </mg>
@@ -66264,7 +66264,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om varm drikke</re>
+            <re>om varm drikke</re>
             <t pos="v">slurpe</t>
          </tg>
       </mg>
@@ -66326,7 +66326,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skare</re>
+            <re>om skare</re>
             <t pos="v">bli tynn</t>
          </tg>
       </mg>
@@ -66528,7 +66528,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kaffe</re>
+            <re>om kaffe</re>
             <t pos="v">være svak</t>
          </tg>
       </mg>
@@ -66539,7 +66539,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skinngjenstander</re>
+            <re>om skinngjenstander</re>
             <t pos="v">bli mjuk</t>
          </tg>
       </mg>
@@ -66753,7 +66753,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om fisk</re>
+            <re>om fisk</re>
             <t pos="v">nappe en gang</t>
          </tg>
       </mg>
@@ -66804,7 +66804,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-            <t pos="v">dra  opp snørret i nesen</t>
+            <t pos="v">dra opp snørret i nesen</t>
          </tg>
       </mg>
    </e>
@@ -66874,7 +66874,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om sola</re>
+            <re>om sola</re>
             <t pos="v">gå ned</t>
          </tg>
       </mg>
@@ -66885,7 +66885,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om reinflokken</re>
+            <re>om reinflokken</re>
             <t pos="v">bli utmatta</t>
          </tg>
       </mg>
@@ -66986,7 +66986,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om stier</re>
+            <re>om stier</re>
             <t pos="v">gro igjen</t>
          </tg>
       </mg>
@@ -67121,7 +67121,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om hund</re>
+            <re>om hund</re>
             <t pos="v">ville bite</t>
          </tg>
       </mg>
@@ -67254,7 +67254,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om reinflokk</re>
+            <re>om reinflokk</re>
             <t pos="v">bli utmatta</t>
          </tg>
       </mg>
@@ -67265,7 +67265,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om fugl</re>
+            <re>om fugl</re>
             <t pos="v">fly</t>
          </tg>
       </mg>
@@ -67286,7 +67286,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om klegg</re>
+            <re>om klegg</re>
             <t pos="v">surre</t>
          </tg>
       </mg>
@@ -67520,7 +67520,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">springe i fra mygg</t>
          </tg>
       </mg>
@@ -67541,7 +67541,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">slåss</t>
          </tg>
       </mg>
@@ -67592,7 +67592,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om skohøy</re>
+            <re>om skohøy</re>
             <t pos="v">bli kamma</t>
          </tg>
       </mg>
@@ -67603,7 +67603,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om kjørerein</re>
+            <re>om kjørerein</re>
             <t pos="v">galoppere</t>
          </tg>
       </mg>
@@ -67614,7 +67614,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om simle</re>
+            <re>om simle</re>
             <t pos="v">være urolig under mjølkinga</t>
          </tg>
       </mg>
@@ -67625,7 +67625,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om rein</re>
+            <re>om rein</re>
             <t pos="v">feie horna</t>
          </tg>
       </mg>
@@ -67656,7 +67656,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om dyr</re>
+            <re>om dyr</re>
             <t pos="v">springe</t>
             <t pos="v">hoppe</t>
          </tg>
@@ -67698,7 +67698,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om vann i skoene</re>
+            <re>om vann i skoene</re>
             <t pos="v">skvulpe</t>
          </tg>
       </mg>
@@ -68069,7 +68069,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om hekk</re>
+            <re>om hekk</re>
             <t pos="v">bli klipt</t>
          </tg>
       </mg>
@@ -69004,7 +69004,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om sola</re>
+            <re>om sola</re>
             <t pos="v">gå ned</t>
          </tg>
       </mg>
@@ -69025,7 +69025,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg lang="nob">
          <tg>
-         <re>om sola</re>
+            <re>om sola</re>
             <t pos="v">gå ned</t>
          </tg>
       </mg>
