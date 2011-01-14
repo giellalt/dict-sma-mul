@@ -54920,8 +54920,8 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="n">land</t>
             <t dict="yes" pos="n">rike</t>
             <xg>
-               <x>Nöörjen rïjhkesne lea göökte åålmegh, saemieh jïh laedtieh</x>
-               <xt>I Norges land er det to folk, samer og nordmenn</xt>
+               <x>Nöörjen rïjhkesne lea göökte åålmegh: saemieh jïh laedtieh.</x>
+               <xt>I Norges land er det to folk: samer og nordmenn.</xt>
             </xg>
          </tg>
       </mg>
@@ -54935,17 +54935,13 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="n">regjering</t>
             <tf dict="yes" pos="phrase">Kongens råd</tf>
             <xg>
-               <x>Reerenasse lea nænnoestamme</x>
-               <xt>Regjeringen har vedtatt</xt>
+               <x>Reerenasse lea nænnoestamme.</x>
+               <xt>Regjeringen har vedtatt.</xt>
             </xg>
          </tg>
          <tg>
             <t dict="yes" pos="n">herredømme</t>
             <t dict="yes" pos="n">makt</t>
-            <xg>
-               <x>Reerenasse lea nænnoestamme</x>
-               <xt>Regjeringen har vedtatt</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -54957,8 +54953,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" pos="n">prosjekt</t>
             <xg>
-               <x>Prosjekten leah 5 barkijh</x>
-               <xt>Prosjektet har 5 arbeidere</xt>
+               <x>Prosjekten leah 5 barkijh.</x>
+               <xt>Prosjektet har 5 arbeidere.</xt>
             </xg>
          </tg>
       </mg>
@@ -55058,6 +55054,9 @@ For the full license text, see the link above.</lic>
          <l pos="n">daaroe</l>
       </lg>
       <mg>
+	<!-- naja, here I would at least have two different
+	     translation groups, actually, different meaning groups
+	     -->
          <tg>
             <t dict="yes" pos="n">nordmann</t>
             <t dict="yes" pos="n">svensk</t>
@@ -55074,6 +55073,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- is this a noun? according to the translation, no! check-->
    <e>
       <lg>
          <l pos="n">beajjetje</l>
@@ -55088,6 +55088,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- similar to musik? check -->
    <e>
       <lg>
          <l pos="n">tjåktja</l>
@@ -55173,11 +55174,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n">tjoejedh</l>
+         <l pos="n_oder_rather_v_xxx_correct">tjoejedh</l>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" pos="n">lyde</t>
+            <t dict="yes" pos="n_oder_rather_v_xxx_correct">lyde</t>
             <tf dict="yes" pos="phrase">gi fra seg lyd</tf>
          </tg>
       </mg>
@@ -55232,6 +55233,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- we should only one entry for musihke!!! -->
    <e>
       <lg>
          <l pos="n">musihke</l>
@@ -55342,7 +55344,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" pos="phrase">land nedenfor høyfjellene</tf>
          </tg>
          <tg>
-            <tf dict="yes" pos="phrase">skogs-og kystland</tf>
+            <tf dict="yes" pos="phrase">skogs- og kystland</tf>
          </tg>
       </mg>
    </e>
@@ -55433,6 +55435,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- what was our consensus on compunds: dashed or not dashed? -->
    <e>
       <lg>
          <l pos="n">låavth-gåetie</l>
@@ -55539,7 +55542,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" pos="n">xxx</t>
+            <t dict="yes" pos="n">xxx_translate_me_xxx</t>
          </tg>
       </mg>
    </e>
@@ -55639,7 +55642,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" pos="n">xxx</t>
+            <t dict="yes" pos="n">xxx_translate_me_xxx</t>
          </tg>
       </mg>
    </e>
@@ -55718,6 +55721,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+	   <!-- litt merkelig: check! -->
             <t dict="yes" pos="n">gressbevokst</t>
             <tf dict="yes" pos="phrase">skogløs bakkeknaus</tf>
          </tg>
