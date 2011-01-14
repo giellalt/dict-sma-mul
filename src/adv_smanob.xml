@@ -6018,7 +6018,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="adv">doejkoe,</l>
+         <l pos="adv">doejkoe</l>
       </lg>
       <mg>
          <tg>
@@ -6101,17 +6101,13 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="xxx">hvor</t>
             <tf dict="yes" pos="phrase">hvilken vei</tf>
             <xg>
-               <x>båatam dagkoe gogkoe datne vaadtseme</x>
-               <xt>jeg kommer her hvor du har gått</xt>
+               <x>Båatam dagkoe gogkoe datne vaadtseme.</x>
+               <xt>Jeg kommer her hvor du har gått.</xt>
             </xg>
          </tg>
          <tg>
             <tf dict="yes" pos="phrase">på hvilken del</tf>
             <tf dict="yes" pos="phrase">hvor nærmere bestemt</tf>
-            <xg>
-               <x>båatam dagkoe gogkoe datne vaadtseme</x>
-               <xt>jeg kommer her hvor du har gått</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -6124,17 +6120,13 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="xxx">hvor</t>
             <tf dict="yes" pos="phrase">hvilken vei</tf>
             <xg>
-               <x>båatam dagkoe gogkoe datne vaadtseme</x>
-               <xt>jeg kommer her hvor du har gått</xt>
+               <x>Båatam dagkoe gogkoe datne vaadtseme.</x>
+               <xt>Jeg kommer her hvor du har gått.</xt>
             </xg>
          </tg>
          <tg>
             <tf dict="yes" pos="phrase">på hvilken del</tf>
             <tf dict="yes" pos="phrase">hvor nærmere bestemt</tf>
-            <xg>
-               <x>båatam dagkoe gogkoe datne vaadtseme</x>
-               <xt>jeg kommer her hvor du har gått</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -6190,7 +6182,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="xxx">enn</t>
             <xg>
                <x>Nååts datne dellie?</x>
-               <xt>enn du da?</xt>
+               <xt>Enn du da?</xt>
             </xg>
          </tg>
       </mg>
@@ -6337,6 +6329,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- check re for tfs -->
    <e>
       <lg>
          <l pos="adv">gaahpode</l>
@@ -6557,25 +6550,28 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!-- check the scope of re here -->
    <e>
       <lg>
          <l pos="adv">tjirkes-laakan</l>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" pos="phrase">på en fet og i godt hold måte (om rein)</tf>
+	   <re>om rein</re>
+            <tf dict="yes" pos="phrase">på en fet og i godt hold måte</tf>
          </tg>
-         <tg>
-            <tf dict="yes" pos="phrase">på en tett og fast måte</tf>
-            <tf dict="yes" pos="phrase">stramt og riktig godt (om skinn</tf>
-            <tf dict="yes" pos="phrase">tøy og lign.)</tf>
-         </tg>
-         <tg>
-            <tf dict="yes" pos="phrase">på en pålitelig måte (om tjener)</tf>
-         </tg>
-         <tg>
-            <tf dict="yes" pos="phrase">på en ordentlig måte</tf>
-         </tg>
+	 <tg>
+	   <re>om skinn tøy og lign</re>
+	   <tf dict="yes" pos="phrase">på en tett og fast måte</tf>
+	   <tf dict="yes" pos="phrase">stramt og riktig godt</tf>
+	 </tg>
+	 <tg>
+	   <re>om tjener</re>
+	   <tf dict="yes" pos="phrase">på en pålitelig måte</tf>
+	 </tg>
+	 <tg>
+	   <tf dict="yes" pos="phrase">på en ordentlig måte</tf>
+	 </tg>
       </mg>
    </e>
    <e>
@@ -6736,18 +6732,36 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <xxx>åarjege _</xxx>
+   <e>
+      <lg>
+         <l pos="adv">åarjege</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf dict="yes" pos="xxx">xxx_translate_me_xxx</tf>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="adv">åajvoeh-laakan</l>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" pos="phrase">på en</tf>
+            <tf dict="yes" pos="phrase">på en xxx_hva_?_xxx</tf>
          </tg>
       </mg>
    </e>
-   <xxx>tjïelkelaakan</xxx>
+   <e>
+      <lg>
+         <l pos="adv">tjïelkelaakan</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf dict="yes" pos="xxx">xxx_translate_me_xxx</tf>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="adv">tjielkelaakan</l>
