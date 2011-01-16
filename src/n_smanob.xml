@@ -44074,15 +44074,23 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">fars yngre bror</tf>
+            <tf dict="no">pappas yngre bror</tf>
+            <tf dict="no">far sin yngre bror</tf>
+            <tf dict="no">pappa sin yngre bror</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">farbror yngre enn far</tf>
+            <tf dict="no">farbror yngre enn pappa</tf>
+            <tf dict="no">farbror som er yngre enn far</tf>
+            <tf dict="no">farbror som er yngre enn pappa</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">onkel yngre enn far</tf>
-            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">onkel</t>
+            <t pos="n" tcomm="yes">farbror</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="yes" xml:lang="nob">onkel</t>
          </tg>
          <tg>
             <semantics>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">fars yngre fetter</tf>
+            <tf dict="no">pappar yngre fetter</tf>
          </tg>
       </mg>
    </e>
@@ -44109,10 +44117,19 @@ For the full license text, see the link above.</lic>
             <tf dict="no">onkelbarn til pappas yngre bror</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en manns eldre brors sønn</tf>
             <tf dict="no" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">en manns eldre brors datter</tf>
+            <tf dict="no">fars eldre brors sønn</tf>
+            <tf dict="no">fars eldre brors datter</tf>
+            <tf dict="no">pappas eldre brors sønn</tf>
+            <tf dict="no">pappas eldre brors datter</tf>
             <tf dict="no">fars yngre brors onkelbarn</tf>
             <tf dict="no">pappas yngre brors onkelbarn</tf>
             <tf dict="no">far sin yngre brors onkelbarn</tf>
             <tf dict="no">pappa sin yngre brors onkelbarn</tf>
+            <tf dict="no">far sin yngre bror sitt onkelbarn</tf>
+            <tf dict="no">pappa sin yngre bror sitt onkelbarn</tf>
+            <t dict="no" pos="n" tcomm="yes">niese</t>
+            <t dict="no" pos="n" tcomm="yes">nevø</t>
+            <t dict="no" pos="n" tcomm="yes">onkelbarn</t>
          </tg>
       </mg>
    </e>
@@ -48297,9 +48314,17 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">svigerfar</t>
             <tf dict="no">ektefelles far</tf>
+            <tf dict="no">ektefelles pappa</tf>
+            <tf dict="no">ektefellens far</tf>
+            <tf dict="no">ektefellens pappa</tf>
+            <tf dict="no">ektefellen sin far</tf>
+            <tf dict="no">ektefellen sin pappa</tf>
             <tf dict="no">ektefelle sin far</tf>
+            <tf dict="no">ektefelle sin pappa</tf>
             <tf dict="no">ektemannens far</tf>
+            <tf dict="no">ektemannens pappa</tf>
             <tf dict="no">ektemannen sin far</tf>
+            <tf dict="no">ektemannen sin pappa</tf>
             <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ektefelles stefar</tf>
             <tf dict="no">ektefelle sin stefar</tf>
             <tf dict="no">ektemannens stefar</tf>
@@ -48916,6 +48941,26 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">svigermor</t>
+            <tf dict="no">ektefelles mor</tf>
+            <tf dict="no">ektefelles mamma</tf>
+            <tf dict="no">ektefellens mor</tf>
+            <tf dict="no">ektefellens mamma</tf>
+            <tf dict="no">ektefellen sin mor</tf>
+            <tf dict="no">ektefellen sin mamma</tf>
+            <tf dict="no">ektefelle sin mor</tf>
+            <tf dict="no">ektefelle sin mamma</tf>
+            <tf dict="no">hustruens mor</tf>
+            <tf dict="no">hustruens mamma</tf>
+            <tf dict="no">hustuen sin mor</tf>
+            <tf dict="no">hustruen sin mamma</tf>
+            <tf dict="no">konas mor</tf>
+            <tf dict="no">konas mamma</tf>
+            <tf dict="no">konen sin mor</tf>
+            <tf dict="no">konen sin mamma</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">konas stemor</tf>
+            <tf dict="no">kona sin stefmor</tf>
+            <tf dict="no">konas stemor</tf>
+            <tf dict="no">kona sin stemor</tf>
          </tg>
       </mg>
    </e>
@@ -49947,6 +49992,7 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">søstre innbyrdes</tf>
+            <tf dict="no">innbyrdes søstre</tf>
          </tg>
       </mg>
    </e>
