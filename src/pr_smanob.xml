@@ -47,7 +47,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
             <xg>
                <x>Vaedtsieh bijjeli vaartoeh!</x>
-               <xt>Gå over volene!</xt>
+               <xt>Gå over de lave snaufjellene med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -61,7 +61,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="x" tcomm="no">bortenfor</t>
             <xg>
                <x>Vaedtsieh dubpelen dom vaartoem!</x>
-               <xt>Gå bortenfor det der fjellet (den vola)!</xt>
+               <xt>Gå bortenfor det der lave snaufjell med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -75,7 +75,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="x" tcomm="no">bortenfor</t>
             <xg>
                <x>Vaedtsieh dubpeli doeh vaartoeh!</x>
-               <xt>Gå bortenfor de fjellene (de volene)!</xt>
+               <xt>Gå bortenfor de lave snaufjell med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -134,7 +134,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">til (nær)</t>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">nær til</t>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
          </tg>
       </mg>
@@ -258,11 +258,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten (flere)</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -383,7 +378,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor</t>
             <xg>
                <x>Dïhte lea daebpelen dam vaartoem.</x>
-               <xt>Den er hitenfor det fjellet.</xt>
+               <xt>Den er hitenfor det lave snaufjell med krattskog omkring.</xt>
             </xg>
          </tg>
       </mg>
@@ -409,10 +404,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor (flere)</t>
+           <re>om flere</>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor</t>
             <xg>
                <x>Daebpeli doeh vaartoeh dah gaelmieh leah.</x>
-               <xt>Hitenfor de fjellene er de gravene.</xt>
+               <xt>Hitenfor de lave snaufjell med krattskog omkring er de gravene.</xt>
             </xg>
          </tg>
       </mg>
@@ -472,10 +468,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">vestafor (flere)</t>
+            <re>om flere</>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">vestafor</t>
             <xg>
                <x>Vaedtsieh jilleli doeh vaartoeh!</x>
-               <xt>Gå vestafor de snaufjellene (med krattskog omkring)!</xt>
+               <xt>Gå vestafor de snaufjellene med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -486,7 +483,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">østafor (flere steder)</t>
+           <re>om flere</>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">østafor</t>
             <xg>
                <x>Vaedtsieh luvleli doeh vaerieh!</x>
                <xt>Gå østafor de fjellene!</xt>
@@ -607,7 +605,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">innenfor (flere)</t>
+            <re>om flere</>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">innenfor</t>
             <xg>
                <x>sjisjnjeli vaarjoeh</x>
                <xt>innenfor klærne</xt>
