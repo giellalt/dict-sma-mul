@@ -71,7 +71,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   
    <e>
       <lg>
          <l pos="a">aalvere</l>
@@ -2637,6 +2636,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">brukbar</t>
             <t dict="no" pos="a">gagnelig</t>
             <t pos="a">passende</t>
+            <t dict="no" pos="a">brukelig</t>
          </tg>
       </mg>
    </e>
@@ -2873,6 +2873,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">målløs</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">stum</t>
             <tf dict="no">uten stemme</tf>
+            <t dict="no" pos="a" tcomm="yes">språkløs</t>
          </tg>
       </mg>
    </e>
@@ -5990,6 +5991,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_a" stat="pref" tcomm="no" xml:lang="nob">lik hverandre</tf>
             <tf>likt utseende</tf>
+            <tf dict="no" pos="phrase_a">samme utseende</tf>
+            <tf dict="no" pos="phrase_a">lik av utseende</tf>
+            <t dict="no" pos="a">lik</t>
          </tg>
       </mg>
    </e>
@@ -6111,7 +6115,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="CLOTHES_A" />
             </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">passende</t>
+            <t pos="a" stat="pref">passelig</t>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">passende</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">liketil</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">høvelig</t>
             <xg>
@@ -6513,7 +6518,9 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">ordentlig</t>
+            <t pos="a" stat="pref">riktig</t>
+            <t dict="no" pos="a">rett</t>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">ordentlig</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">stadfestede</t>
             <xg>
                <x>Im staaran vuejnieh.</x>
@@ -8290,6 +8297,7 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_A" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_a" stat="pref" tcomm="no" xml:lang="nob">liggende på siden</tf>
+            <t dict="no" pos="a" tcomm="yes">liggende</t>
          </tg>
       </mg>
    </e>
