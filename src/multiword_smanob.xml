@@ -6,7 +6,7 @@
 <r>
    <e>
       <lg>
-         <l pos="phrase">båeriesbaernie</l>
+         <l pos="phrase">aajne kaarre</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -178,7 +178,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">bïegkebielie/l>
+         <l pos="phrase">bïegke raadtan</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -192,7 +192,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">vindside</tf>
+            <tf stat="pref" xml:lang="nob">på vindsiden</tf>
          </tg>
       </mg>
    </e>
@@ -301,7 +301,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-           <tf xml:lang="nob">så mye</tf>
+            <tf stat="pref" xml:lang="nob">så mye som helst</tf>
+            <tf xml:lang="nob">så mye</tf>
          </tg>
       </mg>
    </e>
@@ -325,13 +326,12 @@
             <tf xml:lang="nob">etter den</tf>
             <tf xml:lang="nob">etter han</tf>
             <tf xml:lang="nob">etter henne</tf>
-            <tf xml:lang="nob">ifølge det</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dan</l>
+         <l pos="phrase">dan soe</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -343,6 +343,27 @@
       <mg>
          <tg>
             <t pos="adv" xml:lang="nob">alldeles</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">dej taahki</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa6" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf stat="pref" xml:lang="nob">på denne tiden</tf>
          </tg>
       </mg>
    </e>
@@ -406,7 +427,28 @@
          </tg>
       </mg>
    </e>
-      <e>
+   <e>
+      <lg>
+         <l pos="phrase">dom daam</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf stat="pref" xml:lang="nob">ditt og datt</tf>
+            <t pos="x" xml:lang="nob">forskjellig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l pos="phrase">don biejjien</l>
       </lg>
@@ -424,13 +466,13 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">forrige dag</tf>
-            <tf stat="pref" xml:lang="nob">den dagen som det snakkes om</tf>
+            <tf xml:lang="nob">i går</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">duelie</l>
+         <l pos="phrase">duelie vuajnah</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -444,13 +486,14 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
+            <tf xml:lang="nob">se der</tf>
             <tf stat="pref" xml:lang="nob">vær så god</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dunnie bielesne</l>
+         <l pos="phrase">dunnie bealesne</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -488,7 +531,24 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">gaajhkene lehkesne</l>
+         <l pos="phrase">faamoeh tjöönghkedh</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s4" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <tf xml:lang="nob">samle krefter</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">gaajhkene laehkesne</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -546,12 +606,13 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">på mange plasser</tf>
+            <tf xml:lang="nob">på mangel plasser</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gie bist datne</l>
+         <l pos="phrase">gie dellie datne</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -585,7 +646,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">noen som</t>
+            <t pos="x" stat="pref" xml:lang="nob">noen</t>
          </tg>
       </mg>
    </e>
@@ -611,7 +672,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">göökten haaran</l>
+         <l pos="phrase">guektien haerien</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -622,7 +683,7 @@
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">i to retninger</tf>
+            <tf xml:lang="nob">i to</tf>
          </tg>
       </mg>
    </e>
@@ -642,13 +703,31 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvordan går det?</tf>
+            <tf stat="pref" xml:lang="nob">hvordan går det</tf>
+            <tf xml:lang="nob">hvordan er det</tf>
          </tg>
       </mg>
    </e>
-      <e>
+   <e>
       <lg>
-         <l pos="phrase">hijven hov!</l>
+         <l pos="phrase">göökten harran</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s4" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <tf xml:lang="nob">i to deler</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hijven hov</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -662,8 +741,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">bra!</tf>
-            <tf xml:lang="nob">bra er det!</tf>
+            <tf stat="pref" xml:lang="nob">det er bra</tf>
+            <tf xml:lang="nob">bra er det</tf>
          </tg>
       </mg>
    </e>
@@ -726,7 +805,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">jaksoemieresne</l>
+         <l pos="phrase">jakseme mieresne</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -782,13 +861,14 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">tilberedet mat</tf>
+            <tf stat="pref" xml:lang="nob">tillaget mat</tf>
+            <tf xml:lang="nob">ferdiglaget mat</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">lustene</l>
+         <l pos="phrase">lusten gaavhtan</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -829,7 +909,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">madtanlaakan</l>
+         <l pos="phrase">madtan laakan</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -843,7 +923,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">på dårlig måte</tf>
+            <tf stat="pref" xml:lang="nob">knapt nok</tf>
          </tg>
       </mg>
    </e>
@@ -883,7 +963,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">til hvilken hensikt</tf>
+            <tf stat="pref" xml:lang="nob">i hvilken hensikt</tf>
+            <tf xml:lang="nob">hvorfor det</tf>
          </tg>
       </mg>
    </e>
@@ -965,7 +1046,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">hvor mye</tf>
+            <tf xml:lang="nob">hvor mange</tf>
+            <tf stat="pref" xml:lang="nob">hvor mye</tf>
          </tg>
       </mg>
    </e>
@@ -1190,6 +1272,8 @@
             </semantics>
             <t pos="x" xml:lang="nob">jo</t>
             <tf stat="pref" xml:lang="nob">jo visst</tf>
+            <t pos="x" xml:lang="nob">altså</t>
+            <t pos="x" xml:lang="nob">virkelig</t>
             <t pos="x" xml:lang="nob">sikkert</t>
             <t pos="x" xml:lang="nob">sannelig</t>
          </tg>
@@ -1237,7 +1321,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh amma lea nimhtie</l>
+         <l pos="phrase">novh lea</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1292,8 +1376,11 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">nå et bra liv er det jo</tf>
-            <tf>et bra liv jo</tf>
+            <tf xml:lang="nob">lever bra</tf>
+            <tf>lever et bra liv</tf>
+            <tf xml:lang="nob">har det bra</tf>
+            <tf xml:lang="nob">et bra liv</tf>
+            <tf stat="pref" xml:lang="nob">vi lever bra</tf>
          </tg>
       </mg>
    </e>
@@ -1368,7 +1455,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">ov nimhtie!</l>
+         <l pos="phrase">ov nimhtie</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1379,7 +1466,7 @@
       </apps>
       <mg>
          <tg>
-            <t pos="x" xml:lang="nob"> å slik!</t>
+            <t pos="x" xml:lang="nob">slik</t>
          </tg>
       </mg>
    </e>
@@ -1402,7 +1489,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">saarnoeh maam jeahtah?</l>
+         <l pos="phrase">saarnoeh jeahtah</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1417,14 +1504,14 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i alle dager hva sier du?</tf>
-            <tf xml:lang="nob">hva i all verden sier du?</tf>
+            <tf stat="pref" xml:lang="nob">i alle dager</tf>
+            <tf xml:lang="nob">hva i all verden sier du</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">saemesth amma!</l>
+         <l pos="phrase">saemesth amma</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1438,14 +1525,14 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">snakk nå samisk!</tf>
-            <tf xml:lang="nob">snakk samisk da!</tf>
+            <tf stat="pref" xml:lang="nob">snakk samisk</tf>
+            <tf xml:lang="nob">snakk samisk da</tf>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">skodth varki!</l>
+         <l pos="phrase">skodth varki</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1460,10 +1547,65 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">skynd deg</tf>
+            <tf xml:lang="nob">fort deg</tf>
          </tg>
       </mg>
    </e>
-        <e>
+   <e>
+      <lg>
+         <l pos="phrase">tjuetie stoerretjuetie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s2" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <tf xml:lang="nob">hundre tusen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">vaeriej dubpelen</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s4" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <tf xml:lang="nob">bortom fjellene</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">vihth masten</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s4" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf stat="pref" xml:lang="nob">til forveksling</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l pos="phrase">voestes gietjeste</l>
       </lg>
@@ -1487,7 +1629,7 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">vuajnah tjaangh gåatan</l>
+         <l pos="phrase">vuajnah tjaangh</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1530,7 +1672,7 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">vent nå litt</tf>
+            <tf stat="pref" xml:lang="nob">vent litt</tf>
             <tf xml:lang="nob">vent en stund</tf>
             <t pos="v">vent</t>
          </tg>
@@ -1553,134 +1695,12 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hodet verker</tf>
+            <tf xml:lang="nob">hodene verker</tf>
             <tf xml:lang="nob">vondt i hodet</tf>
             <tf xml:lang="nob">hodet er vondt</tf>
          </tg>
       </mg>
    </e>
-   
-   <e>
-      <lg>
-         <l pos="phrase">baenie jæjla</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">vondt i tanna</tf>           
-         </tg>
-      </mg>
-   </e> 
-   <e>
-      <lg>
-         <l pos="phrase">juelkie löökie</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">vondt i foten</tf>
-         </tg>
-      </mg>
-   </e>   
-   <e>
-      <lg>
-         <l pos="phrase">bieljie naavlehte</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">vondt i øret</tf>
-            <tf stat="pref" xml:lang="nob">øret stinger</tf>
-         </tg>
-      </mg>
-   </e>   
-   <e>
-      <lg>
-         <l pos="phrase">rudtje vaarhka</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">ryggen verker</tf>
-         </tg>
-      </mg>
-   </e>   
-   
-   <e>
-      <lg>
-         <l pos="phrase">rudtjeste</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">vondt i ryggen</tf>
-         </tg>
-      </mg>
-   </e>     
-   <e>
-      <lg>
-         <l pos="phrase">tjööjjeste</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="s2" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">vondt i magen</tf>
-         </tg>
-      </mg>
-   </e>     
    <e>
       <lg>
          <l pos="phrase">gårroeh bielie</l>
