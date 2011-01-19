@@ -50928,9 +50928,20 @@ For the full license text, see the link above.</lic>
          <l pos="n" soggi="e" stem="2syll">årromesijjie</l>
       </lg>
       <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="PLACE_LOCAL" />
+            </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">boplass</t>
+            <t dict="no" pos="n">bosted</t>
          </tg>
       </mg>
    </e>
@@ -50949,8 +50960,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">åssjalommes</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="THOUGHT" />
+            </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">tanke</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">idé</t>
          </tg>
@@ -51143,6 +51164,7 @@ For the full license text, see the link above.</lic>
                <sem class="BODYPART" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ansikt</t>
+            <t dict="no" pos="n">fjes</t>
          </tg>
       </mg>
    </e>
@@ -53885,9 +53907,19 @@ For the full license text, see the link above.</lic>
          <l pos="n" soggi="e" stem="2syll">njimkedahke</l>
       </lg>
       <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">lim</t>
+            <semantics>
+               <sem class="SCHOOL" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">lim</t>
          </tg>
       </mg>
    </e>
@@ -55009,9 +55041,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">eejhtegh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" pos="n">foreldre</t>
+            <semantics>
+               <sem class="FAMILY" />
+            </semantics>
+            <t dict="yes" pos="n" stat="pref">foreldre</t>
             <xg>
                <x>maanan eejhtegh</x>
                <xt>barnets foreldre</xt>
@@ -55099,13 +55141,30 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">daaroe</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <!-- naja, here I would at least have two different
 	     translation groups, actually, different meaning groups
 	     -->
          <tg>
-            <t dict="yes" pos="n">nordmann</t>
-            <t dict="yes" pos="n">svensk</t>
+            <semantics>
+               <sem class="PEOPLE" />
+            </semantics>
+            <t dict="yes" pos="n" stat="pref">nordmann</t>
+            <t dict="no" pos="n">norske</t>
+            <t dict="no" pos="n">norsk</t>
+         </tg>
+         <tg>
+            <semantics>
+               <sem class="PEOPLE" />
+            </semantics>
+            <t pos="n" stat="pref">svensk</t>
          </tg>
       </mg>
    </e>
@@ -57878,9 +57937,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">maanagïerte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" pos="n">barnehage</t>
+            <semantics>
+               <sem class="BUILDING" />
+            </semantics>
+            <t dict="yes" pos="n" stat="pref">barnehage</t>
          </tg>
       </mg>
    </e>
