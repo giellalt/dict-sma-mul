@@ -13,6 +13,17 @@ Please check and if needed correct the fst and/or the source files.
       54 no-analysis_smanob/missing_analysis_v.txt
       14 no-analysis_smaswe/missing_analysis_v.txt
      272 total
+=========================================
+January 19, 2011 01:27:09 GMT
+gmake[1]: Nothing to be done for `isma-norm.fst'.
+
+-analysis_smanob>wc -l * 
+      33 missing_analysis_a.txt
+     241 missing_analysis_n.txt
+      30 missing_analysis_prop.txt
+      26 missing_analysis_propPl.txt
+      34 missing_analysis_v.txt
+     364 total
 
 
 
