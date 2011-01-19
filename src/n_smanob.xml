@@ -79,7 +79,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="BODYPART" />
             </semantics>
-            <t decl="x" dict="no" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">mellomgulv</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">mellomgulv</t>
             <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">mellomgolv</t>
          </tg>
       </mg>
@@ -2628,6 +2628,7 @@ For the full license text, see the link above.</lic>
                <sem class="DRINK" />
             </semantics>
             <t decl="1" dict="no" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">varmvann</t>
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">varmtvann</t>
             <t decl="1" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">varmvatn</t>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">varmt vann</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">varmt vatn</tf>
@@ -19102,7 +19103,7 @@ For the full license text, see the link above.</lic>
                <sem class="PEOPLE" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bestevenn</t>
-            <tf dict="xxx" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">kjær venn</tf>
+            <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">kjær venn</tf>
          </tg>
       </mg>
    </e>
@@ -39743,7 +39744,8 @@ For the full license text, see the link above.</lic>
             mindre hanndyr</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mindre hannrein</tf>
             <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mindre reinsbukk</tf>
-            <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">mindre hanndyr</tf>
+            <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">lite hanndyr</tf>
+            <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten bukk</tf>
          </tg>
       </mg>
    </e>
@@ -45281,7 +45283,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="TRAD_OBJECT" />
             </semantics>
-            <tf dict="no" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">redskap til å kamme
+            <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">redskap til å kamme
             skohøy</tf>
          </tg>
       </mg>
@@ -50817,9 +50819,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PEOPLE" />
             </semantics>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">mann</t>
+            <t decl="irr" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">mann</t>
             <t dict="yes" pos="n" tcomm="no" xml:lang="nob">ektemann</t>
-            <t dict="xxx" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">kar</t>
+            <t dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">kar</t>
          </tg>
       </mg>
    </e>
@@ -50841,7 +50843,6 @@ For the full license text, see the link above.</lic>
                <sem class="PEOPLE" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">mannlig venn</tf>
-            <tf dict="xxx" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">manne venn</tf>
             <t dict="no" pos="n">mannevenn</t>
          </tg>
       </mg>
