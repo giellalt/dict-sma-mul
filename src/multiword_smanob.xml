@@ -29,6 +29,26 @@
    </e>
    <e>
       <lg>
+         <l pos="x">aereden</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">om morgenen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l note="I am either in the wrong file or there is a space lacking in my string___xxx___"
          pos="phrase">aeriebistie</l>
       </lg>
@@ -264,6 +284,27 @@
    </e>
    <e>
       <lg>
+         <l pos="x">daan jaepien</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">i år</tf>
+            <tf pos="phrase">dette året</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="x">daelvege</l>
       </lg>
       <apps>
@@ -279,6 +320,28 @@
                <sem class="TIME_U" />
             </semantics>
             <t pos="phrase" stat="pref">om vinteren</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">daelvie doekoe</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <t pos="phrase" stat="pref">utover vinteren</t>
+            <tf dict="no" pos="phrase">utpå vinteren</tf>
+            <tf dict="no" pos="phrase">ut på vinteren</tf>
          </tg>
       </mg>
    </e>
@@ -571,6 +634,27 @@
    </e>
    <e>
       <lg>
+         <l pos="x">dæjmetje giesien</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <t pos="x">i fjor sommer</t>
+            <tf>i fjorsommer</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">faamoeh tjöönghkedh</l>
       </lg>
       <apps>
@@ -810,6 +894,28 @@
    </e>
    <e>
       <lg>
+         <l pos="x">gïjre doekoe</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">utover våren</tf>
+            <tf dict="no" pos="phrase">ut på våren</tf>
+            <tf dict="no" pos="phrase">utpå våren</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="x">gïjrege</l>
       </lg>
       <apps>
@@ -988,11 +1094,21 @@
    </e>
    <e>
       <lg>
-         <l pos="x">jååktan</l>
+         <l pos="x">jïjjen</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t pos="x"></t>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">om natten</tf>
          </tg>
       </mg>
    </e>
@@ -1678,6 +1794,28 @@
             </semantics>
             <tf stat="pref" xml:lang="nob">skynd deg</tf>
             <tf xml:lang="nob">fort deg</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">tjaktje doekoe</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">utover høsten</tf>
+            <tf dict="no" pos="phrase">utpå høsten</tf>
+            <tf dict="no" pos="phrase">ut på høsten</tf>
          </tg>
       </mg>
    </e>
