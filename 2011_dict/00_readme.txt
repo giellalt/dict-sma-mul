@@ -36,3 +36,14 @@ no-analysis_smanob>wc -l *
        6 missing_analysis_v.txt
      268 total
 =========================================
+January 21, 2011 00:19:25 GMT
+gmake[1]: Nothing to be done for `isma-norm.fst'.
+
+no-analysis_smanob>wc -l *
+       5 missing_analysis_a.txt
+      16 missing_analysis_n.txt
+      20 missing_analysis_prop.txt
+      26 missing_analysis_propPl.txt
+      67 total
+=========================================
+
