@@ -58,8 +58,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">hva</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hvilken, hvilket</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">noen, noe</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hvilken</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hvilket</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">noen</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
             <xg>
                <x>Mij dïhte?</x>
                <xt>Hva er det?</xt>
@@ -113,6 +115,7 @@ For the full license text, see the link above.</lic>
                <xt>Hva skal vi spise til middag idag?</xt>
             </xg>
             <xg>
+	      <!-- Is the comma here ok? -->
                <x>Bïjle maam aehtjie jååktan öösti, lea veelkes.</x>
                <xt>Bilen som far kjøpte i går, er hvit.</xt>
             </xg>
@@ -177,8 +180,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="YYY" />
             </semantics>
-            <t dict="yes" oa="yes" pos="phrase" stat="pref" tcomm="no" translationcomment="no" xml:lang="nob">hva
-            slags</t>
+            <t dict="yes" oa="yes" pos="phrase" stat="pref" tcomm="no" translationcomment="no" xml:lang="nob">hva slags</t>
             <t dict="yes" oa="yes" pos="phrase" tcomm="no" translationcomment="no" xml:lang="nob">hva for</t>
          </tg>
       </mg>
@@ -211,7 +213,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i/på hva</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">i hva</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på hva</t>
             <xg>
                <x>Mesnie dam vööjnih?</x>
                <xt>På hva så du det?</xt>
@@ -318,6 +321,7 @@ For the full license text, see the link above.</lic>
                <x>Mejtie dïhte daesnie?</x>
                <xt>Er hun/han her?</xt>
             </xg>
+	    <!-- compare to the example with comma and rel clause --> 
             <xg>
                <x>Dah nïejth, mejtie jååktan staaresne vööjnim...</x>
                <xt>De jentene, som jeg så i byen i går...</xt>
@@ -569,6 +573,7 @@ For the full license text, see the link above.</lic>
                <xt>Hvem er det sin?</xt>
             </xg>
             <xg>
+	      <!-- Either you have a comma before the rel marker 'som' or not: inconsistency! -->
                <x>Dïhte bïenje gean guhkies sïejpe, lea mov bïenje.</x>
                <xt>Den hunden som har lang hale, er min hund.</xt>
             </xg>
@@ -589,6 +594,7 @@ For the full license text, see the link above.</lic>
                <xt>For hvem er det til nytte?</xt>
             </xg>
             <xg>
+	      <!-- Either you have a comma before the rel marker 'som' or not: inconsistency! -->
                <x>Dïhte maana giese tjohpem gurriejim, gåabph maa dïhte sjïdti?</x>
                <xt>Den ungen, som jeg strikket en lue til, hvor ble han/hun av?</xt>
             </xg>
@@ -623,7 +629,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos/i hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">i hvem</t>
             <xg>
                <x>Giesnie dam vuajnah?</x>
                <xt>På hvem ser du det?</xt>
@@ -643,7 +650,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">fra/av hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">fra hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">av hvem</t>
             <xg>
                <x>Giestie lea dam åådtjeme?</x>
                <xt>Fra hvem har du fått den?</xt>
@@ -778,7 +786,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
 	   <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">på/hos hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på hvem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos hvem</t>
             <xg>
                <x>Almetjh giejnie dagkerem skopmehkem vuajnah, hov guhkede båetieh.</x>
                <xt>Folk som du ser har slik poncho, kommer jo langveis fra.</xt>
@@ -1075,7 +1084,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
 	   <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos/i hvem av dem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hos hvem av dem</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">i hvem av dem</t>
          </tg>
       </mg>
    </e>
@@ -1218,7 +1228,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">i/på hvilken av to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">i hvilken av to</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">på hvilken av to</t>
             <xg>
                <x>Gåabpene bielesne lea dïhte?</x>
                <xt>På hvilken av de to sidene er den?</xt>
