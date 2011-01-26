@@ -26,6 +26,26 @@
    </e>
    <e>
       <lg>
+         <l pos="x">aereden</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om morgenen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">assh dohkoe</l>
       </lg>
       <apps>
@@ -44,6 +64,26 @@
    </e>
    <e>
       <lg>
+         <l pos="x">biejjege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om dagen</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">biejjeste måbpan</l>
       </lg>
       <apps>
@@ -56,6 +96,9 @@
             </semantics>
             <tf pos="phrase" stat="pref" xml:lang="nob">fra dag til dag</tf>
             <tf pos="phrase" xml:lang="nob">fra den ene dagen til den andre</tf>
+            <tf dict="no">fra en dag til en annen dag</tf>
+            <tf dict="no">fra en dag til en annen</tf>
+            <tf dict="no">fra den ene dagen til den andre dagen</tf>
          </tg>
       </mg>
    </e>
@@ -173,6 +216,8 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">i dag</tf>
+            <tf dict="no">denne dagen</tf>
+            <tf dict="no">den her dagen</tf>
          </tg>
       </mg>
    </e>
@@ -190,6 +235,7 @@
             </semantics>
             <tf pos="phrase" stat="pref">i år</tf>
             <tf pos="phrase">dette året</tf>
+            <tf dict="no">det her året</tf>
          </tg>
       </mg>
    </e>
@@ -298,16 +344,9 @@
       <lg>
          <l pos="phrase">dej taahki</l>
       </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
       <mg>
          <tg>
-            <semantics>
-               <sem class="TIME_U" />
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">på denne tiden</tf>
+            <tf oa="no" stat="pref" xml:lang="nob">på denne tiden</tf>
          </tg>
       </mg>
    </e>
@@ -337,7 +376,10 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <t pos="adv" stat="pref" xml:lang="nob">heldigvis</t>
-            <tf xml:lang="nob">nå endelig</tf>
+         </tg>
+         <tg>
+            <t pos="adv" stat="pref">endelig</t>
+            <tf>nå endelig</tf>
          </tg>
       </mg>
    </e>
@@ -422,6 +464,7 @@
          <tg>
             <tf xml:lang="nob">der borte på den andre siden</tf>
             <tf dict="no" pos="phrase" xml:lang="nob">der på den andre siden</tf>
+            <tf dict="no">på den andre siden</tf>
          </tg>
       </mg>
    </e>
@@ -454,7 +497,7 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <t pos="x">i fjor sommer</t>
+            <tf stat="pref">i fjor sommer</tf>
             <tf>i fjorsommer</tf>
          </tg>
       </mg>
@@ -552,7 +595,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">på mange plasser</tf>
-            <tf xml:lang="nob">på mangel plasser</tf>
+            <tf xml:lang="nob">på mange steder</tf>
          </tg>
       </mg>
    </e>
@@ -569,6 +612,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hvem er så du</tf>
+            <tf dict="no">hvem er nå du</tf>
          </tg>
       </mg>
    </e>
@@ -584,7 +628,8 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">noen</t>
+            <tf stat="pref" xml:lang="nob">en eller annen</tf>
+            <t dict="no" pos="pron">noen</t>
          </tg>
       </mg>
    </e>
@@ -603,6 +648,26 @@
             <tf pos="phrase" stat="pref">utover sommeren</tf>
             <tf dict="no" pos="phrase">utpå sommeren</tf>
             <tf dict="no" pos="phrase">ut på sommeren</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">giesege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om sommeren</tf>
          </tg>
       </mg>
    </e>
@@ -672,6 +737,26 @@
    </e>
    <e>
       <lg>
+         <l pos="x">gïjrege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om våren</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">göökten harran</l>
       </lg>
       <apps>
@@ -697,6 +782,7 @@
             </semantics>
             <tf stat="pref" xml:lang="nob">det er bra</tf>
             <tf xml:lang="nob">bra er det</tf>
+            <tf dict="no">det er flott</tf>
          </tg>
       </mg>
    </e>
@@ -758,6 +844,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">innen rekkevidde</tf>
+            <tf dict="no">er innen rekkevidde</tf>
          </tg>
       </mg>
    </e>
@@ -765,17 +852,30 @@
       <lg>
          <l pos="phrase">jihteles måekie</l>
       </lg>
+      <mg>
+         <tg>
+            <tf oa="no" stat="pref" xml:lang="nob">intens regnskur</tf>
+            <tf oa="no" xml:lang="nob">intens snøskur</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">jirreden</l>
+      </lg>
       <apps>
-         <app name="oahpa"></app>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="EXPRESSIONS" />
+               <sem class="TIME_U" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">intens regnskur</tf>
-            <tf xml:lang="nob">intens snøskur</tf>
-            <t pos="n" xml:lang="nob">snøskur</t>
+            <tf>i morgen</tf>
          </tg>
       </mg>
    </e>
@@ -793,6 +893,10 @@
             </semantics>
             <tf stat="pref" xml:lang="nob">tillaget mat</tf>
             <tf xml:lang="nob">ferdiglaget mat</tf>
+            <tf dict="no">laget mat</tf>
+            <tf dict="no">mat som er laget</tf>
+            <tf dict="no">tilberedt mat</tf>
+            <tf dict="no">mat som er tilberedt</tf>
          </tg>
       </mg>
    </e>
@@ -831,6 +935,68 @@
    </e>
    <e>
       <lg>
+         <l pos="x">jååktan</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">i går</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">jååktetje jïjjen</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase" stat="pref">i går natt</tf>
+            <tf dict="no" pos="phrase">i gårnatt</tf>
+            <tf dict="no" pos="phrase">natten i går</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">jïjjege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om natten</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">lusten gaavhtan</l>
       </lg>
       <apps>
@@ -843,6 +1009,7 @@
             </semantics>
             <tf stat="pref" xml:lang="nob">for moro skyld</tf>
             <tf xml:lang="nob">for moros skyld</tf>
+            <tf dict="no">på grunn av moro</tf>
          </tg>
       </mg>
    </e>
@@ -859,6 +1026,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">ett eller annet</tf>
+            <t dict="no" pos="pron">noe</t>
          </tg>
       </mg>
    </e>
@@ -1005,6 +1173,8 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <t pos="adv" stat="pref" xml:lang="nob">hvorfor</t>
+            <tf dict="no">av hvilken grunn</tf>
+            <tf dict="no">av hvilken årsak</tf>
          </tg>
       </mg>
    </e>
@@ -1034,6 +1204,8 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hva da</tf>
+            <tf dict="no">hva så</tf>
+            <tf dict="no">hva nå</tf>
          </tg>
       </mg>
    </e>
@@ -1050,8 +1222,9 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hva er i veien</tf>
-            <tf xml:lang="nob">hva feiler</tf>
-            <tf>hva feiler det</tf>
+            <tf dict="no" xml:lang="nob">hva feiler</tf>
+            <tf dict="no">hva feiler det</tf>
+            <tf dict="no">hva er galt</tf>
          </tg>
       </mg>
    </e>
@@ -1068,7 +1241,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">hva mere</tf>
-            <tf xml:lang="nob">hva mer</tf>
+            <tf dict="no" xml:lang="nob">hva mer</tf>
          </tg>
       </mg>
    </e>
@@ -1116,6 +1289,7 @@
             </semantics>
             <tf stat="pref" xml:lang="nob">nokså lenge</tf>
             <tf xml:lang="nob">ganske lenge</tf>
+            <tf dict="no">veldig lenge</tf>
          </tg>
       </mg>
    </e>
@@ -1201,6 +1375,7 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <tf stat="pref" xml:lang="nob">ja slik er det</tf>
+            <tf dict="no">ja sånn er det</tf>
          </tg>
       </mg>
    </e>
@@ -1225,14 +1400,8 @@
       <lg>
          <l pos="phrase">nåå buerie veasome hov</l>
       </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
       <mg>
          <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
             <tf xml:lang="nob">lever bra</tf>
             <tf>lever et bra liv</tf>
             <tf xml:lang="nob">har det bra</tf>
@@ -1256,6 +1425,7 @@
             <t pos="x" stat="pref" xml:lang="nob">adjø</t>
             <tf xml:lang="nob">ha det bra</tf>
             <tf>ha det</tf>
+            <t dict="no" pos="x">farvel</t>
          </tg>
       </mg>
    </e>
@@ -1276,6 +1446,10 @@
             <tf xml:lang="nob">ha det bra så lenge</tf>
             <tf xml:lang="nob">ha det bra og på gjensyn</tf>
             <tf xml:lang="nob">på gjensyn</tf>
+            <tf>ha det bra</tf>
+            <tf>ha det</tf>
+            <t pos="x">adjø</t>
+            <t dict="no" pos="x">farvel</t>
          </tg>
       </mg>
    </e>
@@ -1295,6 +1469,9 @@
             <tf xml:lang="nob">du verden</tf>
             <tf stat="pref" xml:lang="nob">”du store min”</tf>
             <tf xml:lang="nob">"du verden"</tf>
+            <tf dict="no">å jøss</tf>
+            <t dict="no" pos="x">jøss</t>
+            <t dict="no" pos="x">jøsses</t>
          </tg>
       </mg>
    </e>
@@ -1395,6 +1572,26 @@
    </e>
    <e>
       <lg>
+         <l pos="x">tjaktjege</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf stat="pref">om høsten</tf>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">tjuetie stoerretjuetie</l>
       </lg>
       <apps>
@@ -1467,6 +1664,7 @@
             <tf stat="pref" xml:lang="nob">i førstningen</tf>
             <tf xml:lang="nob">fra begynnelsen</tf>
             <tf xml:lang="nob">i begynnelsen</tf>
+            <tf dict="no">i starten</tf>
          </tg>
       </mg>
    </e>
