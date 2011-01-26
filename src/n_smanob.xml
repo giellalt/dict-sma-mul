@@ -6485,7 +6485,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PEOPLE" />
             </semantics>
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinskar</t>
+            <t pos="n" stat="pref">reineier</t>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinskar</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no">reingjeter</t>
          </tg>
       </mg>
@@ -12484,6 +12485,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="irr" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ektemann</t>
             <t pos="n">husbond</t>
+            <t dict="no" pos="n">mann</t>
          </tg>
       </mg>
    </e>
@@ -37211,6 +37213,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tjenestejente</t>
             <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">taus</t>
+            <t dict="no" pos="n">tjenestepike</t>
          </tg>
       </mg>
    </e>
@@ -40314,9 +40317,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="MYTH_HUMAN" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">dum kjempe</tf>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">stallo</t>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">eventyrskikkelse</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">eventyrskikkelse</t>
+            <tf dict="no">dum kjempe</tf>
          </tg>
       </mg>
    </e>
@@ -57059,26 +57062,26 @@ For the full license text, see the link above.</lic>
    </e>
    <!-- this is not ok so: barnehage with sem class building vs. barnehabe with sem class education -->
    <!-- it should be only ONE entry -->
-<!--    <e> -->
-<!--       <lg> -->
-<!--          <l pos="n">maanagïerte</l> -->
-<!--       </lg> -->
-<!--       <apps> -->
-<!--          <app name="oahpa"> -->
-<!--             <sources> -->
-<!--                <book name="xxx" /> -->
-<!--             </sources> -->
-<!--          </app> -->
-<!--       </apps> -->
-<!--       <mg> -->
-<!--          <tg> -->
-<!--             <semantics> -->
-<!--                <sem class="BUILDING" /> -->
-<!--             </semantics> -->
-<!--             <t dict="yes" pos="n" stat="pref">barnehage</t> -->
-<!--          </tg> -->
-<!--       </mg> -->
-<!--    </e> -->
+   <!--    <e> -->
+   <!--       <lg> -->
+   <!--          <l pos="n">maanagïerte</l> -->
+   <!--       </lg> -->
+   <!--       <apps> -->
+   <!--          <app name="oahpa"> -->
+   <!--             <sources> -->
+   <!--                <book name="xxx" /> -->
+   <!--             </sources> -->
+   <!--          </app> -->
+   <!--       </apps> -->
+   <!--       <mg> -->
+   <!--          <tg> -->
+   <!--             <semantics> -->
+   <!--                <sem class="BUILDING" /> -->
+   <!--             </semantics> -->
+   <!--             <t dict="yes" pos="n" stat="pref">barnehage</t> -->
+   <!--          </tg> -->
+   <!--       </mg> -->
+   <!--    </e> -->
    <e>
       <lg>
          <l pos="n">konsonante</l>
