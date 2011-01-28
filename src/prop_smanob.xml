@@ -31,8 +31,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Mussere</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Mosjøen</t>
          </tg>
       </mg>
@@ -41,8 +52,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Raavrhvijhke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røyrvik</t>
          </tg>
       </mg>
@@ -51,8 +73,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Praahke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Brekken</t>
          </tg>
       </mg>
@@ -61,8 +94,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Raane</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Mo i Rana</t>
          </tg>
       </mg>
@@ -71,19 +115,44 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Kråangke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Grong</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="prop">Bïenjendaelie</l>
+         <l pos="prop">Bïenjedaelie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Bjørndalen</t>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="prop" tcomm="no">Funäsdal</t>
+            <t dict="no" pos="prop">Funäsdalen</t>
+            <t dict="no" pos="prop">Funesdal</t>
+            <t pos="prop">Funesdalen</t>
          </tg>
       </mg>
    </e>
@@ -91,8 +160,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Iejra</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Idre</t>
          </tg>
       </mg>
@@ -101,10 +181,22 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Svahke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Engerdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Stor-Svuku</t>
+            <t dict="no" pos="prop">Storsvukku</t>
          </tg>
       </mg>
    </e>
@@ -423,6 +515,14 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Gåebrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
             <re>Ålen</re>
@@ -434,8 +534,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Ganka</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Selbu</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Nea</t>
          </tg>
@@ -456,8 +567,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Lopmesvaerie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Selbu</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Fongen</t>
          </tg>
@@ -489,8 +611,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Skaarhpdaelie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skarpdalen</t>
          </tg>
@@ -522,8 +655,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Saanka</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Storsanka</t>
          </tg>
@@ -577,8 +721,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Raammanjaevrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Ramsjøen</t>
          </tg>
@@ -665,8 +820,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Saantenjaevrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Esandsjøen</t>
          </tg>
@@ -889,8 +1055,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Nååmesje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <re>Namsos</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Namsen</t>
          </tg>
@@ -1060,8 +1237,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Gåeblie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Meråker</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Fonnfjellet</t>
          </tg>
@@ -1099,8 +1287,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Laedtiebåvne</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Meråker</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Dalavola</t>
          </tg>
@@ -1253,8 +1452,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Skæhkere</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Verdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækerfjella</t>
          </tg>
@@ -1264,8 +1474,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Skæhkerenjohke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Verdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækra</t>
          </tg>
@@ -1526,7 +1747,18 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
+         <apps>
+            <app name="oahpa">
+               <sources>
+                  <book name="" />
+                  <frequency class="common" />
+               </sources>
+            </app>
+         </apps>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <re>Storuman</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Storuman</t>
          </tg>
@@ -1547,8 +1779,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Låarte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Snåsa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Luru</t>
          </tg>
@@ -1686,9 +1929,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Huvhpie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <re>Snåsa</re>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
+            <re>SnåsMIa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækerhatten</t>
          </tg>
       </mg>
@@ -1737,8 +1991,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Skæhkerenjaevrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Snåsa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækervatnet</t>
          </tg>
@@ -1858,8 +2123,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Lyjmedenjohke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Limingelva</t>
          </tg>
@@ -2100,8 +2376,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Lyjmededaelie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Limingdalen</t>
          </tg>
@@ -2397,8 +2684,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Låartenjaevrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Luruvatnet</t>
          </tg>
@@ -3464,8 +3762,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Jåavma</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Jomafjellet</t>
          </tg>
@@ -3580,8 +3889,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Dåtnejaevrie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Tunnsjøen</t>
          </tg>
@@ -8928,8 +9248,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Såvsoe</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <re>Hattfjelldal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Susna</t>
          </tg>
@@ -8994,8 +9325,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Aapije</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <re>Hattfjelldal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Appfjellet</t>
          </tg>
@@ -11141,8 +11483,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Sveerje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="OTHER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Sverige</t>
          </tg>
       </mg>
@@ -11151,8 +11504,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Såevmie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="OTHER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Finland</t>
          </tg>
       </mg>
@@ -11166,11 +11530,13 @@ For the full license text, see the link above.</lic>
             <app name="oahpa">
                <sources>
                   <frequency class="common" />
-                  <geography class="SOUTH" />
                </sources>
             </app>
          </apps>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Trondheim</t>
          </tg>
       </mg>
@@ -11179,8 +11545,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Saemiedigkie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="OTHER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Sametinget</t>
          </tg>
       </mg>
@@ -11189,8 +11566,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Plassje</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røros</t>
          </tg>
       </mg>
@@ -11199,8 +11587,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Röörovse</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røros</t>
          </tg>
       </mg>
@@ -11209,8 +11608,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Jïemhte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Jemtland</t>
             <t dict="yes" lang="swe" oa="yes" pos="prop" tcomm="no">Jämtland</t>
          </tg>
@@ -11220,8 +11630,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Oslove</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="OTHER" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Oslo</t>
          </tg>
       </mg>
@@ -11240,6 +11661,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="MID" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Snåsa</t>
          </tg>
       </mg>
@@ -11580,8 +12004,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Bienjedaelie</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="SOUTH" />
+            </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Funäsdalen</t>
          </tg>
@@ -11646,8 +12081,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Buarkantjahke</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="rare" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="NORTH" />
+            </semantics>
             <re>Dorotea</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Borgafjäll</t>
          </tg>
