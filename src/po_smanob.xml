@@ -82,7 +82,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">til</t>
             <xg>
-               <x>Tjåahkoe lij måantan raejeste bearjadahken raajan.</x>
+               <x>Tjåanghkoe lij måantan raejeste bearjadahken raajan.</x>
                <xt>Møtet varte fra mandag til fredag.</xt>
             </xg>
          </tg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">fra</t>
             <xg>
-               <x>Tjåahkoe lij måantan raejeste bearjadahken raajan.</x>
+               <x>Tjåanghkoe lij måantan raejeste bearjadahken raajan.</x>
                <xt>Møtet varte fra mandag til fredag.</xt>
             </xg>
          </tg>
@@ -199,6 +199,7 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <re>om luft</re>
             <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">over</t>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">henover</t>
             <xg>
@@ -218,6 +219,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+         <re>om luft</re>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">henover</t>
          </tg>
@@ -229,6 +231,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+         <re>om tid</re>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
             <xg>
                <x>rïhkedahken åvtelen</x>
@@ -247,6 +250,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+         <re>om tid</re>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
             <xg>
                <x>jåvli åvteli</x>
@@ -370,7 +374,7 @@ For the full license text, see the link above.</lic>
             </xg>
             <xg>
                <x>Mov baaktoe veedtsi.</x>
-               <xt>Han gikk via meg.</xt>
+               <xt>Han gikk forbi meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -393,11 +397,7 @@ For the full license text, see the link above.</lic>
                <x>Dïhte mov baalte.</x>
                <xt>Den er ved siden av meg.</xt>
             </xg>
-            <xg>
-               <x>Tjihkedh mov baalte!</x>
-               <xt>Sett deg ved siden av meg!</xt>
-            </xg>
-         </tg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -467,10 +467,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">ved siden av</t>
-            <xg>
-               <x>mov baaltese</x>
-               <xt>forbi meg</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -480,7 +476,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til ved siden av</tf>
+            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til siden</tf>
+            <xg>
+               <x>Båetieh diekie mov bealan!</x>
+               <xt>Kom hit til min side!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -509,7 +509,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
             <xg>
                <x>Dïhte mov bealesne lea.</x>
-               <xt>Han/Hun er ved siden av meg.</xt>
+               <xt>Han er ved siden av meg.</xt>
             </xg>
             <xg>
                <x>Aahka vuebnien bealesne tjahkan.</x>
@@ -527,7 +527,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra ved siden av</tf>
             <xg>
                <x>Dïhte mov bealeste tjuedtjieli.</x>
-               <xt>Han/Hun reiste seg opp fra ved min side.</xt>
+               <xt>Han reiste seg opp fra ved min side.</xt>
             </xg>
          </tg>
       </mg>
@@ -540,7 +540,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
             <xg>
-               <x>Maahtah datne tjoejkedh klaahkaj bielehth?</x>
+               <x>Maahtah tjoejkedh klaahkaj bielehth?</x>
                <xt>Kan du renne på ski uten staver?</xt>
             </xg>
          </tg>
@@ -555,7 +555,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
             <xg>
                <x>Dïhte klaahkan bielelen tjuajka.</x>
-               <xt>Han/Hun renner på ski uten stav.</xt>
+               <xt>Han renner på ski uten stav.</xt>
             </xg>
             <xg>
                <x>Datne fihkh soptsestidh bielelen mov gihtjemem.</x>
@@ -605,7 +605,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">henover</t>
             <xg>
                <x>Dellie juhtimh vaartoen bijjelen.</x>
-               <xt>Så flyttet vi over vola.</xt>
+               <xt>Så flyttet vi over det lave snaufjell med krattskog omkring.</xt>
             </xg>
          </tg>
       </mg>
@@ -620,7 +620,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
             <xg>
                <x>Vaedtsieh vaartoej bijjeli!</x>
-               <xt>Gå over de volene!</xt>
+               <xt>Gå over de lave snaufjell med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -634,7 +634,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">bortenfor</t>
             <xg>
                <x>Vaedtsieh don vaartoen dubpelen!</x>
-               <xt>Gå bortenfor det der fjellet!</xt>
+               <xt>Gå bortenfor det der lave snaufjell med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -648,7 +648,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">bortenfor</t>
             <xg>
                <x>Vaedtsieh dej vaartoej dubpeli!</x>
-               <xt>Gå bortenfor de fjellene!</xt>
+               <xt>Gå bortenfor de lave snaufjell med krattskog omkring!</xt>
             </xg>
          </tg>
       </mg>
@@ -865,10 +865,6 @@ For the full license text, see the link above.</lic>
                <x>Maana aahkan gåajkoe veedtsi.</x>
                <xt>Barnet gikk til bestemor.</xt>
             </xg>
-            <xg>
-               <x>Aajja vaerien gåajkoe jidtie.</x>
-               <xt>Bestefar stirrer mot fjellet.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -946,7 +942,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">ifølge</t>
             <xg>
-               <x>Dan prievien mietie, dle åadtjoem dennie skuvlesne.</x>
+               <x>Dan prievien mietie, dle åadtjoem dennie skuvlesne aelkedh.</x>
                <xt>Ifølge dette brevet får jeg begynne på den skolen.</xt>
             </xg>
          </tg>
@@ -960,8 +956,8 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
             <xg>
-               <x>Dïhte mov mïnngesne bööti.</x>
-               <xt>Han/Hun kom etter meg.</xt>
+               <x>Mov mïnngesne bööti.</x>
+               <xt>Han kom etter meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -993,7 +989,7 @@ For the full license text, see the link above.</lic>
                <xt>De andre kom lenge etter oss.</xt>
             </xg>
             <xg>
-               <x>Idtjih naan vaestiedassem åadtjoeh dan mænngan?</x>
+               <x>Idtjih goh naan vaestiedassem åadtjoeh dan mænngan?</x>
                <xt>Fikk du ikke noe svar etter det?</xt>
             </xg>
          </tg>
@@ -1102,7 +1098,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra under</tf>
             <xg>
                <x>Stoerre vadtesem seangkoen nueleste geesi.</x>
-               <xt>Han/Hun dro frem en stor pakke fra under senga.</xt>
+               <xt>Han dro frem en stor pakke fra under senga.</xt>
             </xg>
          </tg>
       </mg>
@@ -1143,7 +1139,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">over</t>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">tvers over</tf>
             <xg>
-               <x>Baernie jaevriem rastah såvka.</x>
+               <x>Baernie jaevrien rastah såvka.</x>
                <xt>Gutten ror over vannet.</xt>
             </xg>
          </tg>
@@ -1330,7 +1326,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i disse tider</tf>
             <xg>
-               <x>Dej boehten.</x>
+               <x>Daaj boehten.</x>
                <xt>Før i tiden.</xt>
             </xg>
          </tg>
@@ -1429,7 +1425,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra bakom</tf>
             <xg>
                <x>Mov bååktjeste bööti.</x>
-               <xt>Han/Hun kom bakfra meg.</xt>
+               <xt>Han kom bakfra meg.</xt>
             </xg>
          </tg>
       </mg>
@@ -1535,14 +1531,14 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="po">dïere</l>
+         <l pos="po">dïehre</l>
       </lg>
       <mg>
          <tg>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
             <xg>
-               <x>Dan dïere ij vïenhth dïhte reaktoe.</x>
-               <xt>Av den grunn tror han/hun ikke det er riktig.</xt>
+               <x>Dan dïehre ij vïenhth dïhte reaktoe.</x>
+               <xt>Av den grunn tror hun ikke det er riktig.</xt>
             </xg>
          </tg>
       </mg>
@@ -1649,7 +1645,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">langs bak, forbi bak</t>
             <xg>
                <x>Jååktan sååjhtim gånkan slåahten duekiem vaedtsedh.</x>
-               <xt>I går gikk jeg tilfeldigvis forbi bak kongens slott.</xt>
+               <xt>I går gikk jeg tilfeldigvis bak kongens slott.</xt>
             </xg>
          </tg>
       </mg>
@@ -1776,7 +1772,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">bak</t>
             <xg>
                <x>Duej almetji genhtsemi vaedtsedh!</x>
-               <xt>Gå bak og forbi de menneskene!</xt>
+               <xt>Gå bak de menneskene!</xt>
             </xg>
          </tg>
       </mg>
@@ -1804,7 +1800,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra bakpå</tf>
             <xg>
                <x>Båata don vaerien genhtsiemistie vaedtsien.</x>
-               <xt>Han/Hun kommer gående bakfra det fjellet.</xt>
+               <xt>Han kommer gående bakfra det fjellet.</xt>
             </xg>
          </tg>
       </mg>
@@ -1877,11 +1873,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="po">gåajka</l>
+         <l pos="po">gåajkoe</l>
       </lg>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">henimot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">til</t>
          </tg>
       </mg>
    </e>
@@ -1894,7 +1895,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">litt lenger vestafor</tf>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til vestsiden av</tf>
             <xg>
-               <x>Vaedtsieh don jillelen!</x>
+               <x>Vaedtsieh dan jillelen!</x>
                <xt>Gå vestafor den!</xt>
             </xg>
          </tg>
@@ -1971,7 +1972,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">fra</t>
             <xg>
                <x>Båata bovtsi luvhtie.</x>
-               <xt>Han/Hun kommer fra reinhjorden.</xt>
+               <xt>Hun kommer fra reinhjorden.</xt>
             </xg>
          </tg>
       </mg>
@@ -2001,7 +2002,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra litt lenger øst enn</tf>
             <xg>
                <x>Dïhte hov dan sïjten luvlielistie båata.</x>
-               <xt>Han/Hun kommer fra litt lenger øst enn den siidaen.</xt>
+               <xt>Hun kommer fra litt lenger øst enn den siidaen.</xt>
             </xg>
          </tg>
       </mg>
@@ -2106,7 +2107,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra den bakre siden av</tf>
             <xg>
                <x>Gåetien miehtjielistie jïjhteli.</x>
-               <xt>Den dukket opp fra kåtens bakside.</xt>
+               <xt>Den dukket opp fra baksida av kåta.</xt>
             </xg>
          </tg>
       </mg>
@@ -2280,7 +2281,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
             <xg>
-               <x>beapmoej namhtah</x>
+               <x>beapmoej namhtegh</x>
                <xt>uten mat</xt>
             </xg>
          </tg>
@@ -2300,7 +2301,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
             <xg>
                <x>Dan njeajah tjïektjesti.</x>
-               <xt>Han/Hun sparket mot den.</xt>
+               <xt>Han sparket mot den.</xt>
             </xg>
          </tg>
       </mg>
@@ -2326,7 +2327,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nordafor et sted</tf>
+            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nordafor</tf>
             <xg>
                <x>Dïhte lea duej vaeriej noerhteli.</x>
                <xt>Den er nord for de fjellene.</xt>
@@ -2408,7 +2409,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">på innsida av</t>
             <xg>
-               <x>Vaarjoej sjisjnjielisnie båadtsan lea.</x>
+               <x>Vaarjoej sjisjnjielisnie båadtsode lea.</x>
                <xt>På innsida av klærne er man naken.</xt>
             </xg>
          </tg>
@@ -2480,7 +2481,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="pr" tcomm="no">borti</t>
             <xg>
                <x>Bïjlen sonterh vööji.</x>
-               <xt>Han/Hun kjørte borti bilen.</xt>
+               <xt>Han kjørte borti bilen.</xt>
             </xg>
          </tg>
       </mg>
@@ -2567,6 +2568,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
+         <re>om beskyttelse og omsorg</re>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til sammen med</tf>
          </tg>
       </mg>
@@ -2646,7 +2648,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i omsorg</tf>
             <xg>
                <x>mijjen åelesne</x>
-               <xt>er under vår beskyttelse, er i vår omsorg</xt>
+               <xt>er under vår beskyttelse og omsorg</xt>
             </xg>
          </tg>
       </mg>
