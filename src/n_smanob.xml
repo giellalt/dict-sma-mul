@@ -43276,6 +43276,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skrivebok</t>
             <t dict="no" pos="n">notatbok</t>
+            <t dict="no" pos="n">skriveblokk</t>
+            <t dict="no" pos="n">notatblokk</t>
+            <t dict="no" pos="n">blokk</t>
          </tg>
       </mg>
    </e>
@@ -43333,7 +43336,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">forfatter</t>
             <t dict="no" pos="n">skriver</t>
-            <t dict="no" pos="n">skribent</t>
+            <t dict="yes" pos="n">skribent</t>
          </tg>
       </mg>
    </e>
@@ -43417,7 +43420,14 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_PLACE" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tørrlende</t>
-            <tf dict="no" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">tørrfast mark</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">fast mark</tf>
+            <t dict="no" pos="n">fastmark</t>
+            <t dict="no" pos="n">tørrmark</t>
+            <tf dict="no">tørr mark</tf>
+            <t dict="no" pos="n">tørrbakke</t>
+            <tf dict="no">tørr bakke</tf>
+            <tf dict="no">fast bakke</tf>
+            <tf dict="no">fast lende</tf>
          </tg>
       </mg>
    </e>
@@ -43442,6 +43452,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjell</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fjelltopp</t>
+            <t dict="no" pos="n">topp</t>
          </tg>
       </mg>
    </e>
@@ -43473,22 +43484,20 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="FINANCE" />
-            </semantics>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">krone</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <semantics>
                <sem class="AMOUNT" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kilo</t>
+            <t dict="no" pos="n">kilogram</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no">kile</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="n">krone</t>
          </tg>
       </mg>
    </e>
@@ -43536,6 +43545,12 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">høstvinter</t>
             <tf dict="yes" oa="yes" tcomm="no">tidlig vinter</tf>
+            <t dict="no" pos="n">forvinter</t>
+            <t dict="no" pos="n">senhøst</t>
+            <tf dict="no">sen høst</tf>
+            <t dict="no" pos="n">seinhøst</t>
+            <tf dict="no">sein høst</tf>
+            <t dict="no" pos="n">vinterhøst</t>
          </tg>
       </mg>
    </e>
@@ -43560,6 +43575,10 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">høstsommer</t>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">sommerhøst</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no">seinsommer</t>
+            <tf dict="no">sein sommer</tf>
+            <t dict="no" pos="n">sensommer</t>
+            <tf dict="no">sen sommer</tf>
+            <tf dict="no">tidlig høst</tf>
          </tg>
       </mg>
    </e>
@@ -43592,6 +43611,7 @@ For the full license text, see the link above.</lic>
                <sem class="HERDING" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">høstslakt</t>
+            <te>om slaktedyr som tas om høsten</te>
          </tg>
       </mg>
    </e>
@@ -43623,6 +43643,7 @@ For the full license text, see the link above.</lic>
                <sem class="REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">nettmage</t>
+            <t dict="no" pos="n">nettmave</t>
          </tg>
       </mg>
    </e>
@@ -43644,6 +43665,7 @@ For the full license text, see the link above.</lic>
                <sem class="BODYPART" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">neve</t>
+            <t dict="no" pos="n">knyttneve</t>
          </tg>
       </mg>
    </e>
@@ -43667,6 +43689,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="no" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skare</t>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">skare som bærer</tf>
+            <t dict="no" pos="n">skårrå</t>
+            <t dict="no" pos="n">snøskare</t>
+            <t dict="no" pos="n">snøskårrå</t>
          </tg>
       </mg>
    </e>
@@ -43691,12 +43716,12 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">iskrem</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">saftis</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">is</t>
+            <t dict="no" pos="n">softis</t>
          </tg>
       </mg>
       <mg>
          <tg>
             <semantics>
-               <sem class="NATURE" />
                <sem class="SNOW" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">våt kornsnø</tf>
@@ -43777,6 +43802,9 @@ For the full license text, see the link above.</lic>
                <sem class="CLOTHING" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">halstørkle</t>
+            <t dict="no" pos="n">tørkle</t>
+            <t dict="no" pos="n">bøff</t>
+            <t dict="no" pos="n">buff</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">halsduk</t>
          </tg>
       </mg>
@@ -43799,6 +43827,10 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skumring</t>
+            <t dict="no" pos="n">mørke</t>
+            <t dict="no" pos="n">mørking</t>
+            <t dict="no" pos="n">halvmørke</t>
+            <t dict="no" pos="n">tussmørke</t>
          </tg>
       </mg>
    </e>
@@ -43830,8 +43862,15 @@ For the full license text, see the link above.</lic>
                <sem class="FISHING" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">garnkavle</t>
+            <t dict="no" pos="n">kavle</t>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">garnduble</t>
+            <t dict="no" pos="n">duble</t>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">garndubbel</t>
+            <t dict="no" pos="n">dubbel</t>
+            <t dict="no" pos="n">garndupp</t>
+            <t dict="no" pos="n">dupp</t>
+            <t dict="no" pos="n">garnfløte</t>
+            <t dict="no" pos="n">fløte</t>
          </tg>
       </mg>
    </e>
@@ -43853,6 +43892,7 @@ For the full license text, see the link above.</lic>
                <sem class="FISHING" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">garnstein</t>
+            <t dict="no" pos="n">garnsten</t>
          </tg>
       </mg>
    </e>
@@ -43875,6 +43915,11 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re xml:lang="nob">om fiskegarn</re>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kavlesnor</t>
+            <t dict="no" pos="n">dublesnor</t>
+            <t dict="no" pos="n">dubbelsnor</t>
+            <t dict="no" pos="n">duppsnor</t>
+            <t dict="no" pos="n">fløtesnor</t>
+            <t dict="no" pos="n">garnsnor</t>
          </tg>
       </mg>
    </e>
@@ -43895,6 +43940,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ANIMAL_WILD" />
             </semantics>
+            <re>dyr og fiskeredskap</re>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">oter</t>
          </tg>
       </mg>
@@ -43940,6 +43986,7 @@ For the full license text, see the link above.</lic>
                <sem class="BODYPART" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">øye</t>
+            <t dict="no" pos="n">auge</t>
          </tg>
       </mg>
    </e>
@@ -43962,6 +44009,10 @@ For the full license text, see the link above.</lic>
                <sem class="TOY" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ball</t>
+            <t dict="no" pos="n">fotball</t>
+            <t dict="no" pos="n">håndball</t>
+            <t dict="no" pos="n">handball</t>
+            <t dict="no" pos="n">volleyball</t>
          </tg>
       </mg>
    </e>
@@ -43995,7 +44046,7 @@ For the full license text, see the link above.</lic>
                <sem class="REINDEER" />
             </semantics>
             <tf dict="yes" gen="n" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">skinnet mellom klovene
-            på en rein</tf>
+            på rein</tf>
          </tg>
       </mg>
    </e>
@@ -44195,7 +44246,7 @@ For the full license text, see the link above.</lic>
                <sem class="FAMILY" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">fars yngre fetter</tf>
-            <tf dict="no">pappar yngre fetter</tf>
+            <tf dict="no">pappas yngre fetter</tf>
          </tg>
       </mg>
    </e>
@@ -44255,7 +44306,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="BIRD" />
             </semantics>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tjeld</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">gråtjeld</t>
+            <t dict="no" pos="???">tjeld</t>
+            <t pos="n">strandsnipe</t>
+            <t dict="no" pos="n">snipe</t>
          </tg>
       </mg>
    </e>
@@ -44276,8 +44330,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
             </semantics>
-            <tf dict="no" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">hvit rein</tf>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">helt hvit rein</tf>
+            <tf dict="no" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">helt hvit rein</tf>
+            <tf dict="no">helt kvit rein</tf>
+            <tf dict="no" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">hvit rein</tf>
+            <t dict="no" pos="n">hvitrein</t>
+            <tf dict="no">kvit rein</tf>
+            <t dict="no" pos="n">kvitrein</t>
          </tg>
       </mg>
    </e>
@@ -44299,6 +44357,7 @@ For the full license text, see the link above.</lic>
                <sem class="TEXT" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">dikt</t>
+            <t dict="no" pos="n">vers</t>
          </tg>
       </mg>
    </e>
@@ -44320,7 +44379,11 @@ For the full license text, see the link above.</lic>
                <sem class="ANIMAL_DOM" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">killing</t>
+            <t dict="no" pos="n">geitkilling</t>
+            <t dict="no" pos="n">gjetkilling</t>
             <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">kje</t>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">geitkje</t>
+            <t decl="x" dict="no" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">gjetkje</t>
          </tg>
       </mg>
    </e>
@@ -44418,6 +44481,7 @@ For the full license text, see the link above.</lic>
                <sem class="ANIMAL_OTHER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">mygg</t>
+            <t dict="yes" pos="n">insekt</t>
          </tg>
       </mg>
    </e>
@@ -44440,6 +44504,9 @@ For the full license text, see the link above.</lic>
                <sem class="BATHROOM" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">såpe</t>
+            <t dict="no" pos="n">badesåpe</t>
+            <t dict="no" pos="n">håndsåpe</t>
+            <t dict="no" pos="n">handsåpe</t>
          </tg>
       </mg>
    </e>
@@ -44461,6 +44528,7 @@ For the full license text, see the link above.</lic>
                <sem class="VÆTNOE" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">knute</t>
+            <t dict="no" pos="n">knut</t>
          </tg>
       </mg>
    </e>
@@ -44482,6 +44550,8 @@ For the full license text, see the link above.</lic>
                <sem class="FISH" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fiskeskinn</t>
+            <t dict="no" pos="n">fiskeskjell</t>
+            <t dict="no" pos="n">fiskehud</t>
          </tg>
       </mg>
    </e>
@@ -44503,6 +44573,9 @@ For the full license text, see the link above.</lic>
                <sem class="ANIMAL_OTHER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">flue</t>
+            <t dict="no" pos="n">spyflue</t>
+            <t dict="no" pos="n">fluggu</t>
+            <t dict="no" pos="n">spyfluggu</t>
          </tg>
       </mg>
    </e>
