@@ -44625,11 +44625,14 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">lys</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
             <semantics>
                <sem class="ROOM_OTHER" />
             </semantics>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">lampe</t>
+            <t pos="n" stat="pref">lampe</t>
+            <t dict="no" pos="n">lykt</t>
          </tg>
       </mg>
    </e>
@@ -44651,9 +44654,17 @@ For the full license text, see the link above.</lic>
                <sem class="ROOM_OTHER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">lys</t>
+            <t pos="n">dagslys</t>
+            <t pos="n">lampe</t>
+            <t pos="n">skinn</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no">stearinlys</t>
             <t dict="no" pos="n">kubbelys</t>
+            <t dict="no" pos="n">kubblys</t>
             <t dict="no" pos="n">T-lys</t>
+            <t dict="no" pos="n">telys</t>
+            <t dict="no" pos="n">fakkel</t>
+            <t dict="no" pos="n">lommelampe</t>
+            <t dict="no" pos="n">lommelykt</t>
          </tg>
       </mg>
    </e>
@@ -44717,12 +44728,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="THING" />
                <sem class="ROOM_OTHER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ting</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">husgeråd</t>
             <t dict="no" pos="n">saker</t>
+            <tf dict="no">saker og ting</tf>
          </tg>
       </mg>
       <mg>
@@ -44802,9 +44813,21 @@ For the full license text, see the link above.</lic>
                <sem class="THING" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bunt</t>
+            <t pos="n">hånk</t>
+            <t pos="n">liten haug</t>
          </tg>
+      </mg>
+      <mg>
          <tg>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">honk</t>
+            <semantics>
+               <sem class="HERDING" />
+            </semantics>
+            <tf stat="pref">liten flokk</tf>
+            <te stat="pref">av rein 20-30 dyr</te>
+            <t dict="no" pos="n">flokk</t>
+            <tf dict="no">litt rein</tf>
+            <tf dict="no">noen rein</tf>
+            <tf dict="no">liten reinflokk</tf>
          </tg>
       </mg>
    </e>
@@ -44839,6 +44862,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tjern</t>
             <t dict="no" pos="n">tjønn</t>
+            <t dict="no" pos="n">vann</t>
+            <t dict="no" pos="n">vatn</t>
          </tg>
       </mg>
    </e>
@@ -44859,8 +44884,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="REINDEER" />
+               <sem class="HERDING" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjorårskalv</t>
+            <t dict="no" pos="n">fjorkalv</t>
          </tg>
       </mg>
    </e>
@@ -44885,6 +44912,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">unge</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">dyreunge</t>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fugleunge</t>
+            <t dict="no" pos="n">kylling</t>
          </tg>
       </mg>
    </e>
@@ -44967,8 +44995,10 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">spiserør</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">matstrupe</t>
+            <t dict="no" pos="n">matrør</t>
             <t dict="no" pos="n">strupe</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">svelg</t>
+            <t dict="no" pos="n">matsvelg</t>
          </tg>
       </mg>
    </e>
