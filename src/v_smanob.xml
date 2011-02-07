@@ -17813,12 +17813,14 @@ For the full license text, see the link above.</lic>
                <sem class="WORK_ECONOMY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">grave</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">rote</t>
          </tg>
          <tg>
-            <t dict="yes" pos="v">klø</t>
+            <t dict="yes" pos="v">klore</t>
          </tg>
-      </mg>
+         <tg>
+            <t dict="yes" pos="v">rote</t>
+         </tg>
+      </mg>   
    </e>
    <e>
       <lg>
@@ -28527,7 +28529,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l class="VI" pos="v" stem="2syll">skuvledh</l>
+         <l class="VI" pos="v" stem="2syll">skuvledh</l> 
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -41997,17 +41999,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="VI" state="both_swe_and_nob" swe_class="I"> -->
-   <!--       <lg> -->
-   <!--          <l class="I" pos="v" stem="even" umlaut="A">rintedh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">trenge seg inn i mellom</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
+       <e> nob_class="VI" state="both_swe_and_nob" swe_class="I"> 
+          <lg> 
+            <l class="I" pos="v" stem="even" umlaut="A">rintedh</l> 
+             </lg> 
+              <mg lang="nob"> 
+                <tg> 
+                   <t dict="yes" pos="v">trenge seg inn i mellom</t> 
+                </tg> 
+              </mg> 
+       </e> 
    <e>
       <lg>
          <l class="I" pos="v" stem="even" umlaut="A">rïddesestedh</l>
@@ -45017,6 +45018,16 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
+         <l class="II" pos="v" stem="even" umlaut="B">såalmodh</l>
+      </lg>
+      <mg lang="nob">
+         <tg>
+            <t dict="yes" pos="v">trenge inn over tid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l class="III" pos="v" stem="even" umlaut="B">såamkedh</l>
       </lg>
       <mg lang="nob">
@@ -45025,17 +45036,16 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="IV" state="both_swe_and_nob" swe_class="III"> -->
-   <!--       <lg> -->
-   <!--          <l class="III" pos="v" stem="even" umlaut="B">tjalkedh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">falle igjennom</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
+     <e> nob_class="IV" state="both_swe_and_nob" swe_class="III"> 
+          <lg> 
+             <l class="III" pos="v" stem="even" umlaut="B">tjalkedh</l> 
+            </lg> 
+             <mg lang="nob"> 
+                <tg> 
+                   <t dict="yes" pos="v">falle igjennom</t> 
+                </tg> 
+            </mg> 
+      </e> 
    <e>
       <lg>
          <l class="III" pos="v" stem="even" umlaut="B">tjankedh</l>
@@ -47926,18 +47936,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="v">se syner</t>
          </tg>
       </mg>
-   </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="I" state="both_swe_and_nob" swe_class="IV"> -->
-   <!--       <lg> -->
-   <!--          <l class="IV" pos="v" stem="even" umlaut="D">jåaskoedehtedh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">la bli avkjølt</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
+   </e>F
    <e>
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">knïhtjedh</l>
@@ -48168,41 +48167,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="I" state="both_swe_and_nob" swe_class="IV"> -->
-   <!--       <lg> -->
-   <!--          <l class="IV" pos="v" stem="even" umlaut="D">njilledh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">flå skinn</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">flekke av</t> -->
-   <!--             <t dict="yes" pos="v">løype never</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="I" state="both_swe_and_nob" swe_class="IV"> -->
-   <!--       <lg> -->
-   <!--          <l class="IV" pos="v" stem="even" umlaut="D">njelledh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">flå skinn</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">flekke av</t> -->
-   <!--             <t dict="yes" pos="v">løype never</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
-   <e>
+     <e>
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">njïeledh</l>
       </lg>
@@ -48272,18 +48237,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="VI" state="both_swe_and_nob" swe_class="IV"> -->
-   <!--       <lg> -->
-   <!--          <l class="IV" pos="v" stem="even" umlaut="D">nuhtjedh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">bruke</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
-   <e>
+     <e>
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">nåhkedadtedh</l>
       </lg>
@@ -49753,17 +49707,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <!-- this is still to be checked wrt. class -->
-   <!--    <e nob_class="VI" state="both_swe_and_nob" swe_class="IV"> -->
-   <!--       <lg> -->
-   <!--          <l class="IV" pos="v" stem="even" umlaut="D">skuvledh</l> -->
-   <!--       </lg> -->
-   <!--       <mg lang="nob"> -->
-   <!--          <tg> -->
-   <!--             <t dict="yes" pos="v">skylle</t> -->
-   <!--          </tg> -->
-   <!--       </mg> -->
-   <!--    </e> -->
    <e>
       <lg>
          <l class="IV" pos="v" stem="even" umlaut="D">skrïehpedh</l>
@@ -60258,7 +60201,11 @@ For the full license text, see the link above.</lic>
             <t dict="yes" pos="v">grave</t>
          </tg>
       </mg>
-      <!--XXX-->
+      <mg lang="nob">
+         <tg>
+            <t dict="yes" pos="v">klore</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
