@@ -50135,6 +50135,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">arbeid</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">håndarbeid</t>
+            <t dict="no" pos="n">sløyd</t>
          </tg>
       </mg>
    </e>
@@ -50168,6 +50169,8 @@ For the full license text, see the link above.</lic>
                <sem class="ROOM_PART" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vegg</t>
+            <t dict="no" pos="n">husvegg</t>
+            <t dict="no" pos="n">romsvegg</t>
          </tg>
       </mg>
    </e>
@@ -50226,7 +50229,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e>
+   <e exclude="smanob">
       <lg>
          <l pos="n" soggi="e" stem="2syll">vïernge</l>
       </lg>
@@ -50243,9 +50246,10 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="NATURE_WATER" />
             </semantics>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">marbakke</t>
-            <tf dict="yes" gen="m" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">den øvre kanten av helling</tf>
-            <te dict="yes" oa="yes" xml:lang="nob">ned mot elv</te>
+            <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">den øvre kanten av
+            helling</tf>
+            <te dict="yes" oa="yes" stat="pref" xml:lang="nob">ned mot elv</te>
+            <t pos="n">marbakke</t>
          </tg>
       </mg>
    </e>
@@ -50289,6 +50293,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">svigersønn</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">svoger</t>
+            <tf>mann gift med yngre kvinnelig slektning</tf>
          </tg>
       </mg>
    </e>
@@ -50334,7 +50339,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="BODYPART" />
             </semantics>
+            <re>om menneske</re>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">blod</t>
+            <t dict="no" pos="n">menneskeblod</t>
          </tg>
       </mg>
    </e>
@@ -50413,6 +50420,17 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">søstre innbyrdes</tf>
             <tf dict="no">innbyrdes søstre</tf>
+            <t dict="no" pos="n">søstre</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">åabpetjh</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x"></t>
          </tg>
       </mg>
    </e>
