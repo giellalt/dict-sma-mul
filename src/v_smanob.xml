@@ -27,6 +27,28 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+    <e>
+       <lg>
+          <l class="IV" pos="v" stem="2syll" umlaut="full" vow="x">govlesovvedh</l>
+       </lg>
+       <stem class="bisyllabic"></stem>
+       <apps>
+          <app name="oahpa">
+             <sources>
+                <book name="åa6" />
+             </sources>
+          </app>
+       </apps>
+       <mg>
+          <tg>
+             <semantics>
+                <sem class="EXPOSURE_V" />
+             </semantics>
+             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">høres</t>
+             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bli hørt</tf>
+          </tg>
+       </mg>
+    </e>
    <e>
       <lg>
          <l pos="v" stem="3syll">aabparidh</l>
@@ -11922,6 +11944,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">få høre</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">plutselig få høre</tf>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">få høre plutselig</tf>
          </tg>
       </mg>
    </e>
@@ -12045,6 +12068,7 @@ For the full license text, see the link above.</lic>
                <sem class="EXPERIENCE_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">forstå</t> 
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">skjønne</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">begripe</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">fatte</t>
          </tg>
@@ -12208,7 +12232,10 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">forstå plutselig</tf>
+             <tf dict="no" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">forstå straks</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">komme til innsikt</tf>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">forstå plutselig</tf>
+            <t dict="no" pos="v">forstå</t>
          </tg>
       </mg>
    </e>
@@ -12322,8 +12349,11 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="FOOD_DRINK_V" />
             </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">helle</t>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">slå i</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">helle i</tf>
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">fylle</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">fylle i</tf>
          </tg>
       </mg>
    </e>
@@ -12332,9 +12362,24 @@ For the full license text, see the link above.</lic>
          <l diph="yes" p3p="gurkeste" pos="v" stem="3syll">gurhkestidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="a1" />
+               <book name="åa5" />
+               <book name="a1" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="FOOD_DRINK_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">helle i litt som snarest</t>
+            <tf dict="no" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">helle som snarest</tf>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">helle litt</tf>
+            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">helle</t>
          </tg>
       </mg>
       <mg>
