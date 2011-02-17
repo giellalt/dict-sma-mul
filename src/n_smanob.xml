@@ -58653,9 +58653,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">gïeledajve</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" pos="n">språkområde</t>
+            <semantics>
+               <sem class="LANGUAGE" />
+            </semantics>
+            <t dict="yes" pos="n" stat="pref">språkområde</t>
          </tg>
       </mg>
    </e>
@@ -58663,9 +58673,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">gaskesadtemegïele</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
-            <t dict="yes" pos="n">kommunikasjonspråk</t>
+            <semantics>
+               <sem class="LANGUAGE" />
+            </semantics>
+            <t dict="yes" pos="n" stat="pref">kommunikasjonsspråk</t>
+            <t dict="no" pos="n">kommunikasjonspråk</t>
          </tg>
       </mg>
    </e>
