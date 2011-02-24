@@ -29,41 +29,20 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
-         <l pos="prop">Aarporte</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="" />
-               <frequency class="common" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="NORTH" />
-            </semantics>
-            <t pos="prop">Hattfjelldal</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="prop">Staare</l>
       </lg>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Östersund</t>
          </tg>
@@ -76,15 +55,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Grane</t>
          </tg>
@@ -97,15 +76,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Mosjøen</t>
          </tg>
@@ -118,15 +97,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røyrvik</t>
          </tg>
@@ -139,15 +118,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Stjørdal</t>
             <t pos="prop">Stjørdalen</t>
@@ -161,15 +140,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Steinkjer</t>
          </tg>
@@ -182,15 +161,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Meråker</t>
             <t dict="no" pos="prop">Meraker</t>
@@ -204,38 +183,17 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Engerdal</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="prop">Gåebrie</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="" />
-               <frequency class="common" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="SOUTH" />
-            </semantics>
-            <t pos="prop">Elgå</t>
          </tg>
       </mg>
    </e>
@@ -246,15 +204,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Russland</t>
          </tg>
@@ -267,15 +225,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Sameland</t>
          </tg>
@@ -288,15 +246,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Tysfjord</t>
          </tg>
@@ -309,15 +267,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Verden</t>
          </tg>
@@ -330,15 +288,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Island</t>
          </tg>
@@ -351,15 +309,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Island</t>
          </tg>
@@ -372,15 +330,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Danmark</t>
          </tg>
@@ -393,15 +351,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">England</t>
          </tg>
@@ -414,15 +372,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Kanada</t>
          </tg>
@@ -435,15 +393,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">California</t>
          </tg>
@@ -456,15 +414,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Australia</t>
          </tg>
@@ -477,15 +435,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Indonesia</t>
          </tg>
@@ -498,15 +456,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">SørAfrika</t>
          </tg>
@@ -519,15 +477,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Afrika</t>
          </tg>
@@ -540,15 +498,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Slovenia</t>
          </tg>
@@ -561,15 +519,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Genevia</t>
          </tg>
@@ -582,15 +540,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Frankrike</t>
          </tg>
@@ -603,27 +561,24 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Finland</t>
          </tg>
       </mg>
-      <mg>
+<!--      <mg>
          <tg>
-            <semantics>
-               <sem class="OTHER" />
-            </semantics>
             <t pos="x">fint tørt beite under snøen</t>
          </tg>
-      </mg>
+      </mg> -->
    </e>
    <e>
       <lg>
@@ -632,15 +587,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Brüssel</t>
          </tg>
@@ -653,15 +608,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Berlin</t>
          </tg>
@@ -674,15 +629,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Europa</t>
          </tg>
@@ -695,15 +650,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Östersjöen</t>
          </tg>
@@ -716,15 +671,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Boden</t>
          </tg>
@@ -737,37 +692,21 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Tromsø</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="prop">Romssa</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="" />
-               <frequency class="common" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
-            <semantics>
-               <sem class="OTHER" />
-            </semantics>
             <t pos="x">Troms</t>
          </tg>
       </mg>
@@ -779,15 +718,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="x">Kautokeino</t>
          </tg>
@@ -800,15 +739,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Stortinget</t>
          </tg>
@@ -821,15 +760,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Hedmark</t>
          </tg>
@@ -842,15 +781,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Sør-Trøndealg</t>
          </tg>
@@ -863,15 +802,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Nordland</t>
          </tg>
@@ -884,15 +823,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Nord-Trøndelag</t>
          </tg>
@@ -905,15 +844,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Leninggrad</t>
          </tg>
@@ -926,15 +865,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Elgå reinbeitedistrikt</t>
          </tg>
@@ -947,15 +886,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Riast Hylling reinbeitedistrikt</t>
          </tg>
@@ -968,15 +907,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Essand reinbeitedistrikt</t>
          </tg>
@@ -989,15 +928,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Færen reinbeitedistrikt</t>
          </tg>
@@ -1010,15 +949,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Fosen reinbeitedistrikt</t>
          </tg>
@@ -1031,15 +970,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Skjækerfjell reinbeitedistrikt</t>
          </tg>
@@ -1052,15 +991,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Luru reinbeitedistrikt</t>
          </tg>
@@ -1073,15 +1012,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Østre-Namdal reinbeitedistrikt</t>
             <t dict="no" pos="prop">Østrenamdal reinbeitedistrikt</t>
@@ -1095,15 +1034,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t pos="prop">Vestre-Namdal reinbeitedistrikt</t>
          </tg>
@@ -1116,15 +1055,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Brekken</t>
          </tg>
@@ -1137,15 +1076,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Mo i Rana</t>
          </tg>
@@ -1158,15 +1097,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Grong</t>
          </tg>
@@ -1179,15 +1118,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Funäsdal</t>
             <t dict="no" pos="prop">Funäsdalen</t>
@@ -1203,15 +1142,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Idre</t>
          </tg>
@@ -1224,15 +1163,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Engerdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Stor-Svuku</t>
@@ -1558,11 +1497,19 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
-               <frequency class="rare" />
+               <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Elgå</t>
+         </tg>
+      </mg>
       <mg>
          <tg>
             <re>Ålen</re>
@@ -1574,19 +1521,8 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Ganka</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="" />
-               <frequency class="rare" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
-            <semantics>
-               <sem class="SOUTH" />
-            </semantics>
             <re>Selbu</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Nea</t>
          </tg>
@@ -1610,7 +1546,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -1618,7 +1553,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Selbu</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Fongen</t>
@@ -1654,7 +1589,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -1662,7 +1596,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skarpdalen</t>
@@ -1698,7 +1632,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -1706,7 +1639,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Storsanka</t>
@@ -1764,7 +1697,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -1772,7 +1704,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Ramsjøen</t>
@@ -1863,7 +1795,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -1871,7 +1802,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Tydal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Esandsjøen</t>
@@ -2098,15 +2029,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Namsos</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Namsen</t>
@@ -2280,7 +2211,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -2288,7 +2218,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Meråker</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Fonnfjellet</t>
@@ -2330,7 +2260,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -2338,7 +2267,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Meråker</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Dalavola</t>
@@ -2495,7 +2424,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -2503,7 +2431,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Verdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækerfjella</t>
@@ -2517,7 +2445,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -2525,7 +2452,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Verdal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækra</t>
@@ -2539,7 +2466,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency />
             </sources>
          </app>
@@ -2553,7 +2479,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Verran</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Langvatnet</t>
@@ -2651,15 +2577,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Verran</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Selavatnet</t>
@@ -2812,14 +2738,14 @@ For the full license text, see the link above.</lic>
          <apps>
             <app name="oahpa">
                <sources>
-                  <book name="" />
-                  <frequency class="common" />
+                     <frequency class="common" />
+               <geography class="north"/>
                </sources>
             </app>
          </apps>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Storuman</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Storuman</t>
@@ -2844,7 +2770,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -2852,7 +2777,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Snåsa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Luru</t>
@@ -2877,15 +2802,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Snåsa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Andorfjellet</t>
@@ -3005,7 +2930,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -3013,7 +2937,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>SnåsMIa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækerhatten</t>
@@ -3024,14 +2948,6 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Dåeriesvaerie</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="" />
-               <frequency class="common" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg>
             <re>Snåsa</re>
@@ -3075,7 +2991,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -3083,7 +2998,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Snåsa</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skjækervatnet</t>
@@ -3207,7 +3122,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -3215,7 +3129,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Limingelva</t>
@@ -3460,7 +3374,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -3468,7 +3381,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Limingdalen</t>
@@ -3768,7 +3681,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -3776,7 +3688,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Luruvatnet</t>
@@ -3834,15 +3746,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Nordli</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Akkavatnet</t>
@@ -4209,30 +4121,19 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <book />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Orvatnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="sk">
-      <lg>
-         <l pos="prop">Ovrejohke</l>
-      </lg>
-      <mg>
-         <tg>
-            <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Orelva</t>
          </tg>
       </mg>
    </e>
@@ -4502,8 +4403,8 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
@@ -4516,7 +4417,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Gudfjelløya</t>
@@ -4880,7 +4781,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -4888,7 +4788,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Jomafjellet</t>
@@ -5007,7 +4907,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -5015,7 +4914,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Røyrvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Tunnsjøen</t>
@@ -8775,15 +8674,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Grane</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Majavatnet</t>
@@ -9001,15 +8900,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Grane</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Kvigtinden</t>
@@ -9683,17 +9582,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk">
       <lg>
-         <l pos="prop">Såaloehmehkienjohke</l>
-      </lg>
-      <mg>
-         <tg>
-            <re>Grane</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Holmvasselva</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="sk">
-      <lg>
          <l pos="prop">Guevtelenjaevrie</l>
       </lg>
       <mg>
@@ -9710,15 +9598,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Grane</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Kappfjellet</t>
@@ -9926,14 +9814,14 @@ For the full license text, see the link above.</lic>
          <apps>
             <app name="oahpa">
                <sources>
-                  <book name="" />
-                  <frequency class="common" />
+                     <frequency class="common" />
+               <geography class="north"/>
                </sources>
             </app>
          </apps>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Grane</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Børgefjell</t>
@@ -10438,7 +10326,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -10446,7 +10333,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Hattfjelldal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Susendal</t>
@@ -10515,7 +10402,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="rare" />
             </sources>
          </app>
@@ -10523,7 +10409,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Hattfjelldal</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Appfjellet</t>
@@ -11806,8 +11692,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="prop">Aarporte</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <frequency class="common" />
+               <geography class="north"/>
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Hattfjelldal</t>
          </tg>
       </mg>
@@ -12695,15 +12592,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Sverige</t>
          </tg>
@@ -12718,12 +12615,13 @@ For the full license text, see the link above.</lic>
             <app name="oahpa">
                <sources>
                   <frequency class="common" />
+               <geography class="south"/>
                </sources>
             </app>
          </apps>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Trondheim</t>
          </tg>
@@ -12736,15 +12634,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Sametinget</t>
          </tg>
@@ -12757,15 +12655,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røros</t>
          </tg>
@@ -12778,15 +12676,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Røros</t>
          </tg>
@@ -12799,15 +12697,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Jemtland</t>
             <t dict="yes" lang="swe" oa="yes" pos="prop" tcomm="no">Jämtland</t>
@@ -12821,15 +12719,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Oslo</t>
          </tg>
@@ -12843,6 +12741,7 @@ For the full license text, see the link above.</lic>
          <app name="oahpa">
             <sources>
                <frequency class="common" />
+               <geography class="mid"/>
                <geography class="SAPMI" />
             </sources>
          </app>
@@ -12850,7 +12749,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Snåsa</t>
          </tg>
@@ -12940,15 +12839,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Arjeplog</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Arjeplog</t>
@@ -13029,15 +12928,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Arvidsjaur</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Arvidsjaur</t>
@@ -13217,7 +13116,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency />
             </sources>
          </app>
@@ -13225,7 +13123,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Funäsdalen</t>
@@ -13294,15 +13192,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Dorotea</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Borgafjäll</t>
@@ -13338,15 +13236,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Storuman</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Tärnaby</t>
@@ -13470,15 +13368,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Dorotea</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Dorotea</t>
@@ -13492,15 +13390,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Älvdalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Idre</t>
@@ -13569,15 +13467,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Vilhelmina</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Fatmomakke</t>
@@ -13602,15 +13500,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Strömsund</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Frostviken</t>
@@ -13701,15 +13599,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Sorsele</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Ammarnäs</t>
@@ -13877,7 +13775,6 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency />
             </sources>
          </app>
@@ -13885,7 +13782,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Härnösand</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Härnösand</t>
@@ -14119,15 +14016,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Lycksele</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Lycksele</t>
@@ -14218,15 +14115,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Malå</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Malå</t>
@@ -14284,15 +14181,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Mittådalen</t>
@@ -14339,15 +14236,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">BTännäs</t>
@@ -14515,15 +14412,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Örnsköldsvik</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Örnsköldsvik</t>
@@ -14757,15 +14654,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Åsele</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Åsele</t>
@@ -14812,15 +14709,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Skellefteå</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Skellefteå</t>
@@ -14911,15 +14808,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Strömsund</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Strömsund</t>
@@ -14944,15 +14841,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Stockholm</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Stockholm</t>
@@ -14966,15 +14863,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Sorsele</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Sorsele</t>
@@ -14999,15 +14896,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Åre</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Undersåker</t>
@@ -15054,15 +14951,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Gävle</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Gävle</t>
@@ -15076,15 +14973,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="south"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="SOUTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Tänndalen</t>
@@ -15098,15 +14995,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Strömsund</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Gäddede</t>
@@ -15153,15 +15050,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Umeå</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Umeå</t>
@@ -15241,15 +15138,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="north"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="NORTH" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Vilhelmina</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Vilhelmina</t>
@@ -15307,15 +15204,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="mid"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="MID" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <re>Strömsund</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Ankarede</t>
@@ -15379,15 +15276,15 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
                <frequency class="common" />
+               <geography class="other"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg>
             <semantics>
-               <sem class="OTHER" />
+               <sem class="PLACE-NAME" />
             </semantics>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Norge</t>
          </tg>
