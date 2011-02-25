@@ -1136,6 +1136,182 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Voernese</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Frostviken norra</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Ohredahke</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Frostviken mellersta</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Raedtievaerie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Frostviken södra</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Jinjevaerie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Hotagen</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Jovnevaerie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Offerdal</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Njaarke</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="mid" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Sösjø</t>
+         </tg>
+      </mg>
+   </e>
+   <e exclude="smanob">
+      <lg>
+         <l pos="prop">Ruvhten Sïjte</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="south" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Tännäs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="prop">Ubmeje tjeälddie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="" />
+               <frequency class="common" />
+               <geography class="north" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="PLACE-NAME" />
+            </semantics>
+            <t pos="prop">Sameby i området Umbyn</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="prop">Praahke</l>
@@ -14406,7 +14582,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re>Härjedalen</re>
             <t dict="yes" oa="yes" pos="prop" tcomm="no">Tännäs</t>
-            <t pos="prop">Tennes</t>
+            <t dict="no" pos="prop">Tännes</t>
+            <t dict="no" pos="prop">Tennes</t>
          </tg>
       </mg>
    </e>
