@@ -6,7 +6,7 @@
 <r>
    <e>
       <lg>
-         <l pos="phrase">aajne kaarre</l>
+         <l pos="phrase_n">aajne kaarre</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -18,18 +18,18 @@
             </semantics>
             <t pos="n" stat="pref" xml:lang="nob">ungkar</t>
             <tf xml:lang="nob">alene kar</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">enslig kar</tf>
-            <tf dict="no" xml:lang="nob">mann som ikke er gift</tf>
-            <tf dict="no" xml:lang="nob">mann som ikke har kjæreste</tf>
+            <tf dict="no" pos="phrase_n" xml:lang="nob">enslig kar</tf>
+            <tf dict="no" pos="phrase_n" xml:lang="nob">mann som ikke er gift</tf>
+            <tf dict="no" pos="phrase_n" xml:lang="nob">mann som ikke har kjæreste</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">assh dohkoe</l>
+         <l pos="phrase_adv">assh dohkoe</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -40,17 +40,17 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <re>om hund</re>
-            <tf xml:lang="nob">gå vekk</tf>
-            <tf stat="pref" xml:lang="nob">ha deg vekk</tf>
+            <tf pos="phrase_adv" xml:lang="nob">gå vekk</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">ha deg vekk</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">biejjeste måbpan</l>
+         <l pos="phrase_adv">biejjeste måbpan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -60,20 +60,20 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf pos="phrase" stat="pref" xml:lang="nob">fra dag til dag</tf>
-            <tf pos="phrase" xml:lang="nob">fra den ene dagen til den andre</tf>
-            <tf dict="no">fra en dag til en annen dag</tf>
-            <tf dict="no">fra en dag til en annen</tf>
-            <tf dict="no">fra den ene dagen til den andre dagen</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">fra dag til dag</tf>
+            <tf pos="phrase_adv" xml:lang="nob">fra den ene dagen til den andre</tf>
+            <tf dict="no" pos="phrase_adv">fra en dag til en annen dag</tf>
+            <tf dict="no" pos="phrase_adv">fra en dag til en annen</tf>
+            <tf dict="no" pos="phrase_adv">fra den ene dagen til den andre dagen</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">buerie aerede</l>
+         <l pos="phrase_i">buerie aerede</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -84,16 +84,16 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">god morgen</tf>
+            <tf stat="phrase_i" xml:lang="nob">god morgen</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">buerie biejjie</l>
+         <l pos="phrase_i">buerie biejjie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -104,16 +104,16 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">god dag</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">god dag</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">buerie iehkede</l>
+         <l pos="phrase_i">buerie iehkede</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -124,16 +124,16 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">god kveld</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">god kveld</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">buerie jijje</l>
+         <l pos="phrase_i">buerie jijje</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -144,54 +144,32 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">god natt</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">god natt</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">bïegke raadtan</l>
+         <l pos="phrase_adv">bïegke raadtan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf stat="pref" xml:lang="nob">på vindsiden</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">på vindsiden</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">daan aereden</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf xml:lang="nob">i dag tidlig</tf>
-            <tf stat="pref" xml:lang="nob">i morges</tf>
-            <tf dict="no" xml:lang="nob">denne morgenen</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">daan biejjien</l>
+         <l pos="phrase_adv">daan aereden</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -202,60 +180,18 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i dag</tf>
-            <tf dict="no">denne dagen</tf>
-            <tf dict="no">den her dagen</tf>
+            <tf pos="phrase_adv" xml:lang="nob">i dag tidlig</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">i morges</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">denne morgenen</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">daan jaepien</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-            </semantics>
-            <tf pos="phrase" stat="pref">i år</tf>
-            <tf pos="phrase">dette året</tf>
-            <tf dict="no">det her året</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="x">daelvie doekoe</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-            </semantics>
-            <t pos="phrase" stat="pref">utover vinteren</t>
-            <tf dict="no" pos="phrase">utpå vinteren</tf>
-            <tf dict="no" pos="phrase">ut på vinteren</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">daen biejjien</l>
+         <l pos="phrase_adv">daan biejjien</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -266,7 +202,32 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i dag</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">i dag</tf>
+            <tf dict="no" pos="phrase_adv">denne dagen</tf>
+             <tf dict="no" pos="adv">idag</tf>
+           <tf dict="no" pos="phrase_adv">den her dagen</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">daan jaepien</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase_adv" stat="pref">i år</tf>
+            <tf pos="adv">iår</tf>
+            <tf pos="phrase_adv">dette året</tf>
+            <tf dict="no" pos="phrase_adv">det her året</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
@@ -275,7 +236,28 @@
    </e>
    <e>
       <lg>
-         <l pos="phrase">daen jijjen</l>
+         <l pos="phrase_adv">daelvie doekoe</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <t pos="phrase_adv" stat="pref">utover vinteren</t>
+            <tf dict="no" pos="phrase_adv">utpå vinteren</tf>
+            <tf dict="no" pos="phrase_adv">ut på vinteren</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">daen biejjien</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -286,16 +268,37 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i natt</tf>
+            <tf stat="pref" pos="phrase_adv" xml:lang="nob">i dag</tf>
+            <tf pos="adv" xml:lang="nob">idag</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dan man jïjnjem</l>
+         <l pos="phrase_adv">daen jijjen</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf stat="pref" pos="phrase_adv" xml:lang="nob">i natt</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">dan man jïjnjem</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -305,17 +308,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">så mye som helst</tf>
-            <tf xml:lang="nob">så mye</tf>
+            <tf stat="pref" pos="phrase_adv" xml:lang="nob">så mye som helst</tf>
+            <tf pos="phrase_adv" xml:lang="nob">så mye</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dan mietie</l>
+         <l pos="phrase_adv">dan mietie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -325,19 +328,19 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">etter det</tf>
-            <tf xml:lang="nob">etter den</tf>
-            <tf xml:lang="nob">etter han</tf>
-            <tf xml:lang="nob">etter henne</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">etter det</tf>
+            <tf pos="phrase_adv" xml:lang="nob">etter den</tf>
+            <tf pos="phrase_adv" xml:lang="nob">etter han</tf>
+            <tf pos="phrase_adv" xml:lang="nob">etter henne</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dan soe</l>
+         <l pos="phrase_adv">dan soe</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -347,42 +350,42 @@
             <t pos="adv" xml:lang="nob">alldeles</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dej taahki</l>
+         <l pos="phrase_adv">dej taahki</l>
       </lg>
       <mg>
          <tg>
-            <tf oa="no" stat="pref" xml:lang="nob">på denne tiden</tf>
+            <tf oa="no" pos="phrase_adv" stat="pref" xml:lang="nob">på denne tiden</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dej åvteste</l>
+         <l pos="phrase_adv">dej åvteste</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">for dem</tf>
+            <tf pos="phrase_adv" xml:lang="nob">for dem</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dellie maajetjh</l>
+         <l pos="phrase_adv">dellie maajetjh</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -395,20 +398,20 @@
             <t pos="adv" stat="pref" xml:lang="nob">heldigvis</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
          </tg>
          <tg>
-            <t pos="adv" stat="pref">endelig</t>
-            <tf>nå endelig</tf>
+            <t pos="adv">endelig</t>
+            <tf pos="phrase_adv">nå endelig</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dohkh diekie</l>
+         <l pos="phrase_adv">dohkh diekie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -418,17 +421,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hit og dit</tf>
-            <tf xml:lang="nob">dit og hit</tf>
+            <tf stat="pref" pos="phrase_adv" xml:lang="nob">hit og dit</tf>
+            <tf pos="phrase_adv" xml:lang="nob">dit og hit</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dom daam</l>
+         <l pos="phrase_pron">dom daam</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -438,17 +441,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">ditt og datt</tf>
-            <t pos="x" xml:lang="nob">forskjellig</t>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">ditt og datt</tf>
+            <t pos="pron" xml:lang="nob">forskjellig</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">don biejjien</l>
+         <l pos="phrase_adv">don biejjien</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -459,18 +462,19 @@
                <sem class="TIME_U" />
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">forrige dag</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">forrige dagen</tf>
-            <tf xml:lang="nob">i går</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">forrige dag</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">forrige dagen</tf>
+            <tf pos="phrase_adv" xml:lang="nob">i går</tf>
+            <tf pos="adv" xml:lang="nob">igår</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">duelie vuajnah</l>
+         <l pos="phrase_i">duelie vuajnah</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -480,129 +484,35 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">se der</tf>
-            <tf stat="pref" xml:lang="nob">vær så god</tf>
+            <tf pos="phrase_i" xml:lang="nob">se der</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">vær så god</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dunnie bealesne</l>
+         <l pos="phrase_adv">dunnie bealesne</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">der borte på den andre siden</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">der på den andre siden</tf>
-            <tf dict="no">på den andre siden</tf>
+            <tf pos="phrase_adv" xml:lang="nob">der borte på den andre siden</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">der på den andre siden</tf>
+            <tf dict="no" pos="phrase_adv">på den andre siden</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">dusnie daesnie</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">her og der</tf>
-            <tf xml:lang="nob">der og her</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="x">dæjmetje giesien</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-            </semantics>
-            <tf stat="pref">i fjor sommer</tf>
-            <tf>i fjorsommer</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">faamoeh tjöönghkedh</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <tf xml:lang="nob">samle krefter</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="x">fïerhten biejjien</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">hver dag</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="x">fïerhten iehkeden</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="TIME_U" />
-            </semantics>
-            <tf pos="phrase" stat="pref">hver kveld</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">gaajhkene laehkesne</l>
+         <l pos="phrase_adv">dusnie daesnie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -612,17 +522,111 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">alle steder</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">her og der</tf>
+            <tf pos="phrase_adv" xml:lang="nob">der og her</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">dæjmetje giesien</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase_adv" stat="pref">i fjor sommer</tf>
+            <tf pos="phrase_adv">i fjorsommer</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_v">faamoeh tjöönghkedh</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <tf pos="phrase_v" xml:lang="nob">samle krefter</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">fïerhten biejjien</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">hver dag</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">fïerhten iehkeden</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="TIME_U" />
+            </semantics>
+            <tf pos="phrase_adv" stat="pref">hver kveld</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">gaajhkene laehkesne</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">alle steder</tf>
             <t pos="adv">overalt</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gaajhkesh dovnesh</l>
+         <l pos="phrase_pron">gaajhkesh dovnesh</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -633,17 +637,17 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <re>om mennesker</re>
-            <tf stat="pref" xml:lang="nob">alle sammen</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">alle i hop</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">alle sammen</tf>
+            <tf dict="no" pos="phrase_pron" xml:lang="nob">alle i hop</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gellene lehkesne</l>
+         <l pos="phrase_adv">gellene lehkesne</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -653,17 +657,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">på mange plasser</tf>
-            <tf xml:lang="nob">på mange steder</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">på mange plasser</tf>
+            <tf pos="phrase_adv" xml:lang="nob">på mange steder</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gie dellie datne</l>
+         <l pos="phrase_pron">gie dellie datne</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -673,17 +677,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvem er så du</tf>
-            <tf dict="no">hvem er nå du</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">hvem er så du</tf>
+            <tf pos="phrase_pron" dict="no">hvem er nå du</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gie joem</l>
+         <l pos="phrase_pron">gie joem</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -693,17 +697,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">en eller annen</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">en eller annen</tf>
             <t dict="no" pos="pron">noen</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">giesie doekoe</l>
+         <l pos="phrase_adv">giesie doekoe</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -713,18 +717,18 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref">utover sommeren</tf>
-            <tf dict="no" pos="phrase">utpå sommeren</tf>
-            <tf dict="no" pos="phrase">ut på sommeren</tf>
+            <tf pos="phrase_adv" stat="pref">utover sommeren</tf>
+            <tf dict="no" pos="phrase_adv">utpå sommeren</tf>
+            <tf dict="no" pos="phrase_adv">ut på sommeren</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gudtsien prïhtjegen åvteste</l>
+         <l pos="phrase_i">gudtsien prïhtjegen åvteste</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -734,32 +738,32 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">takk for kaffen</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">takk for kaffen</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">guektien haerien</l>
+         <l pos="phrase_adv">guektien haerien</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">i to</tf>
+            <tf pos="phrase_adv" xml:lang="nob">i to</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">guktie gåarede?</l>
+         <l pos="phrase_adv">guktie gåarede</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -769,17 +773,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvordan går det</tf>
-            <tf xml:lang="nob">hvordan er det</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">hvordan går det</tf>
+            <tf pos="phrase_adv" xml:lang="nob">hvordan er det</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">gïjre doekoe</l>
+         <l pos="phrase_adv">gïjre doekoe</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -789,71 +793,34 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref">utover våren</tf>
-            <tf dict="no" pos="phrase">ut på våren</tf>
-            <tf dict="no" pos="phrase">utpå våren</tf>
+            <tf pos="phrase_adv" stat="pref">utover våren</tf>
+            <tf dict="no" pos="phrase_adv">ut på våren</tf>
+            <tf dict="no" pos="phrase_adv">utpå våren</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">göökten harran</l>
+         <l pos="phrase_adv">göökten harran</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">i to deler</tf>
+            <tf pos="phrase_adv" xml:lang="nob">i to deler</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">hijven hov</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">det er bra</tf>
-            <tf xml:lang="nob">bra er det</tf>
-            <tf dict="no">det er flott</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">ij åejjieh vielie guedtieh</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <tf xml:lang="nob">hodet mitt kan ikke ta imot mer</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">jaa hævvi</l>
+         <l pos="phrase_a">hijven hov</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -863,16 +830,34 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">ja selvfølgelig</tf>
+            <tf pos="phrase_a" stat="pref" xml:lang="nob">det er bra</tf>
+            <tf  pos="phrase_a" xml:lang="nob">bra er det</tf>
+            <tf pos="phrase_a" dict="no">det er flott</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">jaa nov maa</l>
+         <l pos="phrase_v">ij åejjieh vielie guedtieh</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <tf pos="phrase_v" xml:lang="nob">hodet mitt kan ikke ta imot mer</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_i">jaa hævvi</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -882,16 +867,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">ja selvfølgelig</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">ja selvfølgelig</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">jakseme mieresne</l>
+         <l pos="phrase_i">jaa nov maa</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -901,31 +886,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">innen rekkevidde</tf>
-            <tf dict="no">er innen rekkevidde</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">ja selvfølgelig</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">jihteles måekie</l>
-      </lg>
-      <mg>
-         <tg>
-            <tf oa="no" stat="pref" xml:lang="nob">intens regnskur</tf>
-            <tf oa="no" xml:lang="nob">intens snøskur</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">jurjiehtamme beapmoeh</l>
+         <l pos="phrase_adv">jakseme mieresne</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -935,21 +905,55 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">tillaget mat</tf>
-            <tf xml:lang="nob">ferdiglaget mat</tf>
-            <tf dict="no">laget mat</tf>
-            <tf dict="no">mat som er laget</tf>
-            <tf dict="no">tilberedt mat</tf>
-            <tf dict="no">mat som er tilberedt</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">innen rekkevidde</tf>
+            <tf dict="no" pos="phrase_adv">er innen rekkevidde</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">jåvli mænngan</l>
+         <l pos="phrase_n">jihteles måekie</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf oa="no" pos="phrase_n" stat="pref" xml:lang="nob">intens regnskur</tf>
+            <tf oa="no" pos="phrase_n" xml:lang="nob">intens snøskur</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">jurjiehtamme beapmoeh</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf pos="phrase_n" stat="pref" xml:lang="nob">tillaget mat</tf>
+            <tf pos="phrase_n" xml:lang="nob">ferdiglaget mat</tf>
+            <tf dict="no" pos="phrase_n">laget mat</tf>
+            <tf dict="no" pos="phrase_n">mat som er laget</tf>
+            <tf dict="no" pos="phrase_n">tilberedt mat</tf>
+            <tf dict="no" pos="phrase_n">mat som er tilberedt</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">jåvli mænngan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -959,16 +963,16 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref" xml:lang="nob">etter jul</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">etter jul</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">jåvli åvtelen</l>
+         <l pos="phrase_adv">jåvli åvtelen</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -978,17 +982,17 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref" xml:lang="nob">før jul</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">innen jul</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">før jul</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">innen jul</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">jååktetje jïjjen</l>
+         <l pos="phrase_adv">jååktetje jïjjen</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -1002,18 +1006,18 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref">i går natt</tf>
-            <tf dict="no" pos="phrase">i gårnatt</tf>
-            <tf dict="no" pos="phrase">natten i går</tf>
+            <tf pos="phrase_adv" stat="pref">i går natt</tf>
+            <tf dict="no" pos="phrase_adv">i gårnatt</tf>
+            <tf dict="no" pos="phrase_adv">natten i går</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">lusten gaavhtan</l>
+         <l pos="phrase_adv">lusten gaavhtan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1023,18 +1027,18 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">for moro skyld</tf>
-            <tf xml:lang="nob">for moros skyld</tf>
-            <tf dict="no">på grunn av moro</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">for moro skyld</tf>
+            <tf pos="phrase_adv" xml:lang="nob">for moros skyld</tf>
+            <tf dict="no" pos="phrase_adv">på grunn av moro</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">maam joem</l>
+         <l pos="phrase_pron">maam joem</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1044,17 +1048,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">ett eller annet</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">ett eller annet</tf>
             <t dict="no" pos="pron">noe</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">madtan laakan</l>
+         <l pos="phrase_adv">madtan laakan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1064,16 +1068,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">knapt nok</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">knapt nok</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man båeries</l>
+         <l pos="phrase_a">man båeries</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1083,16 +1087,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvor gammel</tf>
+            <tf pos="phrase_a" stat="pref" xml:lang="nob">hvor gammel</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man gaavhtan</l>
+         <l pos="phrase_adv">man gaavhtan</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1102,17 +1106,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i hvilken hensikt</tf>
-            <tf xml:lang="nob">hvorfor det</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">i hvilken hensikt</tf>
+            <tf pos="phrase_adv" xml:lang="nob">hvorfor det</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man gellie</l>
+         <l pos="phrase_pron">man gellie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1122,16 +1126,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvor mange</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">hvor mange</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man guhkiem</l>
+         <l pos="phrase_adv">man guhkiem</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1141,16 +1145,16 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvor lenge</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">hvor lenge</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man jïjnje</l>
+         <l pos="phrase_pron">man jïjnje</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1160,16 +1164,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvor mye</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">hvor mye</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man jïjnjh</l>
+         <l pos="phrase_pron">man jïjnjh</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1179,17 +1183,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">hvor mange</tf>
-            <tf stat="pref" xml:lang="nob">hvor mye</tf>
+            <tf pos="phrase_pron" xml:lang="nob">hvor mange</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">hvor mye</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man stoerre</l>
+         <l pos="phrase_a">man stoerre</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1199,16 +1203,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hvor stor</tf>
+            <tf pos="phrase_a" stat="pref" xml:lang="nob">hvor stor</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">man åvteste</l>
+         <l pos="phrase_adv">man åvteste</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1219,11 +1223,11 @@
                <sem class="EXPRESSIONS" />
             </semantics>
             <t pos="adv" stat="pref" xml:lang="nob">hvorfor</t>
-            <tf dict="no">av hvilken grunn</tf>
-            <tf dict="no">av hvilken årsak</tf>
+            <tf dict="no" pos="phrase_adv">av hvilken grunn</tf>
+            <tf dict="no" pos="phrase_adv">av hvilken årsak</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
@@ -1236,16 +1240,16 @@
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">så langt at det står igjen å rynke og sy fast overstykket på en sko</tf>
+            <tf pos="phrase_adv" xml:lang="nob">så langt at det står igjen å rynke og sy fast overstykket på en sko</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">mij dellie</l>
+         <l pos="phrase_adv">mij dellie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1255,18 +1259,18 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hva da</tf>
-            <tf dict="no">hva så</tf>
-            <tf dict="no">hva nå</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">hva da</tf>
+            <tf dict="no" pos="phrase_adv">hva så</tf>
+            <tf dict="no" pos="phrase_adv">hva nå</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">mij faatoes</l>
+         <l pos="phrase_a">mij faatoes</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1276,19 +1280,19 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hva er i veien</tf>
-            <tf dict="no" xml:lang="nob">hva feiler</tf>
-            <tf dict="no">hva feiler det</tf>
-            <tf dict="no">hva er galt</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">hva er i veien</tf>
+            <tf dict="no" pos="phrase_v" xml:lang="nob">hva feiler</tf>
+            <tf dict="no" pos="phrase_v">hva feiler det</tf>
+            <tf dict="no" pos="phrase_adv">hva er galt</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">mij vielie</l>
+         <l pos="phrase_pron">mij vielie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1298,53 +1302,33 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hva mere</tf>
-            <tf dict="no" xml:lang="nob">hva mer</tf>
+            <tf pos="phrase_pron" stat="pref" xml:lang="nob">hva mere</tf>
+            <tf dict="no" pos="phrase_pron" xml:lang="nob">hva mer</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">mov luvhtie</l>
+         <l pos="phrase_pron">mov luvhtie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">fra meg</tf>
+            <tf pos="phrase_pron" xml:lang="nob">fra meg</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_pron" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">måedtieh såarhth</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">mange slags</tf>
-            <tf xml:lang="nob">mange sorter</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">naa guhkiem</l>
+         <l pos="phrase_n">måedtieh såarhth</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1354,18 +1338,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">nokså lenge</tf>
-            <tf xml:lang="nob">ganske lenge</tf>
-            <tf dict="no">veldig lenge</tf>
+            <tf pos="phrase_a" stat="pref" xml:lang="nob">mange slags</tf>
+            <tf pos="phrase_n" xml:lang="nob">mange sorter</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">naan aejkien</l>
+         <l pos="phrase_adv">naa guhkiem</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1375,16 +1358,18 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">noen ganger</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">nokså lenge</tf>
+            <tf pos="phrase_adv" xml:lang="nob">ganske lenge</tf>
+            <tf dict="no" pos="phrase_adv">veldig lenge</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh amma</l>
+         <l pos="phrase_adv">naan aejkien</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1394,21 +1379,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <t pos="x" xml:lang="nob">jo</t>
-            <tf stat="pref" xml:lang="nob">jo visst</tf>
-            <t pos="x" xml:lang="nob">altså</t>
-            <t pos="x" xml:lang="nob">virkelig</t>
-            <t pos="x" xml:lang="nob">sikkert</t>
-            <t pos="x" xml:lang="nob">sannelig</t>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">noen ganger</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh gujht</l>
+         <l pos="phrase_i">novh amma</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1418,16 +1398,40 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">jo visst</tf>
+            <t pos="adv" xml:lang="nob">jo</t>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">jo visst</tf>
+            <t pos="adv" xml:lang="nob">altså</t>
+            <t pos="adv" xml:lang="nob">virkelig</t>
+            <t pos="adv" xml:lang="nob">sikkert</t>
+            <t pos="adv" xml:lang="nob">sannelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh hævvi</l>
+         <l pos="phrase_i">novh gujht</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">jo visst</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_i">novh hævvi</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1440,13 +1444,13 @@
             <t pos="adv" stat="pref" xml:lang="nob">selvfølgelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh lea</l>
+         <l pos="phrase_i">novh lea</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1456,17 +1460,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">ja slik er det</tf>
-            <tf dict="no">ja sånn er det</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">ja slik er det</tf>
+            <tf dict="no" pos="phrase_i">ja sånn er det</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">novh maa</l>
+         <l pos="phrase_i">novh maa</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1476,56 +1480,34 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">jo da</tf>
-            <tf xml:lang="nob">ja riktignok</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">jo da</tf>
+            <tf pos="phrase_i" xml:lang="nob">ja riktignok</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">nåå buerie veasome hov</l>
+         <l pos="phrase_v">nåå buerie veasome hov</l>
       </lg>
       <mg>
          <tg>
-            <tf xml:lang="nob">lever bra</tf>
-            <tf>lever et bra liv</tf>
-            <tf xml:lang="nob">har det bra</tf>
-            <tf xml:lang="nob">et bra liv</tf>
-            <tf stat="pref" xml:lang="nob">vi lever bra</tf>
+            <tf pos="phrase_v" xml:lang="nob">lever bra</tf>
+            <tf pos="phrase_v">lever et bra liv</tf>
+            <tf pos="phrase_v" xml:lang="nob">har det bra</tf>
+            <tf pos="phrase_n" xml:lang="nob">et bra liv</tf>
+            <tf pos="phrase_v" stat="pref" xml:lang="nob">vi lever bra</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">nåå nåå</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <t pos="x" stat="pref" xml:lang="nob">adjø</t>
-            <tf xml:lang="nob">ha det bra</tf>
-            <tf>ha det</tf>
-            <t dict="no" pos="x">farvel</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">nåå nåå dellie</l>
+         <l pos="phrase_i">nåå nåå</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1535,24 +1517,19 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">adjø så lenge</tf>
-            <tf xml:lang="nob">adjø og på gjensyn</tf>
-            <tf xml:lang="nob">ha det bra så lenge</tf>
-            <tf xml:lang="nob">ha det bra og på gjensyn</tf>
-            <tf xml:lang="nob">på gjensyn</tf>
-            <tf>ha det bra</tf>
-            <tf>ha det</tf>
-            <t pos="x">adjø</t>
-            <t dict="no" pos="x">farvel</t>
+            <t pos="i" stat="pref" xml:lang="nob">adjø</t>
+            <tf pos="phrase_i" xml:lang="nob">ha det bra</tf>
+            <tf pos="phrase_i">ha det</tf>
+            <t dict="no" pos="n">farvel</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">ov jösses</l>
+         <l pos="phrase_i">nåå nåå dellie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1562,54 +1539,24 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf xml:lang="nob">du store min</tf>
-            <tf xml:lang="nob">du verden</tf>
-            <tf stat="pref" xml:lang="nob">”du store min”</tf>
-            <tf xml:lang="nob">"du verden"</tf>
-            <tf dict="no">å jøss</tf>
-            <t dict="no" pos="x">jøss</t>
-            <t dict="no" pos="x">jøsses</t>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">adjø så lenge</tf>
+            <tf pos="phrase_i" xml:lang="nob">adjø og på gjensyn</tf>
+            <tf pos="phrase_i" xml:lang="nob">ha det bra så lenge</tf>
+            <tf pos="phrase_i" xml:lang="nob">ha det bra og på gjensyn</tf>
+            <tf pos="phrase_i" xml:lang="nob">på gjensyn</tf>
+            <tf pos="phrase_i">ha det bra</tf>
+            <tf pos="phrase_i">ha det</tf>
+            <t pos="n">adjø</t>
+            <t dict="no" pos="n">farvel</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">ov nimhtie</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <t pos="x" xml:lang="nob">slik</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">praare deava</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <tf xml:lang="nob">bratt bakke</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">saarnoeh jeahtah</l>
+         <l pos="phrase_i">ov jösses</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1619,17 +1566,53 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i alle dager</tf>
-            <tf xml:lang="nob">hva i all verden sier du</tf>
+            <tf pos="phrase_i" xml:lang="nob">du store min</tf>
+            <tf pos="phrase_i" xml:lang="nob">du verden</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">du store min</tf>
+            <tf pos="phrase_i" dict="no">å jøss</tf>
+            <t dict="no" pos="i">jøss</t>
+            <t dict="no" pos="i">jøsses</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">saemesth amma</l>
+         <l pos="phrase_adv">ov nimhtie</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <t pos="adv" xml:lang="nob">slik</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_n">praare deava</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <tf pos="phrase_n" xml:lang="nob">bratt bakke</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_i">saarnoeh jeahtah</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1639,17 +1622,17 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">snakk samisk</tf>
-            <tf xml:lang="nob">snakk samisk da</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">i alle dager</tf>
+            <tf pos="phrase_i" xml:lang="nob">hva i all verden sier du</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">skodth varki</l>
+         <l pos="phrase_v">saemesth amma</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1659,17 +1642,37 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">skynd deg</tf>
-            <tf xml:lang="nob">fort deg</tf>
+            <tf pos="phrase_v" stat="pref" xml:lang="nob">snakk samisk</tf>
+            <tf pos="phrase_v" xml:lang="nob">snakk samisk da</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">tjaktje doekoe</l>
+         <l pos="phrase_v">skodth varki</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf pos="phrase_v" stat="pref" xml:lang="nob">skynd deg</tf>
+            <tf pos="phrase_v" xml:lang="nob">fort deg</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_adv">tjaktje doekoe</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1679,34 +1682,34 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref" xml:lang="deu">utover høsten</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">utpå høsten</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">ut på høsten</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="deu">utover høsten</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">utpå høsten</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">ut på høsten</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">tjuetie stoerretjuetie</l>
+         <l pos="phrase_num">tjuetie stoerretjuetie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">hundre tusen</tf>
+            <tf pos="phrase_num" xml:lang="nob">hundre tusen</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_num" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="x">tæjmosne båatam</l>
+         <l pos="phrase_v">tæjmosne båatam</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1716,52 +1719,33 @@
             <semantics>
                <sem class="TIME_U" />
             </semantics>
-            <tf pos="phrase" stat="pref" xml:lang="nob">jeg kommer om en time</tf>
-            <tf dict="no" pos="phrase" xml:lang="nob">jeg kommer på en time</tf>
+            <tf pos="phrase_v" stat="pref" xml:lang="nob">jeg kommer om en time</tf>
+            <tf dict="no" pos="phrase_v" xml:lang="nob">jeg kommer på en time</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">vaeriej dubpelen</l>
+         <l pos="phrase_adv">vaeriej dubpelen</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
       </apps>
       <mg>
          <tg>
-            <tf xml:lang="nob">bortom fjellene</tf>
+            <tf pos="phrase_adv" xml:lang="nob">bortom fjellene</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">vihth masten</l>
-      </lg>
-      <apps>
-         <app name="oahpa"></app>
-      </apps>
-      <mg>
-         <tg>
-            <semantics>
-               <sem class="EXPRESSIONS" />
-            </semantics>
-            <tf stat="pref" xml:lang="nob">til forveksling</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="phrase">voestes gietjeste</l>
+         <l pos="phrase_adv">vihth masten</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1771,19 +1755,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">i førstningen</tf>
-            <tf xml:lang="nob">fra begynnelsen</tf>
-            <tf xml:lang="nob">i begynnelsen</tf>
-            <tf dict="no">i starten</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">til forveksling</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">vuajnah tjaangh</l>
+         <l pos="phrase_adv">voestes gietjeste</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1793,25 +1774,19 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">vær så god og gå inn</tf>
-            <tf>vær så god gå inn</tf>
-            <tf xml:lang="nob">vær så god og kom inn</tf>
-            <tf>vær så god kom inn</tf>
-            <tf xml:lang="nob">vær så god og stig på</tf>
-            <tf>vær så god stig på</tf>
-            <tf xml:lang="nob">vær så god og stig inn</tf>
-            <tf>vær så god stig inn</tf>
-            <tf xml:lang="nob">vær så god å stige på</tf>
-            <tf xml:lang="nob">vær så god å stige inn</tf>
+            <tf pos="phrase_adv" stat="pref" xml:lang="nob">i førstningen</tf>
+            <tf pos="phrase_adv" xml:lang="nob">fra begynnelsen</tf>
+            <tf pos="phrase_adv" xml:lang="nob">i begynnelsen</tf>
+            <tf pos="phrase_adv" dict="no">i starten</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">vuertieh ånnetji</l>
+         <l pos="phrase_i">vuajnah tjaangh</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1821,18 +1796,46 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">vent litt</tf>
-            <tf xml:lang="nob">vent en stund</tf>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">vær så god og gå inn</tf>
+            <tf pos="phrase_i">vær så god gå inn</tf>
+            <tf pos="phrase_i" xml:lang="nob">vær så god og kom inn</tf>
+            <tf pos="phrase_i">vær så god kom inn</tf>
+            <tf pos="phrase_i" xml:lang="nob">vær så god og stig på</tf>
+            <tf pos="phrase_i">vær så god stig på</tf>
+            <tf pos="phrase_i" xml:lang="nob">vær så god og stig inn</tf>
+            <tf pos="phrase_i">vær så god stig inn</tf>
+            <tf pos="phrase_i" xml:lang="nob">vær så god å stige på</tf>
+            <tf pos="phrase_i" xml:lang="nob">vær så god å stige inn</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase_i">vuertieh ånnetji</l>
+      </lg>
+      <apps>
+         <app name="oahpa"></app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="EXPRESSIONS" />
+            </semantics>
+            <tf pos="phrase_i" stat="pref" xml:lang="nob">vent litt</tf>
+            <tf pos="phrase_i" xml:lang="nob">vent en stund</tf>
             <t pos="v">vent</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_i" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">åejjieh saejriedieh</l>
+         <l pos="phrase_v">åejjieh saejriedieh</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1842,19 +1845,19 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">hodet verker</tf>
-            <tf xml:lang="nob">hodene verker</tf>
-            <tf xml:lang="nob">vondt i hodet</tf>
-            <tf xml:lang="nob">hodet er vondt</tf>
+            <tf pos="phrase_v" stat="pref" xml:lang="nob">hodet verker</tf>
+            <tf pos="phrase_v" xml:lang="nob">hodene verker</tf>
+            <tf pos="phrase_v" xml:lang="nob">vondt i hodet</tf>
+            <tf pos="phrase_v" xml:lang="nob">hodet er vondt</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">gårroeh bielie</l>
+         <l pos="phrase_n">gårroeh bielie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1864,16 +1867,16 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">venstre side</tf>
+            <tf pos="phrase_n" stat="pref" xml:lang="nob">venstre side</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="phrase">åelkies bielie</l>
+         <l pos="phrase_n">åelkies bielie</l>
       </lg>
       <apps>
          <app name="oahpa"></app>
@@ -1883,11 +1886,11 @@
             <semantics>
                <sem class="EXPRESSIONS" />
             </semantics>
-            <tf stat="pref" xml:lang="nob">høyre side</tf>
-            <tf xml:lang="nob">høgre side</tf>
+            <tf pos="phrase_n" stat="pref" xml:lang="nob">høyre side</tf>
+            <tf pos="phrase_n" xml:lang="nob">høgre side</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe"></t>
+            <t dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
