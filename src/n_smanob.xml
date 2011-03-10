@@ -3914,7 +3914,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">sti</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">stig</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -3947,7 +3947,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bank</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bank</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -3997,7 +3997,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">trebark</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bark</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4030,7 +4030,9 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">barkkubbe</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">barkkubbe</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">barkstock</t>
+            <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">bark-klabb</t>
          </tg>
       </mg>
    </e>
@@ -4060,7 +4062,10 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">barklåg</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t pos="n" stat="pref" xml:lang="swe">barklag</t>
+            <t pos="n" stat="pref" xml:lang="swe">barkvatten</t>
+            <t pos="n" stat="pref" xml:lang="swe">barkavkok</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">avkok av bark</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4095,7 +4100,9 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">barkpose</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">barksäck</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">barkpåse</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">säck med bark</tf>
          </tg>
       </mg>
    </e>
@@ -4173,7 +4180,9 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">lillegutt</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">liten pojke</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">liten grabb</tf>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="swe">lillpojk</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4377,7 +4386,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">grime</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">grimma</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -4425,7 +4434,8 @@ For the full license text, see the link above.</lic>
             <t dict="no" pos="n">brattberg</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">stup</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">brant berg</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -5400,7 +5410,9 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">arbetstillfälle</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">arbetserbjudande</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">jobberbjudande</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">jobb erbjudande</tf>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">arbetserbjudande</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">arbets erbjudande</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -7035,13 +7047,13 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">halvsirkel</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">halvcirkel</t>
          </tg>
          <tg>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">halv omkrets</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">halv omkrets</tf>
          </tg>
       </mg>
    </e>
@@ -7797,7 +7809,9 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">løvskog</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="swe">lövskog</t>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="swe">lövskogsområde</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">lövskogs område</tf>
          </tg>
       </mg>
    </e>
@@ -8570,6 +8584,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">föredrag</t>
+            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">presentation</t>
          </tg>
       </mg>
    </e>
@@ -9265,7 +9280,8 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">reindrift</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">ren</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">rennäring</t>
          </tg>
       </mg>
    </e>
@@ -9509,7 +9525,9 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">talg</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">fett</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">talg</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">ister</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -9542,7 +9560,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">hase</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">häl</t>
          </tg>
          <tg>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">hældel</t>
@@ -9582,7 +9600,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">hælsene</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">hälsena</t>
          </tg>
       </mg>
    </e>
@@ -9635,13 +9653,15 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">vidje</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">buske</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">busksnår</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">snår</t>
          </tg>
          <tg>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">kvist</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">kvist</t>
          </tg>
       </mg>
    </e>
@@ -9737,13 +9757,13 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">husgeråd</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="swe">husgeråd</t>
          </tg>
          <tg>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">proviant</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">proviant</t>
          </tg>
          <tg>
             <semantics>
@@ -9753,7 +9773,8 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">oppakning</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">resgods</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">packning</t>
          </tg>
          <tg>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">kløv</t>
@@ -9785,7 +9806,8 @@ For the full license text, see the link above.</lic>
             <t dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">stykke</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bit</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">stycke</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -9819,7 +9841,8 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bøtte</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">hink</t>
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bytta</t>
          </tg>
       </mg>
    </e>
@@ -9873,7 +9896,8 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">høgde</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">höjd</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="swe">övre partiet</tf>
          </tg>
       </mg>
    </e>
@@ -9898,7 +9922,8 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">utenpåbukse</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">ytterbyxa</t>
+            <t decl="1" dict="no" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">täckbyxa</t>
          </tg>
       </mg>
    </e>
@@ -9925,7 +9950,8 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">storm</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">vind</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">storm</t>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -9994,7 +10020,8 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">kjøkkenbenk</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bänk</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">köksbänk</t>
          </tg>
       </mg>
    </e>
@@ -10063,7 +10090,10 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">hund med tykk pels</tf>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="swe">lurvig hund</tf>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">lurvhund</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">hund med tjock päls</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">hund med päls</tf>
          </tg>
       </mg>
    </e>
@@ -10086,7 +10116,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">berg</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">berg</t>
          </tg>
       </mg>
    </e>
@@ -10125,7 +10155,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bjørn</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">björn</t>
          </tg>
       </mg>
    </e>
@@ -10178,7 +10208,8 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">barmark</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">barfläck</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">barmark</t>
          </tg>
       </mg>
    </e>
@@ -10233,7 +10264,8 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">lynne</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">humör</t>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">lynne</t>
          </tg>
       </mg>
    </e>
@@ -10247,14 +10279,15 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">lærdom</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">lärdom</t>
          </tg>
          <tg>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">forklaring</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">formaning</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">förklaring</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">förmaning</t>
          </tg>
       </mg>
    </e>
@@ -10325,7 +10358,7 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bil</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">bil</t>
          </tg>
       </mg>
    </e>
@@ -10350,7 +10383,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bilbutikk</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bilaffär</t>
          </tg>
       </mg>
    </e>
@@ -10374,7 +10407,7 @@ For the full license text, see the link above.</lic>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kjørelærer</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">körlärare</t>
          </tg>
       </mg>
    </e>
@@ -10400,7 +10433,11 @@ For the full license text, see the link above.</lic>
             <t dict="no" pos="a">varm</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe" />
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">mildväder</t>
+            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">milt väder</tf>
+            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">värme</t>
+            <t dict="no" pos="a">varmt</t>
+            <t dict="no" pos="a" xml:lang="swe">varm</t>
          </tg>
       </mg>
    </e>
