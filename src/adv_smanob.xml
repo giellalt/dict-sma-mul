@@ -535,10 +535,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">snart</t>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">forbi</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe" />
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">snarere</t>
             <xg>
-               <x>Irmesne baaltes lea.</x>
-               <xt>Han bli fort harm.</xt>
+               <x>Irmesne baaltese lea.</x>
+               <xt>Han er snarere harm.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -1106,7 +1114,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">hitover</t>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">hitenfor</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe" />
@@ -2284,7 +2291,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t pos="adv" xml:lang="nob">sammen</t>
             <tf pos="phrase_adv" xml:lang="nob">sammen med</tf>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">sammen</t>
+            <xg>
+               <x>ektine dej almetjigujmie</x>
+               <xt>sammen med de folkene</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe" />
@@ -2493,7 +2503,7 @@ For the full license text, see the link above.</lic>
          <tg>
             <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="nob">på midten</tf>
             <tf pos="phrase_adv" xml:lang="nob">midt på</tf>
-            <tf pos="phrase_adv" xml:lang="nob">i midten</tf>
+            <tf dict="no" pos="phrase_adv" xml:lang="nob">i midten</tf>
             <xg>
                <x>gaskoeh juekedh</x>
                <xt>dele på midten</xt>
@@ -4355,9 +4365,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t pos="adv" xml:lang="nob">nordafor</t>
-            <tf pos="phrase_adv" xml:lang="nob">nord om</tf>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">nordom</t>
+            <t dict="no" pos="adv" xml:lang="nob">nordafor</t>
+            <tf dict="yes" pos="phrase_adv" xml:lang="nob">nord om</tf>
+            <t dict="no" oa="yes" pos="adv" tcomm="no" xml:lang="nob">nordom</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe" />
@@ -6004,7 +6014,7 @@ For the full license text, see the link above.</lic>
                <sem class="TIME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_adv" stat="pref" tcomm="no" xml:lang="nob">før i tiden</tf>
-            <t pos="adv" xml:lang="nob">før</t>
+            <t dict="no" pos="adv" xml:lang="nob">før</t>
             <t pos="adv" xml:lang="nob">tidligere</t>
          </tg>
          <tg xml:lang="swe">
