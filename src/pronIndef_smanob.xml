@@ -35,6 +35,10 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noen</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">en del</t>
+            <xg>
+               <x>måedtien aejkien</x>
+               <xt>ofte / mange ganger</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -49,27 +53,14 @@ For the full license text, see the link above.</lic>
          <tg>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noen</t>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">en og annen</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="indef">muvhtine</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">noen ganger</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">av og til</t>
+            <xg>
+               <x>muvhten lehkien</x>
+               <xt>stedvis</xt>
+            </xg>
+            <xg>
+               <x>Jïh dle muvhth lehkieh biejjie balvi gaskem jæjhta jïh almetjem madtjeldahta.</x>
+               <xt>Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -92,37 +83,12 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">naan</l>
+         <l pos="pron" pg="no" type="indef">naan</l>
       </lg>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">noen få</tf>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="indef">fïerhten</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">hver</t>
-            <xg>
-               <x>fïerhtene tjïeltesne</x>
-               <xt>i hver sin kommune</xt>
-            </xg>
-            <xg>
-               <x>fïerhten tjïeltesne</x>
-               <xt>i hver kommune</xt>
-            </xg>
-            <xg>
-               <x>fïerhten aejkien</x>
-               <xt>hver gang</xt>
-            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -230,7 +196,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">guhtegh</l>
+         <l pos="pron" pg="no" type="indef">guhtegh</l>
       </lg>
       <mg>
          <tg>
@@ -264,26 +230,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">annet</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">annet</t>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">en annen</tf>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">noe annet</tf>
             <xg>
                <x>jeatjebem darjodh</x>
                <xt>gjøre noe annet</xt>
             </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="indef">jeatjebh</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">de andre</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -309,7 +262,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">mere</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">mer</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -330,6 +283,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">hver</t>
+            <xg>
+               <x>fïerhtene tjïeltesne</x>
+               <xt>i hver sin kommune</xt>
+            </xg>
+            <xg>
+               <x>fïerhten tjïeltesne</x>
+               <xt>i hver kommune</xt>
+            </xg>
+            <xg>
+               <x>fïerhten aejkien</x>
+               <xt>hver gang</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -338,11 +303,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">ij mejtegh</l>
+         <l pos="pron" type="indef">mejtegh</l>
       </lg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">ikke noe</t>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
+            <xg>
+               <x>ij mejtegh</x>
+               <xt>ikke noe</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -351,7 +320,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">abpe</l>
+         <l pos="pron" pg="no" type="indef">abpe</l>
       </lg>
       <mg>
          <tg>
@@ -364,7 +333,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">såemies</l>
+         <l pos="pron" pg="no" type="indef">såemies</l>
       </lg>
       <apps>
          <app name="oahpa">
