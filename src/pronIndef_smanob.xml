@@ -153,7 +153,20 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">gellie</l>
+         <l pg="no" pos="pron" type="indef">gellie</l>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">mange</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pg="no" pos="pron" type="indef">gellieh</l>
       </lg>
       <mg>
          <tg>
@@ -162,9 +175,9 @@ For the full license text, see the link above.</lic>
                <x>Man gellieh gærjah dov leah?</x>
                <xt>Hvor mange bøker har du?</xt>
             <xg>
+            </xg>
                <x>seamma gellieh dov soermijste</x>
                <xt>like mange som fingrene dine</xt>
-            </xg>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -179,31 +192,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noen få</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" type="indef">guaktah</l>
-      </lg>
-      <mg>
-         <tg>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no">de to</t>
-            <xg>
-               <x>dah guaktah</x>
-               <xt>de to</xt>
-            </xg>
-            <xg>
-               <x>aahtjetje-guaktah</x>
-               <xt>far og barn</xt>
-            </xg>
-            <xg>
-               <x>tjædtjetje-guaktah</x>
-               <xt>mor og barn</xt>
-            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
@@ -318,10 +306,11 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="pron" type="indef">mejtegh</l>
+         <l pg="no" pos="pron" type="indef">mejtegh</l>
       </lg>
       <mg>
          <tg>
+			<re>ved nekting</re>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
             <xg>
                <x>ij mejtegh</x>
