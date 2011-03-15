@@ -16,9 +16,7 @@ no-paradigm>wc -l *
 Date: 2011.03.15
        6 missing_paradigm_a.txt
        6 missing_paradigm_n.txt
-       3 missing_paradigm_pron.txt
       75 missing_paradigm_prop.txt
       27 missing_paradigm_propPl.txt
-     117 total
-
+     114 total
 
