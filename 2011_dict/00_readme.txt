@@ -19,7 +19,6 @@ Date: 2011.03.15
        3 missing_paradigm_pron.txt
       75 missing_paradigm_prop.txt
       27 missing_paradigm_propPl.txt
-       1 missing_paradigm_v.txt
-     118 total
+     117 total
 
 
