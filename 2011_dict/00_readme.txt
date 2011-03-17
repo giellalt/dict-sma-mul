@@ -20,3 +20,11 @@ Date: 2011.03.15
       27 missing_paradigm_propPl.txt
      114 total
 
+Date: 2011.03.17
+no-paradigm>wc -l * 
+       6 missing_paradigm_a.txt
+       6 missing_paradigm_n.txt
+      66 missing_paradigm_prop.txt
+      27 missing_paradigm_propPl.txt
+     105 total
+
