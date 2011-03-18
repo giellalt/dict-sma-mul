@@ -181,6 +181,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">legge merke til</tf>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">oppdage</t>
             <tf>bli var</tf>
+            <t dict="no" pos="v">merke</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -434,7 +435,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
+   <e exclude="smanob" usage="dict">
       <lg>
          <l class="IV" pos="v" stem="2syll" vow="aa">aatedh</l>
       </lg>
@@ -448,7 +449,7 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">tenke å gjøre noe</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">tenke å gjøre noe</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -456,7 +457,7 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">Be noen om å gjøre noe</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">be noen om å gjøre noe</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -484,6 +485,10 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">ta til med</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">gi seg i kast med</tf>
+            <tf dict="no" pos="phrase_v">begynne med</tf>
+            <t dict="no" pos="v">begynne</t>
+            <tf dict="no" pos="phrase_v">starte med</tf>
+            <t dict="no" pos="v">starte</t>
             <xg>
                <x>Dejnie jis aatskadin.</x>
                <xt>De ga seg i kast med det.</xt>
@@ -898,6 +903,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bli ergerlig</tf>
             <tf dict="no" pos="phrase_v">bli sint</tf>
+            <tf dict="no" pos="phrase_v">bli arg</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -1339,6 +1345,7 @@ For the full license text, see the link above.</lic>
                <sem class="ACTIVITY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">flykte</t>
+            <t dict="no" pos="v">rømme</t>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">forflytte seg</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">vike plass</tf>
          </tg>
@@ -1432,6 +1439,7 @@ For the full license text, see the link above.</lic>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">smøre</t>
+            <tf dict="no" pos="phrase_v">smøre inn</tf>
             <xg>
                <x>treavkide badtjadidh</x>
                <xt>smøre skiene</xt>
@@ -1898,7 +1906,11 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">bære i vei</t>
+            <semantics>
+               <sem class="MOVEMENT_V" />
+            </semantics>
+            <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bære i vei</tf>
+            <tf dict="no" pos="phrase_v">bære i veg</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -2276,8 +2288,18 @@ For the full license text, see the link above.</lic>
          <l class="I" pos="v" stem="2syll" umlaut="full" vow="x">biehtedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">bedra</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">svike</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">snyte</t>
@@ -2465,6 +2487,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">miste plutselig</tf>
             <tf dict="no" pos="phrase_v">plutselig miste</tf>
+            <tf dict="no" pos="phrase_v">slippe plutselig</tf>
+            <tf dict="no" pos="phrase_v">plutselig slippe</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -2587,8 +2611,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="TRAD_FOOD" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">ryperibbe</t>
-            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">ribbe</t>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">ribbe </t>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">ribbe rype</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -2671,7 +2695,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="FOOD_DRINK_V" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">skave kjøtt</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">skave kjøtt</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">skave</t>
             <t dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">skjære opp kjøtt</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">skjære</t>
@@ -2738,6 +2762,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">gjøre rent</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">rydde</t>
             <t dict="no" pos="v">rengjøre</t>
+            <t dict="no" pos="v">fli</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -2762,7 +2787,7 @@ For the full license text, see the link above.</lic>
                <sem class="ACTION_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">strø</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">strø utover</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">strø utover</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -3078,9 +3103,9 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
                <sem class="VUEKIE" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">hilse</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">håndhilse</t>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">håndhilse</t>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">hilse på</tf>
+            <t dict="yes" pos="v">hilse</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -3190,6 +3215,7 @@ For the full license text, see the link above.</lic>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">makte</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">kunne</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">få til</t>
+            <t dict="no" pos="v">klare</t>
             <xg>
                <x>Nov edtjh åadtjodh vuejnedh mejtie buektehth, jïlhts manne straavvem ih datne buerebh buektehth goh
                vïelledh.</x>
@@ -3229,13 +3255,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
          </tg>
-         <tg>
-            <semantics>
-               <sem class="WEATHER_V" />
-            </semantics>
-            <re>om nordlys</re>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">lyse</t>
-         </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
          </tg>
@@ -3250,6 +3269,18 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="WEATHER_V" />
+            </semantics>
+            <re>om nordlys</re>
+            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">lyse</t>
+         </tg>
+         <tg>
+            <t pos=""></t>
          </tg>
       </mg>
    </e>
@@ -4011,6 +4042,7 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">puste tungt</tf>
+            <t dict="no" pos="v" tcomm="yes">puste</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -4174,7 +4206,6 @@ For the full license text, see the link above.</lic>
          <tg>
             <semantics>
                <sem class="VÆTNOE" />
-               <sem class="ACTIVITY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">barke</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">garve</t>
@@ -4570,6 +4601,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">slippe løs</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">slippe noensteds hen</tf>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">slippe</t>
+            <tf dict="no" pos="phrase_v">slippe ut</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -4954,6 +4986,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">by</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">innby</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">invitere</t>
+            <tf dict="no" pos="phrase_v">be inn</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -4979,6 +5012,9 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">innby flere</tf>
             <tf dict="yes" pos="phrase_v">be inn</tf>
+            <t dict="no" pos="v">invitere</t>
+            <t dict="no" pos="v">innby</t>
+            <t dict="no" pos="v">by</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -5448,8 +5484,18 @@ For the full license text, see the link above.</lic>
          <l pos="v" stem="3syll">daanjehtidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="BODY_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">massere</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">gnugge</t>
          </tg>
@@ -5963,6 +6009,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">smake på</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">smake</tf>
+            <tf dict="no" pos="phrase_v">kjenne på</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -6242,7 +6289,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">plutselig miste</t>
+            <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">plutselig miste</tf>
+            <tf dict="no" pos="phrase_v">miste plutselig</tf>
+            <t dict="no" pos="v" tcomm="yes">miste</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -6451,6 +6500,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">feste sammen</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">neste sammen</tf>
+            <t dict="no" pos="v" tcomm="yes">feste</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -7257,6 +7307,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">legge ris</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">legge ris på golvet</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">legge ris på jordgolvet i gammen</tf>
+            <t dict="no" pos="v">rislegge</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -7311,6 +7362,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">kjennes</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">føles</t>
+            <tf dict="no" pos="phrase_v">kjenne seg</tf>
+            <tf dict="no" pos="phrase_v">føle seg</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -7570,6 +7623,7 @@ For the full license text, see the link above.</lic>
                <sem class="GAMME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">skjære ris eller bar</tf>
+            <tf dict="no" pos="phrase_v">skjære ris og bar</tf>
             <tf dict="no" tcomm="yes">skjære ris</tf>
             <tf dict="no" tcomm="yes">skjære bar</tf>
          </tg>
@@ -8392,7 +8446,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
+   <e exclude="smanob" usage="dict">
       <lg>
          <l class="IV" p3p="dæjma" pos="v" stem="2syll" umlaut="full" vow="x">dïjmedh</l>
       </lg>
@@ -8954,6 +9008,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">feriere</t>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">ta fri</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">fordrive tiden</tf>
+            <tf dict="no" pos="phrase_v">ha fri</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -9452,8 +9507,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="TRAVEL_V" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">reise</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">fare</t>
+            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">reise</t>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">fare</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">dra</t>
             <xg>
                <x>Feerh olkese!</x>
@@ -10177,16 +10232,21 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+      <mg>
          <tg>
             <semantics>
                <sem class="LEISURETIME_HOME_V" />
                <sem class="ACTIVITY_V" />
             </semantics>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">kappes</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">konkurrere</t>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">konkurrere</t>
+            <t dict="yes" pos="v">kappes</t>
          </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
+         <tg>
+            <t pos=""></t>
          </tg>
       </mg>
    </e>
@@ -11434,7 +11494,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" p3p="gahtja" pos="v" stem="2syll" vow="a">gahtjed</l>
+         <l class="IV" p3p="gahtja" pos="v" stem="2syll" vow="a">gahtjedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -12698,7 +12758,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <semantics>
-               <sem class="ACTION_V" />
+               <sem class="EXPOSURE_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">fryse</t>
          </tg>
@@ -12708,8 +12768,12 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg>
+            <semantics>
+               <sem class="WEATHER_V" />
+            </semantics>
             <re>om sjø</re>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">fryse til</tf>
+            <t dict="no" pos="v">fryse</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -13419,7 +13483,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
+   <e exclude="smanob" usage="dict">
       <lg>
          <l pos="v" stem="3syll">goejesjidh</l>
       </lg>
@@ -13433,6 +13497,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="VÆTNOE" />
+            </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">ta av bark</tf>
          </tg>
          <tg xml:lang="swe">
@@ -13915,6 +13982,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">springe i vei</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">stikke av</tf>
+            <tf dict="no" pos="phrase_v">springe avgårde</tf>
             <t dict="no" pos="v" tcomm="yes">springe</t>
          </tg>
          <tg xml:lang="swe">
@@ -14116,6 +14184,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="EXPERIENCE_V" />
+            </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">være lydig</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">være lydhør</tf>
          </tg>
@@ -14189,6 +14260,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">ta vare på</tf>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">berge</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">redde</t>
+            <t dict="no" pos="v">beskytte</t>
             <xg>
                <x>saemien gïelem gorredidh</x>
                <xt>ta vare på språket</xt>
@@ -14485,7 +14557,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re>om dyr</re>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">ligge sammenkrøllet</tf>
-            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">ligge</t>
+            <tf dict="no" pos="phrase_v">ligge sammenrullet</tf>
+            <t dict="no" oa="yes" pos="v" tcomm="yes" xml:lang="nob">ligge</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -14662,6 +14735,9 @@ For the full license text, see the link above.</lic>
             <re>for mat og drikke</re>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">takke</t>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">takke for maten</tf>
+            <tf dict="no" pos="phrase_v">takke for mat</tf>
+            <tf dict="no" pos="phrase_v">takke for mat og drikke</tf>
+            <tf dict="no" pos="phrase_v">takke for mat eller drikke</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -14747,8 +14823,8 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">forstå plutselig</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">forstå straks</tf>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">komme til innsikt</tf>
-            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">forstå plutselig</tf>
-            <t dict="no" pos="v">forstå</t>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">plutselig forstå</tf>
+            <t dict="no" pos="v" tcomm="yes">forstå</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -14917,7 +14993,9 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">helle i litt som snarest</t>
             <tf dict="no" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">helle som snarest</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">helle litt</tf>
+            <tf dict="no" pos="phrase_v">helle i litt</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">helle</t>
+            <tf dict="no" pos="phrase_v">helle i</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -15087,7 +15165,7 @@ For the full license text, see the link above.</lic>
                <sem class="REINDEER" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">lokke på rein</tf>
-            <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">lokke</t>
+            <t dict="no" oa="yes" pos="v" tcomm="yes" xml:lang="nob">lokke</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -15296,7 +15374,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
+   <e exclude="smanob" usage="dict">
       <lg>
          <l pos="v" stem="3syll">gåabregidh</l>
       </lg>
@@ -16059,6 +16137,10 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">ta på seg</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">kle på</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">kle</t>
+            <tf dict="no" pos="phrase_v">kle på seg klær</tf>
+            <tf dict="no" pos="phrase_v">ta på seg klær</tf>
+            <tf dict="no" pos="phrase_v">kle på klær</tf>
+            <tf dict="no" pos="phrase_v">ta på klær</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -16308,8 +16390,18 @@ For the full license text, see the link above.</lic>
          <l class="II" pos="v" stem="2syll" umlaut="full" vow="x">gærrodh</l>
       </lg>
       <stem class="bisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">banne</t>
          </tg>
          <tg xml:lang="swe">
@@ -16407,8 +16499,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ACTION_V" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">henge opp flere ting</tf>
-            <tf dict="no" pos="phrase_v">henge opp</tf>
+            <re>flere ting</re>
+            <tf dict="yes" pos="phrase_v" stat="pref">henge opp</tf>
+            <tf dict="no" pos="phrase_v">henge opp flere ting</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
@@ -16434,8 +16527,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ACTION_V" />
             </semantics>
+            <re>en ting</re>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">henge opp</tf>
-            <te dict="yes" oa="yes" xml:lang="nob">en ting</te>
+            <tf dict="no" pos="phrase_v">henge opp en ting</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe"></t>
