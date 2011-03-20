@@ -255,6 +255,31 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
+         <l pos="adv">aavone</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="åa3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="HUMAN_A" />
+               <sem class="FEELING" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">glad</t>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">lykkelig</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe" />
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="adv">aajmojne</l>
       </lg>
       <mg>
@@ -373,6 +398,20 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="po">aalkesth</l>
+      </lg>
+      <mg>
+         <tg>
+            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på langs</tf>
+            <t dict="yes" oa="yes" pos="pr" tcomm="no">langsetter</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe"></t>
          </tg>
       </mg>
    </e>
@@ -6073,6 +6112,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <t dict="yes" pos="adv" xml:lang="nob">fremover</t>
+            <xg>
+               <x>Gosse edtja åarjel-saemien gielem åvtese lutnjedh</x>
+               <xt>Når skal det sørsamiske språket føres fremover?</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe"></t>
