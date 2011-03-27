@@ -475,8 +475,11 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="pron" type="interr">magkeres</l>
-         <analysis>Pron_Interr_Sg_Nom</analysis>
+         <analysis>Pron_Interr_Attr</analysis>
          <mini_paradigm>
+            <analysis ms="Pron_Interr_Sg_Nom">
+               <wordform>magkere</wordform>
+            </analysis>
             <analysis ms="Pron_Interr_Sg_Acc">
                <wordform>magkerem</wordform>
             </analysis>
@@ -489,6 +492,9 @@ For the full license text, see the link above.</lic>
             <analysis ms="Pron_Interr_Sg_Ine">
                <wordform>magkarisnie</wordform>
             </analysis>
+            <analysis ms="Pron_Interr_Ine_Attr">
+               <wordform>magkarinie</wordform>
+            </analysis>
             <analysis ms="Pron_Interr_Sg_Ela">
                <wordform>magkaristie</wordform>
             </analysis>
@@ -496,6 +502,21 @@ For the full license text, see the link above.</lic>
                <wordform>magkarinie</wordform>
             </analysis>
          </mini_paradigm>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">hva slags</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pron" type="interr">magkere</l>
+         <lemma_ref lemmaID="magkeres_pron_interr">magkeres</lemma_ref>
+         <analysis>Pron_Interr_Sg_Nom</analysis>
       </lg>
       <mg>
          <tg>
@@ -556,6 +577,21 @@ For the full license text, see the link above.</lic>
          <l pos="pron" type="interr">magkarisnie</l>
          <lemma_ref lemmaID="magkeres_pron_interr">magkeres</lemma_ref>
          <analysis>Pron_Interr_Sg_Ine</analysis>
+      </lg>
+      <mg>
+         <tg>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">i hva slags</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe"></t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pron" type="interr">magkarinie</l>
+         <lemma_ref lemmaID="magkeres_pron_interr">magkeres</lemma_ref>
+         <analysis>Pron_Interr_Ine_Attr</analysis>
       </lg>
       <mg>
          <tg>
