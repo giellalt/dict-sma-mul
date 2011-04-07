@@ -1064,6 +1064,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ANIMAL_WILD" />
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">simle</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinsimle</t>
@@ -5504,6 +5505,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bjelleokse</t>
             <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">bjellokse</t>
@@ -5542,6 +5544,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bjellerein</t>
             <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">bjellrein</t>
@@ -7807,6 +7810,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ANIMAL_WILD" />
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">rein</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinsdyr</t>
@@ -22496,6 +22500,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">simle</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinsimle</t>
@@ -24464,6 +24469,78 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">servitör</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="swe">servitris</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l margo="e" pos="n" soggi="ie" stem="3syll">horhtje</l>
+      </lg>
+      <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="REINDEER" />
+               <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
+            </semantics>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">hannrein på andre
+            året</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung hannrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten hannrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung hanrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten hanrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung reinsbukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten reinsbukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung bukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten bukk</tf>
+            <t pos="n">ungbukk</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l margo="e" pos="n" soggi="ie" stem="3syll">hurrehke</l>
+      </lg>
+      <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="REINDEER" />
+               <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
+            </semantics>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">hannrein på andre
+            året</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung hannrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten hannrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung hanrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten hanrein</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung reinsbukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten reinsbukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung bukk</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten bukk</tf>
+            <t pos="n">ungbukk</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
          </tg>
       </mg>
    </e>
@@ -34457,6 +34534,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
                <sem class="ANIMAL_WILD" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">liten reinkalv</tf>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">liten kalv</tf>
@@ -34753,6 +34831,7 @@ For the full license text, see the link above.</lic>
                <sem class="ANIMAL_WILD" />
                <sem class="REINDEER" />
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinkalv</t>
             <t dict="no" pos="n">kalv</t>
@@ -34854,6 +34933,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">hunnkalv</t>
             <t dict="no" pos="n">hunkalv</t>
@@ -39020,6 +39100,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">nytemming</t>
             <tf dict="no">nytemt rein</tf>
@@ -42193,6 +42274,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">kastrert reinsbukk</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">gjeldet reinsbukk</tf>
@@ -42276,6 +42358,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">kastrert reinsbukk</tf>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">trekkrein</t>
@@ -42477,6 +42560,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="yes" xml:lang="nob">gjeldsimle</t>
             <te>har enten ikke fått kalv eller har mistet den det aktuelle året</te>
@@ -43670,6 +43754,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
                <sem class="ANIMAL_WILD" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinsbukk</t>
             <t decl="x" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">hannrein</t>
@@ -53621,6 +53706,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjorårskalv</t>
             <t dict="no" pos="n">fjorkalv</t>
@@ -56162,6 +56248,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HERDING" />
                <sem class="REINDEER" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">hannkalv</t>
             <t dict="no" pos="n">hankalv</t>
@@ -59235,9 +59322,24 @@ For the full license text, see the link above.</lic>
          <l margo="e" pos="n" soggi="ie" stem="3syll">vuenjele</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">2-3 år gammel simle</tf>
+            <semantics>
+               <sem class="REINDEER" />
+               <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
+            </semantics>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">2-3 år gammel
+            simle</tf>
+            <tf dict="yes" gen="f" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">ung simle</tf>
+            <t pos="n">ungsimle</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
@@ -61890,6 +61992,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_ANIMAL" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">bjøllesimle</t>
             <t dict="no" pos="n">bjøllsimle</t>
