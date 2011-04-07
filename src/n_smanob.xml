@@ -6131,6 +6131,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">furuskog</t>
          </tg>
@@ -7444,6 +7445,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">lauvskog</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">li</t>
@@ -9779,6 +9781,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">barflekk</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">barmark</t>
@@ -10808,6 +10811,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vinterland</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">vinterbeiteland</t>
@@ -11600,6 +11604,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="SNOW" />
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">isbre</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">snøbre</t>
@@ -11839,6 +11844,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">høyfjell</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">høgfjell</t>
@@ -12301,6 +12307,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skar</t>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fjelldal</t>
@@ -18050,6 +18057,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reingjerde</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">gjerde</t>
@@ -18450,6 +18458,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">sommerland</t>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">sommerbeiteland</t>
@@ -20312,6 +20321,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">snaufjell</t>
             <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">skogløs fjellvidde</tf>
@@ -22934,6 +22944,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">skillegjerde</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">skillingsgjerde</t>
@@ -23309,9 +23320,23 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n" soggi="e" stem="2syll">gïjrelaante</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">vårland</t>
+            <semantics>
+               <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
+            </semantics>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vårland</t>
+            <t pos="???">vårbeiteland</t>
+            <t pos="???">vårbeiteområde</t>
+            <t pos="???">vårområde</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
@@ -32239,6 +32264,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="NATURE_PLACE" />
                <sem class="NATURE_WATER" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vik</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">bukt</t>
@@ -37337,6 +37363,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">halvøy</t>
          </tg>
@@ -37592,6 +37619,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tørrlendt voll</tf>
             <t dict="no" pos="n">tørrlende</t>
@@ -37809,6 +37837,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tange</t>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" tcomm="no" xml:lang="nob">nes</t>
@@ -39731,6 +39760,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">myr</t>
          </tg>
@@ -42523,6 +42553,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t dict="no" pos="n">granskog</t>
             <tf dict="yes" gen="m" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">tett granskog</tf>
@@ -46065,6 +46096,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skog</t>
          </tg>
@@ -49591,6 +49623,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kalvingsområde</t>
             <t dict="no" pos="n">kalvingsland</t>
@@ -49617,6 +49650,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HERDING" />
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">kalvingsland</t>
             <t dict="no" pos="n">kalvingsområde</t>
@@ -52055,6 +52089,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjell</t>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">fjelltopp</t>
@@ -52206,6 +52241,33 @@ For the full license text, see the link above.</lic>
             <t dict="no" pos="n">sensommer</t>
             <tf dict="no">sen sommer</tf>
             <tf dict="no">tidlig høst</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n" soggi="e" stem="2syll">tjaktjelaante</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="HERDING" />
+               <sem class="NATURE_PLACE_REINDEER" />
+            </semantics>
+            <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">høstland</t>
+            <t pos="???">høstbeiteland</t>
+            <t pos="???">høstbeiteområde</t>
+            <t pos="???">høstområde</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
@@ -55706,6 +55768,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="SNOW" />
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <re xml:lang="nob">om sommeren</re>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">snøbre</t>
@@ -57093,6 +57156,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">fjell</t>
          </tg>
@@ -59342,6 +59406,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">skogsdal</t>
             <tf>vid dal med skog</tf>
@@ -61896,6 +61961,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="NATURE_PLACE" />
+               <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">eng</t>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">dyrket mark</t>
