@@ -26780,6 +26780,7 @@ For the full license text, see the link above.</lic>
                <sem class="PLANT" />
                <sem class="FOOD_GROCERY" />
                <sem class="FOOD_DISH" />
+               <sem class="FOOD_BERRY" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">tyttebær</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">tytting</t>
@@ -30216,6 +30217,7 @@ For the full license text, see the link above.</lic>
                <sem class="PLANT" />
                <sem class="FOOD_GROCERY" />
                <sem class="FOOD_DISH" />
+               <sem class="FOOD_BERRY" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">molte</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">moltebær</t>
@@ -30526,6 +30528,27 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">laante-muerjie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="FOOD_BERRY" />
+            </semantics>
+            <t pos="n" stat="pref">markjordbær</t>
+            <t dict="no" pos="n">vildjordbær</t>
          </tg>
       </mg>
    </e>
@@ -44621,6 +44644,7 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="PLANT" />
                <sem class="FOOD_GROCERY" />
+               <sem class="FOOD_BERRY" />
             </semantics>
             <t decl="x" dict="yes" gen="n" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">blåbær</t>
          </tg>
@@ -55816,6 +55840,26 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tsietsehth-muerjie</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg>
+            <semantics>
+               <sem class="FOOD_BERRY" />
+            </semantics>
+            <t pos="n" stat="pref">bringebær</t>
          </tg>
       </mg>
    </e>
