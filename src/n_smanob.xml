@@ -10052,9 +10052,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_HERD" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">liten reinflokk</tf>
             <te dict="yes" oa="yes" xml:lang="nob">12-60 dyr</te>
+            <tf>liten flokk</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
@@ -12665,11 +12667,14 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="REINDEER" />
                <sem class="HERDING" />
+               <sem class="REINDEER_HERD" />
             </semantics>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">flokk</t>
+            <t pos="???">reinflokk</t>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">flock</t>
+            <t pos="???">renflock</t>
          </tg>
       </mg>
       <mg>
@@ -13353,11 +13358,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="HERDING" />
+               <sem class="REINDEER_HERD" />
             </semantics>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinflokk</t>
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinhjord</t>
-            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">flokk</t>
+            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinhjord</t>
+            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">reinflokk</t>
             <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">hjord</t>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">flokk</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
@@ -29289,9 +29295,9 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HERDING" />
             </semantics>
-            <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">reinhjord</t>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">samlet reinhjord</tf>
+            <tf dict="yes" oa="yes" pos="phrase_n" stat="pref" tcomm="no" xml:lang="nob">samlet reinhjord</tf>
             <te dict="yes" oa="yes" xml:lang="nob">f.eks. under flytting eller til merking</te>
+            <t pos="???">reinhjord</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">SVENSKA</t>
