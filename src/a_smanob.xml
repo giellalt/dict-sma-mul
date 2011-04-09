@@ -2371,30 +2371,30 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">guelhties</l>
       </lg>
+      <apps>
+	<app name="oahpa">
+	  <sources>
+	    <book name="xxx" />
+	  </sources>
+	</app>
+      </apps>
       <mg>
-         <apps>
-            <app name="oahpa">
-               <sources>
-                  <book name="xxx" />
-               </sources>
-            </app>
-         </apps>
-         <tg xml:lang="nob">
-            <semantics>
-               <sem class="WEATHER_A" />
-            </semantics>
-            <re>om fjell eller vind eller år</re>
-            <tf dict="yes" oa="yes" pos="phrase_a" stat="pref" tcomm="no" xml:lang="nob">svært kald</tf>
-            <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">svært kaldt</tf>
-            <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">veldig kald</tf>
-            <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">veldig kaldt</tf>
-            <t dict="no" oa="yes" pos="a" xml:lang="nob">kald</t>
-            <t dict="no" oa="yes" pos="a" xml:lang="nob">kaldt</t>
-            <xg>
-               <x>guelhties gïjre</x>
-               <xt>kald og sen vår</xt>
-            </xg>
-         </tg>
+	<tg xml:lang="nob">
+	  <semantics>
+	    <sem class="WEATHER_A" />
+	  </semantics>
+	  <re>om fjell eller vind eller år</re>
+	  <tf dict="yes" oa="yes" pos="phrase_a" stat="pref" tcomm="no" xml:lang="nob">svært kald</tf>
+	  <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">svært kaldt</tf>
+	  <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">veldig kald</tf>
+	  <tf dict="no" oa="yes" pos="phrase_a" xml:lang="nob">veldig kaldt</tf>
+	  <t dict="no" oa="yes" pos="a" xml:lang="nob">kald</t>
+	  <t dict="no" oa="yes" pos="a" xml:lang="nob">kaldt</t>
+	  <xg>
+	    <x>guelhties gïjre</x>
+	    <xt>kald og sen vår</xt>
+	  </xg>
+	</tg>
       </mg>
    </e>
    <e usage="dict">
