@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -39,6 +39,9 @@ For the full license text, see the link above.</lic>
                <xt>både skrive og lese</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">både_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -52,6 +55,9 @@ For the full license text, see the link above.</lic>
                <x>tjidtjie gon aehtjieh</x>
                <xt>mor og far</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">og_SWE</t>
          </tg>
       </mg>
    </e>
@@ -67,6 +73,9 @@ For the full license text, see the link above.</lic>
                <xt>mor og far</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">og_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -80,6 +89,9 @@ For the full license text, see the link above.</lic>
                <x>Bïegke jallh værtoe sjædta?</x>
                <xt>Blir det vind eller storm?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">eller_SWE</t>
          </tg>
       </mg>
    </e>
@@ -95,6 +107,9 @@ For the full license text, see the link above.</lic>
                <xt>Både Paul og Lars var der.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">og_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -104,6 +119,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="cc" tcomm="no">men</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">men_SWE</t>
          </tg>
       </mg>
    </e>
@@ -123,6 +141,9 @@ For the full license text, see the link above.</lic>
                <xt>Den veien dit er så smal, men den andre veien er mye bedre.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">men_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -134,6 +155,10 @@ For the full license text, see the link above.</lic>
             <re>i spørsmål om to</re>
             <t dict="yes" oa="yes" pos="cc" tcomm="no">eller</t>
          </tg>
+         <tg xml:lang="swe">
+            <re>i spørsmål om to_SWE</re>
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">eller_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -143,7 +168,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
@@ -155,6 +180,10 @@ For the full license text, see the link above.</lic>
                <x>Mejtie tseagkoeh gåetie vuj slapmoeh gåetie?</x>
                <xt>Er det en opprettstående kåte eller en lav og vid kåte?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <re>i spørsmål om to_SWE</re>
+            <t dict="yes" oa="yes" pos="cc" stat="pref" tcomm="no" xml:lang="swe">eller_SWE</t>
          </tg>
       </mg>
    </e>
@@ -170,6 +199,10 @@ For the full license text, see the link above.</lic>
                <x>Piere vyj Laara</x>
                <xt>Per eller Lars</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <re>i spørsmål om to_SWE</re>
+            <t dict="yes" oa="yes" pos="cc" tcomm="no" xml:lang="swe">eller_SWE</t>
          </tg>
       </mg>
    </e>

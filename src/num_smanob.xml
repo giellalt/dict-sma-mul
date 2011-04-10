@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -39,6 +39,9 @@ For the full license text, see the link above.</lic>
                <xt>Vi var ofte i byen.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="0" tcomm="no" xml:lang="swe">mange_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -49,6 +52,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="0" tcomm="no">null</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="0" tcomm="no" xml:lang="swe">null_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -58,7 +64,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
@@ -78,6 +84,9 @@ For the full license text, see the link above.</lic>
                <xt>én og én</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="1" tcomm="no" xml:lang="swe">en_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -87,16 +96,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="2" tcomm="no">to</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="2" tcomm="no" xml:lang="swe">to_SWE</t>
          </tg>
       </mg>
    </e>
@@ -107,16 +122,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="3" tcomm="no">tre</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="3" tcomm="no" xml:lang="swe">tre_SWE</t>
          </tg>
       </mg>
    </e>
@@ -127,16 +148,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="4" tcomm="no">fire</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="4" tcomm="no" xml:lang="swe">fire_SWE</t>
          </tg>
       </mg>
    </e>
@@ -147,16 +174,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="5" tcomm="no">fem</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="5" tcomm="no" xml:lang="swe">fem_SWE</t>
          </tg>
       </mg>
    </e>
@@ -167,16 +200,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="6" tcomm="no">seks</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="6" tcomm="no" xml:lang="swe">seks_SWE</t>
          </tg>
       </mg>
    </e>
@@ -187,16 +226,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="7" tcomm="no">sju</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="7" tcomm="no" xml:lang="swe">sju_SWE</t>
          </tg>
       </mg>
    </e>
@@ -207,16 +252,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="8" tcomm="no">åtte</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="8" tcomm="no" xml:lang="swe">åtte_SWE</t>
          </tg>
       </mg>
    </e>
@@ -227,16 +278,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="9" tcomm="no">ni</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="9" tcomm="no" xml:lang="swe">ni_SWE</t>
          </tg>
       </mg>
    </e>
@@ -247,16 +304,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="10" tcomm="no">ti</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="10" tcomm="no" xml:lang="swe">ti_SWE</t>
          </tg>
       </mg>
    </e>
@@ -267,16 +330,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="11" tcomm="no">elleve</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="11" tcomm="no" xml:lang="swe">elleve_SWE</t>
          </tg>
       </mg>
    </e>
@@ -287,16 +356,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="12" tcomm="no">tolv</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="12" tcomm="no" xml:lang="swe">tolv_SWE</t>
          </tg>
       </mg>
    </e>
@@ -307,16 +382,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="13" tcomm="no">tretten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="13" tcomm="no" xml:lang="swe">tretten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -327,16 +408,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="14" tcomm="no">fjorten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="14" tcomm="no" xml:lang="swe">fjorten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -347,16 +434,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="15" tcomm="no">femten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="15" tcomm="no" xml:lang="swe">femten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -367,16 +460,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="16" tcomm="no">seksten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="16" tcomm="no" xml:lang="swe">seksten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -387,16 +486,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="17" tcomm="no">sytten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="17" tcomm="no" xml:lang="swe">sytten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -407,16 +512,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="18" tcomm="no">atten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="18" tcomm="no" xml:lang="swe">atten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -427,16 +538,22 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="xxx" />
+               <book name="xxx"/>
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="NUMBER" />
+               <sem class="NUMBER"/>
             </semantics>
             <t dict="yes" oa="yes" pos="num" value="19" tcomm="no">nitten</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="NUMBER"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="num" value="19" tcomm="no" xml:lang="swe">nitten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -448,6 +565,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="100" tcomm="no">hundre</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="100" tcomm="no" xml:lang="swe">hundre_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -457,6 +577,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="100" tcomm="no">hundre</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="100" tcomm="no" xml:lang="swe">hundre_SWE</t>
          </tg>
       </mg>
    </e>
@@ -468,6 +591,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="100" tcomm="no">hundre</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="100" tcomm="no" xml:lang="swe">hundre_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -477,6 +603,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="1000" tcomm="no">tusen</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="1000" tcomm="no" xml:lang="swe">tusen_SWE</t>
          </tg>
       </mg>
    </e>
@@ -488,6 +617,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="num" value="1000" tcomm="no">tusen</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="num" value="1000" tcomm="no" xml:lang="swe">tusen_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -496,7 +628,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="n"  value="1000" tcomm="no">tusen</t>
+            <t dict="yes" oa="yes" pos="n" value="1000" tcomm="no">tusen</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="n" value="1000" tcomm="no" xml:lang="swe">tusen_SWE</t>
          </tg>
       </mg>
    </e>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -54,6 +54,9 @@ For the full license text, see the link above.</lic>
                <xt>I noen land holder folk på å drepe hverandre.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">hverandre_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -75,6 +78,9 @@ For the full license text, see the link above.</lic>
                <xt>De vasket hverandres føtter.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">hverandres_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -94,6 +100,9 @@ For the full license text, see the link above.</lic>
                <x>Ålma jïh gåmmebe sinsætnan vuartasjægan.</x>
                <xt>Mannen og kona så på hverandre.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">til hverandre_SWE</t>
          </tg>
       </mg>
    </e>
@@ -115,6 +124,9 @@ For the full license text, see the link above.</lic>
                <xt>De to hadde vært lenge borte fra hverandre, men kjærligheten var likevel like sterk.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">fra hverandre_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -131,28 +143,10 @@ For the full license text, see the link above.</lic>
                <xt>Folk må få møtes, for å bli kjent med hverandre.</xt>
             </xg>
          </tg>
-      </mg>
-   </e>
-<!--   <e usage="dict">
-      <lg>
-         <l pos="pron" type="recipr">sinsitnie</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-            <semantics>
-               <sem class="YYY" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="nob">seg i mellom</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="nob">hverandre</t>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">med hverandre_SWE</t>
          </tg>
       </mg>
-   </e> -->
+   </e>
    <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>

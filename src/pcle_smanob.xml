@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="x" tcomm="no">ja</t>
          </tg>
-         <tg xml:lang="swe">
+         <tg xml:lang="swe" check="'semantics_and_re'">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">ja</t>
          </tg>
       </mg>
@@ -58,7 +58,7 @@ For the full license text, see the link above.</lic>
                <xt>Det er ruskevær med sludd, men så er det jo høst.</xt>
             </xg>
          </tg>
-         <tg xml:lang="swe">
+         <tg xml:lang="swe" check="'semantics_and_re'">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">då</t>
          </tg>
       </mg>
@@ -71,7 +71,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <tf dict="yes" oa="yes" pos="x" tcomm="no">hører du</tf>
          </tg>
-         <tg xml:lang="swe">
+         <tg xml:lang="swe" check="'semantics_and_re'">
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">hör du</t>
          </tg>
       </mg>
@@ -89,6 +89,9 @@ For the full license text, see the link above.</lic>
                <xt>Å så fin!</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">aldeles_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -98,6 +101,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="x" tcomm="no">allikevel</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">allikevel_SWE</t>
          </tg>
       </mg>
    </e>
@@ -109,6 +115,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="x" tcomm="no">jo</t>
             <t dict="yes" oa="yes" pos="x" tcomm="no">allikevel</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">jo_SWE</t>
          </tg>
       </mg>
    </e>
@@ -125,6 +134,9 @@ For the full license text, see the link above.</lic>
                <xt>Kanskje du nå gjør det.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">nå_SWE</t>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -133,6 +145,9 @@ For the full license text, see the link above.</lic>
                <x>Dellie mihk vualka.</x>
                <xt>Så drar han da endelig.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">endelig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -148,6 +163,9 @@ For the full license text, see the link above.</lic>
                <xt>Og hvem skal da passe kyrne?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <tf dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">da_SWE</tf>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -162,6 +180,9 @@ For the full license text, see the link above.</lic>
                <xt>Hvordan var det nå igjen?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <tf dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">nå igjen_SWE</tf>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -173,6 +194,9 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="x" tcomm="no">igjen</t>
             <tf dict="yes" oa="yes" pos="x" tcomm="no">i sin tur</tf>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">igjen_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -182,6 +206,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <te dict="yes" oa="yes">forsterkende nektelse</te>
+         </tg>
+         <tg xml:lang="swe">
+            <te dict="yes" oa="yes" xml:lang="swe">forsterkende nektelse_SWE</te>
          </tg>
       </mg>
    </e>
@@ -197,6 +224,9 @@ For the full license text, see the link above.</lic>
                <xt>Du skal ikke snakke stygt om dyr engang!</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <te dict="yes" oa="yes" xml:lang="swe">forsterkende nektelse_SWE</te>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -210,6 +240,9 @@ For the full license text, see the link above.</lic>
                <x>Joe galhkeme?</x>
                <xt>Er du allerede ferdig?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">allerede_SWE</t>
          </tg>
       </mg>
    </e>
@@ -226,6 +259,9 @@ For the full license text, see the link above.</lic>
                <xt>Er det slik at han sjølv fulgte etter ut?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">er det slik at_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -236,6 +272,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="adv" tcomm="no">endog</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">endog_SWE</t>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -244,6 +283,9 @@ For the full license text, see the link above.</lic>
                <x>Manne hov raakte gahtjim.</x>
                <xt>Jeg falt jo nesten.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">nesten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -265,6 +307,9 @@ For the full license text, see the link above.</lic>
                <xt>Det var godt at du ikke var redd.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">heldigvis_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -280,6 +325,9 @@ For the full license text, see the link above.</lic>
                <xt>Da ble det sannelig bra.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">jo visst_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -290,6 +338,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="adv" tcomm="no">altså</t>
             <tf dict="yes" oa="yes" tcomm="no">slik nå jeg forstår</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">altså_SWE</t>
          </tg>
       </mg>
    </e>
@@ -302,6 +353,9 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="adv" tcomm="no">altså</t>
             <tf dict="yes" oa="yes" tcomm="no">slik nå jeg forstår</tf>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">altså_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -311,6 +365,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="adv" tcomm="no">jaså</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">jaså_SWE</t>
          </tg>
       </mg>
    </e>
@@ -325,6 +382,9 @@ For the full license text, see the link above.</lic>
                <x>Ih goh datne dam govleme?</x>
                <xt>Har ikke du hørt det?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">forsterkende nektelse_SWE</t>
          </tg>
       </mg>
    </e>
@@ -342,6 +402,9 @@ For the full license text, see the link above.</lic>
                <x>Guktie darhkan?</x>
                <xt>Hvordan da?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">allikevel_SWE</t>
          </tg>
       </mg>
    </e>
@@ -370,6 +433,9 @@ For the full license text, see the link above.</lic>
                <xt>Hvordan så ... ?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">så_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -397,6 +463,9 @@ For the full license text, see the link above.</lic>
                <xt>A nei, da!</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">altså_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -420,6 +489,9 @@ For the full license text, see the link above.</lic>
                <xt>Hva i all verden er dette?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">visst_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -435,6 +507,10 @@ For the full license text, see the link above.</lic>
                <xt>Du skal ikke snakke stygt om dyr engang.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <re>forsterkende nektelse_SWE</re>
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">engang_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -448,6 +524,9 @@ For the full license text, see the link above.</lic>
                <x>jaa hævvi</x>
                <xt>ja selvfølgelig</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="x" tcomm="no" xml:lang="swe">selvfølgelig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -469,6 +548,9 @@ For the full license text, see the link above.</lic>
                <xt>Brita kom iallfall.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">nok_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -478,7 +560,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa6" />
+               <book name="åa6"/>
             </sources>
          </app>
       </apps>
@@ -490,6 +572,9 @@ For the full license text, see the link above.</lic>
                <xt>Eller har kanskje den stygge musa spist alle musene?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="swe">kanskje_SWE</t>
+         </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
@@ -498,6 +583,9 @@ For the full license text, see the link above.</lic>
                <x>Vuj datne aaj desnie?</x>
                <xt>Eller var du også der?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" stat="pref" tcomm="no" xml:lang="swe">eller_SWE</t>
          </tg>
       </mg>
    </e>
@@ -512,6 +600,9 @@ For the full license text, see the link above.</lic>
                <x>Vuj datne lih aaj desnie?</x>
                <xt>Eller var du også der?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">eller_SWE</t>
          </tg>
       </mg>
    </e>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -34,7 +34,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="nob">litt</t>
-            <t dict="no" pos="pron" xml:lang="nob">bittelitt</t>
+            <t dict="no" pos="pron" xml:lang="nob" oa="yes" tcomm="no">bittelitt</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">litt_SWE</t>
          </tg>
       </mg>
    </e>
@@ -50,6 +53,9 @@ For the full license text, see the link above.</lic>
                <x>måedtien aejkien</x>
                <xt>ofte / mange ganger</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noen_SWE</t>
          </tg>
       </mg>
    </e>
@@ -70,6 +76,9 @@ For the full license text, see the link above.</lic>
                <xt>Og så noen steder dukker sola fram mellom skyene og gjør mennesket glad.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noen_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -80,6 +89,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
             <tf dict="yes" oa="yes" pos="phrase" tcomm="no">noen få</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noe_SWE</t>
          </tg>
       </mg>
    </e>
@@ -95,6 +107,9 @@ For the full license text, see the link above.</lic>
                <x>Dan tjohpen ij naan duahpa.</x>
                <xt>Den lua har ingen dusk.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noe_SWE</t>
          </tg>
       </mg>
    </e>
@@ -115,6 +130,9 @@ For the full license text, see the link above.</lic>
                <xt>Eller har kanskje den stygge musa spist alle musene?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">all_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -129,6 +147,9 @@ For the full license text, see the link above.</lic>
                <xt>De elevene, som du er sammen med, hvor mange er de?</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">mange mennesker_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -139,6 +160,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" tcomm="no">begge to</t>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">begge to_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -148,6 +172,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" tcomm="no">mange</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">mange_SWE</t>
          </tg>
       </mg>
    </e>
@@ -161,21 +188,26 @@ For the full license text, see the link above.</lic>
             <xg>
                <x>Man gellieh gærjah dov leah?</x>
                <xt>Hvor mange bøker har du?</xt>
-            <xg>
-            </xg>
+               <xg/>
                <x>Seamma gellieh dov soermijste.</x>
                <xt>Like mange som fingrene dine.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">mange_SWE</t>
+         </tg>
       </mg>
    </e>
-      <e usage="dict">
+   <e usage="dict">
       <lg>
          <l pos="pron" type="indef">gille</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noen få</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noen få_SWE</t>
          </tg>
       </mg>
    </e>
@@ -186,6 +218,9 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="pron" tcomm="no">ikke noen av dem</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">ikke noen av dem_SWE</t>
          </tg>
       </mg>
    </e>
@@ -204,6 +239,9 @@ For the full license text, see the link above.</lic>
                <x>jeatjah bïevnesh</x>
                <xt>andre opplysninger</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">en annen_SWE</t>
          </tg>
       </mg>
    </e>
@@ -225,6 +263,9 @@ For the full license text, see the link above.</lic>
                <xt>De andre kom etter oss.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="no" oa="yes" pos="pron" tcomm="no" xml:lang="swe">annet_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -239,6 +280,9 @@ For the full license text, see the link above.</lic>
                <xt>Slik blir det også billigere når vi er flere.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">mer_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -248,7 +292,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4" />
+               <book name="åa4"/>
             </sources>
          </app>
       </apps>
@@ -268,6 +312,9 @@ For the full license text, see the link above.</lic>
                <xt>hver gang</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">hver_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -276,12 +323,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-			<re>ved nekting</re>
+            <re>ved nekting</re>
             <t dict="yes" oa="yes" pos="pron" tcomm="no">noe</t>
             <xg>
                <x>ij mejtegh</x>
                <xt>ikke noe</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <re>ved nekting_SWE</re>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">noe_SWE</t>
          </tg>
       </mg>
    </e>
@@ -297,6 +348,9 @@ For the full license text, see the link above.</lic>
                <xt>Hele vinteren hadde vi gått på skolen slik at vi var gått lei.</xt>
             </xg>
          </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">hele_SWE</t>
+         </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -306,7 +360,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="åa4" />
+               <book name="åa4"/>
             </sources>
          </app>
       </apps>
@@ -319,6 +373,9 @@ For the full license text, see the link above.</lic>
                <x>Såemies skuvlh edtjieh ööhpehtimmiem saemiengïelesne faaledh.</x>
                <xt>Noen skoler skal tilby undervisning i samisk.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">en viss_SWE</t>
          </tg>
       </mg>
    </e>
@@ -333,6 +390,9 @@ For the full license text, see the link above.</lic>
                <x>Eah sih gaajhkesh utnieh dïhte lea daerpies.</x>
                <xt>Ikke alle synes det er nødvendig.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" tcomm="no" xml:lang="swe">alle personer_SWE</t>
          </tg>
       </mg>
    </e>
