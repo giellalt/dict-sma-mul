@@ -23291,7 +23291,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" tcomm="no">moster eldre enn mor</tf>
             <tf dict="no" oa="yes" tcomm="no">moster eldre enn mamma</tf>
             <t dict="no" oa="yes" pos="n" tcomm="yes" xml:lang="nob">moster</t>
-            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">tante</t>
+            <t decl="x" dict="no" gen="f" oa="yes" pos="n" tcomm="yes" xml:lang="nob">tante</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -76173,11 +76173,24 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n" soggi="e" stem="2syll">båatsoeburrieskuvle</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
+            <semantics>
+               <sem class="SCHOOL" />
+            </semantics>
             <t dict="yes" oa="yes" pos="n" tcomm="no">reindriftsskole</t>
          </tg>
          <tg xml:lang="swe">
+            <semantics>
+               <sem class="SCHOOL" />
+            </semantics>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">reindriftsskole_SWE</t>
          </tg>
       </mg>
