@@ -29,35 +29,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict">
       <lg>
-         <l pos="adv">aavone</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa3"/>
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-            <semantics>
-               <sem class="HUMAN_A"/>
-               <sem class="FEELING"/>
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">glad</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">lykkelig</t>
-         </tg>
-         <tg xml:lang="swe">
-            <semantics>
-               <sem class="HUMAN_A"/>
-               <sem class="FEELING"/>
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">glad_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="adv">minngielistie</l>
       </lg>
       <mg>
@@ -277,18 +248,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <semantics>
-               <sem class="HUMAN_A"/>
-               <sem class="FEELING"/>
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">glad</t>
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">lykkelig</t>
          </tg>
          <tg xml:lang="swe">
-            <semantics>
-               <sem class="HUMAN_A"/>
-               <sem class="FEELING"/>
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">glad_SWE</t>
          </tg>
       </mg>
@@ -749,7 +712,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="TIME_A"/>
+               <sem class="TIME"/>
             </semantics>
             <re>om tid</re>
             <t dict="yes"  stat="pref" oa="yes" pos="adv" tcomm="no" xml:lang="nob">forbi</t>
@@ -764,9 +727,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <semantics>
-               <sem class="TIME_A"/>
-            </semantics>
             <re>om tid_SWE</re>
             <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">forbi_SWE</t>
          </tg>
