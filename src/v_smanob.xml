@@ -601,7 +601,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="II" pos="v" stem="2syll" umlaut="full" vow="x">abrodh</l>
+         <l class="II" context="upers" pos="v" stem="2syll" umlaut="full" vow="x">abrodh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -1296,7 +1296,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" vow="aa">baajnedh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" vow="aa">baajnedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -1513,7 +1513,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l diph="yes" pos="v" stem="3syll">baektjiedidh</l>
+         <l context="3pers" diph="yes" pos="v" stem="3syll">baektjiedidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -1945,7 +1945,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="MOVEMENT_V" />
+               <sem class="ABSTRACT" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bære i vei</tf>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bære i veg</tf>
@@ -3100,7 +3100,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" p3p="brårra" pos="v" stem="2syll" umlaut="full" vow="x">brorredh</l>
+         <l class="IV" context="3pers" minip="notSg1" p3p="brårra" pos="v" stem="2syll" umlaut="full"
+         vow="x">brorredh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -3316,7 +3317,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="I" pos="v" stem="2syll" umlaut="full" vow="x">bueledh</l>
+         <l class="I" context="3pers" pos="v" stem="2syll" umlaut="full" vow="x">bueledh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -4851,7 +4852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" umlaut="full" vow="x">bïevledh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" umlaut="full" vow="x">bïevledh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -6662,7 +6663,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="v" stem="3syll">deahpadidh</l>
+         <l context="3pers" pos="v" stem="3syll">deahpadidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -7460,7 +7461,8 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" p3p="dualta" pos="v" stem="2syll" umlaut="full" vow="x">doeltedh</l>
+         <l class="IV" context="3pers" minip="notSg1" p3p="dualta" pos="v" stem="2syll" umlaut="full"
+         vow="x">doeltedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -8830,7 +8832,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" p3p="deava" pos="v" stem="2syll" umlaut="full" vow="x">dïevedh</l>
+         <l class="IV" context="3pers" minip="notSg1" p3p="deava" pos="v" stem="2syll" umlaut="full" vow="x">dïevedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -9269,7 +9271,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="v" stem="3syll">easadidh</l>
+         <l context="3pers" pos="v" stem="3syll">easadidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -27037,7 +27039,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="MOVEMENT_V" />
+               <sem class="HUMAN_V" />
             </semantics>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">gå forbi hverandre</tf>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">omgås</t>
@@ -27046,7 +27048,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="MOVEMENT_V" />
+               <sem class="HUMAN_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="swe">omgås_SWE</t>
          </tg>
