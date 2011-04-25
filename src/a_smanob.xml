@@ -29,6 +29,57 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict">
       <lg>
+         <l pos="a">minngebe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="3" dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">neste</t>
+            <t decl="3" dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">følgende</t>
+            <xg>
+               <x>minngeben aereden</x>
+               <xt>neste morgen</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="3" dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">neste_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="a">suejies</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="s4"/>
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <tf dict="yes" pos="phrase_a" xml:lang="nob" oa="yes" tcomm="no">skerjmet for vind</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <tf dict="yes" pos="phrase_a" oa="yes" tcomm="no" xml:lang="swe">skerjmet for vind_SWE</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="a">fahkes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">våken</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">våken_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="a">aales</l>
       </lg>
       <apps>
@@ -8994,7 +9045,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l pos="a">tsåaptsele</l>
+         <l pos="a">tsåeptsele</l>
       </lg>
       <apps>
          <app name="oahpa">
