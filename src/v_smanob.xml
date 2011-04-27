@@ -25729,7 +25729,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" pos="v" stem="2syll" umlaut="full" vow="x">lïgkedh</l>
+         <l class="IV" context="upers" minip="notSg1" pos="v" stem="2syll" umlaut="full" vow="x">lïgkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -25877,7 +25877,8 @@ For the full license text, see the link above.</lic>
                <sem class="HUMAN_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">låne</t>
-            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">låne noe</tf>
+            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">låne ut</tf>
+            <tf dict="no">låne av</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -26017,7 +26018,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" pos="v" stem="2syll">maaskedh</l>
+         <l class="III" context="3pers" pos="v" stem="2syll">maaskedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -26049,7 +26050,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="v" stem="3syll">maaskenidh</l>
+         <l context="3pers" pos="v" stem="3syll">maaskenidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -26845,11 +26846,24 @@ For the full license text, see the link above.</lic>
          <l pos="v" stem="3syll">mohtedidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">sammenligne</t>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">sammenligne</t>
          </tg>
          <tg xml:lang="swe">
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe">sammenligne_SWE</t>
          </tg>
       </mg>
@@ -26903,6 +26917,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">forsøke å huske på</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">forsøke å komme på</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">forsøke å minnes</tf>
+            <tf dict="no" pos="phrase_v">prøve å huske</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">komme på</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">minnes</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">huske</t>
@@ -27144,7 +27159,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l diph="yes" pos="v" stem="3syll">muerkiestidh</l>
+         <l context="3pers" diph="yes" pos="v" stem="3syll">muerkiestidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -27267,7 +27282,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l diph="yes" pos="v" stem="3syll">mulliedidh</l>
+         <l context="upers" diph="yes" pos="v" stem="3syll">mulliedidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -27415,7 +27430,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="VI" pos="v" stem="2syll">mutskedh</l>
+         <l class="VI" context="upers" pos="v" stem="2syll">mutskedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -27442,7 +27457,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l diph="yes" pos="v" stem="3syll">mutskiehtidh</l>
+         <l context="upers" diph="yes" pos="v" stem="3syll">mutskiehtidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -27883,7 +27898,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" pos="v" stem="2syll">mårhkedh</l>
+         <l class="III" context="3pers" pos="v" stem="2syll">mårhkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -28051,7 +28066,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" p3p="meatsa" pos="v" stem="2syll" umlaut="full" vow="x">mïetsedh</l>
+         <l class="IV" context="upers" p3p="meatsa" pos="v" stem="2syll" umlaut="full" vow="x">mïetsedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -28080,7 +28095,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" umlaut="full" vow="x">mïetskedh</l>
+         <l class="IV" context="upers" pos="v" stem="2syll" umlaut="full" vow="x">mïetskedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -28473,7 +28488,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" p3p="napkoe" pos="v" stem="2syll">napkedh</l>
+         <l class="III" context="3pers" p3p="napkoe" pos="v" stem="2syll">napkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -29169,7 +29184,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l p3p="njabpeste" pos="v" stem="3syll">njabpestidh</l>
+         <l context="3pers" p3p="njabpeste" pos="v" stem="3syll">njabpestidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -29198,7 +29213,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="III" minip="notSg1" p3p="njalkoe" pos="v" stem="2syll">njalkedh</l>
+         <l class="III" context="3pers" minip="notSg1" p3p="njalkoe" pos="v" stem="2syll">njalkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -29301,7 +29316,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" pos="v" stem="2syll">njeajkedh</l>
+         <l class="III" context="3pers" pos="v" stem="2syll">njeajkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -29710,7 +29725,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" p3p="njuatsa" pos="v" stem="2syll" umlaut="full" vow="x">njoetsedh</l>
+         <l class="IV" context="3pers" p3p="njuatsa" pos="v" stem="2syll" umlaut="full" vow="x">njoetsedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -29742,7 +29757,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="V" pos="v" stem="2syll">njolledh</l>
+         <l class="V" context="3pers" pos="v" stem="2syll">njolledh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -29807,7 +29822,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l p3p="njovhkede" pos="v" stem="3syll">njovhkedidh</l>
+         <l context="3pers" p3p="njovhkede" pos="v" stem="3syll">njovhkedidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -29991,7 +30006,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="ANIMAL_V" />
-               <sem class="BODY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">slikke</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">sleike</t>
@@ -30003,7 +30017,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <semantics>
                <sem class="ANIMAL_V" />
-               <sem class="BODY_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="swe">slikke_SWE</t>
          </tg>
@@ -30103,8 +30116,8 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
-            <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">hoppe flere gang</tf>
-            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">hoppe flere ganger</tf>
+            <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">hoppe flere ganger</tf>
+            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">hoppe flere gang</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">hoppe</t>
             <xg>
                <x>Treavkaj nelnie njålhtjoeh.</x>
@@ -30896,6 +30909,7 @@ For the full license text, see the link above.</lic>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">ymte</t>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">snakke frampå</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">hinte</t>
+            <t dict="no" pos="v">antyde</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -31411,7 +31425,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l minip="notSg1" p3p="obrije" pos="v" stem="3syll">obrijidh</l>
+         <l context="upers" minip="notSg1" p3p="obrije" pos="v" stem="3syll">obrijidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -31485,6 +31499,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">savne</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">sakne</t>
+            <t dict="no" pos="v">lengte</t>
             <xg>
                <x>Båatam dam ohtsedh.</x>
                <xt>Jeg kommer til å savne det.</xt>
@@ -31711,7 +31726,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" umlaut="full" vow="x">ovledh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" umlaut="full" vow="x">ovledh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -32348,7 +32363,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" vow="aa">raavtedh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" vow="aa">raavtedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -32407,9 +32422,22 @@ For the full license text, see the link above.</lic>
          <l diph="yes" p3p="raejkede" pos="v" stem="3syll">raejkiedidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">lage hull i</t>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <tf pos="phrase_v" stat="pref">lage hull</tf>
+            <tf dict="no" pos="phrase_v">lage hull i</tf>
+            <tf dict="no" pos="phrase_v">ordne hull</tf>
+            <tf dict="no" pos="phrase_v">gjøre hull</tf>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">göra hål i ngt</t>
@@ -32611,6 +32639,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">ha det gøy</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">ha det arti</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">more seg</tf>
+            <t dict="no" pos="v">leke</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -32835,7 +32864,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="FISHING" />
-               <sem class="FOOD_DRINK_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">rense</t>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">renske</t>
@@ -32845,7 +32873,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <semantics>
                <sem class="FISHING" />
-               <sem class="FOOD_DRINK_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">rensa</t>
          </tg>
@@ -32928,7 +32955,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="HERDING" />
                <sem class="VÆTNOE" />
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">skrape skinn</tf>
@@ -33087,7 +33113,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" vow="a">rihkijahtjedh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" vow="a">rihkijahtjedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33369,7 +33395,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="V" pos="v" stem="2syll">rohtedh</l>
+         <l class="V" context="3pers" pos="v" stem="2syll">rohtedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33658,7 +33684,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="II" pos="v" stem="2syll" umlaut="full" vow="x">råakodh</l>
+         <l class="II" context="3pers" pos="v" stem="2syll" umlaut="full" vow="x">råakodh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33687,7 +33713,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" vow="åa">råanedh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" vow="åa">råanedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33719,7 +33745,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" pos="v" stem="2syll" vow="åa">råanjedh</l>
+         <l class="IV" context="upers" minip="notSg1" pos="v" stem="2syll" vow="åa">råanjedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33768,7 +33794,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" pos="v" stem="2syll" vow="åa">råatedh</l>
+         <l class="IV" context="3pers" pos="v" stem="2syll" vow="åa">råatedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33798,7 +33824,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" pos="v" stem="2syll" vow="åa">råavedh</l>
+         <l class="IV" context="3pers" minip="notSg1" pos="v" stem="2syll" vow="åa">råavedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33849,7 +33875,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="nobsma" usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" p3p="råavka" pos="v" stem="2syll" vow="åa">råavkedh</l>
+         <l class="IV" context="3pers" minip="notSg1" p3p="råavka" pos="v" stem="2syll" vow="åa">råavkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -33983,7 +34009,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l p3p="rïeresje" pos="v" stem="3syll">rïeresjidh</l>
+         <l context="3pers" p3p="rïeresje" pos="v" stem="3syll">rïeresjidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -34051,7 +34077,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l pos="v" stem="3syll">rïhkijidh</l>
+         <l context="3pers" pos="v" stem="3syll">rïhkijidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -34249,6 +34275,8 @@ For the full license text, see the link above.</lic>
                <sem class="GAMME" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">rydde ordentlig</tf>
+            <tf dict="no" pos="phrase_v">rydde skikkelig</tf>
+            <t dict="no" pos="v">rydde</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -34373,7 +34401,7 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="" />
+               <book name="xxx" />
             </sources>
          </app>
       </apps>
@@ -34679,7 +34707,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" pos="v" stem="2syll">sealkedh</l>
+         <l class="III" context="3pers" pos="v" stem="2syll">sealkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -34995,15 +35023,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="BODY_V" />
+               <sem class="HUMAN_V" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">lengte etter</tf>
-            <te dict="yes" oa="yes">lengte etter mat eller drikke</te>
+            <te dict="yes" oa="yes">f.eks mat eller drikke</te>
             <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">ønske seg</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="BODY_V" />
+               <sem class="HUMAN_V" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">önska sej</t>
             <t dict="yes" oa="yes" pos="v" tcomm="no">längta efter</t>
@@ -35062,13 +35090,12 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="HERDING" />
             </semantics>
-            <re>om rein</re>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">føre</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">drive</t>
-            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">føre rein</tf>
+            <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">føre rein</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">drive rein</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">føre en reinsflokk</tf>
-            <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">drive en reinsflokk</tf>
+            <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">drive en reinsflokk</tf>
+            <t dict="no" pos="v">føre</t>
+            <t dict="no" pos="v">drive</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -35121,6 +35148,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">ta av</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">trekke av</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">trekke av seg</tf>
+            <tf dict="no" pos="phrase_v">ta av seg</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -35231,7 +35259,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" minip="notSg1" p3p="sjalkoe" pos="v" stem="2syll">sjalkedh</l>
+         <l class="III" context="3pers" minip="notSg1" p3p="sjalkoe" pos="v" stem="2syll">sjalkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -35345,8 +35373,11 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="FOOD_DRINK_V" />
             </semantics>
-            <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">smelte noe</tf>
-            <tf dict="yes" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">tine noe</tf>
+            <te>f.eks om det å smelte snø eller smør</te>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">smelte </t>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">smelte noe</tf>
+            <t dict="no" pos="v" tcomm="yes">tine</t>
+            <tf dict="no" pos="phrase_v">tine noe</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -35370,6 +35401,7 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
+            <te>f.eks om det å smelte snø eller smør</te>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">smelte</t>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">smelte noe</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">tine</t>
@@ -35825,7 +35857,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" p3p="skaanja" pos="v" stem="2syll" vow="aa">skaanjedh</l>
+         <l class="IV" context="3pers" p3p="skaanja" pos="v" stem="2syll" vow="aa">skaanjedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -35971,7 +36003,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="VI" pos="v" stem="2syll">skeeredh</l>
+         <l class="VI" context="3pers" pos="v" stem="2syll">skeeredh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -36010,7 +36042,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
-         <l pos="v" stem="3syll">skeerestidh</l>
+         <l context="3pers" pos="v" stem="3syll">skeerestidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -81397,9 +81429,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v" stem="3syll">rïhpesidh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">åpne seg</t>
+            <semantics>
+               <sem class="EXPOSURE_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">åpne seg</t>
+            <t dict="no" pos="v">åpnes</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">öppna sej</t>
