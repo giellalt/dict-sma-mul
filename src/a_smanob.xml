@@ -52,16 +52,16 @@ For the full license text, see the link above.</lic>
       <apps>
          <app name="oahpa">
             <sources>
-               <book name="s4"/>
+               <book name="s4" />
             </sources>
          </app>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" pos="phrase_a" xml:lang="nob" oa="yes" tcomm="no">skerjmet for vind</tf>
+            <tf dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="nob">skerjmet for vind</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" pos="phrase_a" oa="yes" tcomm="no" xml:lang="swe">skerjmet for vind_SWE</tf>
+            <tf dict="yes" oa="yes" pos="phrase_a" tcomm="no" xml:lang="swe">skerjmet for vind_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1617,15 +1617,9 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <semantics>
-               <sem class="NATURE_A" />
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">tett</t>
          </tg>
          <tg xml:lang="swe">
-            <semantics>
-               <sem class="NATURE_A" />
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">tett_SWE</t>
          </tg>
       </mg>
@@ -1844,7 +1838,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="HUMAN_A" />
                <sem class="SCHOOL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">skikkelig</t>
@@ -1856,7 +1849,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="HUMAN_A" />
                <sem class="SCHOOL_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">skikkelig_SWE</t>
@@ -1914,9 +1906,6 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <semantics>
-               <sem class="BODY_A" />
-            </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">i veien</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">som mangler</tf>
             <tf dict="no" oa="yes" tcomm="no">som feiler</tf>
@@ -1930,9 +1919,6 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <semantics>
-               <sem class="BODY_A" />
-            </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="swe">i veien_SWE</tf>
          </tg>
       </mg>
@@ -2085,16 +2071,10 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <semantics>
-               <sem class="NATURE_A" />
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">slimbelagt</t>
             <t dict="no" oa="yes" pos="a" tcomm="no">slimete</t>
          </tg>
          <tg xml:lang="swe">
-            <semantics>
-               <sem class="NATURE_A" />
-            </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">slimbelagt_SWE</t>
          </tg>
       </mg>
@@ -2195,7 +2175,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="ABSTRACT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">eksisterende</t>
             <tf dict="no" oa="yes" pos="phrase_a" tcomm="no" xml:lang="nob">som finnes</tf>
@@ -2206,7 +2186,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="ABSTRACT" />
+               <sem class="ABSTRACT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">eksisterende_SWE</t>
          </tg>
@@ -2257,7 +2237,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="CLOTHES_A" />
-               <sem class="OBJECT_A" />
                <sem class="BUILDING_ROOM_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">trang</t>
@@ -2268,7 +2247,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <semantics>
                <sem class="CLOTHES_A" />
-               <sem class="OBJECT_A" />
                <sem class="BUILDING_ROOM_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">trang_SWE</t>
@@ -2376,7 +2354,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <semantics>
                <sem class="OBJECT_A" />
-               <sem class="NATURE_A" />
                <sem class="BUILDING_ROOM_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">bred</t>
@@ -2386,7 +2363,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="swe">
             <semantics>
                <sem class="OBJECT_A" />
-               <sem class="NATURE_A" />
                <sem class="BUILDING_ROOM_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">bred_SWE</t>
@@ -2465,7 +2441,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="SOUP_A" />
                <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">hard</t>
@@ -2477,7 +2452,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="SOUP_A" />
                <sem class="OBJECT_A" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">hard_SWE</t>
