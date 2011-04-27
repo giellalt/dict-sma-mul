@@ -35374,7 +35374,7 @@ For the full license text, see the link above.</lic>
                <sem class="FOOD_DRINK_V" />
             </semantics>
             <te>f.eks om det å smelte snø eller smør</te>
-            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">smelte </t>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">smelte</t>
             <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">smelte noe</tf>
             <t dict="no" pos="v" tcomm="yes">tine</t>
             <tf dict="no" pos="phrase_v">tine noe</tf>
@@ -36526,7 +36526,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l minip="notSg1" p3p="skuarhtjede" pos="v" stem="3syll">skuarhtjadidh</l>
+         <l context="3pers" minip="notSg1" p3p="skuarhtjede" pos="v" stem="3syll">skuarhtjadidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -36635,7 +36635,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="v" stem="3syll">skïemmenidh</l>
+         <l context="3pers" pos="v" stem="3syll">skïemmenidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -36665,7 +36665,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="IV" minip="notSg1" pos="v" stem="2syll" umlaut="full" vow="x">skïeredh</l>
+         <l class="IV" context="3pers" minip="notSg1" pos="v" stem="2syll" umlaut="full" vow="x">skïeredh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -36808,7 +36808,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="v" stem="3syll">slahtjegidh</l>
+         <l context="3pers" pos="v" stem="3syll">slahtjegidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
       <apps>
@@ -36852,7 +36852,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="III" pos="v" stem="2syll">slajkedh</l>
+         <l class="III" context="3pers" pos="v" stem="2syll">slajkedh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -37783,7 +37783,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l class="VI" minip="notSg1" p3p="snöölie" pos="v" stem="2syll">snööledh</l>
+         <l class="VI" context="3pers" minip="notSg1" p3p="snöölie" pos="v" stem="2syll">snööledh</l>
       </lg>
       <stem class="bisyllabic"></stem>
       <apps>
@@ -37903,11 +37903,24 @@ For the full license text, see the link above.</lic>
          <l pos="v" stem="3syll">soelkehtidh</l>
       </lg>
       <stem class="trisyllabic"></stem>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">trøste</t>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">trøste</t>
          </tg>
          <tg xml:lang="swe">
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">trösta</t>
          </tg>
       </mg>
@@ -38069,14 +38082,14 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <semantics>
-               <sem class="BODY_V" />
+               <sem class="TRAD_FOOD" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">spise kjøttbein reint</t>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">gnage kjøttbein reint</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
-               <sem class="BODY_V" />
+               <sem class="TRAD_FOOD" />
             </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="swe">spise kjøttbein reint_SWE</t>
          </tg>
@@ -38363,6 +38376,7 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">begynne å ro</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">starte å ro</tf>
+            <t dict="no" pos="v" tcomm="yes">ro</t>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -38501,6 +38515,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">legge på spon</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">legge spon på bellinger</tf>
             <t dict="no" oa="yes" pos="v" tcomm="no" xml:lang="nob">spone</t>
+            <tf dict="no" pos="phrase_v">legge spon</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -38534,7 +38549,7 @@ For the full license text, see the link above.</lic>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">spile skinn</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">spile kjøtt</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">spile fisk</tf>
-            <te dict="yes" oa="yes">spile skinn, kjøtt, fisk til tørking</te>
+            <te dict="yes" oa="yes">spile f.eks skinn, kjøtt, fisk til tørking</te>
          </tg>
          <tg xml:lang="swe">
             <semantics>
