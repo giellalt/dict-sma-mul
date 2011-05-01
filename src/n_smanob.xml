@@ -48,24 +48,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="n">noerhte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">nord</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">nord_SWE</t>
-         </tg>
-      </mg>
-      <mg xml:lang="sme">
-         <tg xml:lang="sme">
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="sme">davvi</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="n">jillie</l>
       </lg>
       <mg>
@@ -29610,8 +29592,8 @@ For the full license text, see the link above.</lic>
                <sem class="CHRISTMAS" />
                <sem class="mCONVERSATION" />
             </semantics>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">Gud</t>
-            <t dict="no" oa="yes" pos="n" tcomm="no">gud</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">gud</t>
+            <t dict="no" oa="yes" pos="n" tcomm="no">Gud</t>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <semantics>
@@ -29619,22 +29601,8 @@ For the full license text, see the link above.</lic>
                <sem class="CHRISTMAS" />
                <sem class="mCONVERSATION" />
             </semantics>
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">Gud</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">gud</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">gud</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l margo="e" pos="n" soggi="ie" stem="3syll">jupmele</l>
-      </lg>
-      <stem class="trisyllabic"></stem>
-      <mg>
-         <tg xml:lang="nob">
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">gud</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">gud_SWE</t>
          </tg>
       </mg>
    </e>
@@ -41727,6 +41695,11 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_PLACE" />
             </semantics>
             <t decl="x" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">nord_SWE</t>
+         </tg>
+      </mg>
+      <mg xml:lang="sme">
+         <tg xml:lang="sme">
+            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="sme">davvi</t>
          </tg>
       </mg>
    </e>
