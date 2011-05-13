@@ -48994,6 +48994,8 @@ For the full license text, see the link above.</lic>
             </semantics>
             <tf dict="yes" oa="yes" stat="pref" tcomm="no" xml:lang="nob">skjære til</tf>
             <tf dict="yes" oa="yes" tcomm="no" xml:lang="nob">klippe til</tf>
+            <t dict="no" pos="v" tcomm="yes">skjære</t>
+            <t dict="no" pos="v">klippe</t>
             <xg>
                <x>gåptoem vïjjedh</x>
                <xt>klippe til kofte</xt>
@@ -49426,8 +49428,8 @@ For the full license text, see the link above.</lic>
                <sem class="LEISURETIME_HOME_V" />
             </semantics>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bli kjent med flere</tf>
-            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bli kjent med</tf>
-            <tf dict="no" oa="yes" pos="phrase_v" tcomm="no" xml:lang="nob">bli kjent</tf>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="yes" xml:lang="nob">bli kjent med</tf>
+            <tf dict="no" oa="yes" pos="phrase_v" tcomm="yes" xml:lang="nob">bli kjent</tf>
          </tg>
          <tg xml:lang="swe">
             <semantics>
@@ -51720,6 +51722,7 @@ For the full license text, see the link above.</lic>
             <tf dict="yes" oa="yes" pos="phrase_v" stat="pref" tcomm="no" xml:lang="nob">bli bedre</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">bli friskere</tf>
             <tf dict="no" oa="yes" tcomm="no" xml:lang="nob">friskne til</tf>
+            <tf dict="no" pos="phrase_v">forbedre seg</tf>
             <xg>
                <x>Novh leam gossehtsijstie buaranamme.</x>
                <xt>Jeg har blitt bedre av hosten.</xt>
@@ -52478,9 +52481,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l class="IV" pos="v" xml:lang="nob">tjoevkedh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">lyse</t>
+            <semantics>
+               <sem class="WEATHER_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">lyse</t>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="swe">lyse_SWE</t>
@@ -82343,11 +82356,24 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v" stem="3syll">saeviehtidh</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="v" tcomm="no" xml:lang="nob">vinke</t>
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no" xml:lang="nob">vinke</t>
          </tg>
          <tg xml:lang="swe">
+            <semantics>
+               <sem class="HUMAN_V" />
+            </semantics>
             <t dict="yes" oa="yes" pos="v" stat="pref" tcomm="no">vinka</t>
          </tg>
       </mg>
