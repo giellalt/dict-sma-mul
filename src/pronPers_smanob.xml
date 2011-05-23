@@ -2767,6 +2767,7 @@ For the full license text, see the link above.</lic>
             </analysis>
             <analysis ms="Pron_Pers_Du3_Gen">
                <wordform>dej guaktaj</wordform>
+               <wordform>daj guaktaj</wordform>
             </analysis>
             <analysis ms="Pron_Pers_Du3_Ill">
                <wordform>dejtie guaktide</wordform>
@@ -2779,6 +2780,7 @@ For the full license text, see the link above.</lic>
             </analysis>
             <analysis ms="Pron_Pers_Du3_Com">
                <wordform>dej guaktajgujmie</wordform>
+               <wordform>daj guaktajgujmie</wordform>
             </analysis>
          </mini_paradigm>
       </lg>
@@ -2865,6 +2867,45 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
+         <l pos="pron" type="pers">dej guaktaj</l>
+         <lemma_ref lemmaID="dah_guaktah_pron_pers">dah guaktah</lemma_ref>
+         <analysis>Pron_Pers_Du3_Gen</analysis>
+      </lg>
+      <apps>
+         <app name="oahpa"/>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="PRON"/>
+            </semantics>
+            <re>om to, 3. person</re>
+            <t dict="yes" oa="yes" pos="pron" tcomm="no">deres</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">de to sine</t>
+            <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no">dem to sine</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">deres to sine</t>
+            <t dict="no" oa="yes" pos="pron" tcomm="no">deres to sin</t>
+         </tg>
+         <tg xml:lang="swe">
+            <re>om to, 3. person_SWE</re>
+            <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">dem to sine_SWE</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de to har</t>
+            <xg>
+               <x>Dej guaktah lea vïnhtse.</x>
+               <xt>De to har en båt.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">de to har_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="pron" type="pers">dejtie guaktide</l>
          <lemma_ref lemmaID="dah_guaktah_pron_pers">dah guaktah</lemma_ref>
          <analysis>Pron_Pers_Du3_Ill</analysis>
@@ -2919,6 +2960,27 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">fra de to_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pron" type="pers">dej guaktajgujmie</l>
+         <lemma_ref lemmaID="dah_guaktah_pron_pers">dah guaktah</lemma_ref>
+         <analysis>Pron_Pers_Du3_Com</analysis>
+      </lg>
+      <apps>
+         <app name="oahpa"/>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="PRON"/>
+            </semantics>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">med de to</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">med de to_SWE</t>
          </tg>
       </mg>
    </e>
