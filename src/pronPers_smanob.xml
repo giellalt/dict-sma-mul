@@ -29,201 +29,6 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">mån</l>
-         <analysis>Pron_Pers_Sg1</analysis>
-         <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg2">
-               <wordform>dån</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Sg3">
-               <wordform>sån</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Du1">
-               <wordform>min</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Du2">
-               <wordform>din</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Du3">
-               <wordform>sin</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Pl1">
-               <wordform>mih</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Pl2">
-               <wordform>dih</wordform>
-            </analysis>
-            <analysis ms="Pron_Pers_Pl3">
-               <wordform>sih</wordform>
-            </analysis>
-         </mini_paradigm>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">jeg</t>
-            <xg>
-               <x>Jirreden mån båatam.</x>
-               <xt>I morgen kommer jeg vel.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">jeg_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">dån</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Sg2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">du</t>
-            <xg>
-               <x>Datne dån daajrah.</x>
-               <xt>Du vet vel.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">du_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">sån</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no">han eller hun</t>
-            <t dict="no" oa="yes" pos="pron" tcomm="no">han/hun</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="yes">han</t>
-            <t dict="yes" oa="yes" pos="pron" tcomm="yes">hun</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="no" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">han eller hun_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">min</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Du1_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">vi to</t>
-            <xg>
-               <x>Jirreden min båetien.</x>
-               <xt>Vi to kommer vel i morgen</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vi to_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">din</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Du2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to</t>
-            <xg>
-               <x>Dåtnoeh din aaj båeteden?</x>
-               <xt>Dere to kommer vel også?</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">dere to_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">sin</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Du3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de to</t>
-            <xg>
-               <x>Dah guaktah sin aaj desnie.</x>
-               <xt>De to var vel også der.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">de to_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">mih</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Pl1_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">vi</t>
-            <xg>
-               <x>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</x>
-               <xt>Også vi kan vel lære noe av dem.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vi_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">dih</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Pl2_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere</t>
-            <xg>
-               <x>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</x>
-               <xt>Dere får vel også høre hvordan det blir.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">dere_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="pers">sih</l>
-         <lemma_ref lemmaID="mån_pron_pers">mån</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Nom</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">de</t>
-            <xg>
-               <x>Jeehtin, nov sih sijjieh aaj båetieh.</x>
-               <xt>De sa at nå kommer vel de også.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">de_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="pron" type="pers">manne</l>
          <analysis>Pron_Pers_Sg1_Nom</analysis>
          <mini_paradigm>
@@ -1551,25 +1356,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">satne</l>
-         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <l pos="pron" type="logo">satne</l>
+         <analysis>Pron_Logo_Sg3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Sg3_Acc">
+            <analysis ms="Pron_Logo_Sg3_Acc">
                <wordform>satnem</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Gen">
+            <analysis ms="Pron_Logo_Sg3_Gen">
                <wordform>sov</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ill">
+            <analysis ms="Pron_Logo_Sg3_Ill">
                <wordform>sutnjien</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ine">
+            <analysis ms="Pron_Logo_Sg3_Ine">
                <wordform>satnesne</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Ela">
+            <analysis ms="Pron_Logo_Sg3_Ela">
                <wordform>satneste</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Sg3_Com">
+            <analysis ms="Pron_Logo_Sg3_Com">
                <wordform>satnine</wordform>
             </analysis>
          </mini_paradigm>
@@ -1598,9 +1403,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">satnem</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Acc</analysis>
+         <l pos="pron" type="logo">satnem</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Acc</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1627,9 +1432,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sov</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Gen</analysis>
+         <l pos="pron" type="logo">sov</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Gen</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1670,9 +1475,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sutnjien</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ill</analysis>
+         <l pos="pron" type="logo">sutnjien</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Ill</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1702,9 +1507,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">satnesne</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ine</analysis>
+         <l pos="pron" type="logo">satnesne</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Ine</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1721,9 +1526,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">satneste</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Ela</analysis>
+         <l pos="pron" type="logo">satneste</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Ela</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1753,9 +1558,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">satnine</l>
-         <lemma_ref lemmaID="satne_pron_pers">satne</lemma_ref>
-         <analysis>Pron_Pers_Sg3_Com</analysis>
+         <l pos="pron" type="logo">satnine</l>
+         <lemma_ref lemmaID="satne_pron_logo">satne</lemma_ref>
+         <analysis>Pron_Logo_Sg3_Com</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1781,25 +1586,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">såtnoeh</l>
-         <analysis>Pron_Pers_Du3_Nom</analysis>
+         <l pos="pron" type="logo">såtnoeh</l>
+         <analysis>Pron_Logo_Du3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Du3_Acc">
+            <analysis ms="Pron_Logo_Du3_Acc">
                <wordform>sotnem</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Gen">
+            <analysis ms="Pron_Logo_Du3_Gen">
                <wordform>sotnen</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Ill">
+            <analysis ms="Pron_Logo_Du3_Ill">
                <wordform>sotnese</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Ine">
+            <analysis ms="Pron_Logo_Du3_Ine">
                <wordform>sotnesne</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Ela">
+            <analysis ms="Pron_Logo_Du3_Ela">
                <wordform>sotneste</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Du3_Com">
+            <analysis ms="Pron_Logo_Du3_Com">
                <wordform>sotnine</wordform>
             </analysis>
          </mini_paradigm>
@@ -1827,9 +1632,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotnem</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Acc</analysis>
+         <l pos="pron" type="logo">sotnem</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Acc</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1855,9 +1660,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotnen</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Gen</analysis>
+         <l pos="pron" type="logo">sotnen</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Gen</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1893,9 +1698,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotnese</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Ill</analysis>
+         <l pos="pron" type="logo">sotnese</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Ill</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1921,9 +1726,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotnesne</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Ine</analysis>
+         <l pos="pron" type="logo">sotnesne</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Ine</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -1940,9 +1745,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotneste</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Ela</analysis>
+         <l pos="pron" type="logo">sotneste</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Ela</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1971,9 +1776,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sotnine</l>
-         <lemma_ref lemmaID="såtnoeh_pron_pers">såtnoeh</lemma_ref>
-         <analysis>Pron_Pers_Du3_Com</analysis>
+         <l pos="pron" type="logo">sotnine</l>
+         <lemma_ref lemmaID="såtnoeh_pron_logo">såtnoeh</lemma_ref>
+         <analysis>Pron_Logo_Du3_Com</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -1999,25 +1804,25 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjieh</l>
-         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <l pos="pron" type="logo">sijjieh</l>
+         <analysis>Pron_Logo_Pl3_Nom</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Pers_Pl3_Acc">
+            <analysis ms="Pron_Logo_Pl3_Acc">
                <wordform>sijjem</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Gen">
+            <analysis ms="Pron_Logo_Pl3_Gen">
                <wordform>sijjen</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Ill">
+            <analysis ms="Pron_Logo_Pl3_Ill">
                <wordform>sijjese</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Ine">
+            <analysis ms="Pron_Logo_Pl3_Ine">
                <wordform>sijjesne</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Ela">
+            <analysis ms="Pron_Logo_Pl3_Ela">
                <wordform>sijjeste</wordform>
             </analysis>
-            <analysis ms="Pron_Pers_Pl3_Com">
+            <analysis ms="Pron_Logo_Pl3_Com">
                <wordform>sijjine</wordform>
             </analysis>
          </mini_paradigm>
@@ -2043,9 +1848,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjem</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Acc</analysis>
+         <l pos="pron" type="logo">sijjem</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Acc</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -2068,9 +1873,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjen</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Gen</analysis>
+         <l pos="pron" type="logo">sijjen</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Gen</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -2095,9 +1900,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjese</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ill</analysis>
+         <l pos="pron" type="logo">sijjese</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Ill</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -2120,9 +1925,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjesne</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ine</analysis>
+         <l pos="pron" type="logo">sijjesne</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Ine</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2136,9 +1941,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjeste</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Ela</analysis>
+         <l pos="pron" type="logo">sijjeste</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Ela</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
@@ -2162,9 +1967,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="pron" type="pers">sijjine</l>
-         <lemma_ref lemmaID="sijjieh_pron_pers">sijjieh</lemma_ref>
-         <analysis>Pron_Pers_Pl3_Com</analysis>
+         <l pos="pron" type="logo">sijjine</l>
+         <lemma_ref lemmaID="sijjieh_pron_logo">sijjieh</lemma_ref>
+         <analysis>Pron_Logo_Pl3_Com</analysis>
       </lg>
       <apps>
          <app name="oahpa"/>
