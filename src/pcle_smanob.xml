@@ -29,6 +29,50 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict">
       <lg>
+         <l pos="pcle">mån</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 1.p. entall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Jirreden mån båatam.</x>
+               <xt>I morgen kommer jeg vel.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 1.p. entall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">dån</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 2.p. entall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Datne dån daajrah.</x>
+               <xt>Du vet vel.</xt>  
+            </xg>
+            <xg>
+               <x>Gieres jåvle-aajja. Ih dån datne mov maanide åajaldehtieh?</x>
+               <xt>Kjære julenisse. Du glemmer vel ikke mine barn?</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 2.p. entall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="pcle">sån</l>
       </lg>
       <apps>
@@ -42,14 +86,137 @@ For the full license text, see the link above.</lic>
       </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel uttrykker formodning eller forundring</t>
+			<re>ved subjekt 3.p. entall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
             <xg>
                <x>Piere sån daajra.</x>
                <xt>Piere vet vel.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">vel uttrykker formodning eller forundring_SWE</t>
+			<re>ved subjekt 3.p. entall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">min</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 1.p. totall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Jirreden min båetien.</x>
+               <xt>Vi to kommer vel i morgen</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 1.p. totall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">din</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 2.p. totall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Dåtnoeh din aaj båeteden?</x>
+               <xt>Dere to kommer vel også?</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 2.p. totall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">sin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 3.p. totall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Dah guaktah sin aaj desnie.</x>
+               <xt>De to var vel også der.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 3.p. totall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">mih</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 1.p. flertall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Mijjieh mih aaj maehtebe maam akt dejstie lïeredh.</x>
+               <xt>Også vi kan vel lære noe av dem.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 1.p. flertall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">dih</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 2.p. flertall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Dijjieh dih aaj åadtjoejidie govledh guktie sjædta.</x>
+               <xt>Dere får vel også høre hvordan det blir.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 2.p. flertall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="pcle">sih</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+			<re>ved subjekt 3.p. flertall</re>
+            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="nob">vel</t>
+            <te dict="yes" oa="yes" xml:lang="nob">uttrykker formodning eller forundring</te>
+            <xg>
+               <x>Jeehtin, nov sih sijjieh aaj båetieh.</x>
+               <xt>De sa at nå kommer vel de også.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+			<re>ved subjekt 3.p. flertall</re>
+            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no" xml:lang="swe">vel_SWE</t>
          </tg>
       </mg>
    </e>
