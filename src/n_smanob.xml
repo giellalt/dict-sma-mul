@@ -6700,6 +6700,14 @@ For the full license text, see the link above.</lic>
             <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">rest_SWE</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">furuskog</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="swe">furuskog_SWE</t>
+         </tg>
+      </mg>
    </e>
    <e exclude="smanob" usage="dict">
       <lg>
@@ -19023,16 +19031,16 @@ For the full license text, see the link above.</lic>
             <semantics>
                <sem class="ROAD" />
             </semantics>
-            <t decl="1" dict="no" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vei</t>
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">gate</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">vei</t>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="nob">gate</t>
             <t decl="1" dict="no" gen="m" oa="yes" pos="n" tcomm="no" xml:lang="nob">veg</t>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <semantics>
                <sem class="ROAD" />
             </semantics>
-            <t decl="1" dict="no" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">väg</t>
-            <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="swe">gata</t>
+            <t decl="1" dict="yes" gen="m" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="swe">väg</t>
+            <t dict="no" oa="yes" pos="n" tcomm="no" xml:lang="swe">gata</t>
          </tg>
       </mg>
    </e>
@@ -59995,6 +60003,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t decl="1" dict="yes" gen="m" pos="n" stat="pref" tcomm="no" xml:lang="nob">gårdsplass</t>
+            <xg>
+               <x>Aehtjie sjaljam båata voesse gïetesne.</x>
+               <xt>Far kommer på gårdsplassen med en sekk i handa.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" dict="yes" gen="m" pos="n" stat="pref" tcomm="no" xml:lang="swe">gårdsplass_SWE</t>
@@ -67867,8 +67879,8 @@ For the full license text, see the link above.</lic>
                <sem class="NATURE_PLACE_REINDEER" />
             </semantics>
             <t decl="1" dict="yes" gen="f" oa="yes" pos="n" stat="pref" tcomm="no" xml:lang="nob">eng</t>
-            <t decl="1" dict="yes" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">dyrket mark</t>
-            <tf dict="yes" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">dyrket eng</tf>
+            <t decl="1" dict="no" gen="f" oa="yes" pos="n" tcomm="no" xml:lang="nob">dyrket mark</t>
+            <tf dict="no" oa="yes" pos="phrase_n" tcomm="no" xml:lang="nob">dyrket eng</tf>
             <t dict="yes" oa="yes" pos="n" tcomm="no" xml:lang="nob">jorde</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">dyrkamark</t>
             <t dict="no" oa="yes" pos="n" tcomm="no">dyrkaeng</t>
