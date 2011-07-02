@@ -1536,20 +1536,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="3syll">dovrehke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">dyr</t>
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">kostbar</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">dyr_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="a" stem="3syll">dovres</l>
       </lg>
       <apps>
@@ -3201,29 +3187,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="3syll">gyöhpehke</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="dej" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-           <semantics>
-               <sem class="YYY" />
-            </semantics>            
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">lett</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">lett_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="a" stem="3syll">gyönegs</l>
       </lg>
       <apps>
@@ -3870,6 +3833,32 @@ For the full license text, see the link above.</lic>
                <sem class="FEELING" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">bedrøvet_SWE</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="dict">
+       <lg>
+         <l pos="a" stem="3syll">njåajjoeh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mismodig</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">mismodig_SWE</t>
+         </tg>
+      </mg>
+   </e>
+    <e usage="dict">
+       <lg>
+         <l pos="a" stem="3syll">njåajjah</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mismodig</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">mismodig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -5098,31 +5087,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="3syll">lyövlehke</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="dej" />
-               <book name="åa5" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-           <semantics>
-               <sem class="YYY" />
-            </semantics>            
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">tung</t>
-            <t dict="no" oa="yes" pos="a" tcomm="no">tungt</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">tung_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="a" stem="3syll">låabpoeh</l>
       </lg>
       <apps>
@@ -5361,13 +5325,15 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="2syll">löövles</l>
+         <l pos="a" stem="2syll">leevles</l>
       </lg>
       <apps>
          <app name="oahpa">
             <sources>
                <book name="s3" />
                <book name="åa6" />
+               <book name="dej" />
+               <book name="åa5" />
             </sources>
          </app>
       </apps>
@@ -6009,19 +5975,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="2syll">njalhkedihkie</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">glatt</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">glatt_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="a" stem="2syll">njalhkedihks</l>
       </lg>
       <apps>
@@ -6141,32 +6094,6 @@ For the full license text, see the link above.</lic>
             </semantics>
             <re>om bær_SWE</re>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">moden_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="2syll">njåajjan</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">fortvilet</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">fortvilet_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">njåajjoeh</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">mismodig</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">mismodig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -7058,14 +6985,35 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="3syll">rutjkehke</l>
+         <l pos="a" stem="3syll">saavrehks</l>
       </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
+            </sources>
+         </app>
+      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">brunaktig</t>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">utholdende</t>
+            <xg>
+               <x>saavrehke årrodh</x>
+               <xt>å være utholdende</xt>
+            </xg>
+            <xg>
+               <x>saavrehke nuekies sjïdtedh</x>
+               <xt>bli tilstrekkelig utholdende/veltrent</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">brunaktig_SWE</t>
+            <semantics>
+               <sem class="HUMAN_A" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">utholdende_SWE</t>
          </tg>
       </mg>
    </e>
@@ -7260,40 +7208,6 @@ For the full license text, see the link above.</lic>
                <sem class="ABSTRACT" />
             </semantics>
             <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">sant_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">saavrehke</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="xxx" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-            <semantics>
-               <sem class="HUMAN_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">utholdende</t>
-            <xg>
-               <x>saavrehke årrodh</x>
-               <xt>å være utholdende</xt>
-            </xg>
-            <xg>
-               <x>saavrehke nuekies sjïdtedh</x>
-               <xt>bli tilstrekkelig utholdende/veltrent</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <semantics>
-               <sem class="HUMAN_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">utholdende_SWE</t>
          </tg>
       </mg>
    </e>
@@ -7780,12 +7694,42 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="2syll">sleagran</l>
+         <l pos="a" stem="2syll">sleagroeh</l>
       </lg>
       <apps>
          <app name="oahpa">
             <sources>
                <book name="s3" />
+            </sources>
+         </app>
+      </apps>
+      <mg>
+         <tg xml:lang="nob">
+            <semantics>
+               <sem class="CLOTHES_A" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">skitten</t>
+            <t dict="no" oa="yes" pos="a" tcomm="no">skittent</t>
+            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">tilgriset</t>
+            <t dict="no" oa="yes" pos="a" tcomm="no">griset</t>
+            <t dict="no" oa="yes" pos="a" tcomm="no">grisete</t>
+         </tg>
+         <tg xml:lang="swe">
+            <semantics>
+               <sem class="CLOTHES_A" />
+            </semantics>
+            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">skitten_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="a" stem="2syll">sleagrah</l>
+      </lg>
+      <apps>
+         <app name="oahpa">
+            <sources>
+               <book name="xxx" />
             </sources>
          </app>
       </apps>
@@ -7962,19 +7906,6 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
-         <l pos="a" stem="3syll">snååhpehke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">snar</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">snar_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l pos="a" stem="2syll">spaajhte</l>
       </lg>
       <apps>
@@ -8130,9 +8061,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="2syll">stoerre</l>
+    <e usage="dict">
+       <lg>
+         <l pos="a" stem="2syll">stoere</l>
       </lg>
       <apps>
          <app name="oahpa">
@@ -8167,22 +8098,9 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="2syll">stoere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">stor</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">stor_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">stååvehke</l>
+    <e usage="dict">
+       <lg>
+         <l pos="a" stem="3syll">stööves</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -9373,6 +9291,7 @@ For the full license text, see the link above.</lic>
             <sources>
                <book name="a1" />
                <book name="åa2" />
+               <book name="åa5" />
             </sources>
          </app>
       </apps>
@@ -9462,35 +9381,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">første_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">vyskehke</l>
-      </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa5" />
-            </sources>
-         </app>
-      </apps>
-      <mg>
-         <tg xml:lang="nob">
-            <semantics>
-               <sem class="COLOUR" />
-               <sem class="BUILDING_ROOM_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="nob">gul</t>
-            <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">gult</t>
-         </tg>
-         <tg xml:lang="swe">
-            <semantics>
-               <sem class="COLOUR" />
-               <sem class="BUILDING_ROOM_A" />
-            </semantics>
-            <t dict="yes" oa="yes" pos="a" stat="pref" tcomm="no" xml:lang="swe">gul_SWE</t>
          </tg>
       </mg>
    </e>
@@ -9642,31 +9532,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">femtiende_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">yskeres</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">skrekkelig</t>
-            <xg>
-               <x>Yskeres filme dïhte.</x>
-               <xt>Det er en skrekkelig film.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">skrekkelig_SWE</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">farlig</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">farlig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -9914,13 +9779,17 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
-      <lg>
+    <e usage="dict">
+       <lg>
          <l pos="a" stem="3syll">ïskeres</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">skrekkelig</t>
+            <xg>
+               <x>Ïskeres filme dïhte.</x>
+               <xt>Det er en skrekkelig film.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">skrekkelig_SWE</t>
@@ -10531,20 +10400,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">spiss_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="a" stem="3syll">tjååbpehke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="nob">pen</t>
-            <t dict="no" oa="yes" pos="a" tcomm="no" xml:lang="nob">vakker</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">pen_SWE</t>
          </tg>
       </mg>
    </e>
