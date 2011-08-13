@@ -19,20 +19,20 @@ SMANOBNAME  = Sørsamisk-norsk ordbok.dictionary
 SMANOBZIP   = smanob-mac.dictionary.tgz
 UPLOADDIR   = sd@giellatekno.uit.no:xtdoc/sd/src/documentation/content/xdocs
 DOWNLOADDIR = http://www.divvun.no/static_files
-ADJ         = src/a_smanob.xml
-ADV         = src/adv_smanob.xml
-NOUN        = src/n_smanob.xml
-#NOUNC       = src/n_smanob.xml
-NOUNP       = src/npl_smanob.xml
-OTHER       = src/xxx_smanob.xml
-VERB        = src/v_smanob.xml
-PRON        = src/pron_smanob.xml
-CC          = src/cc_smanob.xml
-CS          = src/cs_smanob.xml
-INTERJ      = src/i_smanob.xml
-PCLE        = src/pcle_smanob.xml
+ADJ         = a_smanob.xml
+ADV         = adv_smanob.xml
+NOUN        = n_smanob.xml
+#NOUNC       = n_smanob.xml
+NOUNP       = npl_smanob.xml
+#OTHER       = xxx_smanob.xml
+VERB        = v_smanob.xml
+PRON        = pron_smanob.xml
+CC          = cc_smanob.xml
+CS          = cs_smanob.xml
+INTERJ      = i_smanob.xml
+PCLE        = pcle_smanob.xml
 # Trond trying to be smart here:
-SN_XML      = ADJ ADV NOUNC NOUNP OTHER VERB
+SN_XML      = ADJ ADV NOUNC NOUNP VERB # OTHER
 #SN_XML      = smanob.xml
 SN_XSL      = smanob.xsl
 SN_LEXC     = smanob.lexc
@@ -139,7 +139,8 @@ $(SN_XML):
 	$(BEGIN)
 	@$(XQL) $(SCRIPTS)/collect-smanob-parts.xql \
 	 adj=../$(SRC)/$(ADJ) noun=../$(SRC)/$(NOUN) \
-	 other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
+	 verb=../$(SRC)/$(VERB) > $(BIN)/$@
+#	 other=../$(SRC)/$(OTHER) verb=../$(SRC)/$(VERB) > $(BIN)/$@
 	@echo
 	$(END)
 	@echo

@@ -21,7 +21,6 @@ declare option saxon:output "saxon:indent-spaces=3";
 
 declare variable $adj external;
 declare variable $noun external;
-declare variable $other external;
 declare variable $verb external;
 
 <?xml-stylesheet type="text/css" href="../scripts/smanob.css"?>,'
@@ -29,7 +28,7 @@ declare variable $verb external;
 <?xml-stylesheet type="text/xsl" href="../scripts/smanob.xsl"?>,'
 ',
 <r> {
-  for $element in (doc($adj)//e, doc($noun)//e, doc($other)//e, doc($verb)//e)
+  for $element in (doc($adj)//e, doc($noun)//e, doc($verb)//e)
   return   $element 
 } </r>, '
 '
