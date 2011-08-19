@@ -80,10 +80,7 @@
 		<xsl:copy-of select="./stem/@class"/> 				 
 		 </stem> 
 		<xsl:copy-of copy-namespaces="no" select="./*[not(local-name() = 'lg')][not(local-name() = 'stem')]"/>
-	      </e>
-	      <!-- 		</changed> -->
-	      <!-- 	      </doch-oahpa> -->
-	      
+	      </e>	      
 	    </xsl:if>
 	  </xsl:for-each>
 	<xsl:copy-of copy-namespaces="yes" select="./r/xhtml:script"/>	
