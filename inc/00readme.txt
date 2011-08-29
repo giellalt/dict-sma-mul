@@ -23,6 +23,12 @@ Todolist:
 2. Make the csv files adjust to the target format.
 3. Do the conversion. @cip: done!
 
+@cips-comment: Bad bookkeeping of the csv-files, one doesn't know
+which file are already transformed and which not. Partly my fault,
+I should have deleted all files already merged into the existing smanob dict.
+
+
+
 Just try the following:
 
 java -Xmx2048m net.sf.saxon.Transform -it main table2xml.xsl inFile=test_t2x.csv
