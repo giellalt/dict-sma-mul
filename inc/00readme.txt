@@ -2,6 +2,15 @@ Incoming files to the smamob dictionary.
 
 These files are entries on their way to a smanob dictionary.
 
+Simple scripts to check already transformed xml files with the whole src dir or with specific files:
+search_entry_in_dir.xsl
+search_entry_in_file.xsl
+
+File listing:
+Newsmalemmat_duodji.cvs.xml - entry are not in src dir (checked by cip 29.08.2011)
+
+
+
 The files are on the csv (comma separated) format, like this:
 "lemma"<tab>"POS"<tab>"translation"<tab>"...
 
