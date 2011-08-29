@@ -19,10 +19,9 @@ the sma lemmas. (@cip: ???)
 
 Todolist:
 
-1. Empty rest.csv to the other files, primarily to noun.csv.
-2. Make the lemma entries unique.
-3. Make the csv files adjust to the target format.
-4. Do the conversion. @cip: done!
+1. Make the lemma entries unique.
+2. Make the csv files adjust to the target format.
+3. Do the conversion. @cip: done!
 
 Just try the following:
 
