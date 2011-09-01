@@ -22,6 +22,7 @@ dashed entries in the last income file (nouns).
 
 ====================
 what to do with that? (no "dict" tag)
+- kommentar fra Lene: nå har den dict-tag 
 
    <e>
       <lg>
@@ -35,6 +36,7 @@ what to do with that? (no "dict" tag)
    </e>
 ====================
 general check of braketed stuff, is it perhaps some re-element?
+- Kommentar fra Lene: Disse er fjerna
 
 pr_smanob.xml:            <t dict="yes" oa="yes" pos="pr" tcomm="no">til (nær)</t>
 pr_smanob.xml:            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten (flere)</t>
@@ -46,6 +48,7 @@ pr_smanob.xml:            <t dict="yes" oa="yes" pos="pr" tcomm="no">innenfor (f
 pronIndef_smanob.xml:               <xt>mor og barn (fast uttrykk)</xt>
 ====================
 I thought that the han/hun-problem has been solved, Lene?
+Kommentar fra Lene: Dette eksisterer ikke lenger - det var lagt til da vi prøvde ut pronomener i Leksa.
 
 pronPers_smanob.xml:            <t dict="yes" oa="yes" pos="pron" stat="pref" tcomm="no">dere to (du og han/hun
 )</t>
