@@ -6,13 +6,15 @@ Simple scripts to check already transformed xml files with the whole src dir or 
 search_entry_in_dir.xsl
 search_entry_in_file.xsl
 
-File listing:
-1. lemma_not_in_dict/newsmalemmat_duodji.xml - These entries are not in src dir (checked by cip 29.08.2011)
+File listing in dir lemma_not_in_dict:
+1. newsmalemmat_duodji.xml - These entries are not in src dir (cip 29.08.2011)
    Lenes kommentarer:
     - tjååbpehke er bøyd form av tjaebpies - fjerna fra lista
     - daable ,  se daabloe, er dette en skrivefeil eller er det en variant ?
     - guelmesne, vi har denne som eksempel under lemmaet guelmie (Sg Inn) men vi burde legge den til som po ?
     - sjyjjedh, må legges til i fst
+
+2. freq_ADJ_lemma-pos_to-check.xml - These entries are not in src dir. (cip 01.09.2011) 
 
 
 The files are on the csv (comma separated) format, like this:
