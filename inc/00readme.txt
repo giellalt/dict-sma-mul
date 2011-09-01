@@ -8,7 +8,11 @@ search_entry_in_file.xsl
 
 File listing:
 Newsmalemmat_duodji.cvs.xml - These entries are not in src dir (checked by cip 29.08.2011)
-
+Lenes kommentarer:
+- tjååbpehke er bøyd form av tjaebpies - fjerna fra lista
+- daable ,  se daabloe, er dette en skrivefeil eller er det en variant ?
+- guelmesne, vi har denne som eksempel under lemmaet guelmie (Sg Inn) men vi burde legge den til som po ?
+- sjyjjedh, må legges til i fst
 
 
 The files are on the csv (comma separated) format, like this:
