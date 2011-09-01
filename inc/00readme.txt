@@ -7,7 +7,7 @@ search_entry_in_dir.xsl
 search_entry_in_file.xsl
 
 File listing:
-Newsmalemmat_duodji.cvs.xml - These entries are not in src dir (checked by cip 29.08.2011)
+lemma_not_in_dict/newsmalemmat_duodji.xml - These entries are not in src dir (checked by cip 29.08.2011)
 Lenes kommentarer:
 - tjååbpehke er bøyd form av tjaebpies - fjerna fra lista
 - daable ,  se daabloe, er dette en skrivefeil eller er det en variant ?
