@@ -7,7 +7,7 @@ search_entry_in_dir.xsl
 search_entry_in_file.xsl
 
 File listing:
-Newsmalemmat_duodji.cvs.xml - entry are not in src dir (checked by cip 29.08.2011)
+Newsmalemmat_duodji.cvs.xml - These entries are not in src dir (checked by cip 29.08.2011)
 
 
 
