@@ -17,6 +17,12 @@ File listing in dir lemma_not_in_dict:
 2. freq_ADJ_lemma-pos_to-check.xml - These entries are not in src dir. (cip 01.09.2011) 
 
 
+
+Open questions:
+What about this file: adj_not_in_fst.txt? Is it neither in dict nor in fst?
+
+
+
 The files are on the csv (comma separated) format, like this:
 "lemma"<tab>"POS"<tab>"translation"<tab>"...
 
