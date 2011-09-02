@@ -6,6 +6,12 @@ Simple scripts to check already transformed xml files with the whole src dir or 
 search_entry_in_dir.xsl
 search_entry_in_file.xsl
 
+pron_fst_missing_in_dict.txt
+Denne fila inneholder ordformer som ikke er i dict, men det kan hende at noen former er overgenerering, og noen former er kanskje ikke i bruk? For de som skal skal legges til i dict, må man vurdere om man evt. skal bruke statiske paradigmer.
+
+verb_sg3_mismatch.txt
+Her er det verb som enten har to forskjellige bøyningsmønstre i fst, eller at bøyningsmønsteret i fst ikke stemmer med annen informasjon. Jeg tror vi har sett på de fleste av disser verbene tidligere, men man kan ta en sjekk og stryke ut verb som er ok.
+
 File listing in dir lemma_not_in_dict:
 1. newsmalemmat_duodji.xml - These entries are not in src dir (cip 29.08.2011)
    Lenes kommentarer:
