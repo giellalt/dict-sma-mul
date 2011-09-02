@@ -66,3 +66,40 @@ vi out/test_t2x.csv.xml
 POS tags:
 v1, ..., v6, and the rest (odd, contract, irregularI) are "v".
 
+
+Genuine instances of <te>-element found:
+
+   <e>
+      <lg>
+         <l pos="pcle">gih</l>
+      </lg>
+      <mg>
+	<tg>
+	  <te>forsterkende nektelse</te>
+	</tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">gan</l>
+      </lg>
+      <mg>
+         <tg>
+            <te>forsterkende nektelse</te>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">goh</l>
+      </lg>
+      <mg>
+         <tg>
+            <te>forsterkende nektelse</te>
+         </tg>
+      </mg>
+   </e>
+
+
+
+
