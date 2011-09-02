@@ -17,7 +17,7 @@
 
   <!-- Input files -->
   <xsl:param name="inFile" select="'Newsmalemmat_duodji.cvs.xml'"/>
-  <xsl:param name="inDir" select="'../../src'"/>
+  <xsl:param name="inDir" select="'../src'"/>
   
   <!-- Output dir, files -->
   <xsl:variable name="outDir" select="'outDDD'"/>
