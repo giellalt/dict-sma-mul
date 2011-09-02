@@ -106,6 +106,35 @@ Genuine instances of <te>-element found:
       </mg>
    </e>
 
+The list 20100920_missing.txt in the 20100920 dir have to be
+checked properly. It is ful of "noise".
+Ex.
+fisk
+verb
+bra
+bil
+√¶nngan
+stavelse
+siden
+sette
+¦jja
+√•nnoeh
+√•arjelh-saemien
+øøhpehtimmieraerie
+ööpehtimmie
+ööhpehtimmiesijjie
+√čtin
+søster
+¥rrodh
+......... and so on
+
+
+
+
+
+
+
+
 
 
 
