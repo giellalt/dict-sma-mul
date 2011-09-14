@@ -1,6 +1,31 @@
 Incoming files to the smamob dictionary.
 
-These files are entries on their way to a smanob dictionary.
+
+These files contain entries, some of them on their way to a smanob dictionary.
+
+
+
+Evaluation of inc directory 14.9.2011 (cip/trond):
+
+* Todo_jan2011			 = See 00readme.txt in catalogue
+* basis_files				 = See 00readme.txt in catalogue
+* clarify_status			 = Ignore for now.
+* csv_dir					 = Ignore for now.
+* in_verb.csv				 = 188 known, 109 unknown, filter (cip) and give to S/M for evaluation
+* lemma_not_in_dict		 = Not translated. Ignore for now.
+* new_noun_inc.csv		 = most (144) out, some (16) in the dict. filter (cip) and give to S/M for evaluation
+* not_in_fst				 = Not translated. Ignore for now.
+* search_entry_in_dir.xsl	 = script
+* search_entry_in_file.xsl = script
+* table2xml.xsl			 = script
+* verb_sg3_mismatch.txt	 = Ignore for now. Later: "ta en sjekk og stryke ut verb som er ok (S/M)"
+
+
+---------------
+
+
+Older comments on some of the files:
+
 
 Simple scripts to check already transformed xml files with the whole src dir or with specific files:
 search_entry_in_dir.xsl
@@ -127,11 +152,6 @@ sette
 søster
 ¥rrodh
 ......... and so on
-
-
-
-
-
 
 
 
