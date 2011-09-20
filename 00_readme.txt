@@ -64,6 +64,15 @@ Cleanup before new compilation autumn 2011:
 
 1. Do we need the file names.xml for the dictionary? I doubt it. If not then delete it.
 
+2. I will ignore the translationcomment attribute in the usikre file.
+
+<             <t pos="adv">stille</t>
+<             <t pos="adv">tyst</t>
+---
+>             <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">stille</t>
+>             <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">tyst</t>
+
+As far as I remember it is not needed for the dictionary, only for Oahpa.
 
 
 
