@@ -60,5 +60,10 @@ pronPers_smanob.xml:            <t dict="yes" oa="yes" pos="pron" stat="pref" tc
 nne)</t>
 ====================
 
+Cleanup before new compilation autumn 2011:
+
+1. Do we need the file names.xml for the dictionary? I doubt it. If not then delete it.
+
+
 
 
