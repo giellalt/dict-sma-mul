@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -25,8 +22,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e usage="dict">
       <lg>
          <l pos="po">aalkoelisnie</l>
@@ -34,11 +30,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om året</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i begynnelsen</tf>
+            <tf pos="phrase_pr">i begynnelsen</tf>
          </tg>
          <tg xml:lang="swe">
             <re>om året_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i begynnelsen_SWE</tf>
+            <tf pos="phrase_pr">i begynnelsen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -49,11 +45,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om året</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra begynnelsen</tf>
+            <tf pos="phrase_pr">fra begynnelsen</tf>
          </tg>
          <tg xml:lang="swe">
             <re>om året_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra begynnelsen_SWE</tf>
+            <tf pos="phrase_pr">fra begynnelsen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -63,14 +59,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">med</t>
+            <t pos="pr">med</t>
             <xg>
                <x>Vaejsjiej gujmie dåånhtse.</x>
                <xt>Han danser med ulver.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">med_SWE</t>
+            <t pos="pr">med_SWE</t>
          </tg>
       </mg>
    </e>
@@ -80,14 +76,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">til</t>
+            <t pos="pr">til</t>
             <xg>
                <x>Tjåanghkoe lij måantan raejeste bearjadahken raajan.</x>
                <xt>Møtet varte fra mandag til fredag.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">til_SWE</t>
+            <t pos="pr">til_SWE</t>
          </tg>
       </mg>
    </e>
@@ -97,14 +93,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">fra</t>
+            <t pos="pr">fra</t>
             <xg>
                <x>Tjåanghkoe lij måantan raejeste bearjadahken raajan.</x>
                <xt>Møtet varte fra mandag til fredag.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">fra_SWE</t>
+            <t pos="pr">fra_SWE</t>
          </tg>
       </mg>
    </e>
@@ -114,15 +110,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til ved siden av</tf>
+            <tf pos="phrase_pr">til</tf>
+            <tf pos="phrase_pr">til ved siden av</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">til_SWE</tf>
+            <tf pos="phrase_pr">til_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -133,12 +129,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>nært</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">til</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">til</t>
+            <t pos="pr">mot</t>
          </tg>
          <tg xml:lang="swe">
             <re>nært_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">til_SWE</t>
+            <t pos="pr">til_SWE</t>
          </tg>
       </mg>
    </e>
@@ -148,11 +144,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i tilknytning til</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i forhold til</tf>
+            <tf pos="phrase_pr">i tilknytning til</tf>
+            <tf pos="phrase_pr">i forhold til</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i tilknytning til_SWE</tf>
+            <tf pos="phrase_pr">i tilknytning til_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -162,11 +158,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved hjelp av</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">gjennom</t>
+            <tf pos="phrase_pr">ved hjelp av</tf>
+            <t pos="pr">gjennom</t>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved hjelp av_SWE</tf>
+            <tf pos="phrase_pr">ved hjelp av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -176,10 +172,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">nær</t>
+            <t pos="pr">nær</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">nær_SWE</t>
+            <t pos="pr">nær_SWE</t>
          </tg>
       </mg>
    </e>
@@ -189,14 +185,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>biejjien aarebi</x>
                <xt>dagen før</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
    </e>
@@ -204,18 +200,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">aatsolen</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
             <re>om luft</re>
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">over</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">henover</t>
+            <t pos="pr">over</t>
+            <t pos="pr">henover</t>
             <xg>
                <x>Giebnie dållen aatsolen gåvnjan.</x>
                <xt>Kjelen henger over bålet.</xt>
@@ -227,7 +216,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om luft_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
    </e>
@@ -238,12 +227,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om luft</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">henover</t>
+            <t pos="pr">over</t>
+            <t pos="pr">henover</t>
          </tg>
          <tg xml:lang="swe">
             <re>om luft_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
    </e>
@@ -254,7 +243,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>Giesie-eejehtimmien åvtelen manne dam saerniem åadtjoejim govledh.</x>
                <xt>Før sommerferien fikk jeg høre nyheten.</xt>
@@ -262,11 +251,11 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
          <tg xml:lang="nob">
             <re>om klokka</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">på</t>
+            <t pos="pr">på</t>
             <xg>
                <x>Tsåahka lea njealjehts åvtelen tjïjhtje.</x>
                <xt>Klokka er kvart på sju.</xt>
@@ -274,7 +263,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om klokka_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">på_SWE</t>
+            <t pos="pr">på_SWE</t>
          </tg>
       </mg>
    </e>
@@ -285,7 +274,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>Jåvli åvteli fuehpie sjædta.</x>
                <xt>Før jul blir det travelt.</xt>
@@ -293,7 +282,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
    </e>
@@ -304,8 +293,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">nedenfor</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">nedenom</t>
+            <t pos="pr">nedenfor</t>
+            <t pos="pr">nedenom</t>
             <xg>
                <x>Vaedtsieh doej gåetiej vueleli!</x>
                <xt>Gå nedenfor de der husene!</xt>
@@ -313,7 +302,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">nedenfor_SWE</t>
+            <t pos="pr">nedenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -323,14 +312,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>jåvli avteli fuehpie sjædta.</x>
                <xt>Før jul blir det travelt.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
    </e>
@@ -340,14 +329,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Mij lea gåetien åvtelisnie?</x>
                <xt>Hva er foran huset?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
    </e>
@@ -357,10 +346,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">forfra</tf>
+            <tf pos="phrase_pr">forfra</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">forfra_SWE</tf>
+            <tf pos="phrase_pr">forfra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -370,20 +359,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Gie dov åvtene vaadtsa?</x>
                <xt>Hvem er det som går foran deg?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">først</t>
+            <t pos="adv">først</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">først_SWE</t>
+            <t pos="adv">først_SWE</t>
          </tg>
       </mg>
    </e>
@@ -393,10 +382,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">framover</t>
+            <t pos="adv">framover</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">framover_SWE</t>
+            <t pos="adv">framover_SWE</t>
          </tg>
       </mg>
    </e>
@@ -404,23 +393,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">åvtesne</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" stat="pref" tcomm="no">foran</tf>
+            <tf pos="phrase_pr">foran</tf>
             <xg>
                <x>Dïhte geajnoen åvtesne tjåådtje guktie im manne baahtsh gænnah.</x>
                <xt>Han står i veien for meg slik at jeg ikke kommer frem.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" stat="pref" tcomm="no" xml:lang="swe">foran_SWE</tf>
+            <tf pos="phrase_pr">foran_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -430,10 +412,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">før</tf>
+            <tf pos="phrase_pr">før</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">før_SWE</tf>
+            <tf pos="phrase_pr">før_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -443,9 +425,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ved</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">om</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">via</t>
+            <t pos="pr">ved</t>
+            <t pos="pr">om</t>
+            <t pos="pr">via</t>
             <xg>
                <x>Guessie Plassjen baaktoe bööti.</x>
                <xt>Gjesten kom via Røros.</xt>
@@ -456,7 +438,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ved_SWE</t>
+            <t pos="pr">ved_SWE</t>
          </tg>
       </mg>
    </e>
@@ -464,23 +446,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">baalte</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">ved siden av</t>
+            <t pos="pr">ved siden av</t>
             <xg>
                <x>Dïhte mov baalte.</x>
                <xt>Den er ved siden av meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">ved siden av_SWE</t>
+            <t pos="pr">ved siden av_SWE</t>
          </tg>
       </mg>
    </e>
@@ -490,26 +465,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">forbi</t>
             <xg>
                <x>Voestegh edtjh vaedtsedh don gærhkoen baaltelen, jïh mænngan gårroebealan sveehkestidh.</x>
                <xt>Først skal du gå forbi kirka, og etterpå skal du ta av til venstre.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Ij gåaredh dam darjodh dov baaltelen.</x>
                <xt>Det går ikke an å gjøre det uten deg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -519,14 +494,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">forbi</t>
             <xg>
                <x>Vaedtsieh duej gåetiej baalteli!</x>
                <xt>Gå forbi de husene!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
    </e>
@@ -536,18 +511,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">forbi</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -558,19 +533,19 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">forbi</t>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">fra uten</t>
+            <t pos="pr">fra uten</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">fra uten_SWE</t>
+            <t pos="pr">fra uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -580,15 +555,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ved siden av</t>
+            <t pos="pr">forbi</t>
+            <t pos="pr">ved siden av</t>
             <xg>
                <x>Ij leah luhpie mov baaltese vaedtsedh.</x>
                <xt>Det er ikke lov å gå forbi meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
    </e>
@@ -598,14 +573,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til siden</tf>
+            <tf pos="phrase_pr">til siden</tf>
             <xg>
                <x>Båetieh diekie mov bealan!</x>
                <xt>Kom hit til min side!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">til siden_SWE</tf>
+            <tf pos="phrase_pr">til siden_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -616,7 +591,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ved siden av</t>
+            <t pos="pr">ved siden av</t>
             <xg>
                <x>Tjihkedh mov bealese!</x>
                <xt>Sett deg ved siden av meg!</xt>
@@ -624,7 +599,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ved siden av_SWE</t>
+            <t pos="pr">ved siden av_SWE</t>
          </tg>
       </mg>
    </e>
@@ -634,9 +609,9 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hos</t>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sammen med</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
+            <t pos="pr">hos</t>
+            <tf pos="phrase_pr">sammen med</tf>
+            <tf pos="phrase_pr">ved siden av</tf>
             <xg>
                <x>Dïhte mov bealesne lea.</x>
                <xt>Han er ved siden av meg.</xt>
@@ -647,7 +622,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">hos_SWE</t>
+            <t pos="pr">hos_SWE</t>
          </tg>
       </mg>
    </e>
@@ -658,7 +633,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
+            <tf pos="phrase_pr">ved siden av</tf>
             <xg>
                <x>Dïhte mov bealeste tjuedtjieli.</x>
                <xt>Han reiste seg opp fra min side.</xt>
@@ -666,7 +641,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved siden av_SWE</tf>
+            <tf pos="phrase_pr">ved siden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -676,14 +651,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Maahtah tjoejkedh klaahkaj bielehth?</x>
                <xt>Kan du renne på ski uten staver?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -693,14 +668,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="nob">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Im buektehth mov leaksoeh darjodh gærjan namhtah.</x>
                <xt>Jeg greier ikke å gjøre leksene mine uten boka.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -710,7 +685,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Dïhte klaahkan bielelen tjuajka.</x>
                <xt>Han renner på ski uten stav.</xt>
@@ -725,7 +700,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -736,7 +711,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="po" tcomm="no">uten</t>
+            <t pos="po">uten</t>
             <xg>
                <x>Im bearkedh mov maanaj bieleli.</x>
                <xt>Jeg klarer meg ikke uten barna mine.</xt>
@@ -744,7 +719,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="po" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="po">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -754,14 +729,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på sida av</tf>
+            <tf pos="phrase_pr">på sida av</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på sida av_SWE</tf>
+            <tf pos="phrase_pr">på sida av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -771,10 +746,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra sida av</tf>
+            <tf pos="phrase_pr">fra sida av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra sida av_SWE</tf>
+            <tf pos="phrase_pr">fra sida av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -784,39 +759,38 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
-            <t dict="no" oa="yes" pos="pr" tcomm="no">henover</t>
+            <t pos="pr">over</t>
             <xg>
                <x>Dellie juhtimh vaartoen bijjelen.</x>
                <xt>Så flyttet vi over det lave snaufjellet med krattskog omkring.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>Aanta bööti mov bijjelen.</x>
                <xt>Aanta kom før meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Dan bijjelen bearkedem.</x>
                <xt>Jeg greier meg uten han.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -827,7 +801,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
+            <t pos="pr">over</t>
             <xg>
                <x>Vaedtsieh vaartoej bijjeli!</x>
                <xt>Gå over de lave snaufjellene med krattskog omkring!</xt>
@@ -835,7 +809,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
    </e>
@@ -845,14 +819,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bortenfor</t>
+            <t pos="pr">bortenfor</t>
             <xg>
                <x>Vaedtsieh don vaartoen dubpelen!</x>
                <xt>Gå bortenfor det der lave snaufjellet med krattskog omkring!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bortenfor_SWE</t>
+            <t pos="pr">bortenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -862,14 +836,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bortenfor</t>
+            <t pos="pr">bortenfor</t>
             <xg>
                <x>Vaedtsieh dej vaartoej dubpeli!</x>
                <xt>Gå bortenfor de lave snaufjellene med krattskog omkring!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bortenfor_SWE</t>
+            <t pos="pr">bortenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -880,7 +854,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nedenfor</tf>
+            <tf pos="phrase_pr">nedenfor</tf>
             <xg>
                <x>Vaedtsieh doen gåetien vuelelen!</x>
                <xt>Gå nedenfor det huset!</xt>
@@ -888,7 +862,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">nedenfor_SWE</tf>
+            <tf pos="phrase_pr">nedenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -899,7 +873,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ovenfor</tf>
+            <tf pos="phrase_pr">ovenfor</tf>
             <xg>
                <x>Skåajjeste, gåetien bijjielistie böötin.</x>
                <xt>De kom ned fra skogen ovenfor huset.</xt>
@@ -907,7 +881,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ovenfor_SWE</tf>
+            <tf pos="phrase_pr">ovenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -917,15 +891,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">om</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">omkring</t>
+            <t pos="pr">om</t>
+            <t pos="pr">omkring</t>
             <xg>
                <x>Dah vearelden bïjre soptsestin.</x>
                <xt>De snakket om været.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">om_SWE</t>
+            <t pos="pr">om_SWE</t>
          </tg>
       </mg>
    </e>
@@ -935,15 +909,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">midt imot</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">overfor</t>
+            <tf pos="phrase_pr">midt imot</tf>
+            <t pos="pr">overfor</t>
             <xg>
                <x>Dah mijjen boehth årroeh.</x>
                <xt>De bor rett overfor oss.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">midt imot_SWE</tf>
+            <tf pos="phrase_pr">midt imot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -954,7 +928,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">utenfor</tf>
+            <tf pos="phrase_pr">utenfor</tf>
             <xg>
                <x>Tseegkh duejtie treavkide gåetien bæjngoelasse.</x>
                <xt>Sett de skiene utenfor huset.</xt>
@@ -962,7 +936,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">utenfor_SWE</tf>
+            <tf pos="phrase_pr">utenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -972,14 +946,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenpå</t>
+            <t pos="pr">utenpå</t>
             <xg>
                <x>Maam edtjem dan bæjngolen tsaekedh?</x>
                <xt>Hva skal jeg ta på meg utenpå den?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenpå_SWE</t>
+            <t pos="pr">utenpå_SWE</t>
          </tg>
       </mg>
    </e>
@@ -989,10 +963,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="a" tcomm="no">-aktig</t>
+            <t pos="a">-aktig</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="a" tcomm="no" xml:lang="swe">-aktig_SWE</t>
+            <t pos="a">-aktig_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1002,15 +976,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">over</t>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">tvers over</tf>
+            <t pos="pr">over</t>
+            <tf pos="phrase_pr">tvers over</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1021,7 +995,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bak</tf>
+            <tf pos="phrase_pr">bak</tf>
             <xg>
                <x>Bïenje oksen duakan tjïekedi.</x>
                <xt>Hunden gjemte seg bak døra.</xt>
@@ -1029,7 +1003,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bak_SWE</tf>
+            <tf pos="phrase_pr">bak_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1039,15 +1013,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bak</t>
-            <tf dict="no" oa="yes" pos="phrase_pr" tcomm="no">i posisjon bak</tf>
+            <t pos="pr">bak</t>
             <xg>
                <x>Hæhtjoen duekesne jaevrie.</x>
                <xt>Bak hytta er det et vann.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bak_SWE</t>
+            <t pos="pr">bak_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1058,7 +1031,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bakenfor</tf>
+            <tf pos="phrase_pr">bakenfor</tf>
             <xg>
                <x>Onnevïelle oksen duekeste guavla.</x>
                <xt>Lillebror titter fram fra bak døra.</xt>
@@ -1066,7 +1039,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bakenfor_SWE</tf>
+            <tf pos="phrase_pr">bakenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1076,18 +1049,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til fordel for</tf>
+            <tf pos="phrase_pr">til fordel for</tf>
             <xg>
                <x>Nov amma mov gaavhtan!</x>
                <xt>Gjerne for min skyld!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">til fordel for_SWE</tf>
+            <tf pos="phrase_pr">til fordel for_SWE</tf>
          </tg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i anledning av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
+            <tf pos="phrase_pr">i anledning av</tf>
             <xg>
                <x>Dan gaavhtan geerve.</x>
                <xt>Av den grunn er det vanskelig.</xt>
@@ -1102,7 +1075,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1113,7 +1086,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no">mellom</t>
+            <t pos="phrase_pr">mellom</t>
             <xg>
                <x>Tjihkedh monnen gaskese!</x>
                <xt>Sett deg mellom oss!</xt>
@@ -1121,7 +1094,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">mellom_SWE</t>
+            <t pos="phrase_pr">mellom_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1131,8 +1104,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mellom</t>
-            <tf dict="no" oa="yes" pos="phrase_pr" tcomm="no">i posisjon mellom</tf>
+            <t pos="pr">mellom</t>
             <xg>
                <x>dennie gaskesne</x>
                <xt>i mellomtiden</xt>
@@ -1143,7 +1115,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mellom_SWE</t>
+            <t pos="pr">mellom_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1151,24 +1123,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">gåajkoe</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">til</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">til</t>
+            <t pos="pr">mot</t>
             <xg>
                <x>Maana aahkan gåajkoe veedtsi.</x>
                <xt>Barnet gikk til bestemor.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">til_SWE</t>
+            <t pos="pr">til_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1178,14 +1143,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
             <xg>
                <x>Gåatomen gielhtie tjoeverim juhtedh.</x>
                <xt>På grunn av beitet måtte vi flytte.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1195,26 +1160,26 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">rett overfor</tf>
+            <tf pos="phrase_pr">rett overfor</tf>
             <xg>
                <x>Manne Åvlan jåårke årroeminie.</x>
                <xt>Jeg bor rett ovenfor Ola.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">rett overfor_SWE</tf>
+            <tf pos="phrase_pr">rett overfor_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">midt i mot</tf>
+            <tf pos="phrase_pr">midt i mot</tf>
             <xg>
                <x>Dïhte gie mov jåårke lij tjåadtjoeminie, dan nomme Sara.</x>
                <xt>Hun som sto midt i mot meg, hun heter Sara.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">midt i mot_SWE</tf>
+            <tf pos="phrase_pr">midt i mot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1224,14 +1189,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ved</t>
+            <t pos="pr">ved</t>
             <xg>
                <x>Bïjle gåetiem lïhke tjöödtjesti.</x>
                <xt>En bil stoppet ved huset.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ved_SWE</t>
+            <t pos="pr">ved_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1241,14 +1206,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hos</t>
+            <t pos="pr">hos</t>
             <xg>
                <x>Manne tuhtjem luste aahkan luvnie årrodh.</x>
                <xt>Jeg synes det er artig å være hos bestemor.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">hos_SWE</t>
+            <t pos="pr">hos_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1258,19 +1223,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">langsetter</t>
+            <t pos="pr">langsetter</t>
             <xg>
                <x>Manne edtjem dan sïeven mietie vaedtsedh.</x>
                <xt>Jeg skal gå langs denne streken.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">langsetter_SWE</t>
+            <t pos="pr">langsetter_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ifølge</t>
+            <t pos="pr">ifølge</t>
             <xg>
                <x>Dan prievien mietie, dle åadtjoem dennie skuvlesne aelkedh.</x>
                <xt>Ifølge dette brevet får jeg begynne på den skolen.</xt>
@@ -1281,7 +1246,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ifølge_SWE</t>
+            <t pos="pr">ifølge_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1291,14 +1256,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
             <xg>
                <x>Mov mïnngesne bööti.</x>
                <xt>Han kom etter meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1308,14 +1273,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">borti</t>
+            <t pos="pr">borti</t>
             <xg>
                <x>Laara vuebnien morte gahtjesti jïh boelehtji.</x>
                <xt>Laara falt borti ovnen og brente seg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">borti_SWE</t>
+            <t pos="pr">borti_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1326,7 +1291,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
             <xg>
                <x>Dah jeatjebh mijjen mænngan böötin.</x>
                <xt>De andre kom etter oss.</xt>
@@ -1342,7 +1307,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1350,18 +1315,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">nelhtie</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
             <re>fra overflaten</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" stat="pref" tcomm="no">ned fra</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" stat="pref" tcomm="no">bort fra</tf>
+            <tf pos="phrase_pr">ned fra</tf>
+            <tf pos="phrase_pr">bort fra</tf>
             <xg>
                <x>Gaahtoe buertien nelhtie njulhtji.</x>
                <xt>Katta hoppet ned fra bordet.</xt>
@@ -1373,7 +1331,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>fra overflaten_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" stat="pref" tcomm="no" xml:lang="swe">ned fra_SWE</tf>
+            <tf pos="phrase_pr">ned fra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1383,15 +1341,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">på</t>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">oppe på</tf>
+            <t pos="pr">på</t>
+            <tf pos="phrase_pr">oppe på</tf>
             <xg>
                <x>Maana buertien nelnie tjahkan.</x>
                <xt>Barnet sitter på bordet.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">på_SWE</t>
+            <t pos="pr">på_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1402,7 +1360,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på</tf>
+            <tf pos="phrase_pr">på</tf>
             <xg>
                <x>Bïejh gærjam buertien nïlle!</x>
                <xt>Legg boka på bordet!</xt>
@@ -1410,7 +1368,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på_SWE</tf>
+            <tf pos="phrase_pr">på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1421,7 +1379,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">inn under</tf>
+            <tf pos="phrase_pr">inn under</tf>
             <xg>
                <x>Bïejh duejtie gaamegidie vuebnien nualan guktie åadtjoeh gajhkedidh!</x>
                <xt>Legg de skoene under ovnen slik at de får tørke!</xt>
@@ -1429,7 +1387,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">inn under_SWE</tf>
+            <tf pos="phrase_pr">inn under_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1437,16 +1395,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">nuelesne</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">under</t>
+            <t pos="pr">under</t>
             <xg>
                <x>Treavkah leah buvrien nuelesne.</x>
                <xt>Skiene er under stabburet.</xt>
@@ -1457,7 +1408,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">under_SWE</t>
+            <t pos="pr">under_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1467,14 +1418,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra under</tf>
+            <tf pos="phrase_pr">fra under</tf>
             <xg>
                <x>Stoerre vadtesem seangkoen nueleste geesi.</x>
                <xt>Han dro frem en stor pakke fra under senga.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra under_SWE</tf>
+            <tf pos="phrase_pr">fra under_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1484,10 +1435,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">langs under</tf>
+            <tf pos="phrase_pr">langs under</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">langs under_SWE</tf>
+            <tf pos="phrase_pr">langs under_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1497,10 +1448,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">langs under</tf>
+            <tf pos="phrase_pr">langs under</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">langs under_SWE</tf>
+            <tf pos="phrase_pr">langs under_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1508,24 +1459,17 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">rastah</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">over</t>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">tvers over</tf>
+            <t pos="pr">over</t>
+            <tf pos="phrase_pr">tvers over</tf>
             <xg>
                <x>Baernie jaevrien rastah såvka.</x>
                <xt>Gutten ror over vannet.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">over_SWE</t>
+            <t pos="pr">over_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1535,14 +1479,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">inn i</tf>
+            <tf pos="phrase_pr">inn i</tf>
             <xg>
                <x>Tsagkh voessen sïjse!</x>
                <xt>Pakk i sekken!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">inn i_SWE</tf>
+            <tf pos="phrase_pr">inn i_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1552,15 +1496,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">i</t>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">inne i</tf>
+            <t pos="pr">i</t>
+            <tf pos="phrase_pr">inne i</tf>
             <xg>
                <x>Beapmoeh voessen sisnie lea.</x>
                <xt>Det er mat i sekken.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">i_SWE</t>
+            <t pos="pr">i_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1568,23 +1512,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">sontere</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">borti</t>
+            <t pos="pr">borti</t>
             <xg>
                <x>Jårreli gaahtoen sontere.</x>
                <xt>Den trillet og kom bort i katten.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">borti_SWE</t>
+            <t pos="pr">borti_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1592,23 +1529,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">tjïrrh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">gjennom</t>
+            <t pos="pr">gjennom</t>
             <xg>
                <x>Tjaetsie gïrsen tjïrrh galka.</x>
                <xt>Vannet renner gjennom slangen.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">gjennom_SWE</t>
+            <t pos="pr">gjennom_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1618,34 +1548,34 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ifølge</t>
+            <t pos="pr">ifølge</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ifølge_SWE</t>
+            <t pos="pr">ifølge_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">forbi</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">forbi_SWE</t>
+            <t pos="pr">forbi_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1653,16 +1583,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">uvte</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Leevegh oksen uvte.</x>
                <xt>Det er granbar foran døra.</xt>
@@ -1673,7 +1596,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1681,16 +1604,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">vööste</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
             <xg>
                <x>Bïenje mov vööste bööti huhtien.</x>
                <xt>Hunden kom gjøende mot meg.</xt>
@@ -1705,7 +1621,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1715,27 +1631,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fram til</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">inntil</t>
+            <tf pos="phrase_pr">fram til</tf>
+            <t pos="pr">inntil</t>
             <xg>
                <x>Daejnie galkem gïjren vuestie barkedh.</x>
                <xt>Jeg skal jobbe med dette fram til våren.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fram til_SWE</tf>
+            <tf pos="phrase_pr">fram til_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1745,14 +1661,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ovenfor</t>
+            <t pos="pr">ovenfor</t>
             <xg>
                <x>Dïhte lea dan bijjielisnie.</x>
                <xt>Den er ovenfor den.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ovenfor_SWE</t>
+            <t pos="pr">ovenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1762,14 +1678,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i disse tider</tf>
+            <tf pos="phrase_pr">i disse tider</tf>
             <xg>
                <x>Daaj boehten.</x>
                <xt>Før i tiden.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i disse tider_SWE</tf>
+            <tf pos="phrase_pr">i disse tider_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1779,22 +1695,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenpå</t>
+            <t pos="pr">utenpå</t>
             <xg>
                <x>Dan nomme oksen bæjngoelisnie tjåådtje.</x>
                <xt>Navnet hans står utenpå døra.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenpå_SWE</t>
+            <t pos="pr">utenpå_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ovenfor</t>
+            <t pos="pr">ovenfor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ovenfor_SWE</t>
+            <t pos="pr">ovenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1804,8 +1720,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra yttersiden eller oversiden</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på yttersiden eller oversiden</tf>
+            <tf pos="phrase_pr">fra yttersiden eller oversiden</tf>
+            <tf pos="phrase_pr">på yttersiden eller oversiden</tf>
             <xg>
                <x>Jis libie buektiehtamme geehtedidh dujstie raerijste mah iktegisth bæjngoelistie båetieh, jïh buerebh
                mijjen jïjtjemh aarvoej mietie ektese-vyöki barkeme...</x>
@@ -1814,16 +1730,16 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra yttersiden eller oversiden_SWE</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på yttersiden eller oversiden_SWE</tf>
+            <tf pos="phrase_pr">fra yttersiden eller oversiden_SWE</tf>
+            <tf pos="phrase_pr">på yttersiden eller oversiden_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">fra ytterkanten</t>
+            <t pos="pr">fra ytterkanten</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">fra ytterkanten_SWE</t>
+            <t pos="pr">fra ytterkanten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1833,14 +1749,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenpå</t>
+            <t pos="pr">utenpå</t>
             <xg>
                <x>Dïhte dan bæjngolde.</x>
                <xt>Den er utenpå den.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenpå_SWE</t>
+            <t pos="pr">utenpå_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1850,20 +1766,20 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenfor</t>
+            <t pos="pr">utenfor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenfor_SWE</t>
+            <t pos="pr">utenfor_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ovenfor</t>
+            <t pos="pr">ovenfor</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ovenfor_SWE</t>
+            <t pos="pr">ovenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1873,14 +1789,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakom</t>
+            <t pos="pr">bakom</t>
             <xg>
                <x>Dïhte mov bååktjesne daelie.</x>
                <xt>Han er bakom meg nå.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakom_SWE</t>
+            <t pos="pr">bakom_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1891,7 +1807,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bakom</tf>
+            <tf pos="phrase_pr">bakom</tf>
             <xg>
                <x>Mov bååktjeste bööti.</x>
                <xt>Han kom fra bakom meg.</xt>
@@ -1899,7 +1815,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bakom_SWE</tf>
+            <tf pos="phrase_pr">bakom_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1909,22 +1825,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor</t>
+            <t pos="pr">hitenfor</t>
             <xg>
                <x>Doen vaartoen daebpelen lea dïhte aesie gusnie dan jïjnjh laadtegh.</x>
                <xt>Hitenfor det fjellet er den åsen hvor det så mye molter.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">hitenfor_SWE</t>
+            <t pos="pr">hitenfor_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitover</t>
+            <t pos="pr">hitover</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">hitover_SWE</t>
+            <t pos="pr">hitover_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1935,7 +1851,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor</t>
+            <t pos="pr">hitenfor</t>
             <xg>
                <x>Duej vaartoej daebpeli hijven gåatome lea.</x>
                <xt>Hitenfor de fjellene er det bra beite.</xt>
@@ -1943,7 +1859,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">hitenfor_SWE</t>
+            <t pos="pr">hitenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -1953,15 +1869,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nærmere her</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">hitenfor</t>
+            <tf pos="phrase_pr">nærmere her</tf>
+            <t pos="pr">hitenfor</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">nærmere her_SWE</tf>
+            <tf pos="phrase_pr">nærmere her_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1971,18 +1887,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">mer herfra</tf>
+            <tf pos="phrase_pr">mer herfra</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">mer herfra_SWE</tf>
+            <tf pos="phrase_pr">mer herfra_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra denne siden av</tf>
+            <tf pos="phrase_pr">fra denne siden av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra denne siden av_SWE</tf>
+            <tf pos="phrase_pr">fra denne siden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -1993,7 +1909,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">ditover</t>
+            <t pos="adv">ditover</t>
             <xg>
                <x>Dïhte krievvie lea barranamme vaeriej debpeli.</x>
                <xt>Reinflokken har spredt seg i retningen mot fjellene.</xt>
@@ -2001,7 +1917,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">ditover_SWE</t>
+            <t pos="adv">ditover_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2011,10 +1927,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">der</t>
+            <t pos="adv">der</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">der_SWE</t>
+            <t pos="adv">der_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2024,10 +1940,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">derfra</t>
+            <t pos="adv">derfra</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">derfra_SWE</t>
+            <t pos="adv">derfra_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2037,7 +1953,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
             <xg>
                <x>Dan dïehre ij vïenhth dïhte reaktoe.</x>
                <xt>Av den grunn tror hun ikke det er riktig.</xt>
@@ -2048,7 +1964,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2058,14 +1974,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
             <xg>
                <x>Ih gujht mov dïereh daarpesjh dam darjodh.</x>
                <xt>Du behøver ikke gjøre det for min skyld.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2075,14 +1991,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
             <xg>
                <x>Dïhte dam mov dïete darjoeji.</x>
                <xt>Han gjordet det på grunn av meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2092,10 +2008,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger bortfra</tf>
+            <tf pos="phrase_pr">lenger bortfra</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger bortfra_SWE</tf>
+            <tf pos="phrase_pr">lenger bortfra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2105,14 +2021,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger bort</tf>
+            <tf pos="phrase_pr">lenger bort</tf>
             <xg>
                <x>Dubpielisnie doh vaerieh mijjen suehpedslaante.</x>
                <xt>Bortenfor de der fjellene er vårt kalvingsland.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger bort_SWE</tf>
+            <tf pos="phrase_pr">lenger bort_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2122,22 +2038,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger ut på</tf>
+            <tf pos="phrase_pr">lenger ut på</tf>
             <xg>
                <x>tjaktjen duebpelen</x>
                <xt>lenger ut på høsten</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger ut på_SWE</tf>
+            <tf pos="phrase_pr">lenger ut på_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">hitover</t>
+            <t pos="adv">hitover</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">hitover_SWE</t>
+            <t pos="adv">hitover_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2147,10 +2063,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger ut på</tf>
+            <tf pos="phrase_pr">lenger ut på</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger ut på_SWE</tf>
+            <tf pos="phrase_pr">lenger ut på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2160,10 +2076,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no">der bortenfor</tf>
+            <tf pos="phrase_adv">der bortenfor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe">der bortenfor_SWE</tf>
+            <tf pos="phrase_adv">der bortenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2173,10 +2089,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no">der bortenfra</tf>
+            <tf pos="phrase_adv">der bortenfra</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe">der bortenfra_SWE</tf>
+            <tf pos="phrase_adv">der bortenfra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2187,11 +2103,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bakenfor</tf>
+            <tf pos="phrase_pr">bakenfor</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bakenfor_SWE</tf>
+            <tf pos="phrase_pr">bakenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2201,14 +2117,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">langs bak, forbi bak</t>
+            <t pos="pr">langs bak, forbi bak</t>
             <xg>
                <x>Jååktan sååjhtim gånkan slåahten duekiem vaedtsedh.</x>
                <xt>I går gikk jeg tilfeldigvis bak kongens slott.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">langs bak, forbi bak_SWE</t>
+            <t pos="pr">langs bak, forbi bak_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2218,14 +2134,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i møte</tf>
+            <tf pos="phrase_pr">i møte</tf>
             <xg>
                <x>Båetieh mov gaavnefedtie!</x>
                <xt>Kom meg i møte!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i møte_SWE</tf>
+            <tf pos="phrase_pr">i møte_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2235,14 +2151,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i møte</tf>
+            <tf pos="phrase_pr">i møte</tf>
             <xg>
                <x>Båetieh mov gaavnuhte!</x>
                <xt>Kom meg i møte!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i møte_SWE</tf>
+            <tf pos="phrase_pr">i møte_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2252,14 +2168,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
             <xg>
                <x>Dan gaevhtieh daerpies nemhtie darjodh.</x>
                <xt>På grunn av dette er det nødvendig å gjøre det slik.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2270,7 +2186,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse fra</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">mellom</tf>
+            <tf pos="phrase_pr">mellom</tf>
             <xg>
                <x>Dellie plaeriej jïh gaajhkelaaketje paehperi gaskeste jïjhtele stoerre kraevies prievieskuahpa.</x>
                <xt>Så mellom aviser og alle slags papirer dukker det fram en stor, grå konvolutt.</xt>
@@ -2278,7 +2194,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse fra_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">mellom_SWE</tf>
+            <tf pos="phrase_pr">mellom_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2288,7 +2204,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">mellom</tf>
+            <tf pos="phrase_pr">mellom</tf>
             <xg>
                <x>Budtestahkh dïjrem almetji gaskem guedtieh.</x>
                <xt>Koftebåndene formidler et budskap mellom mennesker.</xt>
@@ -2303,7 +2219,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">mellom_SWE</tf>
+            <tf pos="phrase_pr">mellom_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2313,8 +2229,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">midt i</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">midt på</tf>
+            <tf pos="phrase_pr">midt i</tf>
+            <tf pos="phrase_pr">midt på</tf>
             <xg>
                <x>Daan jaepien påaske voerhtjen gaskoeh båata.</x>
                <xt>I år kommer påsken i midten av april.</xt>
@@ -2325,7 +2241,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">midt i_SWE</tf>
+            <tf pos="phrase_pr">midt i_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2336,8 +2252,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om mennesker og klesplagg</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på baksiden av</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bak</t>
+            <tf pos="phrase_pr">på baksiden av</tf>
+            <t pos="pr">bak</t>
             <xg>
                <x>Tjihkedh mov genhtsemen!</x>
                <xt>Sett deg bak meg!</xt>
@@ -2345,7 +2261,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om mennesker og klesplagg_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på baksiden av_SWE</tf>
+            <tf pos="phrase_pr">på baksiden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2356,8 +2272,8 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere mennesker og klesplagg</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på baksiden av</tf>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bak</t>
+            <tf pos="phrase_pr">på baksiden av</tf>
+            <t pos="pr">bak</t>
             <xg>
                <x>Duej almetji genhtsemi vaedtsedh!</x>
                <xt>Gå bak de menneskene!</xt>
@@ -2365,7 +2281,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere mennesker og klesplagg_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på baksiden av_SWE</tf>
+            <tf pos="phrase_pr">på baksiden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2375,14 +2291,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakpå</t>
+            <t pos="pr">bakpå</t>
             <xg>
                <x>Dah duahpah leah tjohpen genhtsiemisnie.</x>
                <xt>Duskene er bakpå lua.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakpå_SWE</t>
+            <t pos="pr">bakpå_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2392,14 +2308,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra bak</tf>
+            <tf pos="phrase_pr">fra bak</tf>
             <xg>
                <x>Båata don vaerien genhtsiemistie vaedtsien.</x>
                <xt>Han kommer gående fra bak det fjellet.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra bak_SWE</tf>
+            <tf pos="phrase_pr">fra bak_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2409,14 +2325,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
+            <tf pos="phrase_pr">ved siden av</tf>
             <xg>
                <x>Biejjie lea jæjhteme, Jupmelen rïjhke lea gïetskesne.</x>
                <xt>Sola har kommet fram, Guds rike er nær.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved siden av_SWE</tf>
+            <tf pos="phrase_pr">ved siden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2426,14 +2342,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">inn mellom</tf>
+            <tf pos="phrase_pr">inn mellom</tf>
             <xg>
                <x>Bïejh dam lastem daej gærjaj giske!</x>
                <xt>Legg bladet mellom de her bøkene!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">inn mellom_SWE</tf>
+            <tf pos="phrase_pr">inn mellom_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2444,11 +2360,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</t>
+            <t pos="phrase_pr">ved siden av</t>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved siden av_SWE</t>
+            <t pos="phrase_pr">ved siden av_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2458,11 +2374,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no">i to retninger</tf>
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no">i to deler</tf>
+            <tf pos="phrase_adv">i to retninger</tf>
+            <tf pos="phrase_adv">i to deler</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe">i to retninger_SWE</tf>
+            <tf pos="phrase_adv">i to retninger_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2472,11 +2388,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på to sider</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på to steder</tf>
+            <tf pos="phrase_pr">på to sider</tf>
+            <tf pos="phrase_pr">på to steder</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på to sider_SWE</tf>
+            <tf pos="phrase_pr">på to sider_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2486,10 +2402,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra begge sider</tf>
+            <tf pos="phrase_pr">fra begge sider</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra begge sider_SWE</tf>
+            <tf pos="phrase_pr">fra begge sider_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2499,15 +2415,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">litt lenger vest for</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">til vestsiden av</tf>
+            <tf pos="phrase_pr">litt lenger vest for</tf>
+            <tf pos="phrase_pr">til vestsiden av</tf>
             <xg>
                <x>Vaedtsieh dan jillelen!</x>
                <xt>Gå vestafor den!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">litt lenger vest for_SWE</tf>
+            <tf pos="phrase_pr">litt lenger vest for_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2518,7 +2434,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">vestafor</t>
+            <t pos="pr">vestafor</t>
             <xg>
                <x>Doej vaartoej jilleli lea dïhte hæhtjoe gusnie mijjieh dæjmetje giesien årroejimh.</x>
                <xt>Vestafor de fjellene er hytta som vi bodde i i fjor sommer.</xt>
@@ -2526,7 +2442,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">vestafor_SWE</t>
+            <t pos="pr">vestafor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2536,10 +2452,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">vestafor</t>
+            <t pos="pr">vestafor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">vestafor_SWE</t>
+            <t pos="pr">vestafor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2549,15 +2465,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">mer vestfra</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra vestafor</tf>
+            <tf pos="phrase_pr">mer vestfra</tf>
+            <tf pos="phrase_pr">fra vestafor</tf>
             <xg>
                <x>Dubpielisnie, biejjie jïh asken jillielistie, sån eatneme gulleste.</x>
                <xt>Der bortenfor, lenger borte, vestafor sol og måne, er vel verden av gull.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">mer vestfra_SWE</tf>
+            <tf pos="phrase_pr">mer vestfra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2568,7 +2484,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">siden</t>
+            <t pos="adv">siden</t>
             <xg>
                <x>Joe våhkoen juassah.</x>
                <xt>Det er allerede en uke siden.</xt>
@@ -2576,7 +2492,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">siden_SWE</t>
+            <t pos="adv">siden_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2584,16 +2500,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">luvhtie</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">fra</t>
+            <t pos="pr">fra</t>
             <xg>
                <x>Båata bovtsi luvhtie.</x>
                <xt>Hun kommer fra reinhjorden.</xt>
@@ -2604,7 +2513,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">fra_SWE</t>
+            <t pos="pr">fra_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2615,7 +2524,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere steder</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">østafor</t>
+            <t pos="pr">østafor</t>
             <xg>
                <x>Doej vaeriej luvleli dïhte baalka man bïjre jååktan soptsestim.</x>
                <xt>Østafor de fjellene er den stien som jeg pratet om i går.</xt>
@@ -2623,7 +2532,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere steder_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">østafor_SWE</t>
+            <t pos="pr">østafor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2633,15 +2542,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra østafor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra litt lenger øst enn</tf>
+            <tf pos="phrase_pr">fra østafor</tf>
+            <tf pos="phrase_pr">fra litt lenger øst enn</tf>
             <xg>
                <x>Dïhte hov dan sïjten luvlielistie båata.</x>
                <xt>Hun kommer fra litt lenger øst enn den siidaen.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra østafor_SWE</tf>
+            <tf pos="phrase_pr">fra østafor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2652,11 +2561,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
+            <tf pos="phrase_pr">ved siden av</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved siden av_SWE</tf>
+            <tf pos="phrase_pr">ved siden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2666,14 +2575,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">langsetter</t>
+            <t pos="pr">langsetter</t>
             <xg>
                <x>dan dueljien meatesth</x>
                <xt>langsetter det skinnet</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">langsetter_SWE</t>
+            <t pos="pr">langsetter_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2683,16 +2592,16 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakover</t>
+            <t pos="pr">bakover</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakover_SWE</t>
+            <t pos="pr">bakover_SWE</t>
          </tg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakfra</t>
+            <t pos="pr">bakfra</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakfra_SWE</t>
+            <t pos="pr">bakfra_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2702,15 +2611,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakenfor</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakom</t>
+            <t pos="pr">bakenfor</t>
+            <t pos="pr">bakom</t>
             <xg>
                <x>Bïejh dam dov miehtjelen!</x>
                <xt>Legg den bak deg!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakenfor_SWE</t>
+            <t pos="pr">bakenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2721,12 +2630,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakenfor</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakom</t>
+            <t pos="pr">bakenfor</t>
+            <t pos="pr">bakom</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakenfor_SWE</t>
+            <t pos="pr">bakenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2737,11 +2646,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger bakover</tf>
+            <tf pos="phrase_pr">lenger bakover</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger bakover_SWE</tf>
+            <tf pos="phrase_pr">lenger bakover_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2751,18 +2660,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakom</t>
+            <t pos="pr">bakom</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakom_SWE</t>
+            <t pos="pr">bakom_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no">borte i det fjerne</tf>
+            <tf pos="phrase_adv">borte i det fjerne</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe">borte i det fjerne_SWE</tf>
+            <tf pos="phrase_adv">borte i det fjerne_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2772,22 +2681,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra den bakre siden av</tf>
+            <tf pos="phrase_pr">fra den bakre siden av</tf>
             <xg>
                <x>Gåetien miehtjielistie jïjhteli.</x>
                <xt>Den dukket opp fra baksida av kåta.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra den bakre siden av_SWE</tf>
+            <tf pos="phrase_pr">fra den bakre siden av_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra nordsiden av</tf>
+            <tf pos="phrase_pr">fra nordsiden av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra nordsiden av_SWE</tf>
+            <tf pos="phrase_pr">fra nordsiden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2797,10 +2706,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">med</t>
+            <t pos="pr">med</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">med_SWE</t>
+            <t pos="pr">med_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2811,11 +2720,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">med</t>
+            <t pos="pr">med</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">med_SWE</t>
+            <t pos="pr">med_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2825,10 +2734,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">med</t>
+            <t pos="pr">med</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">med_SWE</t>
+            <t pos="pr">med_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2838,10 +2747,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">i midten</t>
+            <t pos="pr">i midten</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">i midten_SWE</t>
+            <t pos="pr">i midten_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2851,14 +2760,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">midt imot</t>
+            <t pos="pr">midt imot</t>
             <xg>
                <x>gedtien mihti sjïehtedh</x>
                <xt>komme midt imot en villrein</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">midt imot_SWE</t>
+            <t pos="pr">midt imot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2868,14 +2777,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">baketter</t>
+            <t pos="adv">baketter</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">baketter_SWE</t>
+            <t pos="adv">baketter_SWE</t>
          </tg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
             <xg>
                <x>jaepien minngelde</x>
                <xt>etter et år</xt>
@@ -2883,15 +2792,15 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">baktil</t>
+            <t pos="pr">baktil</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">baktil_SWE</t>
+            <t pos="pr">baktil_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2902,18 +2811,18 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bakenfor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger bak</tf>
+            <tf pos="phrase_pr">bakenfor</tf>
+            <tf pos="phrase_pr">lenger bak</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bakenfor_SWE</tf>
+            <tf pos="phrase_pr">bakenfor_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
             <xg>
                <x>jaepien minngelen</x>
                <xt>etter et år</xt>
@@ -2925,7 +2834,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2936,12 +2845,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">bakenfor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger bak</tf>
+            <tf pos="phrase_pr">bakenfor</tf>
+            <tf pos="phrase_pr">lenger bak</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">bakenfor_SWE</tf>
+            <tf pos="phrase_pr">bakenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -2951,14 +2860,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakom</t>
+            <t pos="pr">bakom</t>
             <xg>
                <x>Mov gåetie lea dan jaevrien minngielisnie.</x>
                <xt>Huset mitt er bakom det vannet.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakom_SWE</t>
+            <t pos="pr">bakom_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2969,17 +2878,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">etter</t>
+            <t pos="pr">etter</t>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">etter_SWE</t>
+            <t pos="pr">etter_SWE</t>
          </tg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">bakfra</t>
+            <t pos="adv">bakfra</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">bakfra_SWE</t>
+            <t pos="adv">bakfra_SWE</t>
          </tg>
       </mg>
    </e>
@@ -2989,10 +2898,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">just opp på</tf>
+            <tf pos="phrase_pr">just opp på</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">just opp på_SWE</tf>
+            <tf pos="phrase_pr">just opp på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3002,22 +2911,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">uten</t>
+            <t pos="pr">uten</t>
             <xg>
                <x>Abpe biejjiem tjoeverimh beapmoej namhtegh vaedtsedh.</x>
                <xt>Vi måtte gå hele dagen uten mat.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">uten_SWE</t>
+            <t pos="pr">uten_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no">gratis</t>
+            <t pos="adv">gratis</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" xml:lang="swe">gratis_SWE</t>
+            <t pos="adv">gratis_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3027,14 +2936,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
             <xg>
                <x>Dan njeajah tjïektjesti.</x>
                <xt>Han sparket mot den.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3045,16 +2954,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="no" oa="yes" pos="phrase_adv" tcomm="no">nordafor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nord om</tf>
+            <tf pos="phrase_pr">nord om</tf>
             <xg>
                <x>Mijjieh provhkebe gööledh dan såålen noerhtelen.</x>
                <xt>Vi bruker å fiske nord om den holmen.</xt>
             </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <re>bevegelse til_SWE</re>
-            <tf dict="no" oa="yes" pos="phrase_adv" tcomm="no" xml:lang="swe">nordafor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3064,14 +2968,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nordafor</tf>
+            <tf pos="phrase_pr">nordafor</tf>
             <xg>
                <x>Dïhte lea duej vaeriej noerhteli.</x>
                <xt>Den er nord for de fjellene.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">nordafor_SWE</tf>
+            <tf pos="phrase_pr">nordafor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3081,14 +2985,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger i nord</tf>
+            <tf pos="phrase_pr">lenger i nord</tf>
             <xg>
                <x>Fylhken noerhtelisnie vaenie almetjh årroeminie.</x>
                <xt>Lenger nord i fylket bor det lite folk.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger i nord_SWE</tf>
+            <tf pos="phrase_pr">lenger i nord_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3098,11 +3002,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lengre nordfra</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">nordfra</tf>
+            <tf pos="phrase_pr">lengre nordfra</tf>
+            <tf pos="phrase_pr">nordfra</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lengre nordfra_SWE</tf>
+            <tf pos="phrase_pr">lengre nordfra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3112,14 +3016,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">ved</t>
+            <t pos="pr">ved</t>
             <xg>
                <x>juelkien sakte</x>
                <xt>ved fotenden</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">ved_SWE</t>
+            <t pos="pr">ved_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3130,11 +3034,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">innenfor</t>
+            <t pos="pr">innenfor</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">innenfor_SWE</t>
+            <t pos="pr">innenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3145,7 +3049,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">innenfor</t>
+            <t pos="pr">innenfor</t>
             <xg>
                <x>vaarjoej sjisjnjeli</x>
                <xt>innenfor klærne</xt>
@@ -3153,7 +3057,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">innenfor_SWE</t>
+            <t pos="pr">innenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3163,14 +3067,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">på innsida av</t>
+            <t pos="pr">på innsida av</t>
             <xg>
                <x>Vaarjoej sjisjnjielisnie båadtsode lea.</x>
                <xt>På innsida av klærne er man naken.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">på innsida av_SWE</t>
+            <t pos="pr">på innsida av_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3180,14 +3084,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra innersiden</tf>
+            <tf pos="phrase_pr">fra innersiden</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra innersiden_SWE</tf>
+            <tf pos="phrase_pr">fra innersiden_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3197,14 +3101,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ut fra</tf>
+            <tf pos="phrase_pr">ut fra</tf>
             <xg>
                <x>Voessen sistie bööti.</x>
                <xt>Den kom ut fra sekken.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ut fra_SWE</tf>
+            <tf pos="phrase_pr">ut fra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3214,11 +3118,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i anledning av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
+            <tf pos="phrase_pr">i anledning av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3228,11 +3132,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i anledning av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
+            <tf pos="phrase_pr">i anledning av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3242,11 +3146,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på grunn av</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i anledning av</tf>
+            <tf pos="phrase_pr">på grunn av</tf>
+            <tf pos="phrase_pr">i anledning av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på grunn av_SWE</tf>
+            <tf pos="phrase_pr">på grunn av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3256,22 +3160,22 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">borti</t>
+            <t pos="pr">borti</t>
             <xg>
                <x>Bïjlen sonterh vööji.</x>
                <xt>Han kjørte borti bilen.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">borti_SWE</t>
+            <t pos="pr">borti_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">støte i mot</t>
+            <t pos="pr">støte i mot</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">støte i mot_SWE</t>
+            <t pos="pr">støte i mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3281,10 +3185,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ved siden av</tf>
+            <tf pos="phrase_pr">ved siden av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ved siden av_SWE</tf>
+            <tf pos="phrase_pr">ved siden av_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3294,10 +3198,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">litt innenfor</tf>
+            <tf pos="phrase_pr">litt innenfor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">litt innenfor_SWE</tf>
+            <tf pos="phrase_pr">litt innenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3307,10 +3211,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">nedanfor</t>
+            <t pos="pr">nedanfor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">nedanfor_SWE</t>
+            <t pos="pr">nedanfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3320,14 +3224,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
             <xg>
                <x>Dïhte guhte ij leah mijjen vuestelen, lea mijjine ektesne.</x>
                <xt>Den som ikke er mot oss, er sammen med oss.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3338,15 +3242,15 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
             <re>om flere_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3356,10 +3260,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">mot</t>
+            <t pos="pr">mot</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">mot_SWE</t>
+            <t pos="pr">mot_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3369,10 +3273,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra mot</tf>
+            <tf pos="phrase_pr">fra mot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra mot_SWE</tf>
+            <tf pos="phrase_pr">fra mot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3383,11 +3287,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om beskyttelse og omsorg, bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sammen med</tf>
+            <tf pos="phrase_pr">sammen med</tf>
          </tg>
          <tg xml:lang="swe">
             <re>om beskyttelse og omsorg, bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">sammen med_SWE</tf>
+            <tf pos="phrase_pr">sammen med_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3398,12 +3302,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sønnafor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sør om</tf>
+            <tf pos="phrase_pr">sønnafor</tf>
+            <tf pos="phrase_pr">sør om</tf>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">sønnafor_SWE</tf>
+            <tf pos="phrase_pr">sønnafor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3414,12 +3318,12 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <re>om flere, bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sønnafor</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sør om</tf>
+            <tf pos="phrase_pr">sønnafor</tf>
+            <tf pos="phrase_pr">sør om</tf>
          </tg>
          <tg xml:lang="swe">
             <re>om flere, bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">sønnafor_SWE</tf>
+            <tf pos="phrase_pr">sønnafor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3429,10 +3333,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">sønnafor</t>
+            <t pos="pr">sønnafor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">sønnafor_SWE</t>
+            <t pos="pr">sønnafor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3442,14 +3346,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">sønnafor</t>
+            <t pos="pr">sønnafor</t>
             <xg>
                <x>Dïhte aktede voeneste Snåasen åerjielisnie båata.</x>
                <xt>Hun kommer fra ei bygd sønnafor Snåsa.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">sønnafor_SWE</t>
+            <t pos="pr">sønnafor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3459,15 +3363,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger syd fra</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra sønnafor</tf>
+            <tf pos="phrase_pr">lenger syd fra</tf>
+            <tf pos="phrase_pr">fra sønnafor</tf>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger syd fra_SWE</tf>
+            <tf pos="phrase_pr">lenger syd fra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3477,11 +3381,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">lenger syd fra</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra sønnafor</tf>
+            <tf pos="phrase_pr">lenger syd fra</tf>
+            <tf pos="phrase_pr">fra sønnafor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">lenger syd fra_SWE</tf>
+            <tf pos="phrase_pr">lenger syd fra_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3491,15 +3395,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i beskyttelse</tf>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i omsorg</tf>
+            <tf pos="phrase_pr">i beskyttelse</tf>
+            <tf pos="phrase_pr">i omsorg</tf>
             <xg>
                <x>Dïhte mijjen åelesne.</x>
                <xt>Han er under vår beskyttelse og omsorg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i beskyttelse_SWE</tf>
+            <tf pos="phrase_pr">i beskyttelse_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3509,18 +3413,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på utsida av</tf>
+            <tf pos="phrase_pr">på utsida av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på utsida av_SWE</tf>
+            <tf pos="phrase_pr">på utsida av_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">like utenfor</tf>
+            <tf pos="phrase_pr">like utenfor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">like utenfor_SWE</tf>
+            <tf pos="phrase_pr">like utenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3530,18 +3434,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på utsida av</tf>
+            <tf pos="phrase_pr">på utsida av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på utsida av_SWE</tf>
+            <tf pos="phrase_pr">på utsida av_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">like utenfor</tf>
+            <tf pos="phrase_pr">like utenfor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">like utenfor_SWE</tf>
+            <tf pos="phrase_pr">like utenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3551,18 +3455,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra utsida av</tf>
+            <tf pos="phrase_pr">fra utsida av</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra utsida av_SWE</tf>
+            <tf pos="phrase_pr">fra utsida av_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra like utenfor</tf>
+            <tf pos="phrase_pr">fra like utenfor</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra like utenfor_SWE</tf>
+            <tf pos="phrase_pr">fra like utenfor_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3572,30 +3476,30 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenfor</t>
+            <t pos="pr">utenfor</t>
             <xg>
                <x>Dah leah giedtien ålkolen tjåanghkenamme.</x>
                <xt>De har samlet seg utenfor gjerdet.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenfor_SWE</t>
+            <t pos="pr">utenfor_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenpå</t>
+            <t pos="pr">utenpå</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenpå_SWE</t>
+            <t pos="pr">utenpå_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">bakenfor</t>
+            <t pos="pr">bakenfor</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">bakenfor_SWE</t>
+            <t pos="pr">bakenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3605,32 +3509,32 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenfor</t>
+            <t pos="pr">utenfor</t>
             <xg>
                <x>Ij gie vissjh lopmh baeledh dej gåetiej ålkoli.</x>
                <xt>Det er ingen som orker å måke snø utenfor de husene.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenfor_SWE</t>
+            <t pos="pr">utenfor_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
             <re>om flere steder</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenom</t>
+            <t pos="pr">utenom</t>
          </tg>
          <tg xml:lang="swe">
             <re>om flere steder_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenom_SWE</t>
+            <t pos="pr">utenom_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">utenpå</t>
+            <t pos="pr">utenpå</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">utenpå_SWE</t>
+            <t pos="pr">utenpå_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3640,18 +3544,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">fremover</t>
+            <t pos="pr">fremover</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">fremover_SWE</t>
+            <t pos="pr">fremover_SWE</t>
          </tg>
          <tg xml:lang="nob">
             <re>om tid</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3661,18 +3565,18 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">lenger frem</t>
+            <t pos="pr">lenger frem</t>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">lenger frem_SWE</t>
+            <t pos="pr">lenger frem_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3682,10 +3586,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra foran</tf>
+            <tf pos="phrase_pr">fra foran</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra foran_SWE</tf>
+            <tf pos="phrase_pr">fra foran_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3695,38 +3599,38 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Vaedtsieh mov åvtem!</x>
                <xt>Gå foran meg!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">i veien for</t>
+            <t pos="pr">i veien for</t>
             <xg>
                <x>Dïhte mov avtem tjåådtje.</x>
                <xt>Han står i veien for meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">i veien for_SWE</t>
+            <t pos="pr">i veien for_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>Dïhte bööti göökte biejjieh mov åvtem.</x>
                <xt>Han kom to dager før meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3736,38 +3640,38 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Vaedtsieh mov avtem!</x>
                <xt>Gå foran meg!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">i veien for</tf>
+            <tf pos="phrase_pr">i veien for</tf>
             <xg>
                <x>Dïhte mov avtem tjåådtje.</x>
                <xt>Han står i veien for meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">i veien for_SWE</tf>
+            <tf pos="phrase_pr">i veien for_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">før</t>
+            <t pos="pr">før</t>
             <xg>
                <x>Dïhte bööti göökte biejjieh mov avtem.</x>
                <xt>Han kom to dager før meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">før_SWE</t>
+            <t pos="pr">før_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3775,23 +3679,16 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">åvtine</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Mov åvtene vaadtsa.</x>
                <xt>Hun går foran meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" stat="pref" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3801,14 +3698,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">foran</t>
+            <t pos="pr">foran</t>
             <xg>
                <x>Mov avtene vaadtsa.</x>
                <xt>Hun går foran meg.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">foran_SWE</t>
+            <t pos="pr">foran_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3818,27 +3715,27 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">fra foran</tf>
+            <tf pos="phrase_pr">fra foran</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">fra foran_SWE</tf>
+            <tf pos="phrase_pr">fra foran_SWE</tf>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no">ut av veien fra</t>
+            <t pos="phrase_pr">ut av veien fra</t>
             <xg>
                <x>Baaterh mov bïjlen åvteste!</x>
                <xt>Flytt deg ut av veien for bilen min!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">ut av veien fra_SWE</t>
+            <t pos="phrase_pr">ut av veien fra_SWE</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">for</t>
+            <t pos="pr">for</t>
             <xg>
                <x>Man åvteste dan vaenie beapmoeh?</x>
                <xt>Hvorfor er det så lite mat?</xt>
@@ -3857,7 +3754,7 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">for_SWE</t>
+            <t pos="pr">for_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3865,18 +3762,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="po">nille</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <book name="åa4" />
-               <book name="åa6" />
-            </sources>
-         </app>
-      </apps>
       <mg>
          <tg xml:lang="nob">
             <re>bevegelse til</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">på</tf>
+            <tf pos="phrase_pr">på</tf>
             <xg>
                <x>Bïejh gærjam buertien nille!</x>
                <xt>Legg boka på bordet!</xt>
@@ -3884,7 +3773,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>bevegelse til_SWE</re>
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">på_SWE</tf>
+            <tf pos="phrase_pr">på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3894,10 +3783,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no">sammen</tf>
+            <tf pos="phrase_pr">sammen</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase_pr" tcomm="no" xml:lang="swe">sammen_SWE</tf>
+            <tf pos="phrase_pr">sammen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3907,15 +3796,15 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no">seg mellom</tf>
-            <t dict="yes" oa="yes" pos="po" tcomm="no">hverandre</t>
+            <tf pos="phrase">seg mellom</tf>
+            <t pos="po">hverandre</t>
             <xg>
                <x>Dej gaskemsh lea nimhtie.</x>
                <xt>Mellom dem er det slik.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe">seg mellom_SWE</tf>
+            <tf pos="phrase">seg mellom_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3925,14 +3814,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="po" tcomm="no">innenfor</t>
+            <t pos="po">innenfor</t>
             <xg>
                <x>Hijven jissehts lijhkiesjåarhtoe utnedh gåptoen sisnjielisnie.</x>
                <xt>Det er bra å ha en tynn undertrøye innenfor kofta.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="po" tcomm="no" xml:lang="swe">innenfor_SWE</t>
+            <t pos="po">innenfor_SWE</t>
          </tg>
       </mg>
    </e>
@@ -3942,14 +3831,14 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no">så mye</tf>
+            <tf pos="phrase">så mye</tf>
             <xg>
                <x>man jarke</x>
                <xt>så mye</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf dict="yes" oa="yes" pos="phrase" tcomm="no" xml:lang="swe">så mye_SWE</tf>
+            <tf pos="phrase">så mye_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -3959,18 +3848,19 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">om</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">via</t>
-            <t dict="yes" oa="yes" pos="pr" tcomm="no">forbi</t>
+            <t pos="pr">om</t>
+            <t pos="pr">via</t>
+            <t pos="pr">forbi</t>
             <xg>
                <x>Aellieh mov baakta vaedtsieh!</x>
                <xt>Ikke gå forbi meg!</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t dict="yes" oa="yes" pos="pr" tcomm="no" xml:lang="swe">om_SWE</t>
+            <t pos="pr">om_SWE</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

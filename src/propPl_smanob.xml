@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -25,8 +22,7 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e src="sk" usage="dict">
       <lg>
          <l pos="propPl">Njuanajaevrieh</l>
@@ -34,7 +30,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Rindal</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Tangvatna</t>
+            <t pos="prop">Tangvatna</t>
          </tg>
       </mg>
    </e>
@@ -45,7 +41,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Selbu</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Skarvan</t>
+            <t pos="prop">Skarvan</t>
          </tg>
       </mg>
    </e>
@@ -56,7 +52,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Tydal</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Skreddarsjøane</t>
+            <t pos="prop">Skreddarsjøane</t>
          </tg>
       </mg>
    </e>
@@ -64,21 +60,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="propPl">Bealjehkh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <frequency class="common" />
-               <geography class="south" />
-            </sources>
-         </app>
-      </apps>
       <mg>
-         <semantics>
-            <sem class="mPLACE_NATURE" />
-         </semantics>
          <tg>
             <re>Tydal</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Sylan</t>
+            <t pos="prop">Sylan</t>
          </tg>
       </mg>
    </e>
@@ -89,7 +74,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Meråker</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Lødøljsjøan</t>
+            <t pos="prop">Lødøljsjøan</t>
          </tg>
       </mg>
    </e>
@@ -100,7 +85,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordli</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Grønflatknulen</t>
+            <t pos="prop">Grønflatknulen</t>
          </tg>
       </mg>
    </e>
@@ -111,7 +96,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordli</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Akkavassøran</t>
+            <t pos="prop">Akkavassøran</t>
          </tg>
       </mg>
    </e>
@@ -119,21 +104,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="propPl">Guelehtsjaevrieh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <frequency class="common" />
-               <geography class="mid" />
-            </sources>
-         </app>
-      </apps>
       <mg>
-         <semantics>
-            <sem class="mPLACE_NAME" />
-         </semantics>
          <tg>
             <re>Nordli</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Fiskløysvatna</t>
+            <t pos="prop">Fiskløysvatna</t>
          </tg>
       </mg>
    </e>
@@ -144,7 +118,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Storgollomsvatnet</t>
+            <t pos="prop">Storgollomsvatnet</t>
          </tg>
       </mg>
    </e>
@@ -155,7 +129,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Husviktjønnin</t>
+            <t pos="prop">Husviktjønnin</t>
          </tg>
       </mg>
    </e>
@@ -166,7 +140,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Renselskardtjønnin</t>
+            <t pos="prop">Renselskardtjønnin</t>
          </tg>
       </mg>
    </e>
@@ -177,7 +151,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Beinvatna</t>
+            <t pos="prop">Beinvatna</t>
          </tg>
       </mg>
    </e>
@@ -188,7 +162,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Tjermavatna</t>
+            <t pos="prop">Tjermavatna</t>
          </tg>
       </mg>
    </e>
@@ -196,21 +170,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="propPl">Jassehkentjonneh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <frequency class="common" />
-               <geography class="mid" />
-            </sources>
-         </app>
-      </apps>
       <mg>
-         <semantics>
-            <sem class="mPLACE_NATURE" />
-         </semantics>
          <tg>
             <re>Røyrvik</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Jassånilstjønnin</t>
+            <t pos="prop">Jassånilstjønnin</t>
          </tg>
       </mg>
    </e>
@@ -221,7 +184,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Namsskogan</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Sætertjørnin</t>
+            <t pos="prop">Sætertjørnin</t>
          </tg>
       </mg>
    </e>
@@ -232,7 +195,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Namsskogan</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Langtjønna</t>
+            <t pos="prop">Langtjønna</t>
          </tg>
       </mg>
    </e>
@@ -243,7 +206,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Høylandet</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Finntroppin</t>
+            <t pos="prop">Finntroppin</t>
          </tg>
       </mg>
    </e>
@@ -254,7 +217,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Høylandet</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Årkverntjørnin</t>
+            <t pos="prop">Årkverntjørnin</t>
          </tg>
       </mg>
    </e>
@@ -265,7 +228,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordbindalen</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Nilsinetjørnin</t>
+            <t pos="prop">Nilsinetjørnin</t>
          </tg>
       </mg>
    </e>
@@ -276,7 +239,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordbindalen</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Nilsinetjørnin</t>
+            <t pos="prop">Nilsinetjørnin</t>
          </tg>
       </mg>
    </e>
@@ -287,7 +250,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordbindalen</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Grytendalsvatnan</t>
+            <t pos="prop">Grytendalsvatnan</t>
          </tg>
       </mg>
    </e>
@@ -298,7 +261,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Nordbindalen</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Nilsfinntjønnin</t>
+            <t pos="prop">Nilsfinntjønnin</t>
          </tg>
       </mg>
    </e>
@@ -309,7 +272,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Hattfjelldal</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Sætertjønnan</t>
+            <t pos="prop">Sætertjønnan</t>
          </tg>
       </mg>
    </e>
@@ -320,7 +283,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Hattfjelldal</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Pinkelvatnan</t>
+            <t pos="prop">Pinkelvatnan</t>
          </tg>
       </mg>
    </e>
@@ -331,7 +294,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg>
             <re>Mo</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Jordbekkvatnan</t>
+            <t pos="prop">Jordbekkvatnan</t>
          </tg>
       </mg>
    </e>
@@ -339,21 +302,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="propPl">Plierehkejaevrieh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <frequency class="common" />
-               <geography class="north" />
-            </sources>
-         </app>
-      </apps>
       <mg>
-         <semantics>
-            <sem class="mPLACE_NATURE" />
-         </semantics>
          <tg>
             <re>Mo</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Blerekvatnan</t>
+            <t pos="prop">Blerekvatnan</t>
          </tg>
       </mg>
    </e>
@@ -361,23 +313,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="propPl">Gaajsetjh</l>
       </lg>
-      <apps>
-         <app name="oahpa">
-            <sources>
-               <frequency class="common" />
-               <geography class="north" />
-            </sources>
-         </app>
-      </apps>
       <mg>
-         <semantics>
-            <sem class="mPLACE_NAME" />
-         </semantics>
          <tg>
             <re>Mo</re>
-            <t dict="yes" oa="yes" pos="prop" tcomm="no">Småtindan</t>
+            <t pos="prop">Småtindan</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>

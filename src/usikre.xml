@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-   <lics xml:space="preserve">
-      <lic xml:lang="en">
+   <lics xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic>
-      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
-      <sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -25,17 +22,16 @@ For the full license text, see the link above.</lic>
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote>
-   </lics>
+     </sourcenote></lics>
    <e>
       <lg>
          <l pos="adv">sjaavedh</l>
       </lg>
-      <stem class="bisyllabic"></stem>
+      <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">stille</t>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">tyst</t>
+            <t pos="adv">stille</t>
+            <t pos="adv">tyst</t>
          </tg>
       </mg>
    </e>
@@ -43,10 +39,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">slåaveldh</l>
       </lg>
-      <stem class="bisyllabic"></stem>
+      <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">dengt</t>
+            <t pos="adv">dengt</t>
          </tg>
       </mg>
    </e>
@@ -54,10 +50,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">steegkeldh</l>
       </lg>
-      <stem class="bisyllabic"></stem>
+      <stem class="bisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="adv" tcomm="no" translationcomment="no">utestengt</t>
+            <t pos="adv">utestengt</t>
          </tg>
       </mg>
    </e>
@@ -65,12 +61,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v">bæjhkoehtidh</l>
       </lg>
-      <stem class="trisyllabic"></stem>
+      <stem class="trisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">mislykkes helt</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">gå nedenom og hjem</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">gå til helvete</t>
+            <t pos="v">mislykkes helt</t>
+            <t pos="v">gå nedenom og hjem</t>
+            <t pos="v">gå til helvete</t>
          </tg>
       </mg>
    </e>
@@ -78,12 +74,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v">bïhtsegidh</l>
       </lg>
-      <stem class="trisyllabic"></stem>
+      <stem class="trisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">bryte</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">ødelegge</t>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">skade</t>
+            <t pos="v">bryte</t>
+            <t pos="v">ødelegge</t>
+            <t pos="v">skade</t>
          </tg>
       </mg>
    </e>
@@ -92,10 +88,10 @@ For the full license text, see the link above.</lic>
          <l pos="v">hammoedidh</l>
          <lsub>hæmmoehtidh</lsub>
       </lg>
-      <stem class="trisyllabic"></stem>
+      <stem class="trisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">antyde</t>
+            <t pos="v">antyde</t>
          </tg>
       </mg>
    </e>
@@ -103,12 +99,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="v">hammoedidh</l>
       </lg>
-      <stem class="trisyllabic"></stem>
+      <stem class="trisyllabic"/>
       <mg>
          <tg>
-            <t dict="yes" oa="yes" pos="v" tcomm="no">utforme</t>
+            <t pos="v">utforme</t>
          </tg>
       </mg>
    </e>
-   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
+                 type="text/javascript"/>
 </r>
