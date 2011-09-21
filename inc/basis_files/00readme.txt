@@ -5,6 +5,9 @@ In this catalogue:
 
 matord_fra_kurs.txt
 	From course, can be added to dict.
+@cip: transformed to xml and added to add2src-dir for check by native speakers.        
+      there are still lemmata without translation.
+
 norske-sørsamiske.u8.txt
 	Names
 sk_navneliste.txt
