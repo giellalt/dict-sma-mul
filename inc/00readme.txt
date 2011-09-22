@@ -13,8 +13,8 @@ Evaluation of inc directory 14.9.2011 (cip/trond):
 * csv_dir                    = Ignore for now.
 * in_verb.csv                = 188 known, 109 unknown, filter (cip) and give to S/M for evaluation
 * lemma_not_in_dict          = Not translated. Ignore for now.
-* new_noun_inc.csv           = 141 nouns not in dict, to S/M for evaluation
-* not_in_fst                 = Not translated. Ignore for now.
+* new_noun_inc.csv           = 84 nouns not in dict but in fst, to S/M for evaluation
+* not_in_fst                 = Some translated and some not, but not in sma.fst. Ignore for now.
 * search_entry_in_dir.xsl    = script
 * search_entry_in_file.xsl   = script
 * table2xml.xsl              = script
