@@ -24,25 +24,24 @@ LEX = src/a_smanob.xml  \
 	src/cc_smanob.xml		 \
 	src/cs_smanob.xml		 \
 	src/i_smanob.xml		 \
+	src/misc_stat_smanob.xml	 \
+	src/multiword_smanob.xml	 \
+	src/propPl_smanob.xml	 \
 	src/n_smanob.xml		 \
 	src/num_smanob.xml		 \
 	src/pcle_smanob.xml		 \
-	src/pronDem_smanob.xml	 \
+	src/pronDem_stat_smanob.xml	 \
 	src/pronIndef_smanob.xml \
-	src/pronPers_smanob.xml	 \
-	src/pronRec_smanob.xml	 \
-	src/pronRefl_smanob.xml	 \
-	src/pronRel_smanob.xml	 \
+	src/pronPers_stat_smanob.xml	 \
+	src/pronRec_stat_smanob.xml	 \
+	src/pronRefl_stat_smanob.xml	 \
+	src/pronRel_stat_smanob.xml	 \
 	src/prop_smanob.xml		 \
 	src/pr_smanob.xml		 \
 	src/po_smanob.xml		 \
 	src/vCop_smanob.xml		 \
 	src/vNeg_smanob.xml		 \
-	src/v_smanob.xml		 \
-	../smaswe/src/verb_smaswe.xml
-
-
-
+	src/v_smanob.xml	
 
 smadict.fst: bin/smadict.fst
 bin/smadict.fst: bin/smadict.save
