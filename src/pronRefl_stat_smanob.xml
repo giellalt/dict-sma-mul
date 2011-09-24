@@ -187,6 +187,26 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
    </e>
    <e usage="dict">
       <lg>
+         <l pos="pron" type="refl">jïjtjemisnie</l>
+         <lemma_ref lemmaID="jïjtjemem_pron_refl">jïjtjemem</lemma_ref>
+         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
+         <analysis>Pron_Refl_Sg1_Ine</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="pron">på meg selv</t>
+            <xg>
+               <x>Jïjtjemisnie tsumhtsieh vööjnim.</x>
+               <xt>Jeg så rusk på meg selv.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="pron">på meg selv_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="pron" type="refl">jïjtjestanne</l>
          <lemma_ref lemmaID="jïjtjemem_pron_refl">jïjtjemem</lemma_ref>
          <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
@@ -222,26 +242,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <t pos="pron">til meg selv_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="pron" type="refl">jïjtjemisnie</l>
-         <lemma_ref lemmaID="jïjtjemem_pron_refl">jïjtjemem</lemma_ref>
-         <lemma_ref lemmaID="jïjtjeme_pron_refl">jïjtjeme</lemma_ref>
-         <analysis>Pron_Refl_Sg1_Ine</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="pron">på meg selv</t>
-            <xg>
-               <x>Jïjtjemisnie tsumhtsieh vööjnim.</x>
-               <xt>Jeg så rusk på meg selv.</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="pron">på meg selv_SWE</t>
          </tg>
       </mg>
    </e>
@@ -388,6 +388,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="pron">fra deg selv</t>
+            <t pos="pron">av deg selv</t>
             <xg>
                <x>Jïjtjestadth darjoeh.</x>
                <xt>Du gjør det av deg selv.</xt>
@@ -480,14 +481,14 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="pron">med seg selv</t>
+            <t pos="pron">sin egen</t>
             <xg>
                <x>Jïjtse voessem mååjsede.</x>
                <xt>Han tar sin egen sekk på ryggen.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="pron">med seg selv_SWE</t>
+            <t pos="pron">sin egen_SWE</t>
          </tg>
       </mg>
    </e>
@@ -520,6 +521,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <t pos="pron">i seg selv</t>
             <t pos="pron">på seg selv</t>
+            <t pos="pron">hos seg selv</t>
+            <!-- Tronds eksempel XXX -->
+            <xg>
+               <x>Maana jïjtjisnie.</x>
+               <xt>Barnet er hos seg selv.</xt>
+            </xg>
+            <!-- Originalt eksempel XXX -->
             <xg>
                <x>Ij jïjtjisnie dïhte måvhka sjïehth.</x>
                <xt>Buksa passer ikke på han selv.</xt>
