@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sme">
-   <lics xml:space="preserve"><lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic><ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
+For the full license text, see the link above.</lic>
+      <ref>Work by Nils Jernsletten, Giellatekno at UiT, Divvun at the
           Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -23,7 +26,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
+     </sourcenote>
+   </lics>
    <e>
       <lg>
          <l pos="pron" type="indef">mij akt</l>
@@ -134,8 +138,9 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg>
             <t pos="phrase" type="indef">i et eller annet</t>
             <xg>
-               <x>xxx</x>
-               <xt>xxx</xt>
+               <x>Im mujhtieh mejtie lij aeskesne vuj voessesne, men manne måjhtam dïhte lij mesnie akt tjöökesne.</x>
+               <xt>Jeg husker ikke om det var i eska eller i sekken, men jeg husker at det var i et eller annet på
+               kjøkkenet.</xt>
             </xg>
          </tg>
       </mg>
@@ -254,8 +259,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg>
             <t pos="phrase" type="indef">en eller annens</t>
             <xg>
-               <x>xxx</x>
-               <xt>xxx</xt>
+               <x>Im daejrieh gïen daate lea, men gïen akt lea.</x>
+               <xt>Jeg vet ikke hvem sin dette her her, men en eller annens er det.</xt>
             </xg>
          </tg>
       </mg>
@@ -270,8 +275,8 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          <tg>
             <t pos="phrase" type="indef">en eller annens</t>
             <xg>
-               <x>xxx</x>
-               <xt>xxx</xt>
+               <x>Im daejrieh gean daate lea, men gean akt lea.</x>
+               <xt>Jeg vet ikke hvem sin dette her her, men en eller annens er det.</xt>
             </xg>
          </tg>
       </mg>
@@ -356,6 +361,5 @@ For the full license text, see the link above.</lic><ref>Work by Nils Jernslette
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
