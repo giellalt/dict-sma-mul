@@ -70,7 +70,7 @@ bin/smadict.save: bin/smalemmalist.txt
 smalemmalist.txt: bin/smalemmalist.txt
 bin/smalemmalist.txt: $(LEX)
 	@cat $(LEX) | \
-	grep '<l ' | \
+	egrep '<l(sub| )' | \
 	cut -d">" -f2 | \
 	cut -d"<" -f1 > bin/smalemmalist.txt
 
