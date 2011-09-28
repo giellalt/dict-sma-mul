@@ -11,9 +11,9 @@ Evaluation of inc directory 14.9.2011 (cip/trond):
 * basis_files                = See 00readme.txt in catalogue
 * clarify_status             = Ignore for now.
 * csv_dir                    = Ignore for now.
-* in_verb.csv                = 13 verbs not in dict but in fst, to S/M for evaluation
+* in_verb.csv                = to be added to xml
 * lemma_not_in_dict          = Not translated. Ignore for now.
-* new_noun_inc.csv           = 29 nouns not in dict but in fst, to S/M for evaluation
+* new_noun_inc.csv           = to be added to xml
 * not_in_fst                 = Some translated and some not, but not in sma.fst. Ignore for now.
 * search_entry_in_dir.xsl    = script
 * search_entry_in_file.xsl   = script
