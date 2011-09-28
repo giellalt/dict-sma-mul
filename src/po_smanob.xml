@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-   <lics xml:space="preserve"><lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -22,7 +25,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
+     </sourcenote>
+   </lics>
    <e usage="dict">
       <lg>
          <l pos="po">aalkoelisnie</l>
@@ -113,8 +117,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_pr">til</tf>
             <tf pos="phrase_pr">til ved siden av</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x>Tjöödtjehth don bïjlen gïetskese.</x>
+               <xt>Stopp ved siden av den bïlen.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -131,6 +135,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <re>nært</re>
             <t pos="pr">til</t>
             <t pos="pr">mot</t>
+            <xg>
+               <x>Bïllim gosse mov gietskie bööti.</x>
+               <xt>Jeg ble redd når han kom i mot meg.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <re>nært_SWE</re>
@@ -187,8 +195,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <t pos="pr">før</t>
             <xg>
-               <x>biejjien aarebi</x>
-               <xt>dagen før</xt>
+               <x>Biejjien aarebi dan tjåetskeme guktie jaevrie galmeme.</x>
+               <xt>Dagen før var det så kaldt at vannet hadde fryst.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -512,6 +520,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="pr">forbi</t>
+            <xg>
+               <x>Gosse mijjieh don jaevrien baaltelisnie, mijjieh hov måjhtajimh maam gåetesne laahpeme.</x>
+               <xt>Når vi var forbi den der innsjøen, så kom vi på hva vi hadde lagt igjen hjemme. </xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t pos="pr">forbi_SWE</t>
@@ -731,8 +743,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <tf pos="phrase_pr">på sida av</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x>Gie dov bielesne?</x>
+               <xt>Hvem er ved siden av deg?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -747,6 +759,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <tf pos="phrase_pr">fra sida av</tf>
+            <xg>
+               <x>Mov slïekte dovne Nöörjen jïh Sveerjen bieleste.</x>
+               <xt>Min slekt er både i fra norsk og svensk side.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <tf pos="phrase_pr">fra sida av_SWE</tf>
@@ -979,8 +995,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="pr">over</t>
             <tf pos="phrase_pr">tvers over</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -1499,7 +1515,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="pr">i</t>
             <tf pos="phrase_pr">inne i</tf>
             <xg>
-               <x>Beapmoeh voessen sisnie lea.</x>
+               <x>Beapmoeh voessen sisnie.</x>
                <xt>Det er mat i sekken.</xt>
             </xg>
          </tg>
@@ -1646,8 +1662,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <t pos="pr">mot</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -1872,8 +1888,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_pr">nærmere her</tf>
             <t pos="pr">hitenfor</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -3086,8 +3102,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <tf pos="phrase_pr">fra innersiden</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -3244,8 +3260,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <re>om flere</re>
             <t pos="pr">mot</t>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -3334,6 +3350,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="pr">sønnafor</t>
+            <xg>
+               <x>Dïhte aktede voeneste Snåasen åerjielisnie båata.</x>
+               <xt>Hun kommer fra ei bygd sønnafor Snåsa.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t pos="pr">sønnafor_SWE</t>
@@ -3366,8 +3386,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_pr">lenger syd fra</tf>
             <tf pos="phrase_pr">fra sønnafor</tf>
             <xg>
-               <x/>
-               <xt/>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -3550,8 +3570,18 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="pr">fremover_SWE</t>
          </tg>
          <tg xml:lang="nob">
-            <re>om tid</re>
             <t pos="pr">foran</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="pr">foran</t>
+         </tg>
+         <tg xml:lang="nob">
+            <re>om tid</re>
+            <t pos="pr">før</t>
+            <xg>
+               <x>Tjoeveribie rïhkedahken avtelen tjöönghkedh.</x>
+               <xt>Vi må samle før brunsttiden.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <re>om tid_SWE</re>
@@ -3833,8 +3863,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <tg xml:lang="nob">
             <tf pos="phrase">så mye</tf>
             <xg>
-               <x>man jarke</x>
-               <xt>så mye</xt>
+               <x>Ij leah man jarke.</x>
+               <xt>Det er ikke så mye.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -3861,6 +3891,5 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
-                 type="text/javascript"/>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
