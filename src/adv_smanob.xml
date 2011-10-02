@@ -2198,7 +2198,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="adv">hvor</t>
             <tf>hvilken veg</tf>
             <xg>
                <x>Båatam dagkoe gogkoe datne vaadtseme.</x>
@@ -2209,7 +2208,6 @@ For the full license text, see the link above.</lic>
             <t pos="adv">hvor_SWE</t>
          </tg>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv">på hvilken del</tf>
             <tf pos="phrase_adv">hvor nærmere bestemt</tf>
          </tg>
          <tg xml:lang="swe">
@@ -2239,6 +2237,7 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gosse</l>
+            <l_ref>gåabph_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2272,10 +2271,12 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gubpede</l>
+            <l_ref>gustie_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">hvorfra</t>
+            <t pos="adv">fra hvilken kant</t>
             <xg>
                <x>Gubpede båatah?</x>
                <xt>Hvor kommer du fra?</xt>
@@ -2289,13 +2290,15 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gubpene</l>
+            <l_ref>gusnie_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_adv">hvor hen</tf>
+            <tf pos="phrase_adv">hvor</tf>
+            <tf pos="phrase_adv">på hvilken kant</tf>
             <xg>
                <x>Gubpene krievvie daelie?</x>
-               <xt>Hvor hen er reinhjorden nå?</xt>
+               <xt>Hvor er reinhjorden nå?</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
@@ -2384,6 +2387,7 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gusnie</l>
+            <l_ref>gubpene_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2401,6 +2405,7 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gustie</l>
+            <l_ref>gubpede_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -2437,11 +2442,12 @@ For the full license text, see the link above.</lic>
    <e usage="dict">
       <lg>
          <l pos="adv">gåabph</l>
+            <l_ref>gosse_adv</l_ref>
       </lg>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">hvor</t>
-            <t pos="adv">hvorhen</t>
+            <t pos="adv">i hvilken retning</t>
             <xg>
                <x>Gåabph edtjh?</x>
                <xt>Hvor skal du?</xt>
