@@ -15,8 +15,36 @@ no-paradigm>wc -l *
 
 
 
+missing_paradigm_n.txt
+======================
+
+~/main/words/dicts/smanob/2011_dict$cat missing_paradigm_n.txt |usmaNorm
+
+dajveektievoete	dajve-ektievoete+N+Sg+Nom # hyphen for e-e
+
+e-påaste	e-påaste+N+Sg+Nom
+
+giesie-eejehtimmie	giesie-eejehtimmie+N+Sg+Nom # hyphen for e-e
+
+jåvle-eejehtalleme	jåvle-eejehtalleme+N+Sg+Nom  # hyphen for e-e
+
+jearsoe	jearsoe	+? # is an adj jearsoes, removed from dict and (earlier from) fst.
+
+paagke	paagke	+? # sub for paahke, changed in dict
+
+reakta-aamhtese	reakta-aamhtese+N+Sg+Nom  # hyphen for a-a
+
+sliehtie-elmie	sliehtie-elmie+N+Sg+Nom # hyphen for e-e
+
+traktore	traktovre+v1+N+Sg+Nom +v1 processing problem
+
+tv-spïele	tv-spïele+N+Sg+Nom # hyphen problem
+
+
+
 
 missing_paradigm_v.txt
+======================
 
 ~/main/words/dicts/smanob/2011_dict$cat missing_paradigm_v.txt |usmaNorm
 
