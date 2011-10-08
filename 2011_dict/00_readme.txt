@@ -40,23 +40,14 @@ missing_paradigm_n.txt
 ~/main/words/dicts/smanob/2011_dict$cat missing_paradigm_n.txt |usmaNorm
 
 dajveektievoete	dajve-ektievoete+N+Sg+Nom # hyphen for e-e
-
 e-påaste	e-påaste+N+Sg+Nom
-
 giesie-eejehtimmie	giesie-eejehtimmie+N+Sg+Nom # hyphen for e-e
-
-jåvle-eejehtalleme	jåvle-eejehtalleme+N+Sg+Nom  # hyphen for e-e
-
 jearsoe	jearsoe	+? # is an adj jearsoes, removed from dict and (earlier from) fst.
-
+jåvle-eejehtalleme	jåvle-eejehtalleme+N+Sg+Nom  # hyphen for e-e
 paagke	paagke	+? # sub for paahke, changed in dict
-
 reakta-aamhtese	reakta-aamhtese+N+Sg+Nom  # hyphen for a-a
-
 sliehtie-elmie	sliehtie-elmie+N+Sg+Nom # hyphen for e-e
-
 traktore	traktovre+N+Sg+Nom # ok when  +v1 deletion works
-
 tv-spïele	tv-spïele+N+Sg+Nom # hyphen problem
 
 
@@ -71,7 +62,76 @@ mijgih	mij+Pron+Interr+Sg+Nom+Foc/gih
 
 src/pronIndef_smanob.xml:         <l pos="pron" type="indef">mijgih</l>
 
-Todo her (sannsynlegvis): Å leggjetil mijgih som lemma, etter mönster av sme mihkkege.
+Todo her (sannsynlegvis): Å leggje til mijgih som lemma, etter mönster av sme mihkkege.
+
+
+
+
+
+
+missing_paradigm_prop.txt
+=========================
+
+# ord som er lånt frå sme, som ein del av Oahpa-arbeidet.
+# Framlegg:
+# Vi fjerner dei internasjononale, og legg til dei frå Troms og
+# Finnmark i fst-en.
+
+Australija Australija	+?
+Beallohkslitnje		Beallohkslitnje	+?
+Bovtselitnje		Bovtselitnje	+?
+Giron			Giron		+?
+Gáivuotna		Gáivuotna	+?
+Heedmarhke		Heedmarhke	+?
+Indonesija		Indonesija	+?
+Jiengelesvaajja		Jiengelesvaajja	+?
+Kárášjohka		Kárášjohka	+?
+Leavdnja		Leavdnja	+?
+Porsángu		Porsángu	+?
+Slovenije		Slovenije	+?
+Snjiptje		Snjiptje	+?
+Unjárga			Unjárga		+?
+Viermejaevrie		Viermejaevrie	+?
+Viermejohke		Viermejohke	+?
+Viermetjahke		Viermetjahke	+?
+Vinhtsdurrienjaevrie	Vinhtsdurrienjaevrie	+?
+
+
+
+# ikkje norm, dei har eg fjerna frå dict, TT
+
+Geeneve	Geeneve	     +? 
+Kaalifornija	     Kaalifornija	+?
+Kaanada		     Kaanada		+?
+
+
+
+# Ord med bindestrek, dette er eit pipeline-problem:
+
+Åarjel-Afrika	      Åarjel-Afrika+N+Prop+Plc+Sg+Nom
+Åarjel-Balhkohkejaevrie	Åarjel-Balhkohkejaevrie+N+Prop+Plc+Sg+Nom
+Åarjel-Tröndelaage	Åarjel-Tröndelaage+N+Prop+Plc+Sg+Nom
+Bijjie-Gaajsjaevrie	Bijjie-Gaajsjaevrie+N+Prop+Plc+Sg+Nom
+Bijjie-Neessanjaevrie	Bijjie-Neessanjaevrie+N+Prop+Plc+Sg+Nom
+Bijjie-Sipmehke		Bijjie-Sipmehke+N+Prop+Plc+Sg+Nom
+Bijjie-Trompenjaevrie	Bijjie-Trompenjaevrie+N+Prop+Plc+Sg+Nom
+Gaske-Neessanjaevrie	Gaske-Neessanjaevrie+N+Prop+Plc+Sg+Nom
+Jillie-Dåvnere		Jillie-Dåvnere+N+Prop+Plc+Sg+Nom
+Jillie-Dearka		Jillie-Dearka+N+Prop+Plc+Sg+Nom
+Jillie-Raajhkere	Jillie-Raajhkere+N+Prop+Plc+Sg+Nom
+Jillie-Vuallerejaevrie	Jillie-Vuallerejaevrie+N+Prop+Plc+Sg+Nom
+Luvlie-Balhkohke	Luvlie-Balhkohke+N+Prop+Plc+Sg+Nom
+Luvlie-Raajhkere	Luvlie-Raajhkere+N+Prop+Plc+Sg+Nom
+Luvlie-Sjeavrije	Luvlie-Sjeavrije+N+Prop+Plc+Sg+Nom
+Luvlie-Vuallerejaevrie	Luvlie-Vuallerejaevrie+N+Prop+Plc+Sg+Nom
+Noerhte-Trööndelage	Noerhte-Trööndelage+N+Prop+Plc+Sg+Nom
+Onne-Giebnie		Onne-Giebnie+N+Prop+Plc+Sg+Nom
+Skaanja-Stoerrevaerie	Skaanja-Stoerrevaerie+N+Prop+Plc+Sg+Nom
+Vuelie-Neessanjaevrie	Vuelie-Neessanjaevrie+N+Prop+Plc+Sg+Nom
+Vuelie-Sipmehke		Vuelie-Sipmehke+N+Prop+Plc+Sg+Nom
+Vuelie-Trompenjaevrie	Vuelie-Trompenjaevrie+N+Prop+Plc+Sg+Nom
+
+
 
 
 
