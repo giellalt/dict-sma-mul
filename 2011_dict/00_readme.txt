@@ -14,3 +14,21 @@ no-paradigm>wc -l *
       62 total
 
 
+
+
+missing_paradigm_v.txt
+
+~/main/words/dicts/smanob/2011_dict$cat missing_paradigm_v.txt |usmaNorm
+
+doksedh	doksedh+2+V+IV+Inf
+doksedh	doksedh+1+V+TV+Inf
+
+govledh	govledh+2+V+IV+Inf
+govledh	govledh+1+V+TV+Inf
+
+sjilhketidh	sjilhketidh	+? # not in LMM
+
+svijredh	svijredh+2+V+IV+Inf
+svijredh	svijredh+1+V+IV+Inf
+
+This seems a +1 / +2 pipeline problem, + one missing
