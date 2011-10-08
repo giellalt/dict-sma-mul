@@ -2,7 +2,7 @@ Paradigm generation with an FST borrowed from Lene
 resulted in empty generation for the lemmata listed in these files.
 Please check and if needed correct the fst and/or the source files.
 
-08.10.2011:
+08.10.2011: @cip used the same settings as the last dict compilation.
 
 no-paradigm>wc -l * 
        3 missing_paradigm_a.txt
