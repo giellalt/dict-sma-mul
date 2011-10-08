@@ -25,6 +25,7 @@ gööles	gööles+2+A+Attr
 ovnuvhtege	ovnuvhtege	+? # Commented out in fst:
 !ovnuvhtege+CmpN/SgN+CmpN/SgG+CmpN/PlG:ovnuvhteg Ce_CE_ODDNOCOMP ;                                       
 Check why with someone.
+LA: jeg vet ikke hvorfor den er kommentert ut. ordet finnes ikke i LMM. Jeg kommenterer det inn igjen.
 
 övtebe	övtebe	+? # This is in itself a comparative form, gives this analysis:
 ~/main/gt/sma/src$usmaNorm
@@ -64,8 +65,10 @@ src/pronIndef_smanob.xml:         <l pos="pron" type="indef">mijgih</l>
 
 Todo her (sannsynlegvis): Å leggje til mijgih som lemma, etter mönster av sme mihkkege.
 
-
-
+LA:
+Her burde det være laga en statisk fil med bøyninger, men jeg har for denne ordboka gjort slik:
+lagt til pg="no" til mijgih
+lagt til maamgih som nytt lemma med pg="no"
 
 
 
@@ -77,32 +80,39 @@ missing_paradigm_prop.txt
 # Vi fjerner dei internasjononale, og legg til dei frå Troms og
 # Finnmark i fst-en.
 
-Australija Australija	+?
-Beallohkslitnje		Beallohkslitnje	+?
-Bovtselitnje		Bovtselitnje	+?
+# LA: jeg legger til pg="no" til de nordsamiske navnene, dvs at de ikke legges til i fst. Å legge til i fst er ikke helt problemfritt, kanskje vi skal ta det opp under Rørosmøtet.
+
+Disse har fått pg="no":
 Giron			Giron		+?
 Gáivuotna		Gáivuotna	+?
-Heedmarhke		Heedmarhke	+?
-Indonesija		Indonesija	+?
-Jiengelesvaajja		Jiengelesvaajja	+?
 Kárášjohka		Kárášjohka	+?
 Leavdnja		Leavdnja	+?
 Porsángu		Porsángu	+?
-Slovenije		Slovenije	+?
-Snjiptje		Snjiptje	+?
 Unjárga			Unjárga		+?
-Viermejaevrie		Viermejaevrie	+?
-Viermejohke		Viermejohke	+?
-Viermetjahke		Viermetjahke	+?
-Vinhtsdurrienjaevrie	Vinhtsdurrienjaevrie	+?
 
+
+Heedmarhke		Heedmarhke	+?   ==> denne er i fst
+Kaanada		     Kaanada		+?  -denner er i fst 
+
+Følgende har jeg korrigert, og der er i fst:
+
+Australija Australija	+?  => Austraalia
+Beallohkslitnje		Beallohkslitnje	+?  => Beallohkslïtnje
+Bovtselitnje		Bovtselitnje	+?  => Bovtselïtnje
+Indonesija		Indonesija	+?  => Indoneesia
+Jiengelesvaajja		Jiengelesvaajja	+?  => Jïengelesvaajja
+Slovenije		Slovenije	+?  => Sloveenia
+Snjiptje		Snjiptje	+?  => Snjïptje
+Viermejaevrie		Viermejaevrie	+?  => Vïermejaevrie
+Viermejohke		Viermejohke	+?  => Vïermejohke
+Viermetjahke		Viermetjahke	+?  => Vïermetjahke
+Vinhtsdurrienjaevrie	Vinhtsdurrienjaevrie	+?  => Vïnhtsdurrienjaevrie
 
 
 # ikkje norm, dei har eg fjerna frå dict, TT
 
-Geeneve	Geeneve	     +? 
-Kaalifornija	     Kaalifornija	+?
-Kaanada		     Kaanada		+?
+Geeneve	Geeneve	     +?  => Geneve  fjerner denne LA
+Kaalifornija	     Kaalifornija	+?  => Kalifornia
 
 
 
@@ -146,8 +156,8 @@ doksedh	doksedh+1+V+TV+Inf
 govledh	govledh+2+V+IV+Inf
 govledh	govledh+1+V+TV+Inf
 
-sjilhketidh	sjilhketidh	+? # not in LMM (Lass Mich Machen? Diese Computerlinguisten mit ihren Abkürzungen...)
-
+sjilhketidh	sjilhketidh	+? # not in LMM (Lass Mich Machen? Diese Computerlinguisten mit ihren Abkürzungen...)   LMM = Laila Mattson Maggas ordbok
+ 
 svijredh	svijredh+2+V+IV+Inf
 svijredh	svijredh+1+V+IV+Inf
 
