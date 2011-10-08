@@ -55,11 +55,23 @@ reakta-aamhtese	reakta-aamhtese+N+Sg+Nom  # hyphen for a-a
 
 sliehtie-elmie	sliehtie-elmie+N+Sg+Nom # hyphen for e-e
 
-traktore	traktovre+v1+N+Sg+Nom # +v1 processing problem (this is weird, perhaps Lenes fst was compiled before she commented out v-flags from the source files.)
-If so, I need a new fst.
+traktore	traktovre+N+Sg+Nom # ok when  +v1 deletion works
 
 tv-spïele	tv-spïele+N+Sg+Nom # hyphen problem
 
+
+
+
+missing_paradigm_pron.txt
+=========================
+
+~/main/words/dicts/smanob$cat 2011_dict/missing_paradigm_pron.txt |usmaNorm
+mijgih	mij+Pron+Rel+Sg+Nom+Foc/gih
+mijgih	mij+Pron+Interr+Sg+Nom+Foc/gih
+
+src/pronIndef_smanob.xml:         <l pos="pron" type="indef">mijgih</l>
+
+Todo her (sannsynlegvis): Å leggjetil mijgih som lemma, etter mönster av sme mihkkege.
 
 
 
