@@ -82,6 +82,8 @@ missing_paradigm_prop.txt
 
 # LA: jeg legger til pg="no" til de nordsamiske navnene, dvs at de ikke legges til i fst. Å legge til i fst er ikke helt problemfritt, kanskje vi skal ta det opp under Rørosmøtet.
 
+# TT: Det er ein god strategi. pg="no" i ordboka, og ikkje i fst.
+
 Disse har fått pg="no":
 Giron			Giron		+?
 Gáivuotna		Gáivuotna	+?
@@ -108,7 +110,11 @@ Vinhtsdurrienjaevrie	Vinhtsdurrienjaevrie	+?  => Vïnhtsdurrienjaevrie
 Heedmarhke		Heedmarhke	+?   ==> Hedmarhke
 
 
+# TT: Input til testen min var ikkje mine eigne ordboksfiler, 
+# men filene frå Cip i denne katalogen, som eg testa mot usmaNorm.
+
 # ikkje norm, dei har eg fjerna frå dict, TT
+# mm, desse tre endringane hadde eg ikkje sjekka inn, men no er det ok.
 
 Geeneve	Geeneve	     +?  => Geneve  fjerner denne LA
 Kaalifornija	     Kaalifornija	+?  => Kalifornia
