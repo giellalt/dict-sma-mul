@@ -55,7 +55,8 @@ reakta-aamhtese	reakta-aamhtese+N+Sg+Nom  # hyphen for a-a
 
 sliehtie-elmie	sliehtie-elmie+N+Sg+Nom # hyphen for e-e
 
-traktore	traktovre+v1+N+Sg+Nom +v1 processing problem
+traktore	traktovre+v1+N+Sg+Nom # +v1 processing problem (this is weird, perhaps Lenes fst was compiled before she commented out v-flags from the source files.)
+If so, I need a new fst.
 
 tv-spïele	tv-spïele+N+Sg+Nom # hyphen problem
 
@@ -73,7 +74,7 @@ doksedh	doksedh+1+V+TV+Inf
 govledh	govledh+2+V+IV+Inf
 govledh	govledh+1+V+TV+Inf
 
-sjilhketidh	sjilhketidh	+? # not in LMM
+sjilhketidh	sjilhketidh	+? # not in LMM (Lass Mich Machen? Diese Computerlinguisten mit ihren Abkürzungen...)
 
 svijredh	svijredh+2+V+IV+Inf
 svijredh	svijredh+1+V+IV+Inf
