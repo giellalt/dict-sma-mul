@@ -91,8 +91,6 @@ Porsángu		Porsángu	+?
 Unjárga			Unjárga		+?
 
 
-Heedmarhke		Heedmarhke	+?   ==> denne er i fst
-Kaanada		     Kaanada		+?  -denner er i fst 
 
 Følgende har jeg korrigert, og der er i fst:
 
@@ -107,12 +105,14 @@ Viermejaevrie		Viermejaevrie	+?  => Vïermejaevrie
 Viermejohke		Viermejohke	+?  => Vïermejohke
 Viermetjahke		Viermetjahke	+?  => Vïermetjahke
 Vinhtsdurrienjaevrie	Vinhtsdurrienjaevrie	+?  => Vïnhtsdurrienjaevrie
+Heedmarhke		Heedmarhke	+?   ==> Hedmarhke
 
 
 # ikkje norm, dei har eg fjerna frå dict, TT
 
 Geeneve	Geeneve	     +?  => Geneve  fjerner denne LA
 Kaalifornija	     Kaalifornija	+?  => Kalifornia
+Kaanada		     Kaanada		+?  => Canada, dvs æ styker den
 
 
 
