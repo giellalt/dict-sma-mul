@@ -1281,7 +1281,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">straks</t>
-            <tf>med én gang</tf>
             <tf>så snart som</tf>
          </tg>
          <tg xml:lang="swe">
@@ -1473,7 +1472,7 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf>der omkring</tf>
-            <tf>hos deg</tf>
+            <tf>der hos deg</tf>
          </tg>
          <tg xml:lang="swe">
             <tf>der omkring_SWE</tf>
@@ -1583,7 +1582,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase_adv">til og med</tf>
             <t pos="adv">også</t>
             <t pos="adv">alt</t>
-            <t pos="???">både</t>
+            <t pos="adv">både</t>
             <xg>
                <x>dovne abpe eatnamasse vuesiehtidh</x>
                <xt>endog vise til hele verden</xt>
@@ -1866,7 +1865,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">akkurat</t>
             <t pos="adv">aldeles</t>
-            <tf pos="phrase_adv">helt og holdent</tf>
             <xg>
                <x>Maanetje vaedtsiemistie eevre syjle.</x>
                <xt>Lillebarnet blir aldeles trøtt av gåingen.</xt>
@@ -3124,7 +3122,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">riktignok</t>
-            <t pos="adv">skjønt</t>
             <t pos="adv">heldigvis</t>
             <xg>
                <x>Dah maaje sjeavodslaakan njaakijægan olkese, læjhkan leah maanah aaj joe bijjene.</x>
@@ -3629,8 +3626,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf>på dårlig vis</tf>
-            <tf>på en dårlig måte</tf>
             <t pos="adv">dårlig</t>
             <xg>
                <x>Daan jïjjen manne nåakelaakan åareme.</x>
@@ -4160,7 +4155,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">hardt</t>
-            <tf pos="phrase_adv">av alle krefter</tf>
             <t pos="adv">energisk</t>
             <xg>
                <x>Gosse tjimkeslaakan barkedh dellie aaj vihkele lïegkestidh.</x>
@@ -4260,12 +4254,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">mer</t>
             <tf pos="phrase_adv">i tillegg</tf>
-            <t pos="adv">lenger</t>
-            <te>ved nektelse</te>
             <xg>
                <x>Sïjhtede vielie prïhtjegem?</x>
                <xt>Vil dere ha mer kaffe?</xt>
             </xg>
+         </tg>
+         <tg xml:lang="nob">
+            <re>ved nektelse</re>
+            <t pos="adv">lenger</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="adv">mer_SWE</t>
@@ -4601,7 +4597,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">fryktelig</t>
-            <t pos="adv">veldig</t>
             <t pos="adv">voldsomt</t>
             <xg>
                <x>ålvas stoerre</x>
@@ -4721,7 +4716,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">akkurat</t>
             <t pos="adv">aldeles</t>
-            <tf pos="phrase_adv">helt og holdent</tf>
             <xg>
                <x>Jïh dellie manne öövre oktegh sjïdtim.</x>
                <xt>Og så ble jeg helt alene.</xt>
@@ -5400,7 +5394,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf pos="phrase_adv">der omkring</tf>
-            <tf pos="phrase_adv">der på de kanter</tf>
             <tf pos="phrase_adv">på det stedet</tf>
          </tg>
          <tg xml:lang="swe">
@@ -5415,7 +5408,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf pos="phrase_adv">her omkring</tf>
-            <tf pos="phrase_adv">her på disse kanter</tf>
             <tf pos="phrase_adv">på dette stedet</tf>
          </tg>
          <tg xml:lang="swe">
@@ -5430,7 +5422,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <tf pos="phrase_adv">der omkring</tf>
-            <tf pos="phrase_adv">der på de kanter</tf>
             <tf pos="phrase_adv">borte hos deg</tf>
             <tf pos="phrase_adv">der du vet</tf>
          </tg>
@@ -5708,7 +5699,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="adv">nøyaktig</t>
-            <t pos="adv">nøye</t>
             <t pos="adv">vel</t>
             <xg>
                <x>Buerkesth veele guktie dam dorjeme.</x>
