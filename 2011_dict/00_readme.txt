@@ -163,6 +163,8 @@ govledh	govledh+2+V+IV+Inf
 govledh	govledh+1+V+TV+Inf
 
 sjilhketidh	sjilhketidh	+? # not in LMM (Lass Mich Machen? Diese Computerlinguisten mit ihren Abkürzungen...)   LMM = Laila Mattson Maggas ordbok
+LA: fjerna denne, vi har sjilketidh som norm 
+ 
  
 svijredh	svijredh+2+V+IV+Inf
 svijredh	svijredh+1+V+IV+Inf
