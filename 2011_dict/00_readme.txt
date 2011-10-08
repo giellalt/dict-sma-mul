@@ -15,6 +15,25 @@ no-paradigm>wc -l *
 
 
 
+missing_paradigm_a.txt
+======================
+
+~/main/words/dicts/smanob$cat 2011_dict/missing_paradigm_a.txt |usmaNorm
+gööles	gööles+1+A+Attr # pipeline
+gööles	gööles+2+A+Attr
+
+ovnuvhtege	ovnuvhtege	+? # Commented out in fst:
+!ovnuvhtege+CmpN/SgN+CmpN/SgG+CmpN/PlG:ovnuvhteg Ce_CE_ODDNOCOMP ;                                       
+Check why with someone.
+
+övtebe	övtebe	+? # This is in itself a comparative form, gives this analysis:
+~/main/gt/sma/src$usmaNorm
+evtebe
+evtebe	evtebe+A+Comp+Attr
+evtebe	evtebe+A+Comp+Sg+Nom
+It is in the present dict as Comp only. If it causes trouble for the pipeline we might consider it as Adv, it is used as both.
+
+
 missing_paradigm_n.txt
 ======================
 
