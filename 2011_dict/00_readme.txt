@@ -13,6 +13,18 @@ no-paradigm>wc -l *
        4 missing_paradigm_v.txt
       62 total
 
+09.10.2011: @cip used the same settings as the last dict compilation.
+
+2011_dict>wc -l missing_paradigm_* 
+       2 missing_paradigm_a.txt
+       7 missing_paradigm_n.txt
+      22 missing_paradigm_prop.txt
+       1 missing_paradigm_propPl.txt
+       3 missing_paradigm_v.txt
+      35 total
+
+
+
 
 
 missing_paradigm_a.txt
