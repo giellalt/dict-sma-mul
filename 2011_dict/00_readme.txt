@@ -41,6 +41,8 @@ evtebe	evtebe+A+Comp+Attr
 evtebe	evtebe+A+Comp+Sg+Nom
 It is in the present dict as Comp only. If it causes trouble for the pipeline we might consider it as Adv, it is used as both.
 
+Lene: endra denne til 'evtebe' som er norm
+
 
 missing_paradigm_n.txt
 ======================
@@ -48,6 +50,8 @@ missing_paradigm_n.txt
 ~/main/words/dicts/smanob/2011_dict$cat missing_paradigm_n.txt |usmaNorm
 
 dajveektievoete	dajve-ektievoete+N+Sg+Nom # hyphen for e-e
+Lene: Har endra til dajve-ektievoete i n_smanob.xml
+
 e-påaste	e-påaste+N+Sg+Nom
 giesie-eejehtimmie	giesie-eejehtimmie+N+Sg+Nom # hyphen for e-e
 jåvle-eejehtalleme	jåvle-eejehtalleme+N+Sg+Nom  # hyphen for e-e
@@ -64,22 +68,6 @@ The problem seems to be some changes in an xsl-script: all value are generated a
 into xml correctly, however the restructuration does not work properly. Debugging it now.
 
 
-
-missing_paradigm_pron.txt
-=========================
-
-~/main/words/dicts/smanob$cat 2011_dict/missing_paradigm_pron.txt |usmaNorm
-mijgih	mij+Pron+Rel+Sg+Nom+Foc/gih
-mijgih	mij+Pron+Interr+Sg+Nom+Foc/gih
-
-src/pronIndef_smanob.xml:         <l pos="pron" type="indef">mijgih</l>
-
-Todo her (sannsynlegvis): Å leggje til mijgih som lemma, etter mönster av sme mihkkege.
-
-LA:
-Her burde det være laga en statisk fil med bøyninger, men jeg har for denne ordboka gjort slik:
-lagt til pg="no" til mijgih
-lagt til maamgih som nytt lemma med pg="no"
 
 
 
@@ -121,7 +109,8 @@ missing_paradigm_propPl.txt
 
 Gaelpienjaevrieh
 
-Look into this. Wrong lemma?
+Look into this. Wrong lemma?  
+LA: har lagt den som plur i fst
 
 
 missing_paradigm_v.txt
@@ -138,4 +127,4 @@ govledh	govledh+1+V+TV+Inf
 svijredh	svijredh+2+V+IV+Inf
 svijredh	svijredh+1+V+IV+Inf
 
-This seems a +1 / +2 pipeline problem, + one missing
+This seems a +1 / +2 pipeline problem, 
