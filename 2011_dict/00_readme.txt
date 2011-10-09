@@ -56,6 +56,12 @@ sliehtie-elmie	sliehtie-elmie+N+Sg+Nom # hyphen for e-e
 tv-spïele	tv-spïele+N+Sg+Nom # hyphen problem
 
 All these will be ok when we have a pipeline solution for hyphen.
+There is a solution for hyphen in paradigm2xml_sma.pl
+ 63           if (!$dashedLemma) {
+ 64             $wordForm =~ s/\-//g;
+ 65           }
+The problem seems to be some changes in an xsl-script: all value are generated and transformed
+into xml correctly, however the restructuration does not work properly. Debugging it now.
 
 
 
