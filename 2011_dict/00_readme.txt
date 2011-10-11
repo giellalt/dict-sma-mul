@@ -13,7 +13,7 @@ Issues to fix:
  ==> done
 
 3) <te> elementet er ikke synlig (det var det samme problemet sist)
- ==> todo
+ ==> done
 
 4) Jeg ser også at l_ref ikke er implementert, men det er en helt ny feature. Vi kan ta det i smenobVD. Det er uansett ikke så mange av dem i smadict
  ==> todo
