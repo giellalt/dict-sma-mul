@@ -18,3 +18,10 @@ Issues to fix:
 4) Jeg ser også at l_ref ikke er implementert, men det er en helt ny feature. Vi kan ta det i smenobVD. Det er uansett ikke så mange av dem i smadict
  ==> todo
 
+5) te-elementene uten parantes, bare i italics
+ ==> done
+
+6) pgv manglende v1,v2 i pipeline endringer i miniparadigmer:
+   inkludere N+Sg+Nom, Pron+Indef+Sg+Nom og V+Inf
+ ==> todo
+
