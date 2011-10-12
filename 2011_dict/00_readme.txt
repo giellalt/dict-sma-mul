@@ -23,5 +23,5 @@ Issues to fix:
 
 6) pgv manglende v1,v2 i pipeline endringer i miniparadigmer:
    inkludere N+Sg+Nom, Pron+Indef+Sg+Nom og V+Inf
- ==> todo
+ ==> done
 
