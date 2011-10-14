@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../../scripts/gt_dictionary.dtd">
 <r xml:lang="sma">
-   <lics xml:space="preserve"><lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -22,7 +25,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
      <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
+     </sourcenote>
+   </lics>
    <e usage="dict">
       <lg>
          <l pos="n">tsagkese</l>
@@ -486,8 +490,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">simle som skiller seg ut fra de andre</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">simle som skiller seg ut fra de
-            andre_SWE</tf>
+            <tf pos="phrase_n">simle som skiller seg ut fra de andre_SWE</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -946,12 +949,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">sene på framsiden av reinens
-            fot</tf>
+            <tf pos="phrase_n">sene på framsiden av reinens fot</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">sena på framsidan av renens
-            fot</tf>
+            <tf pos="phrase_n">sena på framsidan av renens fot</tf>
             <tf pos="phrase_n">sena på framsidan av renens ben</tf>
          </tg>
       </mg>
@@ -963,12 +964,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">sene på framsiden av reinens
-            fot</tf>
+            <tf pos="phrase_n">sene på framsiden av reinens fot</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">sena på framsidan av renens
-            fot</tf>
+            <tf pos="phrase_n">sena på framsidan av renens fot</tf>
             <tf pos="phrase_n">sena på framsidan av renens ben</tf>
          </tg>
       </mg>
@@ -1949,8 +1948,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="n">gryteås</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tverrstokk over
-            ildstedet_SWE</tf>
+            <tf pos="phrase_n">tverrstokk over ildstedet_SWE</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -2454,6 +2452,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="sme">
             <t pos="n">dajaldat</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n" soggi="oe" stem="2syll">gellienbaakoe</l>
+      </lg>
+      <stem class="bisyllabic"/>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="n" lang="nob" pos="n">flerordsuttrykk</t>
          </tg>
       </mg>
    </e>
@@ -6425,7 +6434,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-			<re>om klær og fottøy</re>
+            <re>om klær og fottøy</re>
             <t decl="x" gen="m" pos="n">hæl</t>
             <t decl="1" gen="m" pos="n">hase</t>
          </tg>
@@ -7082,8 +7091,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">reinflokk på 8-12 dyr</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">liten
-            reinflokk_SWE</tf>
+            <tf gen="m" pos="phrase_n">liten reinflokk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -8076,7 +8084,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">midlertidig byggverk av lang vannrett stokk dekt med skråstilte stranger med ris og torv oppå</tf>
+            <tf pos="phrase_n">midlertidig byggverk av lang vannrett stokk dekt med skråstilte stranger med ris og torv
+            oppå</tf>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" gen="f" pos="n">torvhytte_SWE</t>
@@ -8515,12 +8524,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">skinnet på undersiden av
-            reinens hode</tf>
+            <tf pos="phrase_n">skinnet på undersiden av reinens hode</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">skinnet på undersiden av
-            reinens hode_SWE</tf>
+            <tf pos="phrase_n">skinnet på undersiden av reinens hode_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -11098,8 +11105,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">nylig kastrert hannrein om høsten</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">nylig kastrert
-            hannrein_SWE</tf>
+            <tf pos="phrase_n">nylig kastrert hannrein_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -11302,12 +11308,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">alle skinn, margbein eller sener fra reinens
-            fire føtter</tf>
+            <tf pos="phrase_n">alle skinn, margbein eller sener fra reinens fire føtter</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">alla skinn, märgben eller senor från renens
-            fyra ben</tf>
+            <tf pos="phrase_n">alla skinn, märgben eller senor från renens fyra ben</tf>
          </tg>
       </mg>
    </e>
@@ -11318,12 +11322,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">kjertel mellom klovene på
-            reinens bakfot</tf>
+            <tf pos="phrase_n">kjertel mellom klovene på reinens bakfot</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">körtel mellan klövarna på
-            renens bakfot</tf>
+            <tf pos="phrase_n">körtel mellan klövarna på renens bakfot</tf>
             <t decl="1" gen="f" pos="n">körtel</t>
          </tg>
       </mg>
@@ -11359,8 +11361,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">delen av bellingen som er nærmest kloven</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">delen av bellingen som er nærmest
-            kloven_SWE</tf>
+            <tf pos="phrase_n">delen av bellingen som er nærmest kloven_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -11604,12 +11605,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">reinokse under første året etter kastrering,
-            dersom den mister hornene</tf>
+            <tf pos="phrase_n">reinokse under første året etter kastrering, dersom den mister hornene</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">renoxe under första året efter kastrering, om
-            den tappar hornen</tf>
+            <tf pos="phrase_n">renoxe under första året efter kastrering, om den tappar hornen</tf>
          </tg>
       </mg>
    </e>
@@ -12724,12 +12723,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">tre hvor det er festet skavjern
-            for å trekke skinn gjennom for mykgjøring</tf>
+            <tf pos="phrase_n">tre hvor det er festet skavjern for å trekke skinn gjennom for mykgjøring</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tre hvor det er festet skavjern
-            for å trekke skinn gjennom for mykgjøring_SWE</tf>
+            <tf pos="phrase_n">tre hvor det er festet skavjern for å trekke skinn gjennom for mykgjøring_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -13494,12 +13491,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">utmattet hannrein etter
-            brunst</tf>
+            <tf pos="phrase_n">utmattet hannrein etter brunst</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">utmattat hanren efter
-            brunst</tf>
+            <tf pos="phrase_n">utmattat hanren efter brunst</tf>
             <tf pos="phrase_n">utmattat hanren efter brunsten</tf>
          </tg>
       </mg>
@@ -14074,7 +14069,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-  			<re>om skriflig arbeid</re>
+            <re>om skriflig arbeid</re>
             <t decl="1" gen="m" pos="n">stil</t>
          </tg>
          <tg xml:lang="swe">
@@ -14093,8 +14088,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om reinslakt_SWE</re>
-            <tf pos="phrase_n">den innerste del av
-            tykktarmen_SWE</tf>
+            <tf pos="phrase_n">den innerste del av tykktarmen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -14105,8 +14099,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-  			<re>om skriflig arbeid</re>
-           <t decl="1" gen="m" pos="n">stil</t>
+            <re>om skriflig arbeid</re>
+            <t decl="1" gen="m" pos="n">stil</t>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" gen="m" pos="n">stil_SWE</t>
@@ -14380,8 +14374,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">en som tror han er bedre enn han er</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">en som tror han er bedre enn han
-            er_SWE</tf>
+            <tf pos="phrase_n">en som tror han er bedre enn han er_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -14495,12 +14488,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">lang smal ås med utsikt til begge
-            sider</tf>
+            <tf pos="phrase_n">lang smal ås med utsikt til begge sider</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">lang smal ås med utsikt til begge
-            sider_SWE</tf>
+            <tf pos="phrase_n">lang smal ås med utsikt til begge sider_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">lem i fjellsiden</tf>
@@ -14885,12 +14876,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">tantebarn til mors eldre
-            søster</tf>
+            <tf pos="phrase_n">tantebarn til mors eldre søster</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tantebarn til mors eldre
-            søster_SWE</tf>
+            <tf pos="phrase_n">tantebarn til mors eldre søster_SWE</tf>
          </tg>
       </mg>
       <mg xml:lang="sme">
@@ -15848,8 +15837,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="n">skillegjerde</t>
-            <tf pos="phrase_n">siderom i reingjerde for
-            skilling</tf>
+            <tf pos="phrase_n">siderom i reingjerde for skilling</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="n">skiljningsgärde</t>
@@ -16271,12 +16259,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">øvre margbein på
-            reinens framfot</tf>
+            <tf gen="n" pos="phrase_n">øvre margbein på reinens framfot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">øvre margbein på
-            reinens framfot_SWE</tf>
+            <tf gen="n" pos="phrase_n">øvre margbein på reinens framfot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -16597,6 +16583,17 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t decl="1" gen="f" pos="n">stuga</t>
             <t decl="1" gen="f" pos="n">skjul</t>
             <t decl="1" gen="f" pos="n">kåk</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n" soggi="oe" stem="2syll">dilliehammoe</l>
+      </lg>
+      <stem class="bisyllabic"/>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="f" pos="n">fortidsform</t>
          </tg>
       </mg>
    </e>
@@ -16933,8 +16930,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">hannrein på andre året</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">hannrein på andre
-            året_SWE</tf>
+            <tf gen="f" pos="phrase_n">hannrein på andre året_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -16945,8 +16941,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="f" pos="phrase_n">hannrein på andre
-            året</tf>
+            <tf gen="f" pos="phrase_n">hannrein på andre året</tf>
             <tf gen="f" pos="phrase_n">ung hannrein</tf>
             <tf gen="f" pos="phrase_n">liten hannrein</tf>
             <tf gen="f" pos="phrase_n">ung hanrein</tf>
@@ -16958,8 +16953,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="n">ungbukk</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">hannrein på andre
-            året_SWE</tf>
+            <tf gen="f" pos="phrase_n">hannrein på andre året_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -17054,8 +17048,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">den nederste del av et fjell</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">den nederste del av et
-            fjell_SWE</tf>
+            <tf gen="m" pos="phrase_n">den nederste del av et fjell_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -17307,12 +17300,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">noe som er forkastet eller
-            oppgitt</tf>
+            <tf gen="n" pos="phrase_n">noe som er forkastet eller oppgitt</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">noe som er forkastet eller
-            oppgitt_SWE</tf>
+            <tf gen="n" pos="phrase_n">noe som er forkastet eller oppgitt_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -17902,13 +17893,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="n">formue</t>
-            <tf gen="m" pos="phrase_n">eiendom i form av
-            reinflokk</tf>
+            <tf gen="m" pos="phrase_n">eiendom i form av reinflokk</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="n">förmögenhet</t>
-            <tf gen="m" pos="phrase_n">egendom i form av
-            renhjord</tf>
+            <tf gen="m" pos="phrase_n">egendom i form av renhjord</tf>
             <tf gen="m" pos="phrase_n">stort reninnehav</tf>
          </tg>
       </mg>
@@ -18182,12 +18171,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">rundt hårlag på reinens bakfot på innsiden av
-            hasen</tf>
+            <tf pos="phrase_n">rundt hårlag på reinens bakfot på innsiden av hasen</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf pos="phrase_n">rund hårlag på renens bakfot på insidan av
-            hasen</tf>
+            <tf pos="phrase_n">rund hårlag på renens bakfot på insidan av hasen</tf>
          </tg>
       </mg>
    </e>
@@ -18264,13 +18251,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">tantebarn til
-            filletante</tf>
+            <tf gen="n" pos="phrase_n">tantebarn til filletante</tf>
             <tf pos="phrase_n">filletante sitt tantebarn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">tantebarn til
-            filletante_SWE</tf>
+            <tf gen="n" pos="phrase_n">tantebarn til filletante_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -18624,8 +18609,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">lysgrå reinsimle</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf gen="f" pos="phrase_n">ljusgrå renvaja utan
-            kalv</tf>
+            <tf gen="f" pos="phrase_n">ljusgrå renvaja utan kalv</tf>
             <tf gen="f" pos="phrase_n">ljusgrå renvaja</tf>
          </tg>
       </mg>
@@ -18714,12 +18698,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">hull i reinskinn etter
-            framføttene</tf>
+            <tf gen="n" pos="phrase_n">hull i reinskinn etter framføttene</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">hull i reinskinn etter
-            framføttene_SWE</tf>
+            <tf gen="n" pos="phrase_n">hull i reinskinn etter framføttene_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -18730,12 +18712,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="f" pos="phrase_n">reim til å knytte kløvkorga fast
-            med</tf>
+            <tf gen="f" pos="phrase_n">reim til å knytte kløvkorga fast med</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">reim til å knytte kløvkorga fast
-            med_SWE</tf>
+            <tf gen="f" pos="phrase_n">reim til å knytte kløvkorga fast med_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -19347,12 +19327,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">storparten av
-            reinhjorden</tf>
+            <tf gen="m" pos="phrase_n">storparten av reinhjorden</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
-            <tf gen="m" pos="phrase_n">stordelen av
-            renhjorden</tf>
+            <tf gen="m" pos="phrase_n">stordelen av renhjorden</tf>
             <tf gen="m" pos="phrase_n">stordelen av hjorden</tf>
             <tf gen="m" pos="phrase_n">stordelen av renflocken</tf>
             <t decl="1" gen="f" pos="n">huvudhjorden</t>
@@ -19437,13 +19415,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="n">overnattingssted</t>
-            <tf gen="n" pos="phrase_n">oppholdssted for
-            natten</tf>
+            <tf gen="n" pos="phrase_n">oppholdssted for natten</tf>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="n">övernattningsställe</t>
-            <tf gen="n" pos="phrase_n">upphålls plats för
-            natten</tf>
+            <tf gen="n" pos="phrase_n">upphålls plats för natten</tf>
          </tg>
       </mg>
    </e>
@@ -19517,12 +19493,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">rein med mørkt hårlag og lyse
-            hårspisser</tf>
+            <tf gen="m" pos="phrase_n">rein med mørkt hårlag og lyse hårspisser</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">rein med mørkt hårlag og lyse
-            hårspisser_SWE</tf>
+            <tf gen="m" pos="phrase_n">rein med mørkt hårlag og lyse hårspisser_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -19996,8 +19970,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">lyden av reinhjord som kommer</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">lyden av reinhjord som
-            kommer_SWE</tf>
+            <tf gen="m" pos="phrase_n">lyden av reinhjord som kommer_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -20340,8 +20313,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t decl="1" gen="m" pos="n">plen</t>
-            <tf gen="n" pos="phrase_n">lite gressbevokst område i
-            fjellet</tf>
+            <tf gen="n" pos="phrase_n">lite gressbevokst område i fjellet</tf>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" gen="m" pos="n">plen_SWE</t>
@@ -21955,12 +21927,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">smittsom sykdom i reinens
-            klover</tf>
+            <tf gen="m" pos="phrase_n">smittsom sykdom i reinens klover</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">smittsom sykdom i reinens
-            klover_SWE</tf>
+            <tf gen="m" pos="phrase_n">smittsom sykdom i reinens klover_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -22087,12 +22057,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">kalv som en eldre simle tar til seg
-            som sin egen</tf>
+            <tf gen="m" pos="phrase_n">kalv som en eldre simle tar til seg som sin egen</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kalv som en eldre simle tar til seg
-            som sin egen_SWE</tf>
+            <tf gen="m" pos="phrase_n">kalv som en eldre simle tar til seg som sin egen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -22214,12 +22182,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">spor etter reinflokk i
-            snøen</tf>
+            <tf pos="phrase_n">spor etter reinflokk i snøen</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">spor etter reinflokk i
-            snøen_SWE</tf>
+            <tf pos="phrase_n">spor etter reinflokk i snøen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -22314,12 +22280,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">spener som sitter så tett at de
-            kan melkes samtidig</tf>
+            <tf pos="phrase_n">spener som sitter så tett at de kan melkes samtidig</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">spener som sitter så tett at de
-            kan melkes samtidig_SWE</tf>
+            <tf pos="phrase_n">spener som sitter så tett at de kan melkes samtidig_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -22646,8 +22610,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t decl="x" gen="n" pos="n">gammegulv</t>
-            <tf pos="phrase_n">sitteplassen på hver side av arnen i
-            gamma</tf>
+            <tf pos="phrase_n">sitteplassen på hver side av arnen i gamma</tf>
          </tg>
          <tg xml:lang="swe">
             <t decl="x" gen="n" pos="n">gammegulv_SWE</t>
@@ -23311,8 +23274,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">onkel gift med pappas søster</tf>
-            <tf pos="phrase_n">onkel gift med eldre kvinnelig
-            slektning</tf>
+            <tf pos="phrase_n">onkel gift med eldre kvinnelig slektning</tf>
          </tg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">svoger gift med eldre søster</tf>
@@ -23330,8 +23292,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">mannlig onkelbarn til onkel som er gift med mammas søster</tf>
          </tg>
          <tg xml:lang="swe">
-            <t decl="1" gen="n" pos="n">mannlig onkelbarn til
-            filleonkel_SWE</t>
+            <t decl="1" gen="n" pos="n">mannlig onkelbarn til filleonkel_SWE</t>
          </tg>
          <tg xml:lang="nob">
             <t decl="x" gen="m" pos="n">svoger</t>
@@ -23763,8 +23724,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">mors yngre søster</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">mors yngre
-            søster_SWE</tf>
+            <tf gen="f" pos="phrase_n">mors yngre søster_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">mors yngre kusine</tf>
@@ -24111,13 +24071,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">tantebarn til mors yngre
-            søster</tf>
+            <tf pos="phrase_n">tantebarn til mors yngre søster</tf>
             <t pos="n">tantebarn</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tantebarn til mors yngre
-            søster_SWE</tf>
+            <tf pos="phrase_n">tantebarn til mors yngre søster_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">barn av en kvinnes kusine</tf>
@@ -24404,8 +24362,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">mors yngre søster</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">mors yngre
-            søster_SWE</tf>
+            <tf gen="f" pos="phrase_n">mors yngre søster_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf pos="phrase_n">mors yngre kusine</tf>
@@ -24666,12 +24623,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">en som gjør hærverk eller
-            ødelegger</tf>
+            <tf gen="m" pos="phrase_n">en som gjør hærverk eller ødelegger</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">en som gjør hærverk eller
-            ødelegger_SWE</tf>
+            <tf gen="m" pos="phrase_n">en som gjør hærverk eller ødelegger_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -24981,8 +24936,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">same som lever som jordbruker</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">same som lever som
-            jordbruker_SWE</tf>
+            <tf gen="m" pos="phrase_n">same som lever som jordbruker_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -25207,12 +25161,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller
-            glørne med</tf>
+            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller glørne med</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller
-            glørne med_SWE</tf>
+            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller glørne med_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -25288,12 +25240,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller
-            glørne</tf>
+            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller glørne</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller
-            glørne_SWE</tf>
+            <tf gen="m" pos="phrase_n">kjepp for å rote i ilden eller glørne_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -25336,16 +25286,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">onkelbarn til mors bror</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">onkelbarn til mors
-            bror_SWE</tf>
+            <tf pos="phrase_n">onkelbarn til mors bror_SWE</tf>
          </tg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">en manns søsters eller kusines
-            barn</tf>
+            <tf gen="m" pos="phrase_n">en manns søsters eller kusines barn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">en manns søsters eller kusines
-            barn_SWE</tf>
+            <tf gen="m" pos="phrase_n">en manns søsters eller kusines barn_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf gen="n" pos="phrase_n">en manns søsters barnebarn</tf>
@@ -25449,8 +25396,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">planke som en skraper skinn på</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">planke som en skraper skinn
-            på_SWE</tf>
+            <tf gen="m" pos="phrase_n">planke som en skraper skinn på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -25606,8 +25552,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">større utløper av fjellparti</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">større utløper av
-            fjellparti_SWE</tf>
+            <tf gen="m" pos="phrase_n">større utløper av fjellparti_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -26191,8 +26136,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">margbein øverst i bog og lår</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">margbein øverst i bog og
-            lår_SWE</tf>
+            <tf gen="n" pos="phrase_n">margbein øverst i bog og lår_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -26270,12 +26214,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">ende av et ikke helt oppbrent
-            vedtre</tf>
+            <tf gen="m" pos="phrase_n">ende av et ikke helt oppbrent vedtre</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">ende av et ikke helt oppbrent
-            vedtre_SWE</tf>
+            <tf gen="m" pos="phrase_n">ende av et ikke helt oppbrent vedtre_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -26537,12 +26479,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">tynntarmene og
-            tarmfettet</tf>
+            <tf gen="m" pos="phrase_n">tynntarmene og tarmfettet</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">tynntarmene og
-            tarmfettet_SWE</tf>
+            <tf gen="m" pos="phrase_n">tynntarmene og tarmfettet_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -27694,12 +27634,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">den ytterste tarmen med
-            tynt innhold</tf>
+            <tf gen="m" pos="phrase_n">den ytterste tarmen med tynt innhold</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">den ytterste tarmen med
-            tynt innhold_SWE</tf>
+            <tf gen="m" pos="phrase_n">den ytterste tarmen med tynt innhold_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -27867,12 +27805,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="f" pos="phrase_n">kløft mellom bar skråning og
-            snømark</tf>
+            <tf gen="f" pos="phrase_n">kløft mellom bar skråning og snømark</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">kløft mellom bar skråning og
-            snømark_SWE</tf>
+            <tf gen="f" pos="phrase_n">kløft mellom bar skråning og snømark_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -27996,7 +27932,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-         <re>fisk</re>
+            <re>fisk</re>
             <t decl="1" gen="f" pos="n">røye</t>
          </tg>
          <tg xml:lang="swe">
@@ -28052,12 +27988,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">hund som er flink til å
-            passe kanten av reinflokken</tf>
+            <tf gen="m" pos="phrase_n">hund som er flink til å passe kanten av reinflokken</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">hund som er flink til å
-            passe kanten av reinflokken_SWE</tf>
+            <tf gen="m" pos="phrase_n">hund som er flink til å passe kanten av reinflokken_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -28261,12 +28195,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">tiden når det er rovdyr
-            i flokken</tf>
+            <tf gen="m" pos="phrase_n">tiden når det er rovdyr i flokken</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">tiden når det er rovdyr
-            i flokken_SWE</tf>
+            <tf gen="m" pos="phrase_n">tiden når det er rovdyr i flokken_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -28489,8 +28421,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-             <re>i gamme og telt</re>
-           <t decl="1" gen="m" pos="n">ljore</t>
+            <re>i gamme og telt</re>
+            <t decl="1" gen="m" pos="n">ljore</t>
          </tg>
          <tg xml:lang="swe">
             <t decl="1" gen="m" pos="n">ljore_SWE</t>
@@ -28886,8 +28818,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">kastrert reinsbukk</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kastrert
-            reinsbukk_SWE</tf>
+            <tf gen="m" pos="phrase_n">kastrert reinsbukk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -28950,8 +28881,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kastrert
-            reinsbukk_SWE</tf>
+            <tf gen="m" pos="phrase_n">kastrert reinsbukk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29106,8 +29036,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">mislykket kastrat</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">mislykket
-            kastrat_SWE</tf>
+            <tf gen="m" pos="phrase_n">mislykket kastrat_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29224,8 +29153,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">kaldt vær med regn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">kaldt vær med
-            regn_SWE</tf>
+            <tf gen="n" pos="phrase_n">kaldt vær med regn_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29425,8 +29353,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t decl="x" gen="m" pos="n">hjelpeånd</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">underjordisk
-            vesen_SWE</tf>
+            <tf gen="n" pos="phrase_n">underjordisk vesen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29506,12 +29433,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">oppsmeltet og lettsaltet marg av
-            rein, brukt som smør</tf>
+            <tf gen="m" pos="phrase_n">oppsmeltet og lettsaltet marg av rein, brukt som smør</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">oppsmeltet og lettsaltet marg av
-            rein, brukt som smør_SWE</tf>
+            <tf gen="m" pos="phrase_n">oppsmeltet og lettsaltet marg av rein, brukt som smør_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29806,12 +29731,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="n">gjennomslagsføre</t>
-            <tf pos="phrase_n">løs og grov snø som ikke
-            bærer</tf>
+            <tf pos="phrase_n">løs og grov snø som ikke bærer</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">løs og grov snø som ikke
-            bærer_SWE</tf>
+            <tf pos="phrase_n">løs og grov snø som ikke bærer_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29952,8 +29875,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">knokkel i kloven</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">knokkel i
-            kloven_SWE</tf>
+            <tf gen="m" pos="phrase_n">knokkel i kloven_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -29964,12 +29886,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">fett kokt av
-            klover</tf>
+            <tf gen="m" pos="phrase_n">fett kokt av klover</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">fett kokt av
-            klover_SWE</tf>
+            <tf gen="m" pos="phrase_n">fett kokt av klover_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -30000,12 +29920,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">laveste passasje mellom to
-            fjell</tf>
+            <tf gen="m" pos="phrase_n">laveste passasje mellom to fjell</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">laveste passasje mellom to
-            fjell_SWE</tf>
+            <tf gen="m" pos="phrase_n">laveste passasje mellom to fjell_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -30160,12 +30078,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">skinn som er lagt for
-            avhåring</tf>
+            <tf gen="n" pos="phrase_n">skinn som er lagt for avhåring</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">skinn som er lagt for
-            avhåring_SWE</tf>
+            <tf gen="n" pos="phrase_n">skinn som er lagt for avhåring_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -31103,8 +31019,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">en som går ut og inn dørene</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">en som går ut og inn
-            dørene_SWE</tf>
+            <tf gen="m" pos="phrase_n">en som går ut og inn dørene_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -31288,7 +31203,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-			<re>om reindrift</re>
+            <re>om reindrift</re>
             <t decl="x" gen="m" pos="n">kjevle</t>
             <t decl="x" gen="n" pos="n">diehinder</t>
          </tg>
@@ -31581,12 +31496,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">spunnet senetråd lagt på yttersiden
-            av søm</tf>
+            <tf gen="m" pos="phrase_n">spunnet senetråd lagt på yttersiden av søm</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">spunnet senetråd lagt på yttersiden
-            av søm_SWE</tf>
+            <tf gen="m" pos="phrase_n">spunnet senetråd lagt på yttersiden av søm_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -31904,12 +31817,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">grarein som har feiet
-            hornene</tf>
+            <tf gen="m" pos="phrase_n">grarein som har feiet hornene</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">grarein som har feiet
-            hornene_SWE</tf>
+            <tf gen="m" pos="phrase_n">grarein som har feiet hornene_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -32020,8 +31931,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">lav og vid gamme</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">lav og vid
-            gamme_SWE</tf>
+            <tf gen="m" pos="phrase_n">lav og vid gamme_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -32078,8 +31988,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">ruskevær med sludd</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">ruskevær med
-            sludd_SWE</tf>
+            <tf gen="n" pos="phrase_n">ruskevær med sludd_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -32400,7 +32309,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-         <re>om mat</re>
+            <re>om mat</re>
             <t decl="1" gen="f" pos="n">skive</t>
             <xg>
                <x>gaahkoesnaejrie</x>
@@ -32581,8 +32490,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">mindre reinbukk</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">mindre
-            reinbukk_SWE</tf>
+            <tf gen="n" pos="phrase_n">mindre reinbukk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -33870,13 +33778,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">tiden da de fleste simler
-            kalver</tf>
+            <tf pos="phrase_n">tiden da de fleste simler kalver</tf>
             <t pos="n">kalvingstiden</t>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tiden da de fleste simler
-            kalver_SWE</tf>
+            <tf pos="phrase_n">tiden da de fleste simler kalver_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -33949,12 +33855,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">sted for skjæring av
-            sennegras</tf>
+            <tf gen="n" pos="phrase_n">sted for skjæring av sennegras</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">sted for skjæring av
-            sennegras_SWE</tf>
+            <tf gen="n" pos="phrase_n">sted for skjæring av sennegras_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -34146,8 +34050,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">kastrert rein som skal temmes</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">kastrert rein som skal
-            temmes_SWE</tf>
+            <tf pos="phrase_n">kastrert rein som skal temmes_SWE</tf>
          </tg>
       </mg>
       <mg>
@@ -34186,12 +34089,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">rein med hvite prikker på
-            baken</tf>
+            <tf pos="phrase_n">rein med hvite prikker på baken</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">rein med hvite prikker på
-            baken_SWE</tf>
+            <tf pos="phrase_n">rein med hvite prikker på baken_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -34939,12 +34840,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">tantebarn av fars
-            søster</tf>
+            <tf gen="n" pos="phrase_n">tantebarn av fars søster</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">tantebarn av fars
-            søster_SWE</tf>
+            <tf gen="n" pos="phrase_n">tantebarn av fars søster_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -35313,12 +35212,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">plass i lendet hvor man driver
-            reinen</tf>
+            <tf gen="m" pos="phrase_n">plass i lendet hvor man driver reinen</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">plass i lendet hvor man driver
-            reinen_SWE</tf>
+            <tf gen="m" pos="phrase_n">plass i lendet hvor man driver reinen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -35448,8 +35345,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">skriftlig fremstillingsevne</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">skriftlig
-            fremstillingsevne_SWE</tf>
+            <tf gen="m" pos="phrase_n">skriftlig fremstillingsevne_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -35489,12 +35385,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">lite rundt fjell som ligger for seg
-            i høgfjellet</tf>
+            <tf gen="n" pos="phrase_n">lite rundt fjell som ligger for seg i høgfjellet</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">lite rundt fjell som ligger for seg
-            i høgfjellet_SWE</tf>
+            <tf gen="n" pos="phrase_n">lite rundt fjell som ligger for seg i høgfjellet_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -35975,12 +35869,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">sko av nederste del av en
-            fetling</tf>
+            <tf gen="m" pos="phrase_n">sko av nederste del av en fetling</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">sko av nederste del av en
-            fetling_SWE</tf>
+            <tf gen="m" pos="phrase_n">sko av nederste del av en fetling_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -35991,12 +35883,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">skinnet mellom klovene
-            på rein</tf>
+            <tf gen="n" pos="phrase_n">skinnet mellom klovene på rein</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">skinnet mellom klovene
-            på rein_SWE</tf>
+            <tf gen="n" pos="phrase_n">skinnet mellom klovene på rein_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -36131,8 +36021,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="n">farbror</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">fars yngre
-            bror_SWE</tf>
+            <tf gen="m" pos="phrase_n">fars yngre bror_SWE</tf>
          </tg>
          <tg xml:lang="nob">
             <tf gen="m" pos="phrase_n">fars yngre fetter</tf>
@@ -36149,12 +36038,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">onkelbarn til fars yngre
-            bror</tf>
+            <tf pos="phrase_n">onkelbarn til fars yngre bror</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">onkelbarn til fars yngre
-            bror_SWE</tf>
+            <tf pos="phrase_n">onkelbarn til fars yngre bror_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -36702,8 +36589,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="n">flein</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">isskorpe på
-            marken_SWE</tf>
+            <tf gen="f" pos="phrase_n">isskorpe på marken_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -36755,8 +36641,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">nakkebein på hund</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">nakkebein på
-            hund_SWE</tf>
+            <tf gen="m" pos="phrase_n">nakkebein på hund_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -36881,8 +36766,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">liten fjellknaus</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">liten
-            fjellknaus_SWE</tf>
+            <tf gen="m" pos="phrase_n">liten fjellknaus_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37016,12 +36900,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">øvre margbein i reinens
-            bakfot</tf>
+            <tf gen="n" pos="phrase_n">øvre margbein i reinens bakfot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">øvre margbein i reinens
-            bakfot_SWE</tf>
+            <tf gen="n" pos="phrase_n">øvre margbein i reinens bakfot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37463,13 +37345,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">rein med hvit snute
-            eller hvitflekket hode</tf>
+            <tf gen="m" pos="phrase_n">rein med hvit snute eller hvitflekket hode</tf>
             <tf gen="m" pos="phrase_n">gråblakk rein</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">rein med hvit snute
-            eller hvitflekket hode_SWE</tf>
+            <tf gen="m" pos="phrase_n">rein med hvit snute eller hvitflekket hode_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37480,12 +37360,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">rein med hvit
-            snute</tf>
+            <tf gen="m" pos="phrase_n">rein med hvit snute</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">rein med hvit
-            snute_SWE</tf>
+            <tf gen="m" pos="phrase_n">rein med hvit snute_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37564,12 +37442,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">grå rein med små hvite
-            prikker på snuten</tf>
+            <tf gen="m" pos="phrase_n">grå rein med små hvite prikker på snuten</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">grå rein med små hvite
-            prikker på snuten_SWE</tf>
+            <tf gen="m" pos="phrase_n">grå rein med små hvite prikker på snuten_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37774,8 +37650,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">opprettstående gamme uten buestenger</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">opprettstående
-            gamme_SWE</tf>
+            <tf gen="m" pos="phrase_n">opprettstående gamme_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37786,12 +37661,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">nederste leggbein på
-            reinens framfot</tf>
+            <tf gen="n" pos="phrase_n">nederste leggbein på reinens framfot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">nederste leggbein på
-            reinens framfot_SWE</tf>
+            <tf gen="n" pos="phrase_n">nederste leggbein på reinens framfot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -37985,12 +37858,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">tåke eller snø så en ikke ser
-            høydeforskjell</tf>
+            <tf pos="phrase_n">tåke eller snø så en ikke ser høydeforskjell</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tåke eller snøyr så en ikke ser
-            høydeforskjell_SWE</tf>
+            <tf pos="phrase_n">tåke eller snøyr så en ikke ser høydeforskjell_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -38560,12 +38431,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">knytte båret på ryggen uten
-            sekk</tf>
+            <tf gen="n" pos="phrase_n">knytte båret på ryggen uten sekk</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">knytte båret på ryggen uten
-            sekk_SWE</tf>
+            <tf gen="n" pos="phrase_n">knytte båret på ryggen uten sekk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -38590,12 +38459,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">kjøttet på reinens
-            bakfot</tf>
+            <tf gen="n" pos="phrase_n">kjøttet på reinens bakfot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">kjøttet på reinens
-            bakfot_SWE</tf>
+            <tf gen="n" pos="phrase_n">kjøttet på reinens bakfot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -38623,8 +38490,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">haseknoke på rein</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">haseknoke på
-            rein_SWE</tf>
+            <tf gen="m" pos="phrase_n">haseknoke på rein_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -38913,8 +38779,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">dreven reinskar</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">dreven
-            reinskar_SWE</tf>
+            <tf gen="n" pos="phrase_n">dreven reinskar_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39080,12 +38945,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">stille, dypt stykke i
-            elv</tf>
+            <tf gen="n" pos="phrase_n">stille, dypt stykke i elv</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">stille, dypt stykke i
-            elv_SWE</tf>
+            <tf gen="n" pos="phrase_n">stille, dypt stykke i elv_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39096,12 +38959,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="f" pos="phrase_n">sene med beinknapp i
-            bakre leggbein</tf>
+            <tf gen="f" pos="phrase_n">sene med beinknapp i bakre leggbein</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">sene med beinknapp i
-            bakre leggbein_SWE</tf>
+            <tf gen="f" pos="phrase_n">sene med beinknapp i bakre leggbein_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39397,12 +39258,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">ring av sammensnodde
-            skohøydotter</tf>
+            <tf gen="m" pos="phrase_n">ring av sammensnodde skohøydotter</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">ring av sammensnodde
-            skohøydotter_SWE</tf>
+            <tf gen="m" pos="phrase_n">ring av sammensnodde skohøydotter_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39711,12 +39570,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv
-            eller vatn</tf>
+            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv eller vatn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv
-            eller vatn_SWE</tf>
+            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv eller vatn_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39726,12 +39583,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv
-            eller vatn</tf>
+            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv eller vatn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv
-            eller vatn_SWE</tf>
+            <tf gen="n" pos="phrase_n">svømmested for reinflokken over elv eller vatn_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39788,12 +39643,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">stillas til tørke fiskegarn
-            på</tf>
+            <tf pos="phrase_n">stillas til tørke fiskegarn på</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">stillas til tørke fiskegarn
-            på_SWE</tf>
+            <tf pos="phrase_n">stillas til tørke fiskegarn på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -39985,8 +39838,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">tiden da reinen feier hornene</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">tiden da reinen feier
-            hornene_SWE</tf>
+            <tf gen="f" pos="phrase_n">tiden da reinen feier hornene_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -40174,12 +40026,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">grarein som har feiet
-            hornene</tf>
+            <tf gen="m" pos="phrase_n">grarein som har feiet hornene</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">grarein som har feiet
-            hornene_SWE</tf>
+            <tf gen="m" pos="phrase_n">grarein som har feiet hornene_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -40419,8 +40269,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">billett til befordringsmiddel</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">billett til
-            befordringsmiddel_SWE</tf>
+            <tf gen="m" pos="phrase_n">billett til befordringsmiddel_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -40446,12 +40295,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="f" pos="phrase_n">2-3 år gammel
-            simle</tf>
+            <tf gen="f" pos="phrase_n">2-3 år gammel simle</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">2-3 år gammel
-            simle_SWE</tf>
+            <tf gen="f" pos="phrase_n">2-3 år gammel simle_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -40713,12 +40560,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">bakke med fritt
-            utsyn</tf>
+            <tf gen="n" pos="phrase_n">bakke med fritt utsyn</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">bakke med fritt
-            utsyn_SWE</tf>
+            <tf gen="n" pos="phrase_n">bakke med fritt utsyn_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -40954,8 +40799,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">kanten av marbakke</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kanten av
-            marbakke_SWE</tf>
+            <tf gen="m" pos="phrase_n">kanten av marbakke_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -41072,8 +40916,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="n" pos="phrase_n">beinfritt kjøtt</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">beinfritt
-            kjøtt_SWE</tf>
+            <tf gen="n" pos="phrase_n">beinfritt kjøtt_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -41160,8 +41003,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="n">sørsamisk</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">sørsamisk
-            språk_SWE</tf>
+            <tf gen="n" pos="phrase_n">sørsamisk språk_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -41258,12 +41100,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">den fremste av stengene
-            som et skinn spiles på</tf>
+            <tf gen="m" pos="phrase_n">den fremste av stengene som et skinn spiles på</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">den fremste av stengene
-            som et skinn spiles på_SWE</tf>
+            <tf gen="m" pos="phrase_n">den fremste av stengene som et skinn spiles på_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -41757,8 +41597,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">liten reinflokk med hannrein</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">liten reinflokk med
-            hannrein_SWE</tf>
+            <tf gen="m" pos="phrase_n">liten reinflokk med hannrein_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -41898,12 +41737,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">kjøttet nederst på
-            reinens framfot</tf>
+            <tf gen="n" pos="phrase_n">kjøttet nederst på reinens framfot</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">kjøttet nederst på
-            reinens framfot_SWE</tf>
+            <tf gen="n" pos="phrase_n">kjøttet nederst på reinens framfot_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -42440,13 +42277,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">bakre del av
-            reinflokken</tf>
+            <tf gen="m" pos="phrase_n">bakre del av reinflokken</tf>
             <t pos="n">baktroppen</t>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">bakre del av
-            reinflokken_SWE</tf>
+            <tf gen="m" pos="phrase_n">bakre del av reinflokken_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -42659,8 +42494,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="f" pos="phrase_n">grunne med svaberg</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="f" pos="phrase_n">grunne med
-            svaberg_SWE</tf>
+            <tf gen="f" pos="phrase_n">grunne med svaberg_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -42685,12 +42519,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">utkanten av busk og
-            kjerr</tf>
+            <tf gen="m" pos="phrase_n">utkanten av busk og kjerr</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">utkanten av busk og
-            kjerr_SWE</tf>
+            <tf gen="m" pos="phrase_n">utkanten av busk og kjerr_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -42872,12 +42704,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="n" pos="phrase_n">lite stilleflytende
-            dypt sted i elv</tf>
+            <tf gen="n" pos="phrase_n">lite stilleflytende dypt sted i elv</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="n" pos="phrase_n">lite stilleflytende
-            dypt sted i elv_SWE</tf>
+            <tf gen="n" pos="phrase_n">lite stilleflytende dypt sted i elv_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -43151,7 +42981,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">sted ved kneet ved framfoten på leggskinnet </tf>
+            <tf pos="phrase_n">sted ved kneet ved framfoten på leggskinnet</tf>
          </tg>
          <tg xml:lang="swe">
             <tf pos="phrase_n">sted ved kneet_SWE</tf>
@@ -43209,8 +43039,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">øverste del av leggskinn fra framfoten</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">øverste del av leggskinn fra
-            fremfoten_SWE</tf>
+            <tf pos="phrase_n">øverste del av leggskinn fra fremfoten_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -43248,12 +43077,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">spunnet senetråd lagt på yttersiden av
-            sømmen</tf>
+            <tf pos="phrase_n">spunnet senetråd lagt på yttersiden av sømmen</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">spunnet senetråd lagt på yttersiden av
-            sømmen_SWE</tf>
+            <tf pos="phrase_n">spunnet senetråd lagt på yttersiden av sømmen_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -43307,12 +43134,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">hornskive med hull til draging av
-            tinntråd</tf>
+            <tf pos="phrase_n">hornskive med hull til draging av tinntråd</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">hornskive med hull til draging av
-            tinntråd_SWE</tf>
+            <tf pos="phrase_n">hornskive med hull til draging av tinntråd_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -43448,8 +43273,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">øverste del av leggskinn fra bakfoten</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">øverste del av leggskinn fra
-            bakfoten_SWE</tf>
+            <tf pos="phrase_n">øverste del av leggskinn fra bakfoten_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -43491,8 +43315,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">syl av margbein og andre materialer</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">syl av margbein og andre
-            materialer_SWE</tf>
+            <tf pos="phrase_n">syl av margbein og andre materialer_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -44740,8 +44563,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">tyntflytende kvae fra blemmer i bark</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">tyntflytende kvae fra blemmer i
-            bark_SWE</tf>
+            <tf pos="phrase_n">tyntflytende kvae fra blemmer i bark_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -44977,8 +44799,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">den tynne enden på ferdigspunnet sener</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">den tynne enden på ferdigspunnet
-            sener_SWE</tf>
+            <tf pos="phrase_n">den tynne enden på ferdigspunnet sener_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45314,8 +45135,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">sikksakkbord sydd med avvikende farge</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">sikksakkbord sydd med avvikende
-            farge_SWE</tf>
+            <tf pos="phrase_n">sikksakkbord sydd med avvikende farge_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45337,8 +45157,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">den gule sikksakkborden på budtesdahke</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">den gule sikksakkborden på
-            budtesdahke_SWE</tf>
+            <tf pos="phrase_n">den gule sikksakkborden på budtesdahke_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45390,12 +45209,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">øverste stykket eller halsen av pung eller
-            kaffepose</tf>
+            <tf pos="phrase_n">øverste stykket eller halsen av pung eller kaffepose</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">øverste stykket eller halsen av pung eller
-            kaffepose_SWE</tf>
+            <tf pos="phrase_n">øverste stykket eller halsen av pung eller kaffepose_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45406,12 +45223,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_n">sying av for løse sting så tråden danner
-            løkke</tf>
+            <tf pos="phrase_n">sying av for løse sting så tråden danner løkke</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">sying av for løse sting så tråden danner
-            løkke_SWE</tf>
+            <tf pos="phrase_n">sying av for løse sting så tråden danner løkke_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45641,12 +45456,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">siden av leggskinn med tykt
-            hår</tf>
+            <tf gen="m" pos="phrase_n">siden av leggskinn med tykt hår</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">siden av leggskinn med tykt
-            hår_SWE</tf>
+            <tf gen="m" pos="phrase_n">siden av leggskinn med tykt hår_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45683,12 +45496,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">skallesko med overstykke av
-            lær</tf>
+            <tf gen="m" pos="phrase_n">skallesko med overstykke av lær</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">skallesko med overstykke av
-            lær_SWE</tf>
+            <tf gen="m" pos="phrase_n">skallesko med overstykke av lær_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45753,8 +45564,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">sidestykke med hårene på tvers</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">sidestykke med hårene på
-            tvers_SWE</tf>
+            <tf gen="m" pos="phrase_n">sidestykke med hårene på tvers_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45767,8 +45577,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">sidestykke med hårene på langs</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">sidestykke med hårene på
-            langs_SWE</tf>
+            <tf gen="m" pos="phrase_n">sidestykke med hårene på langs_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45781,8 +45590,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf gen="m" pos="phrase_n">vertikale sidestykker på sko</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">vertikale sidestykker på
-            sko_SWE</tf>
+            <tf gen="m" pos="phrase_n">vertikale sidestykker på sko_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45792,12 +45600,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">kile eller stykke som skjøtes på i
-            bredden</tf>
+            <tf gen="m" pos="phrase_n">kile eller stykke som skjøtes på i bredden</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">kile eller stykke som skjøtes på i
-            bredden_SWE</tf>
+            <tf gen="m" pos="phrase_n">kile eller stykke som skjøtes på i bredden_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45810,8 +45616,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <tf pos="phrase_n">redskapsvedheng på belte hvor man kan bære nålehus og saks</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf pos="phrase_n">redskapsvedheng på belte hvor man kan bære
-            nålhus, saks_SWE</tf>
+            <tf pos="phrase_n">redskapsvedheng på belte hvor man kan bære nålhus, saks_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -45902,12 +45707,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <tf gen="m" pos="phrase_n">innsiden av leggskinn med tynt
-            hår</tf>
+            <tf gen="m" pos="phrase_n">innsiden av leggskinn med tynt hår</tf>
          </tg>
          <tg xml:lang="swe">
-            <tf gen="m" pos="phrase_n">innsiden av leggskinn med tynt
-            hår_SWE</tf>
+            <tf gen="m" pos="phrase_n">innsiden av leggskinn med tynt hår_SWE</tf>
          </tg>
       </mg>
    </e>
@@ -49245,6 +49048,302 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
    </e>
    <e usage="dict">
       <lg>
+         <l pos="n">akkusatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">akkusativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">akkusativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">elatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">elativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">elativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">essïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">essiv</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">essiv_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">genitïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">genitiv</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">genitiv_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">illatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">illativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">illativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">imperatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">imperativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">imperativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">inessïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">inessiv</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">inessiv_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">komitatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">komitativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">komitativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">komparatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">komparativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">komparativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">lokatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">lokativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">lokativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">nominatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">nominativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">nominativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">positïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">positiv</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">positiv_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">superlatïjve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">superlativ</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">superlativ_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">gerundijume</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">gerundium</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">gerundium</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="n">kaasuse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">kasus</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">kasus</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">morfologije</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="m" pos="n">morfologi</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">morfologi</t>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">perfektume</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">perfektum</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">perfekt</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">pronovmene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">pronomen</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">pronomen</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">servere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="m" pos="n">server</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">server</t>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">studente</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="1" gen="m" pos="n">student</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">student</t>
+         </tg>
+      </mg>
+   </e>
+
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">teknihke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="m" pos="n">teknikk</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">teknik</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e usage="dict">
+      <lg>
+         <l pos="n">verbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t decl="x" gen="n" pos="n">verb</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t decl="x" gen="n" pos="n">verb</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="n" stem="2syll">gïeleviermie</l>
       </lg>
       <mg>
@@ -49258,4 +49357,5 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
    </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../scripts/gt_dictionary.js"
                  type="text/javascript"/>
-</r>
+
+ </r>
