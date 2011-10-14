@@ -25,3 +25,53 @@ Issues to fix:
    inkludere N+Sg+Nom, Pron+Indef+Sg+Nom og V+Inf
  ==> done
 
+Last minute wishes:
+
+7 --> 1) VGen
+vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' som tag istedenfor 'gen. v.'
+
+8 --> 2) ill="no" er ikke implementert i denne ordboka. Den skal fungere på samme måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
+
+9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
+
+10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
+
+sortere ordformene i miniparadigmet alfabetisk
+
+f.eks. rööpses
+
+sg.nom  			reepses rööpses rååpsehke
+komp. sg. nom	ruepsebe rååpsehkåbpoe
+superl. sg. nom	rööpsemes rååpsehkommes
+
+
+Dermed vil man få fram en bedre logikk mellom de forskjellige variantene.
+
+Glemte en ting:
+
+11 --> 5) I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger.   Taggen skal være: perf.  og i parantes (lea)
+
+f.eks. vaedtsedh:
+
+neg. (ij) vaedtsieh
+perf.  (lea) vaadtseme
+verbgen. vaedtsien
+
+
+12 --> 6) For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. part.
+
+f.eks. vaedtsedh:
+
+neg. (ij) vaedtsieh
+perf.  (lea) vaadtseme
+ger. (dïhte lea) vaedtsieminie
+verbgen. vaedtsien
+
+
+Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i gerundium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
+ 
+Altså:
+
+neg. (ij) vaedtsieh
+perf.  (lea) vaadtseme
+ger. (lea) vaedtsieminie
