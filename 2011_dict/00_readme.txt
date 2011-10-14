@@ -40,8 +40,8 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
 
  ==> done
 
-9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob. (som i smenob??? slik ting har vi ikke i smenob, aha bare i den siste versjonen)
- ==> todo
+9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
+ ==> done (not yet tested)
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
  ==> todo
