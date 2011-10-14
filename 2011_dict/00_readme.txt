@@ -29,16 +29,20 @@ Last minute wishes:
 
 7 --> 1) VGen
 vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' som tag istedenfor 'gen. v.'
+ ==> todo
 
 8 --> 2) ill="no" er ikke implementert i denne ordboka. Den skal fungere på samme måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
 
 Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
 <l illpl="no" margo="e" pos="n" soggi="ie" stem="3syll">jemhkelde</l>
 
+ ==> todo
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
+ ==> todo
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
+ ==> todo
 
 sortere ordformene i miniparadigmet alfabetisk
 
@@ -54,6 +58,7 @@ Dermed vil man få fram en bedre logikk mellom de forskjellige variantene.
 Glemte en ting:
 
 11 --> 5) I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger.   Taggen skal være: perf.  og i parantes (lea)
+ ==> todo
 
 f.eks. vaedtsedh:
 
@@ -63,6 +68,7 @@ verbgen. vaedtsien
 
 
 12 --> 6) For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. part.
+ ==> todo
 
 f.eks. vaedtsedh:
 
