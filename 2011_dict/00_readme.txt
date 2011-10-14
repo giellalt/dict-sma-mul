@@ -29,7 +29,7 @@ Last minute wishes:
 
 7 --> 1) VGen
 vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' som tag istedenfor 'gen. v.'
- ==> todo
+ ==> done (not yet tested)
 
 8 --> 2) ill="no" er ikke implementert i denne ordboka. Den skal fungere på samme måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
 
