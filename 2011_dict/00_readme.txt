@@ -32,6 +32,10 @@ vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' s
 
 8 --> 2) ill="no" er ikke implementert i denne ordboka. Den skal fungere på samme måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
 
+Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
+<l illpl="no" margo="e" pos="n" soggi="ie" stem="3syll">jemhkelde</l>
+
+
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
