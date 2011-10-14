@@ -36,6 +36,8 @@ vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' s
 Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
 <l illpl="no" margo="e" pos="n" soggi="ie" stem="3syll">jemhkelde</l>
 
+ - constructing the single test file for this issue ==> done
+
  ==> todo
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
