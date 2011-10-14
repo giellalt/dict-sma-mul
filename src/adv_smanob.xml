@@ -702,6 +702,111 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
+         <l pos="adv">lulhtie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">østfra</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">østfra_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">bijjege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">oppe</t>
+            <t pos="adv">oventil</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">oppe_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">lulnie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase_adv">i øst</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">i øst_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">loksese</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">østover</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">østover_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">låvlese</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">østover</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">østover_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">jillede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">vestfra</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">vestfra_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">jillelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">vestfra</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">vestfra_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">bijjelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">ovenfra</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="adv">ovenfra_SWE</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="adv">bijjede</l>
       </lg>
       <mg>
@@ -2939,6 +3044,33 @@ For the full license text, see the link above.</lic>
    </e>
    <e usage="dict">
       <lg>
+         <l pos="adv">vuelege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="adv">nede</t>
+            <t pos="adv">nedentil</t>
+         </tg>
+         <tg xml:lang="swe">
+            <tf pos="phrase_adv">nede_SWE</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="adv">jillege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase_adv">i vestlig retning</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <tf pos="phrase_adv">i vestlig retning_SWE</tf>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="adv">jillene</l>
       </lg>
       <mg>
@@ -4561,6 +4693,10 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <tf pos="phrase_adv">i sør</tf>
             <t pos="adv">sørpå</t>
+            <xg>
+               <x>Saemieh guhkiem daebpene åarjene orreme.</x>
+               <xt>Samene har lenge bodd her i sør.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <tf pos="phrase_adv">i sør_SWE</tf>
@@ -5411,7 +5547,20 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e usage="dict">
+    <e usage="dict">
+      <lg>
+         <l pos="adv">åarjege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <tf pos="phrase_adv">i sørlig retning</tf>
+         </tg>
+         <tg xml:lang="swe">
+            <tf pos="phrase_adv">i sørlig retning_SWE</tf>
+         </tg>
+      </mg>
+   </e>
+  <e usage="dict">
       <lg>
          <l pos="adv">åarjede</l>
       </lg>
