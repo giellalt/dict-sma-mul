@@ -38,7 +38,7 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
 
  - constructing the single test file for this issue ==> done
 
- ==> done
+ ==> done and tested
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
  ==> done (not yet tested)
