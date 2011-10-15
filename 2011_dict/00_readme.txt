@@ -41,7 +41,7 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
  ==> done and tested
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
- ==> done (not yet tested)
+ ==> done and tested
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
  ==> todo
@@ -70,7 +70,7 @@ verbgen. vaedtsien
 
 
 12 --> 6) For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. part.
- ==> done (not yet testet)
+ ==> done (not yet tested)
 
 f.eks. vaedtsedh:
 
