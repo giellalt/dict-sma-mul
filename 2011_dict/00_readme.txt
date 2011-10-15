@@ -70,7 +70,7 @@ verbgen. vaedtsien
 
 
 12 --> 6) For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. part.
- ==> todo
+ ==> done (not yet testet)
 
 f.eks. vaedtsedh:
 
