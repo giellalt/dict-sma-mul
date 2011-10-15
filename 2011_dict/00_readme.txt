@@ -29,7 +29,7 @@ Last minute wishes:
 
 7 --> 1) VGen
 vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' som tag istedenfor 'gen. v.'
- ==> done (not yet tested)
+ ==> done and tested
 
 8 --> 2) ill="no" er ikke implementert i denne ordboka. Den skal fungere på samme måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
 
@@ -79,8 +79,12 @@ perf.  (lea) vaadtseme
 ger. (dïhte lea) vaedtsieminie
 verbgen. vaedtsien
 
+ ===> ask for clarification: done, it is about the presentation of analysis of a
+      specific word form; the miniparadigm should have only "perf." as label
 
-Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i gerundium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
+
+
+13 --> 6) Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i gerundium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
  
 Altså:
 
@@ -88,11 +92,9 @@ neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
 
- ===> ask for clarification: done, it is about the presentation of analysis of a
-      specific word form; the miniparadigm should have only "perf." as label
+ ==> todo
 
-
-13) compile the Stardict version of the smanob
+14) compile the Stardict version of the smanob
 
 
 
