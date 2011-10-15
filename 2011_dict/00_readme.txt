@@ -63,7 +63,7 @@ Glemte en ting:
 
  ==> creating test files done
 
- ==> todo
+ ==> done and tested
 
 f.eks. vaedtsedh:
 
@@ -73,7 +73,7 @@ verbgen. vaedtsien
 
 
 12 --> 6) For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. part.
- ==> done (not yet tested)
+ ==> done and tested
 
 f.eks. vaedtsedh:
 
@@ -99,6 +99,6 @@ ger. (lea) vaedtsieminie
 
 14) compile the Stardict version of the smanob
 
-
+ ==> todo
 
 
