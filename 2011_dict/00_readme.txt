@@ -19,9 +19,38 @@ Issues to fix:
 
  ==> underspecification wrt. directionality: unidirectional or bidirectional?
      if bidirectional, info in source files perhaps needed
+
+ @trond: Det som er meint er ''unidireksjonal''.  Men dette har låg prioritet.
+
+Inconsistencies in the source files:
+1. l_ref in the lg-element:
+      <lg>
+         <l pos="pron" pg="no" type="indef">mijgih</l>
+         <l_ref>maamgih_pron_indef</l_ref>
+      </lg>
+
+      <lg>
+         <l pos="adv">gosse</l>
+            <l_ref>gåabph_adv</l_ref>
+      </lg>
+
+vs.
+2. l_ref in the tg-element:
+
+         <tg xml:lang="nob">
+            <re>om to som hører sammen</re>
+            <t pos="cc">og</t>
+            <l_ref>jïh_cc</l_ref>
+            <xg>
+               <x>Manne aadtjegh aahka gon aajjan luvnie vearadamme.</x>
+               <xt>Jeg har nettopp vært hos bestemor og bestefar.</xt>
+            </xg>
+         </tg>
+
+ - constructing the single test file for this issue ==> todo
+
  ==> todo
  
- Det som er meint er ''unidireksjonal''.  Men dette har låg prioritet.
  
 
 
