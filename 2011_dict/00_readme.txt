@@ -92,7 +92,7 @@ neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
 
- ==> todo
+ ==> done and tested
 
 14) compile the Stardict version of the smanob
 
