@@ -88,8 +88,8 @@ neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
 
- ===> ask for clarification (the specification and the examples are contradictory,
-      add also the example from the dictionary)
+ ===> ask for clarification: done, it is about the presentation of analysis of a
+      specific word form; the miniparadigm should have only "perf." as label
 
 
 13) compile the Stardict version of the smanob
