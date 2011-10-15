@@ -60,6 +60,9 @@ Dermed vil man få fram en bedre logikk mellom de forskjellige variantene.
 Glemte en ting:
 
 11 --> 5) I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger.   Taggen skal være: perf.  og i parantes (lea)
+
+ ==> creating test files done
+
  ==> todo
 
 f.eks. vaedtsedh:
