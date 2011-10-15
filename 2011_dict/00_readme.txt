@@ -16,7 +16,12 @@ Issues to fix:
  ==> done
 
 4) Jeg ser også at l_ref ikke er implementert, men det er en helt ny feature. Vi kan ta det i smenobVD. Det er uansett ikke så mange av dem i smadict
+
+ ==> underspecification wrt. directionality: unidirectional or bidirectional?
+     if bidirectional, info in source files perhaps needed
  ==> todo
+
+
 
 5) te-elementene uten parantes, bare i italics
  ==> done
