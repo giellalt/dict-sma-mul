@@ -20,6 +20,9 @@ Issues to fix:
  ==> underspecification wrt. directionality: unidirectional or bidirectional?
      if bidirectional, info in source files perhaps needed
  ==> todo
+ 
+ Det som er meint er ''unidireksjonal''.  Men dette har låg prioritet.
+ 
 
 
 
