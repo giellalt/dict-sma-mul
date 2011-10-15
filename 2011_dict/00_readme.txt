@@ -87,3 +87,13 @@ Altså:
 neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
+
+ ===> ask for clarification (the specification and the examples are contradictory,
+      add also the example from the dictionary)
+
+
+13) compile the Stardict version of the smanob
+
+
+
+
