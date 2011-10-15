@@ -52,6 +52,8 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
  ==> done and tested
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
+ - constructing the single test file for this issue ==> todo
+
  ==> todo
 
 sortere ordformene i miniparadigmet alfabetisk
