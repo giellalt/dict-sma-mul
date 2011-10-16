@@ -47,7 +47,23 @@ vs.
             </xg>
          </tg>
 
- - constructing the single test file for this issue ==> todo (waiting for source file correction)
+ - constructing the single test file for this issue ==> done
+
+mellom lemma og Eksempler,  teksten 'Se også:' i italics, selve l_ref i normal med understrek for å vise at det er link.
+
+Eksempel:
+
+
+jallh
+
+konj.
+    eller
+
+Se også <underline>vuj</underline>
+
+Eksempler:
+jkljfkladsjdfklsjlkdsf
+
 
  ==> todo
  
