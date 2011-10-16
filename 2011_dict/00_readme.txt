@@ -65,7 +65,7 @@ Eksempler:
 jkljfkladsjdfklsjlkdsf
 
 
- ==> todo
+ ==> done and tested
  
  
 
