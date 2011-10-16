@@ -94,7 +94,7 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
  ==> done and tested
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
- ==> done and tested
+ ==> done and tested (check also the static files for this feature)
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
  - constructing the single test file for this issue ==> done
