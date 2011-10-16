@@ -94,7 +94,21 @@ Nei, ill er ikke implementert, det finnes ingen ill=. Det er kanskje illpl ment:
  ==> done and tested
 
 9 --> 3) verb - vi vil ha infinitivsmerket 'å' foran de norske oversettelsene, på samme måte som i smenob.
- ==> done and tested (check also the static files for this feature)
+ 
+==> check also the static files for this feature
+
+src>grep '<t ' vCop_stat_smanob.xml | sort | uniq -c 
+   8             <t pos="v">er</t>
+  18             <t pos="v">var</t>
+   8             <t pos="v">är</t>
+src>grep '<t ' v | sort | uniq -c 
+vCop_stat_smanob.xml  vNeg_stat_smanob.xml  v_smanob.xml          
+src>grep '<t ' vNeg_stat_smanob.xml | sort | uniq -c 
+  34             <t pos="adv">ikke</t>
+  34             <t pos="adv">inte</t>
+==> no need for it here
+
+ ==> done and tested
 
 10 --> 4) dette er en ny feature, bare hvis du har tid og det er enkelt å ordne:
  - constructing the single test file for this issue ==> done
