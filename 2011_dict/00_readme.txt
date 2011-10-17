@@ -168,9 +168,17 @@ ger. (lea) vaedtsieminie
  ==> done and tested
 
 14) compile the Stardict version of the smanob
-   ==> problems with compiling dict with the old tools on Snow Leopard
-   ==> debug it
+   ==> problems with compiling dict with the old tools on Snow Leopard?
+   
+   ==> debug it: done!
+The problem is now that Stardict doesn't like an extra dir within dic dir
+as before. That means all files should be in the dic dir without intermediate
+dirs.
 
- ==> todo
+ ==> first testing version done
+
+ Make the changes now implemented in Macdict.
+
+==> todo
 
 
