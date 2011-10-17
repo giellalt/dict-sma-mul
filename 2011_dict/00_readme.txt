@@ -3,6 +3,7 @@ resulted in empty generation for the lemmata listed in these files.
 Please check and if needed correct the fst and/or the source files.
 
 Alt er ok? Veldig <tysk bundeskanzlerin>ig!
+ ==> ikke lenge
 
 Issues to fix:
 
@@ -167,6 +168,8 @@ ger. (lea) vaedtsieminie
  ==> done and tested
 
 14) compile the Stardict version of the smanob
+   ==> problems with compiling dict with the old tools on Snow Leopard
+   ==> debug it
 
  ==> todo
 
