@@ -592,6 +592,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <l pos="pron" type="interr">magkarinie</l>
          <lemma_ref lemmaID="magkeres_pron_interr">magkeres</lemma_ref>
          <analysis>Pron_Interr_Ine_Attr</analysis>
+         <analysis>Pron_Interr_Sg_Com</analysis>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -599,6 +600,14 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <t pos="pron">i hva slags_SWE</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="pron">med hva slags</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="pron">med hva slags_SWE</t>
          </tg>
       </mg>
    </e>
@@ -614,21 +623,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <t pos="pron">av hva slags_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l nr="sg" pos="pron" type="interr">magkarinie</l>
-         <lemma_ref lemmaID="magkeres_pron_interr">magkeres</lemma_ref>
-         <analysis>Pron_Interr_Sg_Com</analysis>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="pron">med hva slags</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="pron">med hva slags_SWE</t>
          </tg>
       </mg>
    </e>
