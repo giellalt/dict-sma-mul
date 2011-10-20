@@ -189,16 +189,14 @@ Altså:
 neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
- ==> todo
+ ==> done and tested
 
  6sd. implement illpl="no" Den skal fungere på samm
 e måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
 <l illpl="no" margo="e" pos="n" soggi="ie" stem="3syll">jemhkelde</l>
+ ==> todo
 
-
- 7sd.
-
-
-==> todo
-
-
+ 7sd. VGen
+vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' som
+ tag istedenfor 'gen. v.'
+ ==> todo
