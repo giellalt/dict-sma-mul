@@ -180,7 +180,7 @@ Last minute wishes for StarDict:
 
  4sd. For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. 
 part.
- ==> 
+ ==> done and tested 
 
  5sd. Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i ger
 undium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
