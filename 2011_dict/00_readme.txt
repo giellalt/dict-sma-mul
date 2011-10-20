@@ -64,14 +64,8 @@ Se også <underline>vuj</underline>
 
 Eksempler:
 jkljfkladsjdfklsjlkdsf
-
-
  ==> done and tested
  
- 
-
-
-
 5) te-elementene uten parantes, bare i italics
  ==> done
 
@@ -155,16 +149,12 @@ verbgen. vaedtsien
  ===> ask for clarification: done, it is about the presentation of analysis of a
       specific word form; the miniparadigm should have only "perf." as label
 
-
-
 13 --> 6) Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i gerundium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
  
 Altså:
-
 neg. (ij) vaedtsieh
 perf.  (lea) vaadtseme
 ger. (lea) vaedtsieminie
-
  ==> done and tested
 
 14) compile the Stardict version of the smanob
@@ -177,7 +167,37 @@ dirs.
 
  ==> first testing version done
 
- Make the changes now implemented in Macdict.
+Last minute wishes for StarDict:
+ 1sd. infinitive å marking
+  ==> done and tested
+
+ 2sd. implement l_ref
+  ==> todo
+
+ 3sd. I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger
+.   Taggen skal være: perf.  og i parantes (lea)
+ ==> todo
+
+ 4sd. For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. 
+part.
+ ==> 
+
+ 5sd. Kanskje det heller ikke behøver å stå: (dïhte lea) vaedtsieminie i ger
+undium, bare: (lea) vaedtsieminie, dvs. samme som for perfektum.
+
+Altså:
+neg. (ij) vaedtsieh
+perf.  (lea) vaadtseme
+ger. (lea) vaedtsieminie
+ ==> todo
+
+ 6sd. implement illpl="no" Den skal fungere på samm
+e måte som i smenob - at den ikke tar med flertallsform i miniparadigmet.
+<l illpl="no" margo="e" pos="n" soggi="ie" stem="3syll">jemhkelde</l>
+
+
+ 7sd.
+
 
 ==> todo
 
