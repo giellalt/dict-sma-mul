@@ -172,11 +172,11 @@ Last minute wishes for StarDict:
   ==> done and tested
 
  2sd. implement l_ref
-  ==> todo
+  ==> done and tested
 
  3sd. I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger
 .   Taggen skal være: perf.  og i parantes (lea)
- ==> done
+ ==> done and tested
 
  4sd. For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. 
 part.
