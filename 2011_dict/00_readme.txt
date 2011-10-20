@@ -176,7 +176,7 @@ Last minute wishes for StarDict:
 
  3sd. I miniparadigmet for verb ønsker vi +PrfPrc med under neg, men før ger
 .   Taggen skal være: perf.  og i parantes (lea)
- ==> todo
+ ==> done
 
  4sd. For PrfPrc ønsker vi ellers å endre tagen fra part. perf.   til perf. 
 part.
