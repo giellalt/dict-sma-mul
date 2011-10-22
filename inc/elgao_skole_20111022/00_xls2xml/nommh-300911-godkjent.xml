@@ -1,0 +1,880 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Bruker</Author>
+  <LastAuthor>Ciprian Gerstenberger</LastAuthor>
+  <Created>2010-02-03T12:37:21Z</Created>
+  <LastSaved>2011-09-30T13:01:18Z</LastSaved>
+  <Company>HP</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <DOKID dt:dt="float">309250</DOKID>
+  <JPID dt:dt="float">2011006844</JPID>
+  <VARIANT dt:dt="string">P</VARIANT>
+  <VERSJON dt:dt="float">1</VERSJON>
+  <SERVER dt:dt="string">db</SERVER>
+  <DATABASE dt:dt="string">websak</DATABASE>
+  <BRUKERID dt:dt="string">1124</BRUKERID>
+  <VM_STATUS dt:dt="string">R</VM_STATUS>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#9999FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#993366</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFCC</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#CCFFFF</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#660066</RGB>
+   </Color>
+   <Color>
+    <Index>21</Index>
+    <RGB>#FF8080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0066CC</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#CCCCFF</RGB>
+   </Color>
+   <Color>
+    <Index>24</Index>
+    <RGB>#000080</RGB>
+   </Color>
+   <Color>
+    <Index>25</Index>
+    <RGB>#FF00FF</RGB>
+   </Color>
+   <Color>
+    <Index>26</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>27</Index>
+    <RGB>#00FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>28</Index>
+    <RGB>#800080</RGB>
+   </Color>
+   <Color>
+    <Index>29</Index>
+    <RGB>#800000</RGB>
+   </Color>
+   <Color>
+    <Index>30</Index>
+    <RGB>#008080</RGB>
+   </Color>
+   <Color>
+    <Index>31</Index>
+    <RGB>#0000FF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16960</WindowHeight>
+  <WindowWidth>26640</WindowWidth>
+  <WindowTopX>1000</WindowTopX>
+  <WindowTopY>520</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Ark1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark1!R1C1:R1C13"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="73" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s64" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="89.0" ss:Span="1"/>
+   <Column ss:Index="3" ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="51.0"/>
+   <Column ss:StyleID="s64" ss:Width="147.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="186.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="75.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="96.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="151.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="108.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="131.0"/>
+   <Row ss:Height="48.0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Åarjelsaemien gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoe-tjïerhte</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen syjjehtimmie, nom. jïh ill.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen definisjovne saemien gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen definisjovne daaroen gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen gaaltije</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Lahtestimmie</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">gujnesjupmele</Data></Cell>
+    <Cell><Data ss:Type="String">gudinne</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">gujnesjupmele,    gujnesjupmielasse</Data></Cell>
+    <Cell><Data ss:Type="String">Jupmele mij gujne</Data></Cell>
+    <Cell><Data ss:Type="String">kvinnlig gud</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">kejser</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">keejsere, keejserasse</Data></Cell>
+    <Cell><Data ss:Type="String">Akte mij laantem reerie. Seamma goh gånka.</Data></Cell>
+    <Cell><Data ss:Type="String">En som styr ett land, motsvarende konge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">staalehke</Data></Cell>
+    <Cell><Data ss:Type="String">helt/heltinne</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">staalehke, staalehkasse</Data></Cell>
+    <Cell><Data ss:Type="String">Almetje mij lea staalehke</Data></Cell>
+    <Cell><Data ss:Type="String">En person som er modig</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">arkitekte</Data></Cell>
+    <Cell><Data ss:Type="String">arkitekt</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">arkitekte, arkitektese</Data></Cell>
+    <Cell><Data ss:Type="String">Akte mij bïgkemh tjaalehtje   </Data></Cell>
+    <Cell><Data ss:Type="String">En person som tegner byggverk.</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Faraove</Data></Cell>
+    <Cell><Data ss:Type="String">farao</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Faraove, Faraovese</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ra</Data></Cell>
+    <Cell><Data ss:Type="String">Ra</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ra, Raese</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Osirise</Data></Cell>
+    <Cell><Data ss:Type="String">Osiris</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Osirise, Osirisasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Anubise</Data></Cell>
+    <Cell><Data ss:Type="String">Anubis</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Anubise, Anubisasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Apise</Data></Cell>
+    <Cell><Data ss:Type="String">Apis</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Apise, Apisasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Isise</Data></Cell>
+    <Cell><Data ss:Type="String">Isis</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Isise, Isisasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Hathore</Data></Cell>
+    <Cell><Data ss:Type="String">Hathor</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hathore, Hathorese</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten Jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ramsese 2.</Data></Cell>
+    <Cell><Data ss:Type="String">Ramses</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ramsese 2.,      Ramsesasse 2.</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte nubpie Ramsese, Dan nubpien Ramsesasse</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Tutankhamone</Data></Cell>
+    <Cell><Data ss:Type="String">Tutankhamon</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Tutankhamone, Tutankhamonasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Gilgamesje</Data></Cell>
+    <Cell><Data ss:Type="String">Gilgamesj</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Gilgamesje, Gilgamesjese</Data></Cell>
+    <Cell><Data ss:Type="String">Uruken gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Uruk</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ishtare </Data></Cell>
+    <Cell><Data ss:Type="String">Ishtar</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ishtare, Ishtarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Babylonen gujnesjupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gudinne i Babylon</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Semiramise</Data></Cell>
+    <Cell><Data ss:Type="String">Semiramis</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Semiramise, Semiramisasse</Data></Cell>
+    <Cell><Data ss:Type="String">Babylonen trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning i Babylon</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ptolemajose</Data></Cell>
+    <Cell><Data ss:Type="String">Ptolemaios</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ptolemajose, Ptolemajosasse</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten faraove</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Afrodite</Data></Cell>
+    <Cell><Data ss:Type="String">Afrodite</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Afrodite, Afroditese</Data></Cell>
+    <Cell><Data ss:Type="String">Hellasen gujnesjupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gudinne i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Akillese</Data></Cell>
+    <Cell><Data ss:Type="String">Akilles</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Akillese, Akillesasse</Data></Cell>
+    <Cell><Data ss:Type="String">Dåaroenïere Hellasistie</Data></Cell>
+    <Cell><Data ss:Type="String">Hellenistisk kriger</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Homere</Data></Cell>
+    <Cell><Data ss:Type="String">Homer</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Homere, Homerasse</Data></Cell>
+    <Cell><Data ss:Type="String">Tjihtese-tjaelije Hellasistie</Data></Cell>
+    <Cell><Data ss:Type="String">Dikter i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Sokratese</Data></Cell>
+    <Cell><Data ss:Type="String">Sokrates</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Sokratese, Sokratesasse</Data></Cell>
+    <Cell><Data ss:Type="String">Filosofe Hellasistie</Data></Cell>
+    <Cell><Data ss:Type="String">Filosof i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Zeuse</Data></Cell>
+    <Cell><Data ss:Type="String">Zeus</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Zeuse, Zeusese</Data></Cell>
+    <Cell><Data ss:Type="String">Hellasen jupmele</Data></Cell>
+    <Cell><Data ss:Type="String">Gud i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Stoerre Aleksandere</Data></Cell>
+    <Cell><Data ss:Type="String">Aleksander den store</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Stoere Aleksandere, Stoere Aleksanderasse</Data></Cell>
+    <Cell><Data ss:Type="String">Makedonijen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Makedonia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte stoerre Aleksandere, Dan stoerre Aleksanderasse</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Julius Cesare</Data></Cell>
+    <Cell><Data ss:Type="String">Julius Cesar</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Julius Cesare,             Julius Cesarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">Kejsere i Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Augustuse</Data></Cell>
+    <Cell><Data ss:Type="String">Augustus</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Augustuse, Augustusasse</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">Kejsere i Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Oktaviane</Data></Cell>
+    <Cell><Data ss:Type="String">Oktavian</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Oktaviane, Oktavianese</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">Kejsere i Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Kleopatra</Data></Cell>
+    <Cell><Data ss:Type="String">Kleopatra</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Kleopatra, Kleopatrese</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Nero</Data></Cell>
+    <Cell><Data ss:Type="String">Nero</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Nero, Nerose</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">Kejser i Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Agrippina</Data></Cell>
+    <Cell><Data ss:Type="String">Agrippina</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Agrippina, Agrippinese</Data></Cell>
+    <Cell><Data ss:Type="String">Keejsere Neroen ietnie</Data></Cell>
+    <Cell><Data ss:Type="String">Kejser Neros mor</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Konstantine</Data></Cell>
+    <Cell><Data ss:Type="String">Konstantin</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Konstantine, Konstantinese</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken keejsere</Data></Cell>
+    <Cell><Data ss:Type="String">Kejsere i Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Gregore 7.</Data></Cell>
+    <Cell><Data ss:Type="String">Gregor 7</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Gregore 7. Gregorasse 7.</Data></Cell>
+    <Cell><Data ss:Type="String">Pave</Data></Cell>
+    <Cell><Data ss:Type="String">Pave</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte tjïhtjede Gregore, Dan tjïhtjeden Gregorasse</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Henrike 4.</Data></Cell>
+    <Cell><Data ss:Type="String">Henrik 4</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Henrike 4. Henrikasse 4.</Data></Cell>
+    <Cell><Data ss:Type="String">Tysklaanten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Tyskland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte njealjede Henrike, Dan njealjeden Henrikasse</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Jeanne d'Arce</Data></Cell>
+    <Cell><Data ss:Type="String">Jeanne d'Arc</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Jeanne d'Arce,            Jeanne d'Arcese</Data></Cell>
+    <Cell><Data ss:Type="String">Staalehke Frankrijhkeste</Data></Cell>
+    <Cell><Data ss:Type="String">Heltinne fra Frankrike</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Hildegarde Bingenistie (1098-1179)</Data></Cell>
+    <Cell><Data ss:Type="String">Hildegard fra Bingen</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hildegarde Bingenistie (1098-1179) Bingenen Hildegardese</Data></Cell>
+    <Cell><Data ss:Type="String">Tjihtese-tjaelije jïh kompositöre Tysklaanteste</Data></Cell>
+    <Cell><Data ss:Type="String">Dikter og kompositør fra Tyskland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Snorre Sturlasone</Data></Cell>
+    <Cell><Data ss:Type="String">Snorre Sturlason</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Snorre Sturlasone,      Snorre Sturlasonese</Data></Cell>
+    <Cell><Data ss:Type="String">Heimskringlan almetje</Data></Cell>
+    <Cell><Data ss:Type="String">Person fra den Islandske sagaen</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Tjeehpes Halvane</Data></Cell>
+    <Cell><Data ss:Type="String">Halvdan den svarte</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Tjeehpes Halvdane, Tjeehpes Halvdanese</Data></Cell>
+    <Cell><Data ss:Type="String">Östlaanten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge på Østlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Trööhnege Ragnhilde</Data></Cell>
+    <Cell><Data ss:Type="String">Ragnhild</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Trööhnege Ragnhilde, Trööhnege Ragnhildese</Data></Cell>
+    <Cell><Data ss:Type="String">Östlaanten trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning på Østlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Trööhnege Gyda</Data></Cell>
+    <Cell><Data ss:Type="String">Gyda</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Trööhnege Gyda, Trööhnege Gydese</Data></Cell>
+    <Cell><Data ss:Type="String">Östlaanten trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning på Østlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Harald Hårfagre</Data></Cell>
+    <Cell><Data ss:Type="String">Harald Hårfagre</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Harald Hårfagre, Harald Hårfagrese</Data></Cell>
+    <Cell><Data ss:Type="String">Östlaanten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge på Østlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Aejlies Olave</Data></Cell>
+    <Cell><Data ss:Type="String">Olav den hellige</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Aejlies Olave, Aejlies Olavasse</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Eirik Blodøkse</Data></Cell>
+    <Cell><Data ss:Type="String">Eirik Blodøks</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Eirik Blodøkse,                Eirik Blodøksese</Data></Cell>
+    <Cell><Data ss:Type="String">Nordimbralaanten gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Nordimbraland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Sigurd Jorsalfare</Data></Cell>
+    <Cell><Data ss:Type="String">Sigurd Jorsalfare</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Sigurd Jorsalfare,             Sigurd Jorsalfarese</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Kublai Khane</Data></Cell>
+    <Cell><Data ss:Type="String">Kublai Khan</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Kublai Khane,               Kublai Khanese</Data></Cell>
+    <Cell><Data ss:Type="String">Kinan gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Kina</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Martin Luthere</Data></Cell>
+    <Cell><Data ss:Type="String">Martin Luther</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Martin Luthere,           Martin Lutherasse</Data></Cell>
+    <Cell><Data ss:Type="String">Hearra Tysklaanteste</Data></Cell>
+    <Cell><Data ss:Type="String">Prest fra Tyskland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Elisabete I.</Data></Cell>
+    <Cell><Data ss:Type="String">Elisabet I</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Elisabete 1. Elisabetese 1</Data></Cell>
+    <Cell><Data ss:Type="String">Englaanten trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning i England</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte voestes Elisabete, Dan voestes Elisabetese</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ludvige 14.</Data></Cell>
+    <Cell><Data ss:Type="String">Ludvig 14</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ludvige 14. Ludvigasse 14.</Data></Cell>
+    <Cell><Data ss:Type="String">Frankrijhken gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Frankrike</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte luhkie-njealjede Ludvige, Dan luhkie-njealjeden Ludvigasse.</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Voltaire</Data></Cell>
+    <Cell><Data ss:Type="String">Voltaire</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Voltaire, Voltairese</Data></Cell>
+    <Cell><Data ss:Type="String">Filosofe Frankrijhkeste</Data></Cell>
+    <Cell><Data ss:Type="String">Filosof fram Frankrike</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Trööhnege Margarete</Data></Cell>
+    <Cell><Data ss:Type="String">Margarete</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Trööhnege Margarete,       Trööhnege Margaretese</Data></Cell>
+    <Cell><Data ss:Type="String">Unijonen trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Unionsdronning</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Valdemar Atterdage</Data></Cell>
+    <Cell><Data ss:Type="String">Valdemar Atterdag</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Valdemar Atterdage,        Valdemar Atterdagese</Data></Cell>
+    <Cell><Data ss:Type="String">Danmaarhken gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Danmark</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Håkone 6.</Data></Cell>
+    <Cell><Data ss:Type="String">Håkon 6</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Håkone 6.            Håkonasse 6.</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte govhtede Håkone, Dan govhteden Håkonasse</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Erike Pommeristie</Data></Cell>
+    <Cell><Data ss:Type="String">Erik av Pommern</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Erike Pommeristie, Pommeren Erikasse</Data></Cell>
+    <Cell><Data ss:Type="String">Unijonen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Unionskonge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Kristian 3.</Data></Cell>
+    <Cell><Data ss:Type="String">Kristian 3.</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Kristian 3. Kristianese 3.</Data></Cell>
+    <Cell><Data ss:Type="String">Danmaarhken gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Danmark</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte gåalmede Kristiane, Dan gåalmeden Kristianese</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Lorenzo de Medici</Data></Cell>
+    <Cell><Data ss:Type="String">Lorenzo de Medici</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Lorenzo de Medici, Lorenzo de Mediciese</Data></Cell>
+    <Cell><Data ss:Type="String">Ræjkoes fuelhkie Firensesne</Data></Cell>
+    <Cell><Data ss:Type="String">Rik slekt i Firense</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Hatshepsute</Data></Cell>
+    <Cell><Data ss:Type="String">Hatshepsut</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hatshepsute, Hatshepsutese</Data></Cell>
+    <Cell><Data ss:Type="String">Egypten gujnes-faraove</Data></Cell>
+    <Cell><Data ss:Type="String">Kvinnlig farao i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Faavroes Helena</Data></Cell>
+    <Cell><Data ss:Type="String">Helena</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Faavroes Helena, Faavroes Helenese</Data></Cell>
+    <Cell><Data ss:Type="String">Spartan trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning i Sparta</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Remuse</Data></Cell>
+    <Cell><Data ss:Type="String">Remus</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Remuse, Remusasse</Data></Cell>
+    <Cell><Data ss:Type="String">Romerrijhken vaajesen almetje</Data></Cell>
+    <Cell><Data ss:Type="String">Sagnperson fra Romerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Livia</Data></Cell>
+    <Cell><Data ss:Type="String">Livia</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Livia, Liviasse</Data></Cell>
+    <Cell><Data ss:Type="String">Keejsere Augustusen gåmma</Data></Cell>
+    <Cell><Data ss:Type="String">Hustru til kejser Augustus</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Herodote</Data></Cell>
+    <Cell><Data ss:Type="String">Herodot</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Herodote, Herodotese</Data></Cell>
+    <Cell><Data ss:Type="String">Historihkere Hellasistie</Data></Cell>
+    <Cell><Data ss:Type="String">Historiker fra Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Stoerre Karle</Data></Cell>
+    <Cell><Data ss:Type="String">Karl den store</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Stoerre Karle, Stoerre Karlese</Data></Cell>
+    <Cell><Data ss:Type="String">Frankerrijhken gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge fra Frankerriket</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Harald Hardråde</Data></Cell>
+    <Cell><Data ss:Type="String">Harald Hardråde</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Harald Hardråde, Harald Hardrådese</Data></Cell>
+    <Cell><Data ss:Type="String">Dåaroenïere Nöörjeste</Data></Cell>
+    <Cell><Data ss:Type="String">Kriger fra Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Gånka Sverre</Data></Cell>
+    <Cell><Data ss:Type="String">Sverre</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Gånka Sverre; Gånka Sverrese</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gånka Gaskeaalteren</Data></Cell>
+    <Cell><Data ss:Type="String">Norsk konge under Middelalderen</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Gånka Magnuse</Data></Cell>
+    <Cell><Data ss:Type="String">Magnus</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Gånka Magnuse, gånka Magnusasse</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gånka Gaskeaalteren</Data></Cell>
+    <Cell><Data ss:Type="String">Norsk konge under Middelalderen</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Ferdinande</Data></Cell>
+    <Cell><Data ss:Type="String">Ferdinand</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ferdinande, Ferdinandese</Data></Cell>
+    <Cell><Data ss:Type="String">Portugalen gånka</Data></Cell>
+    <Cell><Data ss:Type="String">Konge i Portugal</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Isabella</Data></Cell>
+    <Cell><Data ss:Type="String">Isabella</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Isabella, Isabellese</Data></Cell>
+    <Cell><Data ss:Type="String">Portugalen trööhnege</Data></Cell>
+    <Cell><Data ss:Type="String">Dronning i Portugal</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell><Data ss:Type="String">Johan Gutenberge</Data></Cell>
+    <Cell><Data ss:Type="String">Gutenberg</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Johan Gutenberge, Johan Gutenbergese</Data></Cell>
+    <Cell><Data ss:Type="String">Tjiehpiedæjja Tysklaanteste</Data></Cell>
+    <Cell><Data ss:Type="String">Kunstner fra Tyskland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s66" ss:Span="6"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>120</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C13"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="Ark2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="69.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="69.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark4">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

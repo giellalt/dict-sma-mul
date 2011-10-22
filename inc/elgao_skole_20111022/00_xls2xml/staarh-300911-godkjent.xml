@@ -1,0 +1,734 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Språk Elgå</Author>
+  <LastAuthor>Ciprian Gerstenberger</LastAuthor>
+  <Created>2009-08-14T13:50:00Z</Created>
+  <LastSaved>2011-09-30T13:05:27Z</LastSaved>
+  <Company>ASP</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <DOKID dt:dt="float">309249</DOKID>
+  <JPID dt:dt="float">2011006844</JPID>
+  <VARIANT dt:dt="string">P</VARIANT>
+  <VERSJON dt:dt="float">1</VERSJON>
+  <SERVER dt:dt="string">db</SERVER>
+  <DATABASE dt:dt="string">websak</DATABASE>
+  <BRUKERID dt:dt="string">1124</BRUKERID>
+  <VM_STATUS dt:dt="string">R</VM_STATUS>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#9999FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#993366</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFCC</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#CCFFFF</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#660066</RGB>
+   </Color>
+   <Color>
+    <Index>21</Index>
+    <RGB>#FF8080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0066CC</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#CCCCFF</RGB>
+   </Color>
+   <Color>
+    <Index>24</Index>
+    <RGB>#000080</RGB>
+   </Color>
+   <Color>
+    <Index>25</Index>
+    <RGB>#FF00FF</RGB>
+   </Color>
+   <Color>
+    <Index>26</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>27</Index>
+    <RGB>#00FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>28</Index>
+    <RGB>#800080</RGB>
+   </Color>
+   <Color>
+    <Index>29</Index>
+    <RGB>#800000</RGB>
+   </Color>
+   <Color>
+    <Index>30</Index>
+    <RGB>#008080</RGB>
+   </Color>
+   <Color>
+    <Index>31</Index>
+    <RGB>#0000FF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13940</WindowHeight>
+  <WindowWidth>22320</WindowWidth>
+  <WindowTopX>-20</WindowTopX>
+  <WindowTopY>-20</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Ark1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark1!R1C1:R1C13"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="63609" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s66" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="141.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="104.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="47.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="177.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="158.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="141.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="82.0"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="91.0"/>
+   <Row ss:Height="24.0" ss:StyleID="s65">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Åarjelsaemien gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Baakoe-tjïerhte</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Baakoen syjjehtimmie, nom. jïh ill.</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Baakoen definisjovne saemien gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Baakoen definisjovne daaroen gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Baakoen gaaltije</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Lahtestimmie</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Luxore</Data></Cell>
+    <Cell><Data ss:Type="String">Luxor</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Luxore, Luxorasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Egyptesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ure</Data></Cell>
+    <Cell><Data ss:Type="String">Ur</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Ure, Urese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Sumerisnie</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Sumer</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Uruke</Data></Cell>
+    <Cell><Data ss:Type="String">Uruk</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Uruke, Urukese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Mesopotamijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Aswane</Data></Cell>
+    <Cell><Data ss:Type="String">Aswan</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Aswane, Aswanese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Egyptesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Athene</Data></Cell>
+    <Cell><Data ss:Type="String">Athene</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Athene, Athenese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Hellasisnie</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kairo</Data></Cell>
+    <Cell><Data ss:Type="String">Kairo</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Kairo, Kairose</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Egyptesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Roma, Rome</Data></Cell>
+    <Cell><Data ss:Type="String">Roma</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Roma, Romese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Italijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Italia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pompeji</Data></Cell>
+    <Cell><Data ss:Type="String">Pompeji</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Pompeji, Pompejese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Italijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Italia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Jerusaleme</Data></Cell>
+    <Cell><Data ss:Type="String">Jerusalem</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Jerusaleme, Jerusalemese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Israelesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Israel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Firenze, Florense</Data></Cell>
+    <Cell><Data ss:Type="String">Firenze</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Firenze,Firenzese; Florense, Florensese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Italijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Italia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cordoba</Data></Cell>
+    <Cell><Data ss:Type="String">Córdoba</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Cordoba, Cordobese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Spanijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Spania</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Alhambra</Data></Cell>
+    <Cell><Data ss:Type="String">Alhambra</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Alhambra, Alhambrese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Spanijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Spania</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lindisfarne</Data></Cell>
+    <Cell><Data ss:Type="String">Lindisfarne</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Lindisfarne, Lindisfarnese</Data></Cell>
+    <Cell><Data ss:Type="String">Klostere Englaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">Kloster i England</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Istanbule</Data></Cell>
+    <Cell><Data ss:Type="String">Istanbul</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Istanbule, Istanbulese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Tyrkijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Tyrkia</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bifroste</Data></Cell>
+    <Cell><Data ss:Type="String">Bifrost</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Bifroste, Bifrostese</Data></Cell>
+    <Cell><Data ss:Type="String">Vikingaalteren pruvvie</Data></Cell>
+    <Cell><Data ss:Type="String">Bru fra Vikingtida</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Rouene</Data></Cell>
+    <Cell><Data ss:Type="String">Rouen</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Rouene, Rouenasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Frankrijhkesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Frankrike</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Londone</Data></Cell>
+    <Cell><Data ss:Type="String">London</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Londone, Londonasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Englaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i England</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Yorke</Data></Cell>
+    <Cell><Data ss:Type="String">York</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Yorke, Yorkese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Englaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i England</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Dubline</Data></Cell>
+    <Cell><Data ss:Type="String">Dublin</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Dubline, Dublinasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Irlaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Irland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Calicute</Data></Cell>
+    <Cell><Data ss:Type="String">Calicut</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Calicute, Calicutese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Indijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i India</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Palose</Data></Cell>
+    <Cell><Data ss:Type="String">Palos</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Palose, Palosasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Hellasisnie</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Hellas</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Lisboa, Lissabone</Data></Cell>
+    <Cell><Data ss:Type="String">Lisboa</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Lisboa, Lisboese, Lissabone, Lissabonese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Portugalesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Portugal</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Bergene</Data></Cell>
+    <Cell><Data ss:Type="String">Bergen</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Bergene, Bergenasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trankebare</Data></Cell>
+    <Cell><Data ss:Type="String">Trankebar</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Trankebare, Trankebarese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Indijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i India</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Teherane</Data></Cell>
+    <Cell><Data ss:Type="String">Teheran</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Teherane, Teheranese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Iranesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Iran</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sarajevo</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sarajevo</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Sarajevo, Sarajevose</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Bosnia-Hercegovijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Bosnia-Hercegovina</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stavangere</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Stavanger</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Stavangere, Stavangerasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Lillehammere</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Lillehammer</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Lillehammere, Lillehammerasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Drammene</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Drammen</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Drammene, Drammenasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Skjåke</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Skjåk</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Skjåke, Skjåkese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Haldene</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Halden</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Haldene, Haldenasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mosse</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Moss</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Mosse, Mossese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Askime</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Askim</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Askime, Askimasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kongsvingere</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Kongsvinger</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Kongsvingere, Kongsvingerasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Elverume</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Elverum</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Elverume, Elverumese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Hamare</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Hamar</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hamare, Hamarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Hortene</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Horten</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hortene, Hortenasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Skiene</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Skien</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Skiene, Skienasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nuuke</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nuuk</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Nuuke, Nuukese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Kruanalaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted på Grønnland</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tokyo</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tokyo</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Tokyo, Tokyose</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Japanesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Japan</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Seoule</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Seoul</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Seoule, Seoulese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Åarjel-Koreesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Sør-Korea</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sanghai</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sanghai</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Sanghai, Sanghaiese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Kinesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Kina</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Hongkonge</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Honkong</Data></Cell>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Hongkonge, Hongkongese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Kinesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Kina</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Giza</Data></Cell>
+    <Cell><Data ss:Type="String">Giza</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Giza, Gizese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Egyptesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Egypt</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Herculaneume</Data></Cell>
+    <Cell><Data ss:Type="String">Herculaneum</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Herculaneume, Herculaneumasse</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Romerrijhkesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Romerriket</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Siena</Data></Cell>
+    <Cell><Data ss:Type="String">Siena</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Siena, Sienese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Italijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Italia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Nidarose</Data></Cell>
+    <Cell><Data ss:Type="String">Nidaros</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Nidarose, Nidarosese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Nöörjesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Norge</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Lübecke</Data></Cell>
+    <Cell><Data ss:Type="String">Lübeck</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Lübecke, Lïbeckese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Tysklaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Tyskland</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Brügge</Data></Cell>
+    <Cell><Data ss:Type="String">Brügge</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Brügge, Brüggese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Belgijesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Belgia</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67">
+    <Cell><Data ss:Type="String">Novgorode</Data></Cell>
+    <Cell><Data ss:Type="String">Novgorod</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">Novorode, Novgorodese</Data></Cell>
+    <Cell><Data ss:Type="String">Staare Rysslaantesne</Data></Cell>
+    <Cell><Data ss:Type="String">sted i Russland</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s66"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s67" ss:Span="63557"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>110</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C13"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="Ark2">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark2!#REF!" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="69.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>32</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="69.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <TopRowVisible>180</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>180</ActiveRow>
+     <RangeSelection>R1:R1048576</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

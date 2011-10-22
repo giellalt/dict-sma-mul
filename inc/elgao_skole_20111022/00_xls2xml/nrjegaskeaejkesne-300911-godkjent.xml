@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Bruker</Author>
+  <LastAuthor>Ciprian Gerstenberger</LastAuthor>
+  <Created>2010-04-17T13:21:54Z</Created>
+  <LastSaved>2011-09-30T13:13:13Z</LastSaved>
+  <Company>HP</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <DOKID dt:dt="float">322525</DOKID>
+  <JPID dt:dt="float">2011014056</JPID>
+  <VARIANT dt:dt="string">P</VARIANT>
+  <VERSJON dt:dt="float">1</VERSJON>
+  <SERVER dt:dt="string">db</SERVER>
+  <DATABASE dt:dt="string">websak</DATABASE>
+  <BRUKERID dt:dt="string">1124</BRUKERID>
+  <VM_STATUS dt:dt="string">R</VM_STATUS>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#9999FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#993366</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFCC</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#CCFFFF</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#660066</RGB>
+   </Color>
+   <Color>
+    <Index>21</Index>
+    <RGB>#FF8080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0066CC</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#CCCCFF</RGB>
+   </Color>
+   <Color>
+    <Index>24</Index>
+    <RGB>#000080</RGB>
+   </Color>
+   <Color>
+    <Index>25</Index>
+    <RGB>#FF00FF</RGB>
+   </Color>
+   <Color>
+    <Index>26</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>27</Index>
+    <RGB>#00FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>28</Index>
+    <RGB>#800080</RGB>
+   </Color>
+   <Color>
+    <Index>29</Index>
+    <RGB>#800000</RGB>
+   </Color>
+   <Color>
+    <Index>30</Index>
+    <RGB>#008080</RGB>
+   </Color>
+   <Color>
+    <Index>31</Index>
+    <RGB>#0000FF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15600</WindowHeight>
+  <WindowWidth>25320</WindowWidth>
+  <WindowTopX>620</WindowTopX>
+  <WindowTopY>520</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Ark1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark1!R1C1:R1C15"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="28" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s69" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="60.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="74.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="54.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="106.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="93.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="94.0" ss:Span="1"/>
+   <Column ss:Index="8" ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="213.0"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="185.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="94.0" ss:Span="1"/>
+   <Column ss:Index="12" ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="78.0"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0" ss:Width="80.0"/>
+   <Row ss:Height="48.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Midgard</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kapittel</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">side</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Åarjelsaemien gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Svöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Synonyjme</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Åarjel-saemien jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daaroen jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoe-tjïerte</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen syjjehtimmie</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen definisjovne saemien gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen definisjovne daaroen gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen gaaltije</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 121</Data></Cell>
+    <Cell><Data ss:Type="String">aareh gaske-aaltere</Data></Cell>
+    <Cell><Data ss:Type="String">tidlig middelalder</Data></Cell>
+    <Cell><Data ss:Type="String">tidig medeltid</Data></Cell>
+    <Cell><Data ss:Type="String">aareh gaske-tïjje, aareh gaske-aejkie</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gaske-aalterem juekebe aareh gaske-aaltarasse, stoerre gaske-aaltarasse jïh minngie gaske-aaltarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge deler vi i tidlig middelalder, høymiddelalder og seinmiddelalder.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 121</Data></Cell>
+    <Cell><Data ss:Type="String">stoerre gaske-aaltere</Data></Cell>
+    <Cell><Data ss:Type="String">høymiddelalder</Data></Cell>
+    <Cell><Data ss:Type="String">högmedelålder</Data></Cell>
+    <Cell><Data ss:Type="String">stoerre gaske-tïjje, stoerre gaske-aejkie</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gaske-aalterem juekebe aareh gaske-aaltarasse, stoerre gaske-aaltarasse jïh minngie gaske-aaltarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge deler vi i tidlig middelalder, høymiddelalder og seinmiddelalder.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 121</Data></Cell>
+    <Cell><Data ss:Type="String">minngie gaske-aaltere </Data></Cell>
+    <Cell><Data ss:Type="String">seinmiddelalder</Data></Cell>
+    <Cell><Data ss:Type="String">sen medelålder</Data></Cell>
+    <Cell><Data ss:Type="String">minngie gaske-tïjje, minngie gaske-aejkie</Data></Cell>
+    <Cell><Data ss:Type="String">Nöörjen gaske-aalterem juekebe aareh gaske-aaltarasse, stoerre gaske-aaltarasse jïh minngie gaske-aaltarasse</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge deler vi i tidlig middelalder, høymiddelalder og seinmiddelalder.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 122</Data></Cell>
+    <Cell><Data ss:Type="String">maales-gåetie</Data></Cell>
+    <Cell><Data ss:Type="String">skytningsstue</Data></Cell>
+    <Cell><Data ss:Type="String">uppehållsrum för måltider på en medeltida gård</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Mijjieh maales-gåetsesne byöpmedibie.</Data></Cell>
+    <Cell><Data ss:Type="String">Vi spiser i sytningsstuen.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv maales + gåetie</Data></Cell>
+    <Cell><Data ss:Type="String">maales-gåetie, maales-gåatan</Data></Cell>
+    <Cell><Data ss:Type="String">savka gusnie almetjh tjåanghkenin</Data></Cell>
+    <Cell><Data ss:Type="String">et felles oppholdsrom</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 122</Data></Cell>
+    <Cell><Data ss:Type="String">aajtoe-gåetie</Data></Cell>
+    <Cell><Data ss:Type="String">eldhus</Data></Cell>
+    <Cell><Data ss:Type="String">eldhus</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Aajtoe-gåetesne beapmoeh jurjehte.</Data></Cell>
+    <Cell><Data ss:Type="String">I eldhuset lager man mat.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av aajtoe + gåetie</Data></Cell>
+    <Cell><Data ss:Type="String">aajtoe-gåetie, aajtoe-gåatan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 122</Data></Cell>
+    <Cell><Data ss:Type="String">aarkebiejjien-jielede</Data></Cell>
+    <Cell><Data ss:Type="String">dagligliv</Data></Cell>
+    <Cell><Data ss:Type="String">vardagsliv</Data></Cell>
+    <Cell><Data ss:Type="String">arhkebiejjien-jieleme</Data></Cell>
+    <Cell><Data ss:Type="String">Aarkebiejjien-jielede staarine.</Data></Cell>
+    <Cell><Data ss:Type="String">Dagligliv i byene.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av aarkebiejjien + jielede</Data></Cell>
+    <Cell><Data ss:Type="String">aarkebiejjien-jielede, aarkebiejjien-jieliedasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 122</Data></Cell>
+    <Cell><Data ss:Type="String">våarhkoe</Data></Cell>
+    <Cell><Data ss:Type="String">lagerrom</Data></Cell>
+    <Cell><Data ss:Type="String">lager</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Desnie stoerre våarhkoeh utnieh.</Data></Cell>
+    <Cell><Data ss:Type="String">Der har de store lagerrom.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">våarhkoe, våarhkose</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 123</Data></Cell>
+    <Cell><Data ss:Type="String">baltihken</Data></Cell>
+    <Cell><Data ss:Type="String">baltisk</Data></Cell>
+    <Cell><Data ss:Type="String">baltisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Desnie stoerre våarhkoeh utnieh.</Data></Cell>
+    <Cell><Data ss:Type="String">Der har de store lagerrom.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv av Baltikume</Data></Cell>
+    <Cell><Data ss:Type="String">baltihken</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 124</Data></Cell>
+    <Cell><Data ss:Type="String">laanteburrie-laante</Data></Cell>
+    <Cell><Data ss:Type="String">jordbruksland</Data></Cell>
+    <Cell><Data ss:Type="String">jordbruksland</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Gaajhkh laanteburrie-laanth lin sjïdtedahteme.</Data></Cell>
+    <Cell><Data ss:Type="String">Alt jordbruksland var blitt ryddet.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av laanteburrie + laante</Data></Cell>
+    <Cell><Data ss:Type="String">laanteburrie-laante, laanteburrie-laantese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 127</Data></Cell>
+    <Cell><Data ss:Type="String">hirde</Data></Cell>
+    <Cell><Data ss:Type="String">hird</Data></Cell>
+    <Cell><Data ss:Type="String">hird</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Gånkan viehkiehtæjjah.</Data></Cell>
+    <Cell><Data ss:Type="String">Kongens hjelpere</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">hirde, hirdese</Data></Cell>
+    <Cell><Data ss:Type="String">hirde - gånkan viehkiehtæjjah</Data></Cell>
+    <Cell><Data ss:Type="String">hirden - kongens hjelpere</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 127</Data></Cell>
+    <Cell><Data ss:Type="String">hïegken-vaeptie</Data></Cell>
+    <Cell><Data ss:Type="String">livvakt</Data></Cell>
+    <Cell><Data ss:Type="String">livvakt</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah lin gånkan hïegken-vaeptieh.</Data></Cell>
+    <Cell><Data ss:Type="String">De var kongens livvakter.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av hïegken + vaeptie</Data></Cell>
+    <Cell><Data ss:Type="String">hïegken-vaeptie, hïegken-vaaptan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 127</Data></Cell>
+    <Cell><Data ss:Type="String">bïlte-gærhkoe</Data></Cell>
+    <Cell><Data ss:Type="String">stavkirke</Data></Cell>
+    <Cell><Data ss:Type="String">stavkyrka</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Daelie Nöörjesne 28 bïlte-gærkoeh aajmene. </Data></Cell>
+    <Cell><Data ss:Type="String">Det finns 28 stavkirker i Norge i dag.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av bïlte + gærhkoe</Data></Cell>
+    <Cell><Data ss:Type="String">bïlte-gærhkoe, bïlte-gærhkose</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 127</Data></Cell>
+    <Cell><Data ss:Type="String">lende-maennie</Data></Cell>
+    <Cell><Data ss:Type="String">lendmann</Data></Cell>
+    <Cell><Data ss:Type="String">lendman</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte lij lende-maenniej barkoe.</Data></Cell>
+    <Cell><Data ss:Type="String">Dette var lendmennenes oppgave.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av lende + maennie</Data></Cell>
+    <Cell><Data ss:Type="String">lende-maennie, lende-maannan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 128</Data></Cell>
+    <Cell><Data ss:Type="String">aelkedh</Data></Cell>
+    <Cell><Data ss:Type="String">bryte ut om krig</Data></Cell>
+    <Cell><Data ss:Type="String">bryta ut om krig</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dillie dåaroe laanten sisnie eelki.</Data></Cell>
+    <Cell><Data ss:Type="String">Da brøt det ut en borgerkrig.</Data></Cell>
+    <Cell><Data ss:Type="String">verb  </Data></Cell>
+    <Cell><Data ss:Type="String">aelkedh, aalka, eelki, aalkeme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 128</Data></Cell>
+    <Cell><Data ss:Type="String">stujmie-foeve</Data></Cell>
+    <Cell><Data ss:Type="String">opprørsflokk</Data></Cell>
+    <Cell><Data ss:Type="String">upprorsgrupp</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Akten stujmie-foeven nomme lij birkebeinerh. </Data></Cell>
+    <Cell><Data ss:Type="String">En av opprørsflokkene het birkebeinerne.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av stujmie + foeve</Data></Cell>
+    <Cell><Data ss:Type="String">stujmie-foeve, stujmie-foevese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 128</Data></Cell>
+    <Cell><Data ss:Type="String">gaampe-daajhtije</Data></Cell>
+    <Cell><Data ss:Type="String">kammaker</Data></Cell>
+    <Cell><Data ss:Type="String">kammakare</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Tjidtjebe lij gaampe-daajhtijinie pruvreldahkesne. </Data></Cell>
+    <Cell><Data ss:Type="String">Moren var gift med en som laget kammer.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av gaampe + daajhtije</Data></Cell>
+    <Cell><Data ss:Type="String">gaampe-daajhtije, gaampe-daajhtijasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 128</Data></Cell>
+    <Cell><Data ss:Type="String">birkebeinere</Data></Cell>
+    <Cell><Data ss:Type="String">birkebeiner</Data></Cell>
+    <Cell><Data ss:Type="String">birkebeiner</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Akten stujmie-foeven nomme lij birkebeinerh. </Data></Cell>
+    <Cell><Data ss:Type="String">En av opprørsflokkene het birkebeinerne.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">birkebeinere, birkebeinerasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 129</Data></Cell>
+    <Cell><Data ss:Type="String">dåaroe</Data></Cell>
+    <Cell><Data ss:Type="String">slag i krig</Data></Cell>
+    <Cell><Data ss:Type="String">slag i krig</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Fimreitesne dam vihkielommes dåaroem strïjrin. </Data></Cell>
+    <Cell><Data ss:Type="String">Det avgjørende slaget ble utkjempet ved Fimreite.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">dåaroe, dåarose</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 129</Data></Cell>
+    <Cell><Data ss:Type="String">baglere</Data></Cell>
+    <Cell><Data ss:Type="String">bagler</Data></Cell>
+    <Cell><Data ss:Type="String">bagler</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah mah bïspem dåarjelin jïjtjemse baglerinie gåhtjoejin.</Data></Cell>
+    <Cell><Data ss:Type="String">De som støttet biskopen kalte seg baglere.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">baglere, baglerasse</Data></Cell>
+    <Cell><Data ss:Type="String">almetjh</Data></Cell>
+    <Cell><Data ss:Type="String">folk</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 129</Data></Cell>
+    <Cell><Data ss:Type="String">dåarjelidh</Data></Cell>
+    <Cell><Data ss:Type="String">å gi støtte til noen</Data></Cell>
+    <Cell><Data ss:Type="String">stödja någon</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah mah bïspem dåarjelin jïjtjemse baglerinie gåhtjoejin.</Data></Cell>
+    <Cell><Data ss:Type="String">De som støttet biskopen kalte seg baglere.</Data></Cell>
+    <Cell><Data ss:Type="String">verb  </Data></Cell>
+    <Cell><Data ss:Type="String">dåarjelidh, dåarjele dåarjeli, dåarjelamme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 130</Data></Cell>
+    <Cell><Data ss:Type="String">dåålvedæjja</Data></Cell>
+    <Cell><Data ss:Type="String">forfølgerne</Data></Cell>
+    <Cell><Data ss:Type="String">förföljare</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah dåålvedæjjide nulliehtin.</Data></Cell>
+    <Cell><Data ss:Type="String">De lurte forfølgerne.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av dåålvedidh</Data></Cell>
+    <Cell><Data ss:Type="String">dåålvedæjja, dåålvedæjjese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 132</Data></Cell>
+    <Cell><Data ss:Type="String">eatnemen ræjhkoesvoete</Data></Cell>
+    <Cell><Data ss:Type="String">naturrikdom</Data></Cell>
+    <Cell><Data ss:Type="String">naturrikedom</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Saemieh maehtiejin eatnemen ræjhkoesvoeth bitskestidh juktie gaajhkesh beapmoeh åadtjoejin. </Data></Cell>
+    <Cell><Data ss:Type="String">Samene klarte å dele naturrikdommene slik at alle fikk nok mat.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 133</Data></Cell>
+    <Cell><Data ss:Type="String">vïjreme-aavre</Data></Cell>
+    <Cell><Data ss:Type="String">jaktlykke</Data></Cell>
+    <Cell><Data ss:Type="String">jaktlycka</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Vïjreme-aavre jïh gaajteme-voete lin jearohks faamohki væljoste.</Data></Cell>
+    <Cell><Data ss:Type="String">Jaktlykken og fruktbarheten var avhengig av maktenes vilje.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av vïjreme + aavre</Data></Cell>
+    <Cell><Data ss:Type="String">vïjreme-aavre, vïjreme-aavrese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 133</Data></Cell>
+    <Cell><Data ss:Type="String">gaajteles-voete</Data></Cell>
+    <Cell><Data ss:Type="String">fruktbarhet</Data></Cell>
+    <Cell><Data ss:Type="String">fruktbarhet</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Vïjreme-aavre jïh gaajteles-voete lin jearohks faamohki væljoste.</Data></Cell>
+    <Cell><Data ss:Type="String">Jaktlykken og fruktbarheten var avhengig av maktenes vilje.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av gaajteles + voete</Data></Cell>
+    <Cell><Data ss:Type="String">gaajteles-voete, gaajteles-voetese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 136</Data></Cell>
+    <Cell><Data ss:Type="String">starneldh faamoe</Data></Cell>
+    <Cell><Data ss:Type="String">undergjørende kraft</Data></Cell>
+    <Cell><Data ss:Type="String">undergörande kraft</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah vïenhtin dïhte åemie gånka starneldh faamoeh utnieji.</Data></Cell>
+    <Cell><Data ss:Type="String">De mente att den døde kongen hadde undergjørende krefter.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s68">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">side 137</Data></Cell>
+    <Cell><Data ss:Type="String">vietselesvoete</Data></Cell>
+    <Cell><Data ss:Type="String">popularitet</Data></Cell>
+    <Cell><Data ss:Type="String">popularitet</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dan aejlies Olaven vietselesvoete stuerebe stuerebe sjïdti. </Data></Cell>
+    <Cell><Data ss:Type="String">Olav den helliges popularitet fortsatte å øke.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av vietseles</Data></Cell>
+    <Cell><Data ss:Type="String">vietselesvoete/vietselesvoetese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s68">
+    <Cell><Data ss:Type="String">Historie 6</Data></Cell>
+    <Cell><Data ss:Type="String">Middelalderen i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 137</Data></Cell>
+    <Cell><Data ss:Type="String">pilgrijme-leahpa</Data></Cell>
+    <Cell><Data ss:Type="String">pilegrimspass</Data></Cell>
+    <Cell><Data ss:Type="String">pilgrimspass</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dovne gaajhkh pilgrijme-leahpam meatan utnieh. </Data></Cell>
+    <Cell><Data ss:Type="String">Alle har med seg et pilegrimspass.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av pilgri<Font
+       html:Color="#006411" xmlns="http://www.w3.org/TR/REC-html40">j</Font><Font
+       xmlns="http://www.w3.org/TR/REC-html40">me + leahpa</Font></Data></Cell>
+    <Cell><Data ss:Type="String">pilgri<Font html:Color="#006411"
+       xmlns="http://www.w3.org/TR/REC-html40">j</Font><Font
+       xmlns="http://www.w3.org/TR/REC-html40">me-leahpa, pilgri</Font><Font
+       html:Size="9.0" html:Color="#006411"
+       xmlns="http://www.w3.org/TR/REC-html40">j</Font><Font
+       xmlns="http://www.w3.org/TR/REC-html40">me-leahpese</Font></Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref. gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>110</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C15"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="Ark2">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s65" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="112.0"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="195.0"/>
+   <Row ss:Index="7">
+    <Cell ss:StyleID="s64"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

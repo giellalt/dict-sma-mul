@@ -1,0 +1,1376 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Bruker</Author>
+  <LastAuthor>Ciprian Gerstenberger</LastAuthor>
+  <Created>2010-06-09T18:16:16Z</Created>
+  <LastSaved>2011-09-30T13:15:41Z</LastSaved>
+  <Company>HP</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <DOKID dt:dt="float">322522</DOKID>
+  <JPID dt:dt="float">2011014056</JPID>
+  <VARIANT dt:dt="string">P</VARIANT>
+  <VERSJON dt:dt="float">1</VERSJON>
+  <SERVER dt:dt="string">db</SERVER>
+  <DATABASE dt:dt="string">websak</DATABASE>
+  <BRUKERID dt:dt="string">1124</BRUKERID>
+  <VM_STATUS dt:dt="string">R</VM_STATUS>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#9999FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#993366</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFCC</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#CCFFFF</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#660066</RGB>
+   </Color>
+   <Color>
+    <Index>21</Index>
+    <RGB>#FF8080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0066CC</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#CCCCFF</RGB>
+   </Color>
+   <Color>
+    <Index>24</Index>
+    <RGB>#000080</RGB>
+   </Color>
+   <Color>
+    <Index>25</Index>
+    <RGB>#FF00FF</RGB>
+   </Color>
+   <Color>
+    <Index>26</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>27</Index>
+    <RGB>#00FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>28</Index>
+    <RGB>#800080</RGB>
+   </Color>
+   <Color>
+    <Index>29</Index>
+    <RGB>#800000</RGB>
+   </Color>
+   <Color>
+    <Index>30</Index>
+    <RGB>#008080</RGB>
+   </Color>
+   <Color>
+    <Index>31</Index>
+    <RGB>#0000FF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>14780</WindowHeight>
+  <WindowWidth>24220</WindowWidth>
+  <WindowTopX>3020</WindowTopX>
+  <WindowTopY>1000</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Ark1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark1!R1C1:R1C15"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="208" ss:ExpandedRowCount="75" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s64" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:Index="2" ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="84.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="52.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="123.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="136.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="117.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="146.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="212.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="204.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="129.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="113.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="95.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="103.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="87.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="68.0"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="109.0"/>
+   <Row ss:Height="36.0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Midgard og div. ordbøker</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Kapittel</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Side</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Åarjelsaemien gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Svöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Synonyjme</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Åarjelsaemien jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Daaroen jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoe-tjïerte</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen syjjehtimmie</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen definisjovne saemien gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen definisjovne daaroen gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Baakoen gaaltije</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Livet ved de store elvene</Data></Cell>
+    <Cell><Data ss:Type="String">side 6</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmie</Data></Cell>
+    <Cell><Data ss:Type="String">handel; omsetning</Data></Cell>
+    <Cell><Data ss:Type="String">handel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Jïjnjh almetjh åesiestimmine barkin.</Data></Cell>
+    <Cell><Data ss:Type="String">Mange arbeidet med handel.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av åesiestidh</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmie, åesiestæmman</Data></Cell>
+    <Cell><Data ss:Type="String">vaaroej åesteme jïh doekeme</Data></Cell>
+    <Cell><Data ss:Type="String">kjøp og salg av varer</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 22</Data></Cell>
+    <Cell><Data ss:Type="String">låtnoe-åesiestimmie </Data></Cell>
+    <Cell><Data ss:Type="String">byttehandel</Data></Cell>
+    <Cell><Data ss:Type="String">byteshandel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åvtesne låtnoe-åesiestimmie lij vihkeles.</Data></Cell>
+    <Cell><Data ss:Type="String">Før var byttehandel viktig.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av låtnoe + åesiestimmie</Data></Cell>
+    <Cell><Data ss:Type="String">låtnoe-åesiestimmie, låtnoe-åesiestæmman</Data></Cell>
+    <Cell><Data ss:Type="String">vaaroeh jeatjah vaaroejgujmie maeksedh</Data></Cell>
+    <Cell><Data ss:Type="String">betale varer med andre varer</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 22</Data></Cell>
+    <Cell><Data ss:Type="String">låtnoe-åesiestimmine gïehtelidh</Data></Cell>
+    <Cell><Data ss:Type="String">drive byttehandel</Data></Cell>
+    <Cell><Data ss:Type="String">bedriva byteshandel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Mesopotamijesne låtnoe-åesiestimmine gïehtelin.</Data></Cell>
+    <Cell><Data ss:Type="String">I Mesopotamia drev de på med byttehandel.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 23</Data></Cell>
+    <Cell><Data ss:Type="String">stuvredh</Data></Cell>
+    <Cell><Data ss:Type="String">kontrollere, ha kontroll over </Data></Cell>
+    <Cell><Data ss:Type="String">kontrollera, ha kontroll över</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Nöörje dam nöörjen åesiestimmiem stuvrie.</Data></Cell>
+    <Cell><Data ss:Type="String">Norge kontrollerer norsk handel.</Data></Cell>
+    <Cell><Data ss:Type="String">verb  </Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">åesiestimmiem stuvredh</Data></Cell>
+    <Cell><Data ss:Type="String">kontrollere handelen </Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 23</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmiem stuvredh</Data></Cell>
+    <Cell><Data ss:Type="String">kontrollere handelen</Data></Cell>
+    <Cell><Data ss:Type="String">kontrollera handeln</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Ure mearoen åesiestimmiem stuvrie. </Data></Cell>
+    <Cell><Data ss:Type="String">Ur kontrollerte handelen over havet.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 24</Data></Cell>
+    <Cell><Data ss:Type="String">åesteme</Data></Cell>
+    <Cell><Data ss:Type="String">kjøp</Data></Cell>
+    <Cell><Data ss:Type="String">köp</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah sumererh  reeknemassh tjaeliejin/tjeelin åestiemasse jïh doekemasse. </Data></Cell>
+    <Cell><Data ss:Type="String">Sumerene førte regnskap over kjøp og salg.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av åestedh</Data></Cell>
+    <Cell><Data ss:Type="String">åesteme, åestiemasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Livet ved de store floderne</Data></Cell>
+    <Cell><Data ss:Type="String">side 30</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmine gïehtelidh</Data></Cell>
+    <Cell><Data ss:Type="String">drive handel</Data></Cell>
+    <Cell><Data ss:Type="String">bedriva handel</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Geografi 5</Data></Cell>
+    <Cell><Data ss:Type="String">Landskap i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 135</Data></Cell>
+    <Cell><Data ss:Type="String">eksporte</Data></Cell>
+    <Cell><Data ss:Type="String">eksport</Data></Cell>
+    <Cell><Data ss:Type="String">export</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Eksportese gööledh.</Data></Cell>
+    <Cell><Data ss:Type="String">Fiske til eksport</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv  </Data></Cell>
+    <Cell><Data ss:Type="String">eksporte, eksportese</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmie geekte jallh vielie laanti gaskemsh</Data></Cell>
+    <Cell><Data ss:Type="String">handel mellom to eller flere land</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ålkoerijhkese doekedh</Data></Cell>
+    <Cell><Data ss:Type="String">eksportere</Data></Cell>
+    <Cell><Data ss:Type="String">exportera</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Guelieh mejtie Nöörje galka ålkoerijhkese doekedh.</Data></Cell>
+    <Cell><Data ss:Type="String">Fisk som Norge skal eksportere.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">vaaroeh  ålkoerijhkese doekedh</Data></Cell>
+    <Cell><Data ss:Type="String">selge varer til utlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">eksporte-industrije</Data></Cell>
+    <Cell><Data ss:Type="String">eksportindustri</Data></Cell>
+    <Cell><Data ss:Type="String">exportindustri</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Eksporte-industrije Nöörjem ræjhkoes dorje. </Data></Cell>
+    <Cell><Data ss:Type="String">Eksportindustrien gjør Norge rikt.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt av eksporte + industrije</Data></Cell>
+    <Cell><Data ss:Type="String">eksporte-industrije, eksporte-industrijese</Data></Cell>
+    <Cell><Data ss:Type="String">industrije mij vaaroeh ålkoerijhkese duaka</Data></Cell>
+    <Cell><Data ss:Type="String">industri som selger varer utenlands</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Geografi 5</Data></Cell>
+    <Cell><Data ss:Type="String">Landskap i Norge</Data></Cell>
+    <Cell><Data ss:Type="String">side 139</Data></Cell>
+    <Cell><Data ss:Type="String">importe</Data></Cell>
+    <Cell><Data ss:Type="String">import</Data></Cell>
+    <Cell><Data ss:Type="String">import</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Nöörjen lea stoerre importe dïmhperistie.</Data></Cell>
+    <Cell><Data ss:Type="String">Norge har stor import av tømmer.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">importe, importese</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmie geekte jallh vielie laanti gaskemsh.</Data></Cell>
+    <Cell><Data ss:Type="String">handel mellom to eller flere land</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ålkoerijhkeste åestedh</Data></Cell>
+    <Cell><Data ss:Type="String">importere</Data></Cell>
+    <Cell><Data ss:Type="String">importera</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïmhperh mejtie Nöörje galka ålkoerijhkeste åestedh.</Data></Cell>
+    <Cell><Data ss:Type="String">Tømmer som Norge skal importere.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">vaaroeh mejtie ålkoerijhkeste åestedh</Data></Cell>
+    <Cell><Data ss:Type="String">kjøpe varer fra utlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Geografi 5</Data></Cell>
+    <Cell><Data ss:Type="String">Landsdeler og fylker</Data></Cell>
+    <Cell><Data ss:Type="String">side 160</Data></Cell>
+    <Cell><Data ss:Type="String">skïhpe-valkese</Data></Cell>
+    <Cell><Data ss:Type="String">skipsfart</Data></Cell>
+    <Cell><Data ss:Type="String">skeppsfart</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Skïhpe-valkese lea vihkeles.</Data></Cell>
+    <Cell><Data ss:Type="String">Skipsfarten er viktig.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av skïhpe + valkese</Data></Cell>
+    <Cell><Data ss:Type="String">skïhpe-valkese, skïhpe-valkesasse</Data></Cell>
+    <Cell><Data ss:Type="String">Skïhph mejnie vaaroeh giesehtidh.</Data></Cell>
+    <Cell><Data ss:Type="String">Skip med hvilke man transporterer varer.</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Oppdagelsesreisene</Data></Cell>
+    <Cell><Data ss:Type="String">side 20</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-latjkoe</Data></Cell>
+    <Cell><Data ss:Type="String">handelsavtale</Data></Cell>
+    <Cell><Data ss:Type="String">handelsavtal</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte fryöjsti åesies-latjkoem åadtjodh.</Data></Cell>
+    <Cell><Data ss:Type="String">Han forsøkte å få en handelsavtale.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + latjkoe</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-latjkoe, åesies-latjkose</Data></Cell>
+    <Cell><Data ss:Type="String">latjkoe åestemen jïh doekemen bïjre</Data></Cell>
+    <Cell><Data ss:Type="String">avtale om kjøpe og salg</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Oppdagelsesreisene</Data></Cell>
+    <Cell><Data ss:Type="String">side 27</Data></Cell>
+    <Cell><Data ss:Type="String">kolonije</Data></Cell>
+    <Cell><Data ss:Type="String">koloni</Data></Cell>
+    <Cell><Data ss:Type="String">koloni</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Spanije dejtie orre dajvide kolonijine gyrreldi. </Data></Cell>
+    <Cell><Data ss:Type="String">Spania la de nye områdene under seg som kolonier.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">kolonije, kolonijese</Data></Cell>
+    <Cell><Data ss:Type="String">laante mij jeatjah laanten nuelesne</Data></Cell>
+    <Cell><Data ss:Type="String">land som er under et annet land</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Oppdagelsesreisene</Data></Cell>
+    <Cell><Data ss:Type="String">side 30</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-geajnoe</Data></Cell>
+    <Cell><Data ss:Type="String">handelsrute/handelsveg</Data></Cell>
+    <Cell><Data ss:Type="String">handelsrutt, handelsväg</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-geajna</Data></Cell>
+    <Cell><Data ss:Type="String">Tjeehpes-sovhte almetjidie dåeriedi åesies-geajnoej mietie.</Data></Cell>
+    <Cell><Data ss:Type="String">Svartedauen fulgte menneskene langs handelsveiene.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + geajnoe</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-geajnoe, åesies-geajnose</Data></Cell>
+    <Cell><Data ss:Type="String">geajnoe man mietie åesies-vaaroeh giesehte</Data></Cell>
+    <Cell><Data ss:Type="String">vei hvor man frakter handelsvarer</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Oppdagelsesreisene</Data></Cell>
+    <Cell><Data ss:Type="String">side 30</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-sijjie</Data></Cell>
+    <Cell><Data ss:Type="String">handelsstasjon</Data></Cell>
+    <Cell><Data ss:Type="String">handelsstation</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + sijjie</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-sijjie, åesies-sæjjan</Data></Cell>
+    <Cell><Data ss:Type="String">akte sijjie gusnie åesiestimmine gïehtele</Data></Cell>
+    <Cell><Data ss:Type="String">en plass hvor man bedriver handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Mulighetenes land</Data></Cell>
+    <Cell><Data ss:Type="String">sid 68</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-staare</Data></Cell>
+    <Cell><Data ss:Type="String">handelsby</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">handelsstad</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + staare</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-staare, åesies-staarese</Data></Cell>
+    <Cell><Data ss:Type="String">akte staare gusnie åesiestimmine gïehteli</Data></Cell>
+    <Cell><Data ss:Type="String">en by hvor man drev på med handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Historie 7</Data></Cell>
+    <Cell><Data ss:Type="String">Norge et lite land</Data></Cell>
+    <Cell><Data ss:Type="String">side 88</Data></Cell>
+    <Cell><Data ss:Type="String">dïeneste</Data></Cell>
+    <Cell><Data ss:Type="String">overskudd, gevinst</Data></Cell>
+    <Cell><Data ss:Type="String">överskott, vinst</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Fåvtah vielie skaehtieh tsihkestehtin enn gånka moeneme jïh dïenestem jïjtjemse låammese rijteme.</Data></Cell>
+    <Cell><Data ss:Type="String">Fogdene krevde inn mer skatter enn det kongen hadde bestemt og de tok overskuddet i egen lomme.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">dïeneste, dïenestasse</Data></Cell>
+    <Cell><Data ss:Type="String">dïhte mij aajmene gåessie åesies-galhkuvem dorjeme</Data></Cell>
+    <Cell><Data ss:Type="String">det som er til overs ved regnskapsavslutning</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Geografi 7</Data></Cell>
+    <Cell><Data ss:Type="String">Verden utenfor Europa</Data></Cell>
+    <Cell><Data ss:Type="String">side 171</Data></Cell>
+    <Cell><Data ss:Type="String">veartenen maarhna</Data></Cell>
+    <Cell><Data ss:Type="String">verdensmarked, marknad</Data></Cell>
+    <Cell><Data ss:Type="String">marknad (världsmarknad)</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Kina vaarah dorje  veartenen maarhnese.</Data></Cell>
+    <Cell><Data ss:Type="String">Kina produserer varer for hele verden. (verdensmarkedet)</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell><Data ss:Type="String">veartenen maarhna, veartenen maarhnese</Data></Cell>
+    <Cell><Data ss:Type="String">maarhna mij barka veartenen bïjre jarkan</Data></Cell>
+    <Cell><Data ss:Type="String">marked som spenner over hele verlden</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Samf 7</Data></Cell>
+    <Cell><Data ss:Type="String">Rus</Data></Cell>
+    <Cell><Data ss:Type="String">side 206</Data></Cell>
+    <Cell><Data ss:Type="String">industrije</Data></Cell>
+    <Cell><Data ss:Type="String">industri </Data></Cell>
+    <Cell><Data ss:Type="String">industri </Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Giefies laanth orre maarhnah dygkeindustrijese sjïdtieh.</Data></Cell>
+    <Cell><Data ss:Type="String">Fattige land blir nye markeder for tobakindustrien .</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv  </Data></Cell>
+    <Cell><Data ss:Type="String">industrije, industrijese</Data></Cell>
+    <Cell><Data ss:Type="String">akte sïelte mij dorjemassine gïehtele</Data></Cell>
+    <Cell><Data ss:Type="String">en bedrift som holder på med produksjon</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-</Data></Cell>
+    <Cell><Data ss:Type="String">handel-, handels-</Data></Cell>
+    <Cell><Data ss:Type="String"> handel-, handels- </Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">forledd</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesie</Data></Cell>
+    <Cell><Data ss:Type="String">andel, andels-; kvote</Data></Cell>
+    <Cell><Data ss:Type="String">andel, andels-; kvot</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Manne mov åesieh doekem.</Data></Cell>
+    <Cell><Data ss:Type="String">Jeg selger mine andeler/min kvote.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">åesie, åasan</Data></Cell>
+    <Cell><Data ss:Type="String">åesiem sïeltesne utnedh </Data></Cell>
+    <Cell><Data ss:Type="String">ha en andel i en bedrift.</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">doekemes-vaaroe</Data></Cell>
+    <Cell><Data ss:Type="String">salgsvare </Data></Cell>
+    <Cell><Data ss:Type="String">försäljningsartikel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dovne gaajhkh leah doekemes.  Gaajhke dovne lea doekemes-vaaroeh.</Data></Cell>
+    <Cell><Data ss:Type="String">Alt er salgsvarer, til salgs</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av doekemes + vaaroe</Data></Cell>
+    <Cell><Data ss:Type="String">doekemes-vaaroe, doekemes-vaarose</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-dïeneste</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">handelsoverskudd</Data></Cell>
+    <Cell><Data ss:Type="String">handelsöverskott</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s64"><Data ss:Type="String">Daan jaepien reeknemasse åesies-dïenestem vuesehte.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Årets regnskap viser et overskudd.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + dïeneste</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-dïeneste, åesies-dïenestasse</Data></Cell>
+    <Cell><Data ss:Type="String">beetsuve åesiestimmien mænngan</Data></Cell>
+    <Cell><Data ss:Type="String">det som er igjen etter salget, fortjenesten</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-våaroemistie</Data></Cell>
+    <Cell><Data ss:Type="String">handelsbasert</Data></Cell>
+    <Cell><Data ss:Type="String">handelsbaserad</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Baalhkah leah åesiestimmien våaroemistie.</Data></Cell>
+    <Cell><Data ss:Type="String">Inntektene er handelsbaserte.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">/-våaroemistie</Data></Cell>
+    <Cell><Data ss:Type="String">/-basert</Data></Cell>
+    <Cell><Data ss:Type="String">/-baserad</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">etterledd</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesiestæjja</Data></Cell>
+    <Cell><Data ss:Type="String">grossist</Data></Cell>
+    <Cell><Data ss:Type="String">grossist</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Guelie-åesiestæjjah åestieh gaajhke dovne guelieh mejtie maehtieh.</Data></Cell>
+    <Cell><Data ss:Type="String">Fiskerigrossistene kjøper all fisk som de kan.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-klahke</Data></Cell>
+    <Cell><Data ss:Type="String">handelsbetjent; ekspeditør</Data></Cell>
+    <Cell><Data ss:Type="String">affärsbiträde; handelsanställd, expedit</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Idtjim maehtieh naan åesies-klahkem gaavnedidh.</Data></Cell>
+    <Cell><Data ss:Type="String">Jeg kunne ikke finne noen ekspeditør.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + klahke</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-klahke, åesies-klahkese</Data></Cell>
+    <Cell><Data ss:Type="String">akte mij åesies-gåetesne viehkehte</Data></Cell>
+    <Cell><Data ss:Type="String">en som hjelper til i varehuset</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-gåetie</Data></Cell>
+    <Cell><Data ss:Type="String">varehus; handelshus</Data></Cell>
+    <Cell><Data ss:Type="String">varuhus, handelshus</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Ostindijen kompanije akte stoerre åesies-gåetie Göteborgesne.</Data></Cell>
+    <Cell><Data ss:Type="String">Ostindiske kompaniet er et stort handelshus i Göteborg.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv  - begrenset betydning</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-gåetie, åesies-gåatan</Data></Cell>
+    <Cell><Data ss:Type="String">stoerre bovre gusnie aktetjem maahta åestedh</Data></Cell>
+    <Cell><Data ss:Type="String">stor butikk hvor man kan få kjøpt alt mulig</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-sjïerereakta</Data></Cell>
+    <Cell><Data ss:Type="String">handelsprivilegium</Data></Cell>
+    <Cell><Data ss:Type="String">handelsprivilegium</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Statoile lea åesies-sjïerereaktam Gahnine åådtjeme.</Data></Cell>
+    <Cell><Data ss:Type="String">Statoil har fått handelsprivilegium med Gahna.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + sjïere + reakta</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-sjïerereakta, åesies-sjïerereaktese</Data></Cell>
+    <Cell><Data ss:Type="String">reaktam oktegh åesiestidh</Data></Cell>
+    <Cell><Data ss:Type="String">få eksklusiv rett til handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">sjïere-reakta</Data></Cell>
+    <Cell><Data ss:Type="String">privilegium</Data></Cell>
+    <Cell><Data ss:Type="String">privilegium</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">sjïere-reakta, sjïere-reaktese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-fealadæjja</Data></Cell>
+    <Cell><Data ss:Type="String">handelsreisende</Data></Cell>
+    <Cell><Data ss:Type="String">handelsresande</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-fealadæjja bööti gellie-laaketje vaarajgujmie.</Data></Cell>
+    <Cell><Data ss:Type="String">Den handelsreisende kom med ett stort utbud av varer.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + fealadæjja</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-fealadæjja, åesies-fealadæjjese</Data></Cell>
+    <Cell><Data ss:Type="String">almetje mij åesiestimmiem vaaroejgujmie faalede</Data></Cell>
+    <Cell><Data ss:Type="String">En person som tilbyr varer for salg</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-kåarje</Data></Cell>
+    <Cell><Data ss:Type="String">handelskurv</Data></Cell>
+    <Cell><Data ss:Type="String">handelskorg</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-kåarjesne lij voeje, laejpie jïh mielhkie.</Data></Cell>
+    <Cell><Data ss:Type="String">I handelskurven lå det smør, brød og melk.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + kåarje</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-kåarje, åesies-kåarjese</Data></Cell>
+    <Cell><Data ss:Type="String">kåarje man sïjse vaaroeh bïejedh bovresne</Data></Cell>
+    <Cell><Data ss:Type="String">en kurv hvor man legger i varer i butikken</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-serteme</Data></Cell>
+    <Cell><Data ss:Type="String">forretningstransaktion</Data></Cell>
+    <Cell><Data ss:Type="String">affärstransaktion</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Nöörjen ålkoerijhken-åesiestimmine leah jïjnje åesies-sertemh.</Data></Cell>
+    <Cell><Data ss:Type="String">Norges utenrikshandel har mange forretningstransaksjoner.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + serteme</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-serteme, åesies-sertemasse</Data></Cell>
+    <Cell><Data ss:Type="String">beetneh-serteme åesiestimmien gaavhtan</Data></Cell>
+    <Cell><Data ss:Type="String">pengeoverføring i forbindelse med handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">beetneh-serteme</Data></Cell>
+    <Cell><Data ss:Type="String">transaksjon, overføring</Data></Cell>
+    <Cell><Data ss:Type="String">transaktion, överföring</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Beetne-serteme daan biejjien bööti.</Data></Cell>
+    <Cell><Data ss:Type="String">Overføringen av penger er kommet i dag.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av sertedh</Data></Cell>
+    <Cell><Data ss:Type="String">serteme, sertemasse</Data></Cell>
+    <Cell><Data ss:Type="String">maam akth sertedh</Data></Cell>
+    <Cell><Data ss:Type="String">gjøre en transaksjon</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ålkoerijhken åesiestimmie</Data></Cell>
+    <Cell><Data ss:Type="String">utenrikshandel</Data></Cell>
+    <Cell><Data ss:Type="String">utrikeshandel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Nöörjen åesiestimmie ålkoerijhkine hearven baalhkah vadta.</Data></Cell>
+    <Cell><Data ss:Type="String">Norges utenrikshandel gir gode inntekter.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell><Data ss:Type="String">ålkoerijhken åesiestimmie, ålkoerijhken åesiestæmman</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmie ålkoerijhkine</Data></Cell>
+    <Cell><Data ss:Type="String">handel med utlandet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-nïere</Data></Cell>
+    <Cell><Data ss:Type="String">handelsagent</Data></Cell>
+    <Cell><Data ss:Type="String">handelsagent</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-nïere lij håalijes.</Data></Cell>
+    <Cell><Data ss:Type="String">Handelsagenten var talefør.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies +  nïere</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-nïere, åesies-nïerese</Data></Cell>
+    <Cell><Data ss:Type="String">åesiestimmien gaske-lïhtse</Data></Cell>
+    <Cell><Data ss:Type="String">person som er mellomleddet i en handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-mïrrestalleme</Data></Cell>
+    <Cell><Data ss:Type="String">handelsbalanse</Data></Cell>
+    <Cell><Data ss:Type="String">handelsbalans</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Nöörje vuesehte læjkam åesies-mïrrestallemisnie.</Data></Cell>
+    <Cell><Data ss:Type="String">Norge oppviser overskudd i handelsbalansen.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + substantiv av mïrrestalledh</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-mïrrestalleme, åesies-mïrrestallemasse</Data></Cell>
+    <Cell><Data ss:Type="String">gåessie åesteme jïh doekeme leah seamma stoerre</Data></Cell>
+    <Cell><Data ss:Type="String">når kjøp og salg har like stor verdi</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-saevege</Data></Cell>
+    <Cell><Data ss:Type="String">handelsflagg</Data></Cell>
+    <Cell><Data ss:Type="String">handelsflagga</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Fïerhten åesies-skïhpe åesies-saevegem åtna.</Data></Cell>
+    <Cell><Data ss:Type="String">Hvert eneste handelsfartøy har handelsflagg.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + saevege</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-saevege, åesies-saevegasse</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-skïhpen saevege</Data></Cell>
+    <Cell><Data ss:Type="String">flagget til et handelsfartøy</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-ministere</Data></Cell>
+    <Cell><Data ss:Type="String">handelsminister</Data></Cell>
+    <Cell><Data ss:Type="String">handelsminister</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-ministere lea Tysklaantesne Nöörjen gaavhtan.</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + ministere</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-ministere, åesies-ministerasse</Data></Cell>
+    <Cell><Data ss:Type="String">ministere mij åesies-departementesne barka</Data></Cell>
+    <Cell><Data ss:Type="String">en minister som arbeider i handelsdepartementet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-politihke</Data></Cell>
+    <Cell><Data ss:Type="String">handelspolitikk</Data></Cell>
+    <Cell><Data ss:Type="String">handelspolitik</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-politihke lea vihkeles industrijese.</Data></Cell>
+    <Cell><Data ss:Type="String">Handelspolitikken er viktig for industrien.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + politihke</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-politihke, åesies-politihkese</Data></Cell>
+    <Cell><Data ss:Type="String">politihke mij sjïehteladta åesiestæmman</Data></Cell>
+    <Cell><Data ss:Type="String">politikk som legger til rette for handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">reeknege</Data></Cell>
+    <Cell><Data ss:Type="String">faktura</Data></Cell>
+    <Cell><Data ss:Type="String">faktura</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte miste reeknegem seedti.</Data></Cell>
+    <Cell><Data ss:Type="String">Han sendte feil regning.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">reeknege, reeknegasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">reeknegh tjaeledh / reeknegem tjaeledh</Data></Cell>
+    <Cell><Data ss:Type="String">fakturere</Data></Cell>
+    <Cell><Data ss:Type="String">fakturera, skriva räkningar</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Reeknege-goevtese reeknegh tjaala abpe biejjiem.</Data></Cell>
+    <Cell><Data ss:Type="String">Fakturaavdelningen skriver fakturer hele dagen.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">reeknege-tjaeleme</Data></Cell>
+    <Cell><Data ss:Type="String">fakturering</Data></Cell>
+    <Cell><Data ss:Type="String">fakturering</Data></Cell>
+    <Cell><Data ss:Type="String">reekneh-tjaeleme</Data></Cell>
+    <Cell><Data ss:Type="String">Reeknege tjaeleme lea vihkeles åesiestimmese.</Data></Cell>
+    <Cell><Data ss:Type="String">Fakturering er viktig for omsetningen.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-reakta</Data></Cell>
+    <Cell><Data ss:Type="String">handelsrettighet; handelsrett</Data></Cell>
+    <Cell><Data ss:Type="String">handelsrättighet; handelsrätt</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Mijjieh libie åesies-reaktam Kinene nöödteme.</Data></Cell>
+    <Cell><Data ss:Type="String">Vi har oppnådd handelsrett med Kina.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + reakta</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-reakta, åesies-reaktese</Data></Cell>
+    <Cell><Data ss:Type="String">reaktam åesiestæmman</Data></Cell>
+    <Cell><Data ss:Type="String">rett til handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-teknihke</Data></Cell>
+    <Cell><Data ss:Type="String">handelsteknikk</Data></Cell>
+    <Cell><Data ss:Type="String">handelsteknik</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Ij badth naan aelhkie åesies-teknihkine.</Data></Cell>
+    <Cell><Data ss:Type="String">Det er ikke så enkelt med handelsteknikk.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + teknihke</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-teknihke, åesies-teknihkese</Data></Cell>
+    <Cell><Data ss:Type="String">teknihke åesien gaavhtan</Data></Cell>
+    <Cell><Data ss:Type="String">teknikk avsett for handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-ööhpehtimmie</Data></Cell>
+    <Cell><Data ss:Type="String">handelsutdanning</Data></Cell>
+    <Cell><Data ss:Type="String">handelsutbildning</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Bergenisnie maahta hijven åesies-ööhpehtimmiem åadtjodh.</Data></Cell>
+    <Cell><Data ss:Type="String">I Bergen kan en få god handelsutdanning.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + ööhpehtimmie</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-ööhpehtimmie, åesies-ööhpehtæmman </Data></Cell>
+    <Cell><Data ss:Type="String">ööhpehtimmie maam åesies-jolleskuvlesne åådtje</Data></Cell>
+    <Cell><Data ss:Type="String">utdanning man får på handelshøyskole</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">aamhtese</Data></Cell>
+    <Cell><Data ss:Type="String">sak</Data></Cell>
+    <Cell><Data ss:Type="String">ärende</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-stavra aamhtesem gïehtjede.</Data></Cell>
+    <Cell><Data ss:Type="String">Handelsforvalteren vurderer saken.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">aamhtese, aamhtesasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">vierhtie-paehpere</Data></Cell>
+    <Cell><Data ss:Type="String">aksje, verdipapir</Data></Cell>
+    <Cell><Data ss:Type="String">värdepapper; aktier</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Vierhtieh-paehperh leam baanghkese bïejeme.</Data></Cell>
+    <Cell><Data ss:Type="String">Jeg har lagt aksjer i banken.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av vierhtie + paehpere</Data></Cell>
+    <Cell><Data ss:Type="String">vierhtie-paehpere, vierhtie-paehperasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">aehpie</Data></Cell>
+    <Cell><Data ss:Type="String">krise</Data></Cell>
+    <Cell><Data ss:Type="String">kris </Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Aehpie sjædta gosse beetnegh nåhkeme.</Data></Cell>
+    <Cell><Data ss:Type="String">Det blir krise når pengene er slutt.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">aehpie, aahpan</Data></Cell>
+    <Cell><Data ss:Type="String">mij akt båajhtode deahpadamme</Data></Cell>
+    <Cell><Data ss:Type="String">noe galt har skjedd</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">giehpies åasa</Data></Cell>
+    <Cell><Data ss:Type="String">billigsalg</Data></Cell>
+    <Cell><Data ss:Type="String">realisation</Data></Cell>
+    <Cell><Data ss:Type="String">geehpes åasa</Data></Cell>
+    <Cell><Data ss:Type="String">Manne galkem giehpies-åesese Hamarisnie mïnnedh.</Data></Cell>
+    <Cell><Data ss:Type="String">Jeg skal reise på billigsalg til Hamar.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-læstoe</Data></Cell>
+    <Cell><Data ss:Type="String">handelsregister</Data></Cell>
+    <Cell><Data ss:Type="String">handelsregister</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-læstosne gaajhke dovne darjemes-sïelth.</Data></Cell>
+    <Cell><Data ss:Type="String">I handelsregistret står alle bedrifter.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + læstoe</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-læstoe, åesies-læstose</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">veartenen åesiestimmie</Data></Cell>
+    <Cell><Data ss:Type="String">verdenshandel</Data></Cell>
+    <Cell><Data ss:Type="String">världshandel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Veartenen åesiestimmie lea jieniemdamme dej minngemes jaepiej.</Data></Cell>
+    <Cell><Data ss:Type="String">Verdenshandelen har økt i siste år.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">kreedite</Data></Cell>
+    <Cell><Data ss:Type="String">kreditt (bokføring)</Data></Cell>
+    <Cell><Data ss:Type="String">kredit (bokföring</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Kreedite åelkies bielesne.</Data></Cell>
+    <Cell><Data ss:Type="String">Kreditt er på høyre side.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">kreedite, kreeditasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">deebete</Data></Cell>
+    <Cell><Data ss:Type="String">debet (bokføring)</Data></Cell>
+    <Cell><Data ss:Type="String">debet (bokføring)</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Deebete garrah bielesne.</Data></Cell>
+    <Cell><Data ss:Type="String">Debet er på venstre side.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">deebete, deebetasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">faetie</Data></Cell>
+    <Cell><Data ss:Type="String">underskudd, tap</Data></Cell>
+    <Cell><Data ss:Type="String">underskott, förlust</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">faetie, faatan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">faetiemisnie</Data></Cell>
+    <Cell><Data ss:Type="String">gå i underskudd</Data></Cell>
+    <Cell><Data ss:Type="String">ha ett underskott</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Guhkiem sïelte faetiemisnie.</Data></Cell>
+    <Cell><Data ss:Type="String">I lange perioder gikk selskapet med underskudd.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-politihke mietie</Data></Cell>
+    <Cell><Data ss:Type="String">handelspolitisk</Data></Cell>
+    <Cell><Data ss:Type="String">handelspolitisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-politihken mietie dajpa.</Data></Cell>
+    <Cell><Data ss:Type="String">Handelspotitisk går det an.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-teknihke mietie</Data></Cell>
+    <Cell><Data ss:Type="String">handelsteknisk</Data></Cell>
+    <Cell><Data ss:Type="String">handelsteknisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Åesies-teknihken mietie gåarede.</Data></Cell>
+    <Cell><Data ss:Type="String">Handelsteknisk går det an.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">beetnegh</Data></Cell>
+    <Cell><Data ss:Type="String">kontanter</Data></Cell>
+    <Cell><Data ss:Type="String">kontanter</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte beetnegigujmie maeksieji mïnnemen åvteste.</Data></Cell>
+    <Cell><Data ss:Type="String">Hun betalte reisen kontant.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">beetnegh, beetnegidie</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s63"><Data ss:Type="String">åesies-daepie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">handelspraksis, handelssed</Data></Cell>
+    <Cell><Data ss:Type="String">handelssed, handelspraxis</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah hijven åesies-daepiem utnieh.</Data></Cell>
+    <Cell><Data ss:Type="String">De har en god handelspraksis.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åesies + daepie</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-daepie, åesies-daapan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s64"><Data ss:Type="String">maekseme-leahpa</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bankkort; betalingskort</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">bankkort; betalkort</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">maekseme-kåarte</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s64"><Data ss:Type="String">sammensatt substantiv av maekseme av maeksedh + leahpa</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">maekseme-leahpa, maekseme-leahpese</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Akte leahpa mejnie maaksa.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Et kort man betaler med.</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ekonomije</Data></Cell>
+    <Cell><Data ss:Type="String">økonomi</Data></Cell>
+    <Cell><Data ss:Type="String">ekonomi </Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">ekonomije, ekonomijese</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="48.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">ekonomijen sjïdtedimmie</Data></Cell>
+    <Cell><Data ss:Type="String">økonomisk vekst</Data></Cell>
+    <Cell><Data ss:Type="String">ekonomisk tillväxt</Data></Cell>
+    <Cell><Data ss:Type="String">Ekonomije sjïdtedamme, ekonomije nænnoestamme, ekonomijen jeananimmie, ekonomijen læssanimmie. </Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">ekonomije sjïdtede</Data></Cell>
+    <Cell><Data ss:Type="String">økonomien øker i størrelse.</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">beetneh-serteme</Data></Cell>
+    <Cell><Data ss:Type="String">pengeoverføring</Data></Cell>
+    <Cell><Data ss:Type="String">pengaöverföring</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av beetneh + serteme</Data></Cell>
+    <Cell><Data ss:Type="String">beetneh-serteme, beetneh-sertemasse</Data></Cell>
+    <Cell><Data ss:Type="String">beetnegh sertedh Internedtesne</Data></Cell>
+    <Cell><Data ss:Type="String">overføre penger på Internet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-skïhpe</Data></Cell>
+    <Cell><Data ss:Type="String">handelsfartøy</Data></Cell>
+    <Cell><Data ss:Type="String">handelsfartyg</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + skïhpe</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-skïhpe, åesies-skïhpese</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">skïhpe mejnie åesies-vaaroeh giesehte</Data></Cell>
+    <Cell><Data ss:Type="String">skip som en transporterer handelsvarer med</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-instituhte</Data></Cell>
+    <Cell><Data ss:Type="String">handelsinstitutt</Data></Cell>
+    <Cell><Data ss:Type="String">instituhte</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + instituhte</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-instituhte, åesies-instituhtese</Data></Cell>
+    <Cell><Data ss:Type="String">akte fakulteete universiteetesne </Data></Cell>
+    <Cell><Data ss:Type="String">et fakultet på et universitet</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">fakulteete</Data></Cell>
+    <Cell><Data ss:Type="String">fakultet</Data></Cell>
+    <Cell><Data ss:Type="String">fakultet</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">fakulteete, fakulteetese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-prievieh</Data></Cell>
+    <Cell><Data ss:Type="String">handelskorrespondanse</Data></Cell>
+    <Cell><Data ss:Type="String">handelskorrespondens</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">end plural sammensatt substantiv av åesies + prievieh</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-prievieh, åesies-prievide</Data></Cell>
+    <Cell><Data ss:Type="String">prievieh åesiestimmeste</Data></Cell>
+    <Cell><Data ss:Type="String">brev vedrørende handel</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">åesies-staare</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">handelsby</Data></Cell>
+    <Cell><Data ss:Type="String">handelsstad</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av åesies + staare</Data></Cell>
+    <Cell><Data ss:Type="String">åesies-staare, åesies-staarese</Data></Cell>
+    <Cell><Data ss:Type="String">staare gusnie jïjnjh bovrh</Data></Cell>
+    <Cell><Data ss:Type="String">en by hvor det finnes mange butikker</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">beetneh-lööneme</Data></Cell>
+    <Cell><Data ss:Type="String">kontantlån</Data></Cell>
+    <Cell><Data ss:Type="String">kontantlån</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">sammensatt substantiv av beetneh + lööneme</Data></Cell>
+    <Cell><Data ss:Type="String">beetneh-lööneme, beetneh-löönemasse</Data></Cell>
+    <Cell><Data ss:Type="String">lööneme beetnegijstie</Data></Cell>
+    <Cell><Data ss:Type="String">lån av penger</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">nååhtedidh</Data></Cell>
+    <Cell><Data ss:Type="String">bestille tid</Data></Cell>
+    <Cell><Data ss:Type="String">boka möte, beställa tid</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">nååhtedidh, nååhtede, nååhtedi, nååhteme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">Diverse</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">meajkedh</Data></Cell>
+    <Cell><Data ss:Type="String">rabattere</Data></Cell>
+    <Cell><Data ss:Type="String">ge rabatt</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">meajkedh, meajkoe, meajkaji, meajkeme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <PageBreakZoom>60</PageBreakZoom>
+   <PageLayoutZoom>100</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C15"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="Ark2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

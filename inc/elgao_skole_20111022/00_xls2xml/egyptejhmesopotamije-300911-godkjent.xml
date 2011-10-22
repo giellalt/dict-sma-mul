@@ -1,0 +1,1598 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Bruker</Author>
+  <LastAuthor>Ciprian Gerstenberger</LastAuthor>
+  <Created>2010-06-01T10:20:44Z</Created>
+  <LastSaved>2011-09-30T13:07:19Z</LastSaved>
+  <Company>HP</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <DOKID dt:dt="float">322523</DOKID>
+  <JPID dt:dt="float">2011014056</JPID>
+  <VARIANT dt:dt="string">P</VARIANT>
+  <VERSJON dt:dt="float">1</VERSJON>
+  <SERVER dt:dt="string">db</SERVER>
+  <DATABASE dt:dt="string">websak</DATABASE>
+  <BRUKERID dt:dt="string">1124</BRUKERID>
+  <VM_STATUS dt:dt="string">R</VM_STATUS>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>16</Index>
+    <RGB>#9999FF</RGB>
+   </Color>
+   <Color>
+    <Index>17</Index>
+    <RGB>#993366</RGB>
+   </Color>
+   <Color>
+    <Index>18</Index>
+    <RGB>#FFFFCC</RGB>
+   </Color>
+   <Color>
+    <Index>19</Index>
+    <RGB>#CCFFFF</RGB>
+   </Color>
+   <Color>
+    <Index>20</Index>
+    <RGB>#660066</RGB>
+   </Color>
+   <Color>
+    <Index>21</Index>
+    <RGB>#FF8080</RGB>
+   </Color>
+   <Color>
+    <Index>22</Index>
+    <RGB>#0066CC</RGB>
+   </Color>
+   <Color>
+    <Index>23</Index>
+    <RGB>#CCCCFF</RGB>
+   </Color>
+   <Color>
+    <Index>24</Index>
+    <RGB>#000080</RGB>
+   </Color>
+   <Color>
+    <Index>25</Index>
+    <RGB>#FF00FF</RGB>
+   </Color>
+   <Color>
+    <Index>26</Index>
+    <RGB>#FFFF00</RGB>
+   </Color>
+   <Color>
+    <Index>27</Index>
+    <RGB>#00FFFF</RGB>
+   </Color>
+   <Color>
+    <Index>28</Index>
+    <RGB>#800080</RGB>
+   </Color>
+   <Color>
+    <Index>29</Index>
+    <RGB>#800000</RGB>
+   </Color>
+   <Color>
+    <Index>30</Index>
+    <RGB>#008080</RGB>
+   </Color>
+   <Color>
+    <Index>31</Index>
+    <RGB>#0000FF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12160</WindowHeight>
+  <WindowWidth>24180</WindowWidth>
+  <WindowTopX>800</WindowTopX>
+  <WindowTopY>180</WindowTopY>
+  <TabRatio>600</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:Color="#DD0806"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Ark1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Ark1!R1C1:R1C32"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="32" ss:ExpandedRowCount="73" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s63" ss:DefaultColumnWidth="69.0"
+   ss:DefaultRowHeight="12.0">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="60.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="57.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="49.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="123.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="121.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="92.0" ss:Span="1"/>
+   <Column ss:Index="8" ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="219.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="212.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="140.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="138.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="145.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="171.0"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="108.0"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0"/>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Midgard</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kapittel</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Side</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Åarjelsaemien gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Nöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Svöörjen gïele</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Synonyjme</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Åarjelsaemien jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Daaroen jiehtegh</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoe-tjïerte</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen syjjehtimmie</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen definisjovne saemien gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen definisjovne daaroen gïelesne</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Baakoen gaaltije</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjïdtedehtedh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">dyrke </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">odla</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Greklaantesne olijven-moere sjïdtedehtieh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I Hellas dyrker de oliventrær.</Data></Cell>
+    <Cell><Data ss:Type="String">verb  </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjïdtedehtedh, sjïdtedahta, sjïdtedehti, sjïdtedahteme</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">jeanoe-kultuvre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">elvekultur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">flodkultur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">jeana-kultuvre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jeanoe-kultuvre Nijlen lïhke.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elvekulturen ved Nilen</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av jeanoe + kultuvre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">jeanoe-kultuvre, jeanoe-kultuvrese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 6</Data></Cell>
+    <Cell><Data ss:Type="String">sjïdtedidh</Data></Cell>
+    <Cell><Data ss:Type="String">vokse frem</Data></Cell>
+    <Cell><Data ss:Type="String">växa fram</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Stoerre staarh sjïdtin.</Data></Cell>
+    <Cell><Data ss:Type="String">Store byer vokste fram.</Data></Cell>
+    <Cell><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">sjïdtedh, sjædta, sjïdti, sjïdteme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 7</Data></Cell>
+    <Cell><Data ss:Type="String">åajas-laante</Data></Cell>
+    <Cell><Data ss:Type="String">fruktbar jord</Data></Cell>
+    <Cell><Data ss:Type="String">fruktbar jord</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s63"><Data ss:Type="String">Åajas-laantesne maajsem sjïdtedehtin.</Data></Cell>
+    <Cell><Data ss:Type="String">I den fruktbare jorda dyrket de mais.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av åajas + laante</Data></Cell>
+    <Cell><Data ss:Type="String">åajas-laante, åajas-laantese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mueltie-tsagkese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">jordvoll</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">jordvall</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Muelhtie-tsagkese tjaetsiem heerrede aabpesidh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jordvoller hindrer vann å renne over.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av mueltie + tsagkese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mueltie-tsagkese, mueltie-tsagkesasse</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kanaale</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kanal</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kanal</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kanaale akte jeanoe maam almetjh kroehkeme.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kanal er en elv som mennesker har gravd ut.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kanaale, kanaalese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jeanoem maam almetjh kroehkeme.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elv som menneskene har gravd ut.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tseegkeldahke<Font
+       html:Color="#DD0806" xmlns="http://www.w3.org/TR/REC-html40"> </Font></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">byggverk</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">byggnadsverk</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Stuarah sijhtieh tseegkeldahkh vuejnedh mah aajmene Egyptesne.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Turistene vil se byggverkene som er igjen i Egypt.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv av tseegkedh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tseegkeldahke, tseegkeldahkese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">våalohke </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">praktfull </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">praktfull, ståtlig</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egyptesne lij gellie våalohke tseegkeldahkh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I Egypt fantes flere praktfulle byggverk.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">våalohke, våalohkhs</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Biejjie-jupmele</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solgud</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solgud</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Faraove Biejjie-jupmelen elkine gåhtjoeji.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Farao ble kalt Solgudens sønn.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av biejjie + jupmele</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Biejjie-jupmele, Biejjie-jupmielasse</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ræjhkoesvoete</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rikdom</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rikedom</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dah faraovh ræjhkoesvoetem vuesiehtin dej våalohke tseegkeldahkigujmie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Faraoene viste sin rikdom ved å oppføre praktfulle byggverk.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv av ræjhkoes</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ræjhkoesvoete, ræjhkoesvoetese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="22.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptere</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egypter</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptier</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterh idtjin lyjhkh nyjsenæjja laantem reeri.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterne likte ikke at en kvinne styrte landet.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptere, egypterasse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">almetjh Egypteste</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">folk som er fra Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">loeves-skaavtjoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kunstig skjegg</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">konstgjort skägg</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">loeves-skaavtja</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dïhte loeves-skaavtjoem guedtieji.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hun bar kunstig skjegg.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av loeves + skaavtjoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">loeves-skaavtjoe, loeves-skaavtjose</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">loeves-voepth</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">parykk</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">peruk</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterh  loeves-voepth nåhtadin.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterne brukte parykker.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv loeves + voepth</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">loeves-voepth, loeves-voeptide</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 11</Data></Cell>
+    <Cell><Data ss:Type="String">Biejjien nïejte</Data></Cell>
+    <Cell><Data ss:Type="String">Solens datter</Data></Cell>
+    <Cell><Data ss:Type="String">Solens dotter</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Gujnes-faraove Biejjien nïejtine gåhtjoeji.</Data></Cell>
+    <Cell><Data ss:Type="String">Den kvinnlige faraoen ble kalt Solens datter.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell><Data ss:Type="String">Biejjien nïejte, Biejjien nïejtese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 12</Data></Cell>
+    <Cell><Data ss:Type="String">teempele</Data></Cell>
+    <Cell><Data ss:Type="String">tempel</Data></Cell>
+    <Cell><Data ss:Type="String">tempel</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah teempelinie årroejin.</Data></Cell>
+    <Cell><Data ss:Type="String">De bodde i templer.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">teempele, teempelasse</Data></Cell>
+    <Cell><Data ss:Type="String">stoerre gærhkoe</Data></Cell>
+    <Cell><Data ss:Type="String">stor kirke</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Biejjie-vïnhtse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solbåt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solbåt</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dïhte biejjie-vïnhtsine sigli.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Han seilte med solbåten.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av biejjie + vïnhtse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Biejjie-vïnhtse, Biejjie-vïnhtsese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjakaale</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjakal</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">schakal</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bavijane, sjakaale, gaahtoe, gribpe, falhke jïh krokodijle lin bissie-dyrjh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bavianen, sjakalen, katten, gribben, falken og krokodillen var hellige dyr.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjakaale, sjakaalese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">dyjre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">dyr</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hååneske-gaahkoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">honningkake</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">honungskaka</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hååneske-gaahka</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dah håneske-gaahkoeh beapmojne åadtjoejin.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">De fikk honningkaker å spise.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av hååneske + gaahkoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hååneske-gaahkoe, hååneske-gaahkose</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">plïejhke-gaalloen vuaksa   </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">okse med hvit flekk i pannen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">oxe med vit fläck i pannan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pleajhke-gaallan vuaksa </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dïhte lij tjeehpes plïejhke-gaalloen vuaksa.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Han var en sort okse med hvit flekk på pannen.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="35.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mööbele</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">møbel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">möbel</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kroeptesne lin vaeknieh jïh mööbelh gaavneme.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I gravene er det funnet våpen og møbler.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mööbele, mööbelasse</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 14</Data></Cell>
+    <Cell><Data ss:Type="String">kroepte</Data></Cell>
+    <Cell><Data ss:Type="String">gravkammer</Data></Cell>
+    <Cell><Data ss:Type="String">gravkammare</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dam kroeptese bïejin.</Data></Cell>
+    <Cell><Data ss:Type="String">Den ble satt inn i et gravkammer.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">kroepte, kroeptese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 14</Data></Cell>
+    <Cell><Data ss:Type="String">maaske</Data></Cell>
+    <Cell><Data ss:Type="String">maske (over ansiktet)</Data></Cell>
+    <Cell><Data ss:Type="String">mask över ansiktet</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Maaske meehti tjïelke gulleste årrodh.</Data></Cell>
+    <Cell><Data ss:Type="String">Masken kunne være av ekte gull.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">maaske, maaskese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 14</Data></Cell>
+    <Cell><Data ss:Type="String">tyjje-skurjie </Data></Cell>
+    <Cell><Data ss:Type="String">remse av stoff</Data></Cell>
+    <Cell><Data ss:Type="String">tygremsa</Data></Cell>
+    <Cell><Data ss:Type="String">tyjje-læstoe</Data></Cell>
+    <Cell><Data ss:Type="String">Kråahpem tyjje-skurjine gïebrin.</Data></Cell>
+    <Cell><Data ss:Type="String">Kroppen surret de inn i remser av stoff.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av tyjje + skurjie</Data></Cell>
+    <Cell><Data ss:Type="String">tyjje-skurjie, tyjje-skårjan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 14</Data></Cell>
+    <Cell><Data ss:Type="String">gejhkie laejrie</Data></Cell>
+    <Cell><Data ss:Type="String">soltørket leire</Data></Cell>
+    <Cell><Data ss:Type="String">soltorkad lera</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sïejve almetjh årroejin gåetine gejhkie leajroste.</Data></Cell>
+    <Cell><Data ss:Type="String">Vanlige folk bodde i hus av soltørket leire.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell><Data ss:Type="String">gejhkie laejrie, gejhkie laajran</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 14</Data></Cell>
+    <Cell><Data ss:Type="String">mumije</Data></Cell>
+    <Cell><Data ss:Type="String">mumie</Data></Cell>
+    <Cell><Data ss:Type="String">mumie</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Desnie kroepth dyjre-mumijgujmie.</Data></Cell>
+    <Cell><Data ss:Type="String">Det finnes gravplasser med dyremumier.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">mumije, mumijasse</Data></Cell>
+    <Cell><Data ss:Type="String">Gaalne mij gejhkeme jïh tyjje-læstojne gïebreldahkesne</Data></Cell>
+    <Cell><Data ss:Type="String">Lik som er blitt tørket og pakket inn i remser av stoff</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keopsen pyramijde</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keops-pyramiden</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keops-pyramiden</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keopsen pyramijde dïhte stööremes pyramijdijste.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keops-pyramiden er den største av pyramidene.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Keopsen pyramijde, Keopsen pyramijdese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 15</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kaalhke-gierkie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kalkstein</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kalksten</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pyramijde lij klytnjehke veelkes kaalhke-gïerkine gaptjeldihkie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pyramiden var dekket av skinnende hvit kalkstein.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv kaalhke + gierkie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kaalhke-gierkie, kaalhke-gearkan</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 16</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">vætnarasse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">håndverker</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hantverkare</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">vætnarassje</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Maehtetje vætnarassh teempelidie guvviejgujmie, tjaalegigujmie jïh relieffigujmie rïesin .</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dyktige håndverkere pyntet templene med malerier, skrift og relieffer.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">vætnarasse, vætnarassese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 16</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Deir el Bahrije</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Deir el Bahri</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Deir el Bahri</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Deir el Bahrije, Deir el Bahrijese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">staare Egyptesne</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">by i Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 16</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Karnake</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Karnak</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Karnak</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Karnake, Karnakese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">staare Egyptesne</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">by i Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 16</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gierkie-haajhke  </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">søyle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kolonn, pelare</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Dïhte akte stoerre teempele mij gierkie-haajhkine tjåadtjoen.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Det var ett stort tempel båret av søyler.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av gierkie + haajhke </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gierkie-haajhke, gierkie-haajhkese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 16</Data></Cell>
+    <Cell><Data ss:Type="String">egypten</Data></Cell>
+    <Cell><Data ss:Type="String">egyptisk</Data></Cell>
+    <Cell><Data ss:Type="String">egyptisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Egypten kroepth</Data></Cell>
+    <Cell><Data ss:Type="String">Egyptiske graver</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell><Data ss:Type="String">egypten</Data></Cell>
+    <Cell><Data ss:Type="String">mij akt mij Egypteste</Data></Cell>
+    <Cell><Data ss:Type="String">noe som er fra Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="19" ss:StyleID="s64"/>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 16</Data></Cell>
+    <Cell><Data ss:Type="String">gåetie-maalle</Data></Cell>
+    <Cell><Data ss:Type="String">modell av bolighus</Data></Cell>
+    <Cell><Data ss:Type="String">husmodell</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Kroeptine smaave gåetie-maallh gaavneme.</Data></Cell>
+    <Cell><Data ss:Type="String">I graver er det funnet små modeller av bolighus.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av gåetie + maalle</Data></Cell>
+    <Cell><Data ss:Type="String">gåetie-maalle, gåetie-mallese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 16</Data></Cell>
+    <Cell><Data ss:Type="String">relijeffe</Data></Cell>
+    <Cell><Data ss:Type="String">relieff</Data></Cell>
+    <Cell><Data ss:Type="String">relieff</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Maehtetje vætnarassh teempelidie guvviejgujmie, tjaalegigujmie jïh relieffigujmie rïesin.</Data></Cell>
+    <Cell><Data ss:Type="String">Dyktige håndverkere pyntet templene med malerier, skrift og relieffer.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">relijeffe, relijeffese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="22.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 16</Data></Cell>
+    <Cell><Data ss:Type="String">tjåadtjoen</Data></Cell>
+    <Cell><Data ss:Type="String">båret av</Data></Cell>
+    <Cell><Data ss:Type="String">uppburen av</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte akte stoerre teempele mij gierkie-haajhkine tjåadtjoen.</Data></Cell>
+    <Cell><Data ss:Type="String">Det var ett stort tempel båret av søyler.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 17</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sfinkse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sfinks</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sfinks</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dïhte åavtoes sfinkse.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Den mystiske sfinksen.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sfinkse, sfinksese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sfinksen lea lejonen bolle jïh almetjen åejjie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sfinksen har en løvekropp og et menneskehode.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 17</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">læjjonen bolle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">løvekropp</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lejonkropp</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sfinksen akten læjjonen bolle jïh almetjen åejjie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sfinksen har en løvekropp og et menneskehode.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">læjjonen bolle, læjjonen bollese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 18</Data></Cell>
+    <Cell><Data ss:Type="String">paehpere-plaerie</Data></Cell>
+    <Cell><Data ss:Type="String">papir-ark</Data></Cell>
+    <Cell><Data ss:Type="String">pappersark</Data></Cell>
+    <Cell><Data ss:Type="String">paehpere-arhke</Data></Cell>
+    <Cell><Data ss:Type="String">Plaeride njöömkehtallin paehpere-gabrine.</Data></Cell>
+    <Cell><Data ss:Type="String">Arkene ble klistret sammen til ruller.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av paehpere + plaerie</Data></Cell>
+    <Cell><Data ss:Type="String">paehpere-plaerie, paehpere-plaaran</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 18</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hieroglyfe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hieroglyfer</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hieroglyfer</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypteri tjaelegh hieroglyfine gåhtjobe.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterne hadde en skrift, som vi kaller hieroglyfer.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hieroglyfe, hieroglyfese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egypteri båeries guvvie-tjaeleme</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egypternes gamle bildeskrift</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 18</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">papyruse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">papyrus</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">papyrus</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypterh paehperh papyrusen stïelhkeste darjoejin.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypterne laget papir av stilken til papyrusen.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">papyruse, papyrusasse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">sjædtoe jïh paehpere</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">plante og papir</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 18</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">paehpere-gabre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">rull (av papir)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pappersrulle</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Plaeride njöömkehtallin paehpere-gabrine.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Arkene ble klistret sammen til ruller.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av paehpere + gabre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">paehpere-gabre, paehpere-gabrese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 20</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptologije</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptologi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptologi</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egyptologijen viehkine  åadtjobe Egypten bïjre lïeredh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ved hjelp av egyptologi får vi lære om Egypt.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">egyptologije, egyptoligijese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">learoe Egypten bïjre</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">læren om Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 23</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">faamohke</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mektig </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">mäktig</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">adjektiv  </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">faamohke, faamohks</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">akte mij stoerre faamoem åtna</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">en som har stor makt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 23</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">musihke-dïrrege</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">musikkinstrument</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">musikinstrument</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av musihke + dïrrege</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">musihke-dïrrege, musihke-dïrregasse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">musihkedïrrege</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">musikkinstrument</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 23</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">zigguraate</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ziggurat</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ziggurat </Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Babylonesne lij ziggurate, akte teempeletåarne jïjnjh laptigujmie.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">I Babylon var det en ziggurat, et tempeltårn med mange etasjer.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">zigguraate, zigguraatese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">stoerre tåarne man tempele beavnardahkesne</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">stor tårnbygning med et tempel på toppen</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 23</Data></Cell>
+    <Cell><Data ss:Type="String">sumeren</Data></Cell>
+    <Cell><Data ss:Type="String">sumerisk</Data></Cell>
+    <Cell><Data ss:Type="String">sumerisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Sumeren staare.</Data></Cell>
+    <Cell><Data ss:Type="String">Sumerisk by</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell><Data ss:Type="String">sumeren</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 23</Data></Cell>
+    <Cell><Data ss:Type="String">heamture-ligke</Data></Cell>
+    <Cell><Data ss:Type="String">eventyrlig, utrolig</Data></Cell>
+    <Cell><Data ss:Type="String">otrolig, sagolik</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Kroeptine heamture-ligke skaehtieh gaavneme: musihke-dïrregh jïh tjïelke-gierkieh.</Data></Cell>
+    <Cell><Data ss:Type="String">I graver har man funnet eventyrlige skatter: musikkinstrument og edelsteiner.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell><Data ss:Type="String">heamture-ligke, heamture-ligkes</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 23</Data></Cell>
+    <Cell><Data ss:Type="String">tjïelke-gierkie</Data></Cell>
+    <Cell><Data ss:Type="String">edelstein</Data></Cell>
+    <Cell><Data ss:Type="String">ädelsten</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Kroeptine heamture-ligke skaehtieh gaavneme: musihke-dïrregh jïh tjïelke-gierkieh.</Data></Cell>
+    <Cell><Data ss:Type="String">I graver har man funnet eventyrlige skatter: musikkinstrument og edelsteiner.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av tjïelke + gierkie</Data></Cell>
+    <Cell><Data ss:Type="String">tjïelke-gierkie, tjïelke-gearkan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell ss:Index="4"><Data ss:Type="String">jieniemdidh </Data></Cell>
+    <Cell><Data ss:Type="String">kopiere (mangfoldiggjøre)</Data></Cell>
+    <Cell><Data ss:Type="String">kopiera</Data></Cell>
+    <Cell><Data ss:Type="String">kopieradidh</Data></Cell>
+    <Cell><Data ss:Type="String">Dïhte lea 23 bielieh jïenemdamme.</Data></Cell>
+    <Cell><Data ss:Type="String">Hun har kopiert 23 sider.</Data></Cell>
+    <Cell><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">jieniemdidh, jienemde, jieniemdi, jieniemdamme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 24</Data></Cell>
+    <Cell><Data ss:Type="String">heeredh</Data></Cell>
+    <Cell><Data ss:Type="String">kopiere, ta etter</Data></Cell>
+    <Cell><Data ss:Type="String">kopier, ta efter</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Voestegh lohkehtæjja tjeeli jïh dellie dah learohkh seammalaakan jis.</Data></Cell>
+    <Cell><Data ss:Type="String">Læreren skrev først og elevene kopierte teksten.</Data></Cell>
+    <Cell><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">heeredh, heerede, heeredi, heeredamme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 24</Data></Cell>
+    <Cell><Data ss:Type="String">baakoe-lïhtse</Data></Cell>
+    <Cell><Data ss:Type="String">stavelse</Data></Cell>
+    <Cell><Data ss:Type="String">stavelse</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Væhtide mahte seamma-laakan lohkin goh mijjen baakoe-lïhtsh.</Data></Cell>
+    <Cell><Data ss:Type="String">Tegnene ble lest på omtrent samme måte som våre stavelser.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av baakoe + lïhtse</Data></Cell>
+    <Cell><Data ss:Type="String">baakoe-lïhtse, baakoe-lïhtsese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 24</Data></Cell>
+    <Cell><Data ss:Type="String">tjaeleme-dïrrege</Data></Cell>
+    <Cell><Data ss:Type="String">skriveredskap</Data></Cell>
+    <Cell><Data ss:Type="String">skrivredskap</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dah tjïehtin aaj tjaeleme-dïrregidie tjoehpedh.</Data></Cell>
+    <Cell><Data ss:Type="String">De måtte også skjære til skriveredskapet.</Data></Cell>
+    <Cell><Data ss:Type="String">sammensatt substantiv av tjaeleme + dïrrege</Data></Cell>
+    <Cell><Data ss:Type="String">tjaeleme-dïrrege, tjaeleme-dïrregasse</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">laejrie-taavla</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">leirtavle</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lertavla</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Voestegh tjïehtin lïeredh laejrie-taavlide darjodh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Først måtte de lære å lage leirtavlene sine.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av laejrie + taavla</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">laejrie-taavla, laejrie-taavlese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">fuemtie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">drake</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">drake</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">fuemtie, fåamtan</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lapte</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">etasje</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">etage, våning</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lapte, laptese</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 26</Data></Cell>
+    <Cell><Data ss:Type="String">babelen</Data></Cell>
+    <Cell><Data ss:Type="String">babelsk</Data></Cell>
+    <Cell><Data ss:Type="String">babelsk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Semiramise lij babelen trööhnege.</Data></Cell>
+    <Cell><Data ss:Type="String">Semiramis var en babelsk dronning.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell><Data ss:Type="String">babelen</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 26</Data></Cell>
+    <Cell><Data ss:Type="String">vuartasjidh</Data></Cell>
+    <Cell><Data ss:Type="String">studere (med øynene)</Data></Cell>
+    <Cell><Data ss:Type="String">studera med ögonen</Data></Cell>
+    <Cell><Data ss:Type="String">gïehtjedidh</Data></Cell>
+    <Cell><Data ss:Type="String">Tåarneste dah babylonerh meehtin naestie-elmiem vuartasjidh.</Data></Cell>
+    <Cell><Data ss:Type="String">I tårnet kunne babylonerne studere stjernehimmelen.</Data></Cell>
+    <Cell><Data ss:Type="String">verb</Data></Cell>
+    <Cell><Data ss:Type="String">vuartasjidh, vuartasje, vuartasji, vuartasjamme</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 26</Data></Cell>
+    <Cell><Data ss:Type="String">slåahte</Data></Cell>
+    <Cell><Data ss:Type="String">palass</Data></Cell>
+    <Cell><Data ss:Type="String">palats</Data></Cell>
+    <Cell><Data ss:Type="String">palasse</Data></Cell>
+    <Cell><Data ss:Type="String">Gånka slåahtem tseegki staaren jarngesne.</Data></Cell>
+    <Cell><Data ss:Type="String">Kongen bygde et palass midt i byen.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">slåahte, slåahtese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 29</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pyramijde</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pyramide</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pyramid</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jïjnjh Faraovh juvlejin pyramijdi sisnie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mange faraoer ble begravd i pyramider.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">pyramijde, pyramijdese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">stoerre kroepte-savka Egyptesne</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">stort gravkammer i Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 29</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bååjhkehke</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lærd</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">lärd </Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dah bååjhkehkh matematihkine jïh astronomijine barkin.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">De lærde arbeidet med matematikk og astronomi.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv av bååjhkehts</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bååjhkehke, bååjhkehkasse</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell><Data ss:Type="String">side 29</Data></Cell>
+    <Cell><Data ss:Type="String">reeredæjja</Data></Cell>
+    <Cell><Data ss:Type="String">hersker</Data></Cell>
+    <Cell><Data ss:Type="String">härskare</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Dïhte lij stoerre reeredæjja.</Data></Cell>
+    <Cell><Data ss:Type="String">Han var en stor hersker.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv av reeredh</Data></Cell>
+    <Cell><Data ss:Type="String">reeredæjja, reeredæjjese</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Hieroglyfenes gåte</Data></Cell>
+    <Cell><Data ss:Type="String">side 30</Data></Cell>
+    <Cell><Data ss:Type="String">symbovle</Data></Cell>
+    <Cell><Data ss:Type="String">symbole</Data></Cell>
+    <Cell><Data ss:Type="String">symbol</Data></Cell>
+    <Cell><Data ss:Type="String">væhta</Data></Cell>
+    <Cell><Data ss:Type="String">Vïenhtin væhtah ajve lin symbovlh.</Data></Cell>
+    <Cell><Data ss:Type="String">Man trodde att tegnene bare var symboler.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">symbovle, symbovlese</Data></Cell>
+    <Cell><Data ss:Type="String">symbovle mij maan-åvteste tjåådtje</Data></Cell>
+    <Cell><Data ss:Type="String">et tegn som står for noe</Data></Cell>
+    <Cell><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hieroglyfenes gåte</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kartusje</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kartusj</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kartusch</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gellie kartusjh gaavni Rosettan gierkien nelnie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">På Rosettasteinen fant han flere kartusjer.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kartusje, kartusjese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hieroglyfe man bïjre akte gievlie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">en hieroglyf som har en ring rundt seg</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hieroglyfenes gåte</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">museume</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">museum</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">museum</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Jïjnje destie maam gaavneme lea  museuminie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mye av det som er funnet er plassert i museer.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">museume, museumasse</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gåetie gusnie daeverh våarhkoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">hus med en samling av gjenstander</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Hieroglyfenes gåte</Data></Cell>
+    <Cell><Data ss:Type="String">side 31</Data></Cell>
+    <Cell><Data ss:Type="String">greeken</Data></Cell>
+    <Cell><Data ss:Type="String">gresk</Data></Cell>
+    <Cell><Data ss:Type="String">grekisk</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Daesnie akte greeken tjaeleme.</Data></Cell>
+    <Cell><Data ss:Type="String">Her fantes en gresk skrift.</Data></Cell>
+    <Cell><Data ss:Type="String">adjektiv</Data></Cell>
+    <Cell><Data ss:Type="String">greeken</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hieroglyfenes gåte</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">daevere-våarhkoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">samling (av ting)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">samling av föremål</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Stööremes daevere-våarhkoe Egypten tjeahposte lea Kairon museumisnie.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Den største samlingen av egyptisk kunst finnes på museet i Kairo.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av daevere + våarhkoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">daevere-våarhkoe, deavere-våarhkose</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="36.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kroepte-skaehtie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gravskatt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gravskatt</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nöörjesne maahta kroepte-skaehtieh Kultuvrehistovrijen Museumisnie Oslosne vuejnedh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I Norge kan man se gravskatter på Kulturhistorisk museum i Oslo.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sammensatt substantiv av kroepte + skaehtie</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kroepte-skaehtie, kroepte-skaahtan</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">side 32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bööremes-laakan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">på beste måte</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">bra, på ett bra sätt</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Museumisnie maahta daeverh bööremes-laakan vaarjelidh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I museene kan gjenstandene bevares på beste måte.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kroehkeme</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">utgraving</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">utgrävning</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Museumisnie maahta daeverh bööremes-laakan vaarjelidh.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I museene kan gjenstandene bevares på beste måte.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv av kroehkedh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">kroehkeme, kroehkemasse</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s64">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">side 32</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gaavnoe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">funn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">fynd</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Læstoeh tjaalasuvvieh gaajhki gaavnoej bïjre.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Det føres lister over alle funn.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">substantiv av gaavnedidh</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gaavnoe, gaavnose</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Godkjent</Data></Cell>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 32</Data></Cell>
+    <Cell><Data ss:Type="String">vigkie</Data></Cell>
+    <Cell><Data ss:Type="String">konflikt</Data></Cell>
+    <Cell><Data ss:Type="String">konflikt</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Vigkieh museumidie goerpedehtieh.</Data></Cell>
+    <Cell><Data ss:Type="String">Konflikter rammer museene.</Data></Cell>
+    <Cell><Data ss:Type="String">substantiv</Data></Cell>
+    <Cell><Data ss:Type="String">vigkie, vægkan</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="24.0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Historie 5</Data></Cell>
+    <Cell><Data ss:Type="String">Mesopotamia</Data></Cell>
+    <Cell><Data ss:Type="String">side 32</Data></Cell>
+    <Cell><Data ss:Type="String">julmies dahkoe</Data></Cell>
+    <Cell><Data ss:Type="String">terrorhandling</Data></Cell>
+    <Cell><Data ss:Type="String">terrorhandling</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="String">Museumh leah julmies dahkojste slahtjegamme.</Data></Cell>
+    <Cell><Data ss:Type="String">Museer har blitt ødelagt av terrorhandlinger.</Data></Cell>
+    <Cell><Data ss:Type="String">uttrykk</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">Elgå ref.gruppe</Data></Cell>
+    <Cell><Data ss:Type="String">Godkjent</Data></Cell>
+    <Cell ss:Index="25" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>110</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R1C1:R1C32"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="Ark2">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+   <Column ss:AutoFitWidth="0" ss:Width="135.0"/>
+   <Column ss:AutoFitWidth="0" ss:Width="153.0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Ark3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65.0" ss:DefaultRowHeight="12.0">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
