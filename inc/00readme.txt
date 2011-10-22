@@ -19,7 +19,7 @@ Evaluation of inc directory 14.9.2011 (cip/trond):
 * search_entry_in_file.xsl   = script
 * table2xml.xsl              = script
 * verb_sg3_mismatch.txt      = Ignore for now. Later: "ta en sjekk og stryke ut verb som er ok (S/M)"
-
+* elgao_skole_20111022       = new data in original format from the Elgå Skole URL (see Bug 1195)
 
 ---------------
 
@@ -152,9 +152,3 @@ sette
 søster
 ¥rrodh
 ......... and so on
-
-
-
-
-
-
