@@ -99,36 +99,6 @@ vijkingeaejkie-300911-godkjent.xml
 	  </content>
 	</xsl:variable>
 	
-	<xsl:variable name="result">
-	  <result>
-	    <xsl:copy-of select="doc($inFile)/fmp:FMPXMLRESULT/*[not(./name() = 'RESULTSET')]"/>
-	    <resultset>
-	      <xsl:for-each select="doc($inFile)/fmp:FMPXMLRESULT/fmp:RESULTSET/fmp:ROW">
-		<row>
-		  <xsl:for-each select="./@*">
-		    <xsl:copy-of select="."/>
-		  </xsl:for-each>
-		  <xsl:for-each select="./fmp:COL">
-		    <xsl:variable name="pos" select="position()"/>
-		    <col>
-		      <xsl:attribute name="label" select="$column_map/col[./@id = $pos]"/>
-		      <xsl:for-each select="./fmp:DATA[not(. = '')]">
-			<xsl:for-each select="tokenize(., '&#xa;')">
-			  <xsl:if test="not(normalize-space(.) = '')">
-			    <data>
-			      <xsl:value-of select="."/>
-			    </data>
-			  </xsl:if>
-			</xsl:for-each>
-		      </xsl:for-each>
-		    </col>
-		  </xsl:for-each>
-		</row>
-	      </xsl:for-each>
-	    </resultset>
-	  </result>
-	</xsl:variable>
-	
 	<!-- output document -->
 	<xsl:result-document href="{$outputDir}/result_{$file_name}.{$e}" format="{$output_format}">
 	  <output>
