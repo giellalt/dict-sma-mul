@@ -101,22 +101,22 @@
   <xsl:template name="processRow">
     <xsl:param name="theRow"/>
     <xsl:param name="thePosition"/>
-
-	<xsl:message terminate="no">
-	  <xsl:value-of select="concat('Position ', $thePosition)"/>
-	</xsl:message>
-
+    
+    <xsl:message terminate="no">
+      <xsl:value-of select="concat('Position ', $thePosition)"/>
+    </xsl:message>
     
     <xsl:variable name="elName" select="if (position() = 1) then 'label' else 'row'"/>
+    <xsl:variable name="isNonemptyRow" select="some $cell in $theRow satisfies not(normalize-space($cell) = '')"/>
     
-    <xsl:if test="some $cell in $theRow satisfies (every $data in $cell/*:Data//text() satisfies not(normalize-space($data) = ''))">
+    <xsl:if test="$isNonemptyRow">
       
       <xsl:element name="{$elName}">
 	<xsl:attribute name="cell_count">
-	  <xsl:value-of select="count($theRow//*:Cell[some $data in ./*:Data//text() satisfies not(normalize-space($data) = '')])"/>
+	  <xsl:value-of select="count($theRow//*:Cell[not(normalize-space(.) = '')])"/>
 	</xsl:attribute>
 	
-	<xsl:for-each select="$theRow//*:Cell[some $data in ./*:Data//text() satisfies not(normalize-space($data) = '')]">
+	<xsl:for-each select="$theRow//*:Cell[not(normalize-space(.) = '')]">
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing column: ', .)"/>
 	  </xsl:message>
