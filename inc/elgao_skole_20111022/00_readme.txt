@@ -2,7 +2,7 @@ Terminologilister frå Elgå
 
 Dette er filer for terminologi i samfunnsfaga.
 
-00_xsl2xml/ er Cip sine konverterte xml-filer
+00_xsl2xml/ er Cip sine konverterte xml-filer (@cip: ja, dvs at cip trenger ingen kommaseparerte filer; ergo: csv-katalogene er overfladige)
 orig/ inneheld originalfilene
 names/ er dei filene som inneheld namn
 terms/ er dei filene som inneheld terminologi
