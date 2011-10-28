@@ -201,3 +201,30 @@ vi vil fjerne teksten i miniparadgimet (dïhte båata) og vi vil ha 'verbgen.' s
  tag istedenfor 'gen. v.'
  ==> done and tested
 
+
+Last comments from Trond:
+
+
+To ting:
+
+1. presens er markert som "daenbiejjien". Dagens norm er "daan biejjien", dvs. 
+(daan biejjien manne) vaadtsam
+... etc.
+
+Men forma "daenbiejjien" står i den viktigaste læreboka, så vi kan leve med det.
+
+ø/ö-relax:
+
+For macdict er ø-formene lagt inn som oppslag:
+
+Både bööti (norm) og bøøti (brukt i Noreg)
+viser til båetedh.
+
+Dette er i macdict ordna med dobbelgenererering.
+
+Det er fint å ha denne funksjonen, og til skilnad frå "daan biejjien" er det viktig.
+
+ ==> to check and if possible to implement
+
+
+
