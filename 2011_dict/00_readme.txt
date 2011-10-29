@@ -213,7 +213,9 @@ To ting:
 
 Men forma "daenbiejjien" står i den viktigaste læreboka, så vi kan leve med det.
 
-ø/ö-relax:
+ ==> TODO
+
+2. ø/ö-relax:
 
 For macdict er ø-formene lagt inn som oppslag:
 
@@ -224,7 +226,8 @@ Dette er i macdict ordna med dobbelgenererering.
 
 Det er fint å ha denne funksjonen, og til skilnad frå "daan biejjien" er det viktig.
 
- ==> to check and if possible to implement
+ ==> TODO: to check and if possible to implement
 
-
+3. update the webdict
+ ==> TODO
 
