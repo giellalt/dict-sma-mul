@@ -229,5 +229,5 @@ Det er fint å ha denne funksjonen, og til skilnad frå "daan biejjien" er det v
  ==> TODO: to check and if possible to implement
 
 3. update the webdict
- ==> TODO
+ ==> DONE
 
