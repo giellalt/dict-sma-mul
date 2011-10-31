@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!--+
     | 
-    | change the FileMaker XML files into something human-readable 
-    | Usage: java net.sf.saxon.Transform -it main STYLESHEET_NAME.xsl inFile=INPUT_FILE_NAME.xml
+    | change the 2004-xml-spreadsheet XML files into a simpler xml format
+    | Usage: java net.sf.saxon.Transform -it main STYLESHEET_NAME.xsl (inFile=INPUT_FILE_NAME.xml | inDir=INPUT_DIR)
     +-->
 
 <xsl:stylesheet version="2.0"
