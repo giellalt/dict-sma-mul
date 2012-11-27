@@ -74,5 +74,3 @@ Cleanup before new compilation autumn 2011:
 
 As far as I remember it is not needed for the dictionary, only for Oahpa.
 
-
-
