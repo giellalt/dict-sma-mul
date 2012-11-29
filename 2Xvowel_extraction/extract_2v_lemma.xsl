@@ -70,8 +70,7 @@
 	</xsl:message-->
 
 	<data file_id="{$current_file}">
-	  <xsl:for-each select="./r/e">
-	    
+	  <xsl:for-each select='./r/e[./lg/l[matches(normalize-space(.),"^([bdfghjklmnprstvx’]*)([aeiouyåæïö]+)([bdfghjklmnprstvx’]+)([aeiouyåæïö]+)([bdfghjklmnprstvx’]*)$")]]'>
 	    <xsl:message terminate="no">
 	      <xsl:value-of select="concat('e: ', ./lg/l)"/>
 	    </xsl:message>
@@ -89,17 +88,11 @@
 	      </i>
 	    </xsl:variable>
 	    
-	      <xsl:variable name="cLemma" select="normalize-space(./lg/l)"/>
-	      <xsl:analyze-string select="$cLemma" regex="^([bdfghjklmnprstvx’]*)([aeiouyåæïö]+)([bdfghjklmnprstvx’]+)([aeiouyåæïö]+)([bdfghjklmnprstvx’]*)$">
-		<xsl:matching-substring>
-		  <l>
-		    <xsl:copy-of select="$info/i/@*"/>
-		      <xsl:value-of select="$cLemma"/>
-		  </l>
-		  </xsl:matching-substring>
-		  <xsl:non-matching-substring>
-		</xsl:non-matching-substring>
-	      </xsl:analyze-string>
+	    <xsl:variable name="cLemma" select="normalize-space(./lg/l)"/>
+	    <l>
+	      <xsl:copy-of select="$info/i/@*"/>
+	      <xsl:value-of select="$cLemma"/>
+	    </l>
 	  </xsl:for-each>
 	</data>
       </xsl:result-document>

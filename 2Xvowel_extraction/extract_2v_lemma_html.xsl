@@ -65,7 +65,7 @@
       <xsl:variable name="current_location" select="concat($inDir, substring-after($current_dir, $inDir))"/>
       
       <xsl:message terminate="no">
-	<xsl:value-of select="concat('Processing file: ', $current_file)"/>
+	<xsl:value-of select="concat('Processing file: ', $current_file, $nl)"/>
 	<xsl:value-of select="concat('Location: ', $current_dir, $nl)"/>
       </xsl:message>
       
@@ -84,8 +84,7 @@
 	    
             <table class="sortable" border="1" cellpadding="10" cellspacing="0">
 	      <tr><th>no.</th><th>lemma</th><th width="50px">translation</th><th width="50px">soggi</th><th width="50px">stem</th></tr>
-	      <xsl:for-each select="./r/e">
-	    
+	      <xsl:for-each select='./r/e[./lg/l[matches(normalize-space(.),"^([bdfghjklmnprstvx’]*)([aeiouyåæïö]+)([bdfghjklmnprstvx’]+)([aeiouyåæïö]+)([bdfghjklmnprstvx’]*)$")]]'>
 		<xsl:message terminate="no">
 		  <xsl:value-of select="concat('e: ', ./lg/l)"/>
 		</xsl:message>
@@ -104,27 +103,19 @@
 		</xsl:variable>
 		
 		<xsl:variable name="cLemma" select="normalize-space(./lg/l)"/>
-		<xsl:analyze-string select="$cLemma" regex="^([bdfghjklmnprstvx’]*)([aeiouyåæïö]+)([bdfghjklmnprstvx’]+)([aeiouyåæïö]+)([bdfghjklmnprstvx’]*)$">
-		  <xsl:matching-substring>
-		    <tr>
-		      <td></td>
-		      <td><xsl:value-of select="$cLemma"/></td>
-		      <td width="50px"><span style="font-style:italic; color:grey"><xsl:value-of select="$info/i/@translation"/></span></td>
-		      <td width="50px"><xsl:value-of select="$info/i/@soggi"/></td>
-		      <td width="50px"><xsl:value-of select="$info/i/@stem"/></td>
-		    </tr>
-		  </xsl:matching-substring>
-		  <xsl:non-matching-substring>
-		  </xsl:non-matching-substring>
-		</xsl:analyze-string>
+		<tr>
+		  <td><xsl:value-of select="position()"/></td>
+		  <td><xsl:value-of select="$cLemma"/></td>
+		  <td width="50px"><span style="font-style:italic; color:grey"><xsl:value-of select="$info/i/@translation"/></span></td>
+		  <td width="50px"><xsl:value-of select="$info/i/@soggi"/></td>
+		  <td width="50px"><xsl:value-of select="$info/i/@stem"/></td>
+		</tr>
 	      </xsl:for-each>
 	    </table>
 	  </body>
 	</html>
       </xsl:result-document>
-      
     </xsl:for-each>
-    
   </xsl:template>
   
 </xsl:stylesheet>
