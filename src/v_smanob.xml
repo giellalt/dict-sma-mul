@@ -4714,7 +4714,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">fråga</t>
-            <t pos="v">förhöra sig om något</t>
+            <t pos="v">förhöra sig</t>
          </tg>
       </mg>
    </e>
@@ -4729,7 +4729,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase_v">spørre ut</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">fråga om och om igen</t>
+            <t pos="v" re="om och om igen">fråga</t>
          </tg>
       </mg>
    </e>
@@ -6753,7 +6753,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">fornærme</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">förnärma (någon)</t>
+            <t pos="v">förnärma</t>
          </tg>
       </mg>
    </e>
@@ -6899,7 +6899,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">heve</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">jäsa (om deg)</t>
+            <t pos="v" re="(om deg)">jäsa</t>
          </tg>
       </mg>
    </e>
@@ -7074,7 +7074,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">tilrettelegge</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">uppmuntra (till arbete), uppegga</t>
+            <t pos="v" re="till arbete">uppmuntra</t>
+            <t pos="v">uppegga</t>
          </tg>
       </mg>
    </e>
@@ -7617,7 +7618,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">lukte møkk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dofta (av frodig växtlighet)</t>
+            <t pos="v" re="av frodig växtlighet">dofta</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">lukta gödsel</t>
@@ -7662,7 +7663,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bruse med vingene slik at det høres</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">flyga upp så det hörs (om järpe)</t>
+            <t pos="v" re="om järpe">flyga upp så det hörs</t>
          </tg>
       </mg>
    </e>
@@ -8602,7 +8603,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">mate med skje</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">mata (barn) med sked</t>
+            <t pos="v" re="barn">mata med sked</t>
          </tg>
       </mg>
    </e>
@@ -8769,7 +8770,9 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase_v">la komme bort</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">mista, förlora, låta komma bort (t.ex. om ren)</t>
+            <t pos="v" re="(t.ex. om ren)">mista</t>
+            <t pos="v" re="(t.ex. om ren)">förlora</t>
+            <t pos="v" re="(t.ex. om ren)">låta komma bort</t>
          </tg>
       </mg>
    </e>
@@ -9554,7 +9557,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">tvivla</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">akta, ta hänsyn till (något)</t>
+            <t pos="v">akta</t>
+            <t pos="v">ta hänsyn till</t>
          </tg>
       </mg>
    </e>
@@ -10183,11 +10187,11 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_v">spørre flere</tf>
+            <tf pos="phrase_v" re="flere">spørre</tf>
             <tf pos="phrase_v">forhøre seg</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">fråga (flera personer eller flera gånger)</t>
+            <t pos="v" re="(flera personer eller flera gånger)">fråga</t>
          </tg>
       </mg>
    </e>
@@ -10429,7 +10433,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">krabbe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">krypa (t.ex. om larv), krypa på alla fyra</t>
+            <t pos="v" re="(t.ex. om larv)">krypa</t>
+            <t pos="v" re="på alla fyra">krypa</t>
          </tg>
       </mg>
    </e>
@@ -12529,7 +12534,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">henge opp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hänga upp (en sak)</t>
+            <t pos="v" re="en sak">hänga upp</t>
          </tg>
       </mg>
    </e>
@@ -12848,8 +12853,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">betrakte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">se över, se grundligt efter, undersöka (om alla renar er där, om främmande renar kommit in i
-            hjorden)</t>
+            <t pos="v">se över</t>
+            <t pos="v">se grundligt efter</t>
+            <t pos="v" re="(om alla renar er där, om främmande renar kommit in i hjorden)">undersöka</t>
          </tg>
       </mg>
    </e>
@@ -13410,7 +13416,7 @@ For the full license text, see the link above.</lic>
             <t pos="v" re="plötsligt">bita till</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva (om varg)</t>
+            <t pos="v" re="(om varg)">riva</t>
          </tg>
       </mg>
    </e>
@@ -13515,7 +13521,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">kasta ut</t>
-            <t pos="v">välta (tält, om vind)</t>
+            <t pos="v" re="(tält, om vind)">välta</t>
          </tg>
       </mg>
    </e>
@@ -13593,10 +13599,10 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_v">kaste flere gang</tf>
+            <tf pos="phrase_v" re="flere gang">kaste</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">kasta flera gånger el. saker)</t>
+            <t pos="v" re="flera gånger el. saker">kasta</t>
          </tg>
       </mg>
    </e>
@@ -13611,7 +13617,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">klynke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ge iftån sig små ljud (om hund)</t>
+            <t pos="v" re="(om hund)">ge iftån sig små ljud</t>
          </tg>
       </mg>
    </e>
@@ -13692,7 +13698,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">hakke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hacka upp (t.ex. kött)</t>
+            <t pos="v" re="(t.ex. kött)">hacka upp</t>
          </tg>
       </mg>
    </e>
@@ -13752,7 +13758,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">strö ut</t>
-            <t pos="v">sprida/skingra (renhjord)</t>
+            <t pos="v" re="(renhjord)">sprida</t>
+            <t pos="v" re="(renhjord)">skingra</t>
          </tg>
       </mg>
    </e>
@@ -14222,7 +14229,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">hisse i veg hunden</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sända iväg (hunden för att samla el. driva renar)</t>
+            <t pos="v" re="(hunden för att samla el. driva renar)">sända iväg</t>
          </tg>
       </mg>
    </e>
@@ -15350,7 +15357,7 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase_v">dele ut</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dela ut (till flera)</t>
+            <t pos="v" re="(till flera)">dela ut</t>
          </tg>
       </mg>
    </e>
@@ -15457,10 +15464,10 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_v">spenne på seg ski</tf>
+            <tf pos="phrase_v" re="ski">spenne på seg</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">spänna på (skidor)</t>
+            <t pos="v" re="(skidor)">spänna på</t>
          </tg>
       </mg>
    </e>
@@ -16348,11 +16355,12 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <tf pos="phrase_v">få vondt i øynene om våren med sol på snøen</tf>
+            <tf pos="phrase_v" re="om våren med sol på snøen">få vondt i øynene</tf>
             <t pos="v">blendes</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">smärta, bländas (om ögonen)</t>
+            <t pos="v" re="(om ögonen)">smärta</t>
+            <t pos="v" re="(om ögonen)">bländas</t>
          </tg>
       </mg>
    </e>
@@ -18493,7 +18501,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">hvile</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">blåsa/virvla över väg (om snö)</t>
+            <t pos="v" re="(om snö)">blåsa</t>
+            <t pos="v" re="(om snö)">virvla över väg</t>
          </tg>
       </mg>
    </e>
@@ -22418,14 +22427,14 @@ For the full license text, see the link above.</lic>
       <stem class="bisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">like noen</t>
+            <t pos="v" re="noen">like</t>
             <xg>
                <x>Ij sån nïekh gænnah.</x>
                <xt>Han liker henne vel ikke.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">tycka om en person)</t>
+            <t pos="v" re="om en person">tycka</t>
          </tg>
       </mg>
    </e>
@@ -22946,7 +22955,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">jamre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">buckla till (tex. kaffepanna)</t>
+            <t pos="v" re="(tex. kaffepanna)">buckla till</t>
          </tg>
       </mg>
    </e>
@@ -23220,7 +23229,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">jaga upp</t>
-            <t pos="v">skrämma (djur)</t>
+            <t pos="v" re="(djur)">skrämma</t>
          </tg>
       </mg>
    </e>
@@ -23741,7 +23750,9 @@ For the full license text, see the link above.</lic>
             <tf pos="phrase_v">stikke hull i med syl</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">lägga, sticka, stoppa ned (tex. i påse)</t>
+            <t pos="v" re="(tex. i påse)">lägga</t>
+            <t pos="v" re="(tex. i påse)">sticka</t>
+            <t pos="v" re="(tex. i påse)">stoppa ned</t>
          </tg>
       </mg>
    </e>
@@ -24251,7 +24262,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">rødme</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bli röd, rodna, visa sej röd (dagen, kvällen, månen)</t>
+            <t pos="v" re="(dagen, kvällen, månen)">bli röd</t>
+            <t pos="v" re="(dagen, kvällen, månen)">rodna</t>
+            <t pos="v" re="(dagen, kvällen, månen)">visa sej röd</t>
          </tg>
       </mg>
    </e>
@@ -24795,7 +24808,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">vinke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vinka, göra tecken (med handen)</t>
+            <t pos="v" re="(med handen)">vinka</t>
+            <t pos="v" re="(med handen)">göra tecken</t>
          </tg>
       </mg>
    </e>
@@ -24861,7 +24875,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">strø</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">så, strö/sprida ngt (tex. renhjord)</t>
+            <t pos="v" re="ngt; (tex. renhjord)">så</t>
+            <t pos="v" re="ngt; (tex. renhjord)">strö</t>
+            <t pos="v" re="ngt; (tex. renhjord)">sprida</t>
          </tg>
       </mg>
    </e>
@@ -28076,10 +28092,10 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">gynge komse eller vugge</t>
+            <t pos="v" re="komse eller vugge">gynge</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">gunga (vagga)</t>
+            <t pos="v" re="(vagga)">gunga</t>
          </tg>
       </mg>
    </e>
@@ -28123,7 +28139,7 @@ For the full license text, see the link above.</lic>
             <t pos="phrase_v">forandre retning</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ta av från (tex. stig)</t>
+            <t pos="v" re="(tex. stig)">ta av från</t>
          </tg>
       </mg>
    </e>
@@ -31265,16 +31281,16 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">pakke</t>
-            <tf pos="phrase_v">putte forskjellige ting i noe</tf>
+            <tf pos="phrase_v" re="forskjellige ting i noe">putte</tf>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">pakke i sekk</t>
-            <t pos="v">putte forskjellige ting i noe</t>
+            <t pos="v" re="i sekk">pakke</t>
+            <t pos="v" re="forskjellige ting i noe">putte</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="swe">
-            <t pos="v">træ (perler på snor)</t>
+            <t pos="v" re="(perler på snor)">træ</t>
          </tg>
       </mg>
    </e>
@@ -33725,7 +33741,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bli nykter</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">besinna sig (efter ilska)</t>
+            <t pos="v" re="(efter ilska)">besinna sig</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">bli var</t>
@@ -33740,7 +33756,7 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"></stem>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">klargjøre noe for noen</t>
+            <t pos="v" re="noe for noen">klargjøre</t>
             <t pos="v">rette søkelyset mot</t>
          </tg>
          <tg xml:lang="swe">
@@ -34994,7 +35010,10 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bli led, tappa lusten, tröttna (på något), få nog (av något)</t>
+            <t pos="v">bli led</t>
+            <t pos="v">tappa lusten</t>
+            <t pos="v" re="(på något)">tröttna</t>
+            <t pos="v" re="(av något)">få nog</t>
          </tg>
       </mg>
    </e>
@@ -42033,10 +42052,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">klarne om hode</t>
+            <t pos="v" re="om hode">klarne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">klarne (om hode)</t>
+            <t pos="v" re="(om hode)">klarne</t>
          </tg>
       </mg>
    </e>
@@ -46850,7 +46869,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">holde på å narre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hålla på narra, lura i en bestämd avsikt, av ett särskillt skäl)</t>
+            <t pos="v">hålla på narra</t>
+            <t pos="v" re=" i en bestämd avsikt; av ett särskillt skäl">lura</t>
          </tg>
       </mg>
    </e>
@@ -47536,10 +47556,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">barke flere ganger</t>
+            <t pos="v" re="flere ganger">barke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">barka flera gånger)</t>
+            <t pos="v" re="flera gånger">barka</t>
          </tg>
       </mg>
    </e>
@@ -47692,10 +47712,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">barke flere ting</t>
+            <t pos="v" re="flere ting">barke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">barka flera saker)</t>
+            <t pos="v" re="flera saker">barka</t>
          </tg>
       </mg>
    </e>
@@ -47890,7 +47910,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">slå ball</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">slå boll)</t>
+            <t pos="v">slå boll</t>
          </tg>
       </mg>
    </e>
@@ -48671,9 +48691,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <t pos="v">klarna</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="v">klarna, bli klart efter dimma)</t>
+            <t pos="v">bli klart efter dimma</t>
          </tg>
       </mg>
    </e>
@@ -50022,7 +50040,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">orke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">kunna, orka förmå</t>
+            <t pos="v">kunna</t>
+            <t pos="v">orka förmå</t>
          </tg>
       </mg>
    </e>
@@ -50035,7 +50054,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">barke av</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">barka av (träd)</t>
+            <t pos="v" re="(träd)">barka av</t>
          </tg>
       </mg>
    </e>
@@ -50117,7 +50136,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">brette ut</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">breda ut (t.ex. kläder)</t>
+            <t pos="v" re="(t.ex. kläder)">breda ut</t>
          </tg>
       </mg>
    </e>
@@ -50130,7 +50149,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stikke ned</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sticka ned (ren)</t>
+            <t pos="v" re="(ren)">sticka ned</t>
          </tg>
       </mg>
    </e>
@@ -50144,7 +50163,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">blåse opp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">blåsa på, blåsa upp (t.ex. ballong)</t>
+            <t pos="v" re="(t.ex. ballong)">blåsa på</t>
+            <t pos="v" re="(t.ex. ballong)">blåsa upp</t>
          </tg>
       </mg>
    </e>
@@ -50480,10 +50500,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">rise småbarn</t>
+            <t pos="v" re="småbarn">rise</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">daska, risa (t.ex. småbarn)</t>
+            <t pos="v" re="(t.ex. småbarn)">daska</t>
+            <t pos="v" re="(t.ex. småbarn)">risa</t>
          </tg>
       </mg>
    </e>
@@ -50509,7 +50530,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">slå med noe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">slå till (med ett föremål)</t>
+            <t pos="v" re="(med ett föremål)">slå till</t>
          </tg>
       </mg>
    </e>
@@ -50809,7 +50830,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">få hard skare</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">få hård skare (om fjäll)</t>
+            <t pos="v" re="(om fjäll)">få hård skare</t>
          </tg>
       </mg>
    </e>
@@ -51139,7 +51160,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">sende i vei</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">jaga, slå med ris, jaga till skogs (kossor)</t>
+            <t pos="v" re="(kossor)">jaga</t>
+            <t pos="v" re="(kossor)">slå med ris</t>
+            <t pos="v" re="(kossor)">jaga till skogs</t>
          </tg>
       </mg>
    </e>
@@ -51191,7 +51214,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">holde</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hålla (bröllop, ord, vatten, om sko)</t>
+            <t pos="v" re="(bröllop, ord, vatten, om sko)">hålla</t>
          </tg>
       </mg>
    </e>
@@ -51635,7 +51658,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">skinne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">blinka, glänsa (tex. stjärna)</t>
+            <t pos="v" re="(tex. stjärna)">blinka</t>
+            <t pos="v" re="(tex. stjärna)">glänsa</t>
          </tg>
       </mg>
    </e>
@@ -51645,10 +51669,12 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">straffe, age</t>
+            <t pos="v">straffe</t>
+            <t pos="v">age</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">straffa, aga</t>
+            <t pos="v">straffa</t>
+            <t pos="v">aga</t>
          </tg>
       </mg>
    </e>
@@ -51956,7 +51982,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">få tak i</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">få tag i, införskaffa</t>
+            <t pos="v">få tag i</t>
+            <t pos="v">införskaffa</t>
          </tg>
       </mg>
    </e>
@@ -51969,7 +51996,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">rispe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bara rispa, repa (om kniv)</t>
+            <t pos="v" re="(om kniv)">bara rispa</t>
+            <t pos="v" re="(om kniv)">repa</t>
          </tg>
       </mg>
    </e>
@@ -52051,7 +52079,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">sprake</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">smärta/smälla (om eld)</t>
+            <t pos="v" re="(om eld)">smärta</t>
+            <t pos="v" re="(om eld)">smälla</t>
          </tg>
       </mg>
    </e>
@@ -52173,7 +52202,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">bli isbelagt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">isas ned, isbeläggas (tex. skida)</t>
+            <t pos="v" re="(tex. skida)">isas ned</t>
+            <t pos="v" re="(tex. skida)">isbeläggas</t>
          </tg>
       </mg>
    </e>
@@ -52616,7 +52646,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">skave</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skava (tex. om sko)</t>
+            <t pos="v" re="(tex. om sko)">skava</t>
          </tg>
       </mg>
    </e>
@@ -52776,7 +52806,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">dra seg unna</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">gå i uväntad riktning (om renhjord), dra sig undan (både om människor och djur)</t>
+            <t pos="v" re="(om renhjord)">gå i uväntad riktning</t>
+            <t pos="v" re="(både om människor och djur)">dra sig undan</t>
          </tg>
       </mg>
    </e>
@@ -52828,7 +52859,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bjeffe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skälla (om hund)</t>
+            <t pos="v" re="(om hund)">skälla</t>
          </tg>
       </mg>
    </e>
@@ -52867,7 +52898,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bjeffe til</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skälla en gång (om hund)</t>
+            <t pos="v" re="en gång; (om hund)">skälla</t>
          </tg>
       </mg>
    </e>
@@ -53066,7 +53097,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">være vanskelig å ha og gjøre med</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vara svår att ha och göra med (berusad eller sinnessjuk person)</t>
+            <t pos="v" re="(berusad eller sinnessjuk person)">vara svår att ha och göra med</t>
          </tg>
       </mg>
    </e>
@@ -53092,7 +53123,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stryke av</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sryka av (tex. vatten från ngt)</t>
+            <t pos="v" re="(tex. vatten från ngt)">sryka av</t>
          </tg>
       </mg>
    </e>
@@ -53141,10 +53172,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">bite en gang</t>
+            <t pos="v" re="en gang">bite</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bita en gång (om hund)</t>
+            <t pos="v" re="en gång; (om hund)">bita</t>
          </tg>
       </mg>
    </e>
@@ -53329,7 +53360,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">pakke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">packa (tex. för flytt)</t>
+            <t pos="v" re="(tex. för flytt)">packa</t>
          </tg>
       </mg>
    </e>
@@ -53477,7 +53508,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">rive av</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva av, skada</t>
+            <t pos="v">riva av</t>
+            <t pos="v">skada</t>
          </tg>
       </mg>
    </e>
@@ -53497,8 +53529,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">spise knoppskudd</t>
          </tg>
          <tg xml:lang="swe">
-            <re>om fågel</re>
-            <t pos="v">äta (om fågel)/hugga ner träd för att renen ska komma åt laven/falla (om löv)</t>
+            <t pos="v" re="(om fågel)">äta</t>
+            <t pos="v">hugga ner träd för att renen ska komma åt laven</t>
+            <t pos="v" re="(om löv)">falla</t>
          </tg>
       </mg>
    </e>
@@ -53513,7 +53546,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om hund_SWE</re>
-            <t pos="v">stjäla el. förstöra ngt för att ha att tugga på</t>
+            <t pos="v">stjäla ngt för att ha att tugga på</t>
+            <t pos="v">förstöra ngt för att ha att tugga på</t>
          </tg>
       </mg>
    </e>
@@ -53887,10 +53921,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">stikke nakkstikk på flera</t>
+            <t pos="v" re="på flera">stikke nakkstikk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sticka nackstick (på flera)</t>
+            <t pos="v" re="(på flera)">sticka nackstick</t>
          </tg>
       </mg>
    </e>
@@ -54178,7 +54212,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bli igjen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ble efter (om flera)</t>
+            <t pos="v" re="(om flera)">ble efter</t>
          </tg>
       </mg>
    </e>
@@ -54217,7 +54251,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">løfte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">lyfta (en sten)</t>
+            <t pos="v" re="(en sten)">lyfta</t>
          </tg>
       </mg>
    </e>
@@ -54491,10 +54525,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">røyke tobakk</t>
+            <t pos="v" re="tobakk">røyke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ryka (om tobak)</t>
+            <t pos="v" re="(om tobak)">ryka</t>
          </tg>
       </mg>
    </e>
@@ -54532,10 +54566,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">stable oppi flere stabler</t>
+            <t pos="v" re="flere stabler">stable oppi</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stapla upp (i flera staplar)</t>
+            <t pos="v" re="(i flera staplar)">stapla upp</t>
          </tg>
       </mg>
    </e>
@@ -54584,10 +54618,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">dra pe</t>
+            <t pos="v">drepe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">döda (ett djur)</t>
+            <t pos="v" re="(ett djur)">döda</t>
          </tg>
       </mg>
    </e>
@@ -54600,7 +54634,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stikke ned</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sticka ned (t.ex. ren)</t>
+            <t pos="v" re="(t.ex. ren)">sticka ned</t>
          </tg>
       </mg>
    </e>
@@ -54631,10 +54665,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">kaste puddersnø på noen</t>
+            <t pos="v" re="på noen">kaste puddersnø</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">kasta pudersnö (på person)</t>
+            <t pos="v" re="(på person)">kasta pudersnö</t>
          </tg>
       </mg>
    </e>
@@ -54722,10 +54756,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">drukne et dyr</t>
+            <t pos="v" re="et dyr">drukne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dränka (ett djur)</t>
+            <t pos="v" re="(ett djur)">dränka</t>
          </tg>
       </mg>
    </e>
@@ -54817,7 +54851,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bekjenne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bekänna (sina synder)</t>
+            <t pos="v" re="(sina synder)">bekänna</t>
          </tg>
       </mg>
    </e>
@@ -54949,7 +54983,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stikke hjertestikket</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sticka hjärtsticket (på ren)</t>
+            <t pos="v" re="(på ren)">sticka hjärtsticket</t>
          </tg>
       </mg>
    </e>
@@ -54962,7 +54996,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stikke hjertestikket</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sticka hjärtsticket (på ren)</t>
+            <t pos="v" re="(på ren)">sticka hjärtsticket</t>
          </tg>
       </mg>
    </e>
@@ -55238,7 +55272,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">blåse ut</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">blåsa ut (ljus,lampa)</t>
+            <t pos="v" re="(ljus,lampa)">blåsa ut</t>
          </tg>
       </mg>
    </e>
@@ -55426,7 +55460,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">være urolig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vara eller blir orolig (om människa)</t>
+            <t pos="v" re="(om människa)">vara orolig</t>
+            <t pos="v" re="(om människa)">blir orolig</t>
             <t pos="v">kasta sig hit och dit</t>
          </tg>
       </mg>
@@ -55464,7 +55499,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">måtte snu</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">inte komma vidare (vara tvungen att vända)</t>
+            <t pos="v">inte komma vidare</t>
+	    <t pos="v">vara tvungen att vända</t>
          </tg>
       </mg>
    </e>
@@ -55529,10 +55565,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">søle ned klær</t>
+            <t pos="v" re="klær">søle ned</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">söla ner (kläder)</t>
+            <t pos="v" re="(kläder)">söla ner</t>
          </tg>
       </mg>
    </e>
@@ -55784,7 +55820,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">dra sammen sysøm</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dra ihop (sömmen, när man syr)</t>
+            <t pos="v" re="(sömmen, när man syr)">dra ihop</t>
          </tg>
       </mg>
    </e>
@@ -55797,7 +55833,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">dra sammen sysøm</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dra ihop (sömmen, när man syr)</t>
+            <t pos="v" re="(sömmen, när man syr)">dra ihop</t>
          </tg>
       </mg>
    </e>
@@ -55886,7 +55922,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">miste flere ting</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">mista (flera föremål)</t>
+            <t pos="v" re="(flera föremål)">mista</t>
          </tg>
       </mg>
    </e>
@@ -55925,7 +55961,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">skynde seg å ta reinen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skynda sig att ta renen (innan den hinner springa iväg för långt)</t>
+            <t pos="v" re="(innan den hinner springa iväg för långt)">skynda sig att ta renen</t>
          </tg>
       </mg>
    </e>
@@ -55935,10 +55971,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">støtte flere</t>
+            <t pos="v" re="flere">støtte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stötta (flera)</t>
+            <t pos="v" re="(flera)">stötta</t>
          </tg>
       </mg>
    </e>
@@ -55978,7 +56014,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">søle</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">söla (om människa)</t>
+            <t pos="v" re="(om människa)">söla</t>
          </tg>
       </mg>
    </e>
@@ -56049,9 +56085,11 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="v">holde på og temme</t>
+            <t pos="v">temme</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hålla på och tämja, tämja (flera djur)</t>
+            <t pos="v" re="(flera djur)">hålla på och tämja</t>
+            <t pos="v" re="(flera djur)">tämja</t>
          </tg>
       </mg>
    </e>
@@ -56174,7 +56212,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">dra sammen sysøm</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">dra ihop (sömmen, när man syr)</t>
+            <t pos="v" re="(sömmen, när man syr)>dra ihop</t>
          </tg>
       </mg>
    </e>
@@ -56384,7 +56422,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">søle</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">söla (om människa)</t>
+            <t pos="v" re="(om människa)">söla</t>
          </tg>
       </mg>
    </e>
@@ -56576,7 +56614,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">dømme</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">döma (om domare)</t>
+            <t pos="v" re="(om domare)">döma</t>
          </tg>
       </mg>
    </e>
@@ -56612,10 +56650,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">se etter flere garn</t>
+            <t pos="v" re="flere garn">se etter</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vittja (flera nät)</t>
+            <t pos="v" re="(flera nät)">vittja</t>
          </tg>
       </mg>
    </e>
@@ -56687,10 +56725,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">ta bort litt</t>
+            <t pos="v" re="litt">ta bort</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ta bort (lite)</t>
+            <t pos="v" re="(lite)">ta bort</t>
          </tg>
       </mg>
    </e>
@@ -56703,7 +56741,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">bli tett</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bli tät, bli igenproppad</t>
+            <t pos="v">bli tät</t>
+            <t pos="v">bli igenproppad</t>
          </tg>
       </mg>
    </e>
@@ -56716,7 +56755,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">tette med propp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stoppa med propp)</t>
+            <t pos="v">stoppa med propp</t>
          </tg>
       </mg>
       <mg>
@@ -56918,10 +56957,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">støtte flere</t>
+            <t pos="v" re="flere">støtte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stötta (flera)</t>
+            <t pos="v" re="(flera)>stötta</t>
          </tg>
       </mg>
    </e>
@@ -57026,7 +57065,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">falle ned</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">störta, falla ned/utför</t>
+            <t pos="v">störta</t>
+            <t pos="v">falla ned</t>
+            <t pos="v">falla utför</t>
          </tg>
       </mg>
    </e>
@@ -57039,7 +57080,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">riste opp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skaka upp (karbidlampa)</t>
+            <t pos="v" re="(karbidlampa)">skaka upp</t>
          </tg>
       </mg>
    </e>
@@ -57091,7 +57132,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">grise ned kjørel</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">smeta/grisa ned ((trä)kärl)</t>
+            <t pos="v" re="träkärl eller klär">smeta ned</t>
+            <t pos="v" re="träkärl eller klär">grisa ned</t>
          </tg>
       </mg>
    </e>
@@ -57104,7 +57146,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">bestille</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">beställa (flere aker)</t>
+            <t pos="v" re="(flere aker)">beställa</t>
          </tg>
       </mg>
    </e>
@@ -57296,10 +57338,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">trave om klotdyr</t>
+            <t pos="v" re="om klotdyr">trave</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">trava (om klotdjur)</t>
+            <t pos="v" re="(om klotdjur)">trava</t>
          </tg>
       </mg>
    </e>
@@ -57309,10 +57351,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">bomme ved lassokastning</t>
+            <t pos="v" re="ved lassokastning">bomme</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">missa,bomma (vid lassokastning)</t>
+            <t pos="v" re="(vid lassokastning)">missa</t>
+            <t pos="v" re="(vid lassokastning)">bomma</t>
          </tg>
       </mg>
    </e>
@@ -57445,7 +57488,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">døpe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">döpa (barn)</t>
+            <t pos="v" re="(barn)">döpa</t>
          </tg>
       </mg>
    </e>
@@ -57458,7 +57501,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">begynne å slåss</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">börja slåss (om flera)</t>
+            <t pos="v" re="(om flera)">börja slåss</t>
          </tg>
       </mg>
    </e>
@@ -57471,7 +57514,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">sørge for</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sörja för, se till</t>
+            <t pos="v">sörja för</t>
+            <t pos="v">se till</t>
          </tg>
       </mg>
    </e>
@@ -57843,7 +57887,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">holde på og arbeide</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hålla på och arbeta (med allt slags arbete)</t>
+            <t pos="v" re="(med allt slags arbete)">hålla på och arbeta</t>
          </tg>
       </mg>
    </e>
@@ -57856,7 +57900,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">skøye</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skämta, skoja, hitta på upptåg</t>
+            <t pos="v">skämta</t>
+            <t pos="v">skoja</t>
+            <t pos="v">hitta på upptåg</t>
          </tg>
       </mg>
    </e>
@@ -57869,7 +57915,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">våkne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vakna, återfå medvetandet (om avsvimmad person)</t>
+            <t pos="v" re="(om avsvimmad person)">vakna</t>
+            <t pos="v" re="(om avsvimmad person)">återfå medvetandet</t>
          </tg>
       </mg>
    </e>
@@ -57908,7 +57955,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">slepe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">slite, släpa (t.ex. för att flytta något)</t>
+            <t pos="v" re="(t.ex. för att flytta något)">slite</t>
+            <t pos="v" re="(t.ex. för att flytta något)">släpa</t>
          </tg>
       </mg>
    </e>
@@ -57921,7 +57969,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">spore opp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">spåra upp (ett djur)</t>
+            <t pos="v" re="(ett djur)">spåra upp</t>
          </tg>
       </mg>
    </e>
@@ -58045,7 +58093,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">besynge</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">besjunga (med kärleksvisa)</t>
+            <t pos="v" re="(med kärleksvisa)">besjunga</t>
          </tg>
       </mg>
    </e>
@@ -58133,7 +58181,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">holde på og dra i håret flere ganger</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hålla på och skaka:dra i håret flera gånger</t>
+            <t pos="v">hålla på och skaka i håret flera gånger</t>
+            <t pos="v">hålla på och dra i håret flera gånger</t>
          </tg>
       </mg>
    </e>
@@ -58146,7 +58195,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">ta og riste litt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ta och skaka litete (t.ex. hund för att tukta den)</t>
+            <t pos="v" re="(t.ex. hund för att tukta den)">ta och skaka litete</t>
          </tg>
       </mg>
    </e>
@@ -58184,10 +58233,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">skitne til noe</t>
+            <t pos="v" re="noe">skitne til</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">smutsa ner något (t.ex. med mjöl eller hårstrån)</t>
+            <t pos="v" re="något; (t.ex. med mjöl eller hårstrån)">smutsa ner</t>
          </tg>
       </mg>
    </e>
@@ -58327,7 +58376,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">logre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vifta på svansen (om hund)</t>
+            <t pos="v" re="(om hund)">vifta på svansen</t>
          </tg>
       </mg>
    </e>
@@ -58340,7 +58389,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">rydde</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">städa, rengöra</t>
+            <t pos="v">städa</t>
+            <t pos="v">rengöra</t>
          </tg>
       </mg>
    </e>
@@ -58353,7 +58403,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">flomme over</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">flöda, gå över sina bräddar (om älv)</t>
+            <t pos="v" re="(om älv)">flöda</t>
+            <t pos="v" re="(om älv)">gå över sina bräddar</t>
          </tg>
       </mg>
    </e>
@@ -58366,7 +58417,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">flomme over</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">flöda, gå över sina bräddar (om älv)</t>
+            <t pos="v" re="(om älv)">flöda</t>
+            <t pos="v" re="(om älv)">gå över sina bräddar</t>
          </tg>
       </mg>
    </e>
@@ -58376,10 +58428,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">fumle med noe</t>
+            <t pos="v" re="med noe">fumle</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">fumla (med något)</t>
+            <t pos="v" re="(med något)">fumla</t>
          </tg>
       </mg>
    </e>
@@ -58389,10 +58441,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">gripe etter noe</t>
+            <t pos="v" re="etter noe">gripe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">gripa efter något</t>
+            <t pos="v" re="efter något">gripa</t>
          </tg>
       </mg>
    </e>
@@ -58538,7 +58590,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">våkne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">vakna, komma till sans (om avsvimmad)</t>
+            <t pos="v" re="(om avsvimmad)">vakna</t>
+            <t pos="v" re="(om avsvimmad)">komma till sans</t>
          </tg>
       </mg>
    </e>
@@ -58551,7 +58604,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">jamre seg</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stöna, jämra sig (av sjukdom)</t>
+            <t pos="v" re="(av sjukdom)">stöna</t>
+            <t pos="v" re="(av sjukdom)">jämra sig</t>
          </tg>
       </mg>
    </e>
@@ -58906,7 +58960,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">ta på noen skoene</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">sätta på skorna (på någon annan)</t>
+            <t pos="v" re="(på någon annan)">sätta på skorna</t>
          </tg>
       </mg>
    </e>
@@ -58919,7 +58973,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">skynde seg å pakke</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skynda sig att packa (pulkor)</t>
+            <t pos="v" re="(pulkor)">skynda sig att packa</t>
          </tg>
       </mg>
    </e>
@@ -59219,7 +59273,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">la kjøtt fryse ned</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">låta frysa ned (kött)</t>
+            <t pos="v" re="(kött)">låta frysa ned</t>
          </tg>
       </mg>
    </e>
@@ -59476,7 +59530,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">stange til</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">stånga till (med hornen)</t>
+            <t pos="v" re="(med hornen)">stånga till</t>
          </tg>
       </mg>
    </e>
@@ -59540,10 +59594,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">henge opp noe</t>
+            <t pos="v" re="noe">henge opp</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">hänga upp (en sak)</t>
+            <t pos="v" re="(en sak)">hänga upp</t>
          </tg>
       </mg>
    </e>
@@ -59553,10 +59607,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">rope en gang</t>
+            <t pos="v" re="en gang">rope</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ropa (en gång)</t>
+            <t pos="v" re="(en gång)">ropa</t>
          </tg>
       </mg>
    </e>
@@ -59702,7 +59756,9 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om snø_SWE</re>
-            <t pos="v">bli kornigt, korna sig, bli till hagel (om snö)</t>
+            <t pos="v" re="(om snö)">bli kornigt</t>
+            <t pos="v" re="(om snö)">korna sig</t>
+            <t pos="v" re="(om snö)">bli till hagel</t>
          </tg>
       </mg>
    </e>
@@ -59715,7 +59771,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">gjøre narr av noen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skoja med någon, göra narr av någon</t>
+            <t pos="v">skoja med någon</t>
+            <t pos="v">göra narr av någon</t>
          </tg>
       </mg>
    </e>
@@ -59806,7 +59863,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">be iherdig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">be ihärdigt, bönfalla om (nåd)</t>
+            <t pos="v">be ihärdigt</t>
+            <t pos="v" re="(om nåd)">bönfalla</t>
          </tg>
       </mg>
    </e>
@@ -63292,7 +63350,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om katter_SWE</re>
-            <t pos="v">jämra sig, jama (om katt)</t>
+            <t pos="v">jämra sig</t>
+            <t pos="v" re="om katt">jama</t>
          </tg>
       </mg>
    </e>
@@ -63552,7 +63611,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">jamre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">jämra, klaga</t>
+            <t pos="v">jämra</t>
+            <t pos="v">klaga</t>
          </tg>
       </mg>
    </e>
@@ -66044,7 +66104,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">rive ut av hendene</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva, slita ur händerna</t>
+            <t pos="v">riva</t>
+            <t pos="v">slita ur händerna</t>
          </tg>
       </mg>
    </e>
@@ -67327,7 +67388,9 @@ For the full license text, see the link above.</lic>
             <t pos="v">ta ned telt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva/ta/plocka ned (tält)</t>
+            <t pos="v" re="(tält)">riva ned</t>
+            <t pos="v" re="(tält)">ta ned</t>
+            <t pos="v" re="(tält)">plocka ned</t>
          </tg>
       </mg>
    </e>
@@ -67702,7 +67765,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">krangle</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">bråka, gräla om ngt</t>
+            <t pos="v">bråka</t>
+            <t pos="v">gräla</t>
          </tg>
       </mg>
    </e>
@@ -67715,7 +67779,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">slite ut av hendene</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva, slita (ur händerna)</t>
+            <t pos="v" re="(ur händerna)">riva</t>
+            <t pos="v" re="(ur händerna)">slita</t>
          </tg>
       </mg>
    </e>
@@ -67741,7 +67806,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">rive til seg</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">riva till sej genast/riva ner</t>
+            <t pos="v" re="genast">riva till sej</t>
+            <t pos="v">riva ner</t>
          </tg>
       </mg>
    </e>
@@ -67870,10 +67936,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">treffe flere mennesker</t>
+            <t pos="v" re="flere mennesker">treffe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">träffa flera människor, träffas</t>
+            <t pos="v" re="flera människor">träffa</t>
+            <t pos="v">träffas</t>
          </tg>
       </mg>
    </e>
@@ -68032,10 +68099,10 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">vri seg i søvne</t>
+            <t pos="v" re="i søvne">vri seg</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ständigt röra sej oroligt (tex. i sömnen)</t>
+            <t pos="v" re="ständigt; oroligt; (tex. i sömnen)">röra sej</t>
          </tg>
       </mg>
    </e>
@@ -68048,7 +68115,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">vri seg i søvne</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">ständigt röra sej oroligt (tex. i sömnen)</t>
+            <t pos="v" re="ständigt; oroligt; (tex. i sömnen)">röra sej</t>
          </tg>
       </mg>
    </e>
@@ -68058,10 +68125,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">treffe flere mennesker</t>
+            <t pos="v" re="flere mennesker">treffe</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">träffa flera människor, träffas</t>
+            <t pos="v" re="flera människor">träffa</t>
+            <t pos="v">träffas</t>
          </tg>
       </mg>
    </e>
@@ -70096,10 +70164,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="v">skrive litt</t>
+            <t pos="v" re="litt">skrive</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="v">skriva litt, rispa litt smått</t>
+            <t pos="v" re="litt">skriva</t>
+            <t pos="v" re="litt smått">rispa</t>
          </tg>
       </mg>
    </e>
@@ -71007,7 +71076,9 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om renhjord</re>
-            <t pos="v">bli sömnig, dåsig/bli utmattad</t>
+            <t pos="v">bli sömnig</t>
+            <t pos="v">bli dåsig</t>
+            <t pos="v">bli utmattad</t>
          </tg>
       </mg>
    </e>
@@ -71490,7 +71561,9 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="swe">
             <re>om renhjord</re>
-            <t pos="v">bli sömnig, dåsig/bli utmattad</t>
+            <t pos="v">bli sömnig</t>
+            <t pos="v">bli dåsig</t>
+            <t pos="v">bli utmattad</t>
          </tg>
       </mg>
    </e>
