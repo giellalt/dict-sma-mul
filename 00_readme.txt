@@ -35,7 +35,7 @@ what to do with that? (no "dict" tag)
       </mg>
    </e>
 ====================
-general check of braketed stuff, is it perhaps some re-element?
+general check of bracketed stuff, is it perhaps some re-element?
 - Kommentar fra Lene: Disse er fjerna
 
 pr_smanob.xml:            <t dict="yes" oa="yes" pos="pr" tcomm="no">til (nær)</t>
