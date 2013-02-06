@@ -107,13 +107,13 @@ $(S_DIC): $(SN_XML)
 	@echo
 
 # Create the lexc file from the smanob.xml-file (using XQuery 1.0)
-$(SN_LEXC): $(SN_XML)
-	@echo
-	$(BEGIN)
-	@$(XQL) $(SCRIPTS)/smanob-pairs.xql smanob=../$(BIN)/$< > $(BIN)/$@
-	@echo
-	$(END)
-	@echo
+#$(SN_LEXC): $(SN_XML)
+#	@echo
+#	$(BEGIN)
+#	@$(XQL) $(SCRIPTS)/smanob-pairs.xql smanob=../$(BIN)/$< > $(BIN)/$@
+#	@echo
+#	$(END)
+#	@echo
 
 # Create the lexc file from the smanob.xml-file (using XSLT 2.0, which is not as nice as XQuery)
 # $(SN_LEXC): $(SN_XML)
