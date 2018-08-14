@@ -3537,18 +3537,33 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   
    <e src="sk" usage="dict">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Stråentjie</l>
+         <l pos="N" type="Prop" sem_type="Plc">Såaloejaevrie</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <re>Nordli</re>
-            <t pos="N" type="Prop">Storbursklumpen</t>
+            <re>Grane</re>
+            <t pos="N" type="Prop">Holmvatnet</t>
          </tg>
          <tg xml:lang="swe">
-            <re>Nordli_SWE</re>
-            <t pos="N" type="Prop">Storbursklumpen_SWE</t>
+            <re>Grane_SWE</re>
+            <t pos="N" type="Prop">Holmvatnet_SWE</t>
+         </tg>
+      </mg>
+   </e>
+
+   
+   
+   <e src="sk" usage="dict">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Såålejaevrie</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>Grane</re>
+            <t pos="N" type="Prop">Holmvatnet</t> <! Såålejaevrie er vest for Såaloejaevrie. er usiker på om det heter Holmvatnet på norsk.
          </tg>
       </mg>
    </e>
@@ -8583,6 +8598,45 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e> 
+   
+   <e src="sk" usage="dict">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Stoerresååle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>Grane</re>  
+            <t pos="N" type="Prop">Storholmen</t> <! Storholmen på Majavatn i Grane, like under Dunfjellet
+         </tg>
+      </mg>
+   </e> 
+
+    <e src="sk" usage="dict">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Gaavnjeressååle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>Grane</re>  
+            <t pos="N" type="Prop">Buholmen</t> <! Buholmen på Majavatn i Grane, ved siden av Stoerresååle
+         </tg>
+      </mg>
+   </e> 
+
+
+    <e src="sk" usage="dict">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sjaaressååle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>Grane</re>  
+            <t pos="N" type="Prop">Steinholmen</t> <! Steinholmen på Majavatn i Grane, ved siden av Stoerresååle, Gaavnjeressååle
+         </tg>
+      </mg>
+   </e> 
+
+   
    <e src="sk" usage="dict">
       <lg>
          <l pos="N" type="Prop" sem_type="Plc">Brïennedurrie</l>
@@ -13389,7 +13443,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e src="sk" usage="dict">
       <lg>
-         <l pos="N" type="Prop" sem_type="Plc">Sjaarejaevrie</l>
+         <l pos="N" type="Prop" sem_type="Plc">Sjaarehjaevrie</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
@@ -13410,7 +13464,13 @@ For the full license text, see the link above.</lic>
             <re>Nordli_SWE</re>
             <t pos="N" type="Prop">Urddalsvatnet_SWE</t>
          </tg>
-      </mg>
+      </mg>   
+      <mg>
+         <tg xml:lang="nob">
+            <re>Grane</re>
+            <t pos="N" type="Prop">Nordre Steinvatnet</t> <! rett over Loekte, Mellingsbukta på Majavatn
+         </tg>
+      </mg>   
    </e>
    <e src="sk" usage="dict">
       <lg>
