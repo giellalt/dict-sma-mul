@@ -3,6 +3,8 @@ Incoming files to the smamob dictionary.
 
 These files contain entries, some of them on their way to a smanob dictionary.
 
+* aejvie.missing   = 239 one-lemma-per-line entries
+* aejvie.xml       = 1867 translated (?) sma entries (however, mgs are not unified, cf. 3x 'jorpesjh')
 
 
 Evaluation of inc directory 14.9.2011 (cip/trond):
