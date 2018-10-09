@@ -1,7 +1,7 @@
 #!/bin/bash
 
-missing_file="aejvie_v.test"
-lexc_file="$GTHOME/langs/sma/src/morphology/stems/verbs.lexc"
+missing_file="aejvie_n.test"
+lexc_file="$GTHOME/langs/sma/src/morphology/stems/nouns.lexc"
 
 while read line;
   do 
