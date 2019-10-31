@@ -12,7 +12,7 @@ while (<>)
 	chomp ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
 	my ($lemma, $POS, $trans) = split /\t/ ;
-	print STDOUT "   <e usage=\"dict\">\n";
+	print STDOUT "   <e src=\"ki\">\n";
 	print STDOUT "      <lg>\n";
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
@@ -20,9 +20,9 @@ while (<>)
 	print STDOUT "         <tg xml:lang=\"nob\">\n";
 	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
 	print STDOUT "         </tg>\n";
-	print STDOUT "         <tg xml:lang=\"swe\">\n";
-	print STDOUT "            <t pos=\"$POS\">$trans" . "_SWE</t>\n";
-	print STDOUT "         </tg>\n";
+#	print STDOUT "         <tg xml:lang=\"swe\">\n";
+#	print STDOUT "            <t pos=\"$POS\">$trans" . "_SWE</t>\n";
+#	print STDOUT "         </tg>\n";
 	print STDOUT "      </mg>\n";
 	print STDOUT "   </e>\n";
 }
