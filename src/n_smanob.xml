@@ -14377,6 +14377,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">golv</t>
+            <xg>
+               <x>Nïejtetje guelpesne gællesje.</x>
+               <xt>Jentungen ligger på golvet.</xt>
+            </xg>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="N">golv</t>
@@ -18588,6 +18592,8 @@ For the full license text, see the link above.</lic>
             <t pos="N">täcke</t>
             <t pos="N">pläd</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
             <t pos="N">madrass</t>
             <t pos="N">liggeunderlag</t>
@@ -18599,12 +18605,13 @@ For the full license text, see the link above.</lic>
             <t pos="N">bår</t>
             <t pos="N">skinn</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">noe som er utbredt</t>
+            <t pos="Phrase">noe som bredt ut</t>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="Phrase">något som är utbrett</t>
-            <t pos="N">skinn</t>
          </tg>
       </mg>
    </e>
@@ -18615,16 +18622,18 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">det å komme fram</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="Phrase">det å komme fram_SWE</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="N">soloppgang</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="N">soloppgang_SWE</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">det å komme fram</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="Phrase">det å komme fram_SWE</t>
          </tg>
       </mg>
    </e>
@@ -18773,18 +18782,33 @@ For the full license text, see the link above.</lic>
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
+            <t pos="N">teppe</t>
+            <t pos="N">pledd</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="N">täcke</t>
+            <t pos="N">pläd</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
             <t pos="N">madrass</t>
             <t pos="N">liggeunderlag</t>
             <t pos="N">båre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="N">madrass_SWE</t>
+            <t pos="N">madrass</t>
+            <t pos="N">liggunderlag</t>
+            <t pos="N">bår</t>
+            <t pos="N">skinn</t>
          </tg>
+      </mg>
+      <mg>
          <tg xml:lang="nob">
-            <t pos="Phrase">noe som er utbredt</t>
+            <t pos="Phrase">noe som bredt ut</t>
          </tg>
-         <tg xml:lang="swe">
-            <t pos="Phrase">noe som er utbredt_SWE</t>
+         <tg check="'semantics_and_re'" xml:lang="swe">
+            <t pos="Phrase">något som är utbrett</t>
          </tg>
       </mg>
    </e>
