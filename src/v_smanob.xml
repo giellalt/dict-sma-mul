@@ -943,7 +943,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <re>transitiv</re>
-            <t pos="V">varme</t>
+            <t pos="V">varme opp</t>
+            <xg>
+               <x>Mielhkiem baahkedidh.</x>
+               <xt>Varme opp melk.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <re>transitiv</re>
@@ -958,8 +962,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="trisyllabic"/>
       <mg>
          <tg xml:lang="nob">
+	         <re>intransitiv</re>
             <t pos="Phrase">bli varm</t>
             <t pos="V">oppvarmes</t>
+            <xg>
+               <x>Eatneme sisnjielistie baahkene.</x>
+               <xt>Jorden varmes opp innenfra.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t pos="Phrase">bli varm</t>
@@ -1006,6 +1015,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="V">la</t>
             <t pos="V">tillate</t>
             <xg>
@@ -25935,6 +25945,10 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="V">ringe</t>
+            <xg>
+               <x>Dellie skuvletsåahka skarra.</x>
+               <xt>Da ringer skoleklokka.</xt>
+            </xg>
             <t pos="V">klirre</t>
             <t pos="V">skrangle</t>
          </tg>
@@ -26067,7 +26081,12 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
+	       <re>transitiv</re>
             <t pos="V">ødelegge</t>
+            <xg>
+               <x>Nimhtie hov gïelem skilkieh.</x>
+               <xt>Slik ødelegger de jo språket.</xt>
+            </xg>
             <t pos="Phrase">rive ned</t>
             <t pos="Phrase">slå i stykker</t>
          </tg>
@@ -26083,10 +26102,30 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
+	        <re>transitiv</re>
             <t pos="Phrase">strekke ut føttene</t>
          </tg>
          <tg xml:lang="swe">
             <t pos="Phrase">strekke ut føttene_SWE</t>
+         </tg>
+      </mg>
+   </e>
+      <e usage="dict">
+      <lg>
+         <l class="VI" p3p="skillie" pos="V" stem="2syll">seejkedh</l>
+      </lg>
+      <stem class="bisyllabic"/>
+      <mg>
+         <tg xml:lang="nob">
+	        <re>transitiv</re>
+            <t pos="Phrase">strekke ut</t>
+            <xg>
+               <x>Daelie juelkide seejkijibie.</x>
+               <xt>Nå strekker vi beina (egentlig hvile litt).</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="Phrase">strekke ut_SWE</t>
          </tg>
       </mg>
    </e>
@@ -26120,17 +26159,12 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
    </e>
    <e usage="dict">
       <lg>
-         <l class="I" pos="V" stem="2syll" umlaut="full" vow="x">skodtedehtedh</l>
+         <l class="I" pos="V" stem="2syll" umlaut="full" vow="x">skodteldehtedh</l>
       </lg>
       <stem class="bisyllabic"/>
       <mg>
          <tg xml:lang="nob">
-            <t pos="V">motivere</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="V">motivere_SWE</t>
-         </tg>
-         <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">skynde på</t>
          </tg>
          <tg xml:lang="swe">
@@ -39585,23 +39619,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
    </e>
    <e usage="dict">
       <lg>
-         <l class="I" pos="V" umlaut="A">skodteldehtedh</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="Phrase">få noen til å skynde seg</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="Phrase">få någon att skynda sig</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
          <l class="I" pos="V" umlaut="A">skopmeldehtedh</l>
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">skremme noen</t>
          </tg>
          <tg xml:lang="swe">
@@ -39615,6 +39637,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="V">påskynde</t>
          </tg>
          <tg xml:lang="swe">
@@ -39628,6 +39651,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">få til å løsne</t>
          </tg>
          <tg xml:lang="swe">
@@ -39641,6 +39665,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">melke ei simle og drikke melka direkte ut av handa</t>
          </tg>
          <tg xml:lang="swe">
@@ -39680,6 +39705,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="V">smelte</t>
          </tg>
          <tg xml:lang="swe">
@@ -39693,6 +39719,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="V">trøste</t>
          </tg>
          <tg xml:lang="swe">
@@ -39706,6 +39733,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">slå med håndflata</t>
          </tg>
          <tg xml:lang="swe">
@@ -39719,6 +39747,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">gjøre noen yr</t>
          </tg>
          <tg xml:lang="swe">
@@ -39732,6 +39761,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">gjøre opphold</t>
          </tg>
          <tg xml:lang="swe">
@@ -39745,6 +39775,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	      <re>transitiv</re>
             <t pos="Phrase">drive ut en reinflokk i en elv</t>
          </tg>
          <tg xml:lang="swe">
@@ -39758,6 +39789,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">få stopp på rein som forsøker å springe i vei</t>
          </tg>
          <tg xml:lang="swe">
@@ -39771,6 +39803,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="V">steke</t>
          </tg>
          <tg xml:lang="swe">
@@ -39784,6 +39817,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">få en stikke</t>
          </tg>
          <tg xml:lang="swe">
@@ -39797,6 +39831,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">få en stikke</t>
          </tg>
          <tg xml:lang="swe">
@@ -70909,6 +70944,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <re>om melk</re>
             <t pos="V">surne</t>
          </tg>
@@ -70924,6 +70960,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <t pos="Phrase">være sur</t>
          </tg>
          <tg xml:lang="swe">
@@ -70938,6 +70975,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <t pos="V">synde</t>
          </tg>
          <tg xml:lang="swe">
@@ -70951,6 +70989,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <re>i fingeren</re>
             <t pos="Phrase">få et stikk</t>
          </tg>
@@ -70966,6 +71005,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <re>om fugl</re>
             <t pos="V">sveve</t>
          </tg>
@@ -70981,6 +71021,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>intransitiv</re>
             <re>om mat</re>
             <t pos="V">røyke</t>
          </tg>
@@ -70997,6 +71038,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <re>om fugl</re>
             <t pos="V">sveve</t>
          </tg>
@@ -71012,6 +71054,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
+	     <re>transitiv</re>
             <t pos="Phrase">la reinflokken bli utmatta</t>
          </tg>
          <tg xml:lang="swe">
