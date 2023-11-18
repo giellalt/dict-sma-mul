@@ -69,12 +69,12 @@
       
       <xsl:result-document href="{$outDir}/{$current_file}" format="{$of}">
         <xsl:processing-instruction name="xml-stylesheet">
-          <xsl:text>title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"</xsl:text>
+          <xsl:text>title="Dictionary view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary.css" type="text/css"</xsl:text>
         </xsl:processing-instruction>
 		<xsl:value-of select="$nl"/> 		
         
         <xsl:processing-instruction name="xml-stylesheet">
-          <xsl:text>alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"</xsl:text>
+          <xsl:text>alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"</xsl:text>
         </xsl:processing-instruction>
  		<xsl:value-of select="$nl"/> 		
        
