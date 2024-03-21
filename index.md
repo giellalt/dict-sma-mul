@@ -9,6 +9,7 @@ Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more gen
 - [South Saami dictionary page](https://dicts.uit.no/smadicts.eng.html)
 
 
-# Other information
+# Old information
 
-Add text and links as needed.
+- * [Dokumentasjon for oppdatering av de sørsamiske ordbøkene fram til lansering januar 2011](smanob_oppdatering.html)
+
