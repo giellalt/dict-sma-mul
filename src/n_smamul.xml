@@ -34,6 +34,138 @@ For the full license text, see the link above.</lic>
    </lics>
    <e usage="dict">
       <lg>
+         <l pos="N">aavre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">hell</t>
+            <t pos="N">lykke</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">irhkeme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">mobbing</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">hopse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lukt</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">tjåahkoe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+	         <re>for 2-6 personer</re>
+            <t pos="N">møte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">veterineere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veterinær</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">kreekedåaktere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">dyrlege</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">seabradahkefaage</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">samfunnsfag</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">dotkemebarkoe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">forskningarbeid</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">bijpele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">bibel</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">bïhkedæjja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">veileder</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">beetnehdåarjege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="Phrase">økonomisk støtte</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">lohkemesavka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">lesesal</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N">beapmoesavka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">spisesal</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
          <l pos="N">aerpiegïele</l>
       </lg>
       <mg>
@@ -3696,6 +3828,17 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tekstforslag</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="dict">
+      <lg>
+         <l pos="N" stem="2syll">faalenasse</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">tilbud</t>
+            <t pos="N">anbud</t>
          </tg>
       </mg>
    </e>
@@ -15978,6 +16121,18 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="N">humør</t>
             <t pos="N">lynne</t>
+            <xg>
+               <x>buerie bïevsterh</x>
+               <xt>godt humør</xt>
+            </xg>
+            <xg>
+               <x>mådtan bïevsterh</x>
+               <xt>dårlig humør</xt>
+            </xg>
+            <xg>
+               <x>Mennie bïevsterisnie daenbien?</x>
+               <xt>I hvilket humør er han i dag?</xt>
+            </xg>
          </tg>
          <tg check="'semantics_and_re'" xml:lang="swe">
             <t pos="N">humör</t>
@@ -58421,6 +58576,10 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="nob">
             <t pos="N">tilbud</t>
+            <xg>
+               <x>Tjïelten gellie faalenassh maanide.</x>
+               <xt>Kommunen har flere tilbud til barn.</xt>
+            </xg>
          </tg>
          <tg xml:lang="swe">
             <t pos="N">tilbud_SWE</t>
