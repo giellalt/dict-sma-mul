@@ -17,9 +17,8 @@
 <!ELEMENT ref (#PCDATA|a|i)*>
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
 
-<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+) >
+<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, ig*) >
 <!ATTLIST e
       usage ( mt | vd | dict | other | nds | fad | KB ) #IMPLIED
       src ( nj | sk | SvSt | gt_fad | gt | fad | other | gg | SK |
@@ -186,6 +185,13 @@
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
 <!ATTLIST mg x ( fad ) #IMPLIED >
+
+<!-- Idiom phrases, faste uttrykk -->
+<!ELEMENT ig ( i+, id?, it+)+ >
+<!ELEMENT i (#PCDATA) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT it (#PCDATA) >
+
 
 <!ELEMENT dg ( d ) >
 <!ELEMENT d (#PCDATA) >
