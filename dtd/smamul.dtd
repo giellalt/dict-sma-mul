@@ -1,10 +1,9 @@
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
-    xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv | sms | myv | mhr | sjd | rus | smj ) #IMPLIED
+    xml:lang ( sma ) #IMPLIED
 >
 <!ATTLIST r
-      id ( smenob | nobsme | smnfin | finsmn | finsme | fkvnob | smnsme | smjsme | smesmn | smesmj | smesma | smefin | smasme | smamul | nobsma | smafin | swesma | smeeng |
-      nobsmj ) #IMPLIED >
+      id ( smamul ) #IMPLIED >
 
 
 <!-- the header -->
@@ -179,7 +178,7 @@
 
 <!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
 <!ATTLIST mg
-      xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
+      xml:lang ( nob | swe ) #IMPLIED
       rest CDATA #IMPLIED
 >
 <!ATTLIST mg id CDATA #IMPLIED >
