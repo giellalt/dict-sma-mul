@@ -258,6 +258,7 @@
 <!ATTLIST t gen_only CDATA #IMPLIED > <!-- Fetched from l -->
 <!ATTLIST t sem_type ( Obj | Plc | Org | Mal ) #IMPLIED >
 <!ATTLIST t comment CDATA #IMPLIED >
+<!ATTLIST t orig CDATA #IMPLIED >
 <!ATTLIST t hid CDATA #IMPLIED >
 <!ATTLIST t href CDATA #IMPLIED >
 <!ATTLIST t value CDATA #IMPLIED >
