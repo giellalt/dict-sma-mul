@@ -101,23 +101,27 @@ For the full license text, see the link above.</lic>
                <xt>Både Paul og Lars var der.</xt>
             </xg>
          </tg>
-         <tg xml:lang="swe">
-            <t pos="CC">og_SWE</t>
-         </tg>
+          <tg xml:lang="swe">
+             <t pos="CC">och</t>
+            <xg>
+               <x>Dovne Pöövle jïh Laara ligan desnie.</x>
+               <xt>Både Paul och Lars var där.</xt>
+            </xg>
+          </tg>
       </mg>
    </e>
    <e usage="dict">
-      <lg>
-         <l pos="CC">men</l>
-      </lg>
-      <mg>
-         <tg xml:lang="nob">
-            <t pos="CC">men</t>
-         </tg>
-         <tg xml:lang="swe">
-            <t pos="CC">men_SWE</t>
-         </tg>
-      </mg>
+       <lg>
+          <l pos="CC">men</l>
+       </lg>
+       <mg>
+          <tg xml:lang="nob">
+             <t pos="CC">men</t>
+          </tg>
+          <tg xml:lang="swe">
+             <t pos="CC">men</t>
+          </tg>
+       </mg>
    </e>
    <e usage="dict">
       <lg>
@@ -135,25 +139,33 @@ For the full license text, see the link above.</lic>
                <xt>Den veien dit er så smal, men den andre veien er mye bedre.</xt>
             </xg>
          </tg>
-         <tg xml:lang="swe">
-            <t pos="CC">men_SWE</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="dict">
-      <lg>
-         <l pos="CC">vïj</l>
+          <tg xml:lang="swe">
+             <t pos="CC">men</t>
+            <xg>
+               <x>Sliehtie-elmie, mohte tjaktje hov lea.</x>
+               <xt>Det är stormigt med slask, men det är ju höst.</xt>
+            </xg>
+            <xg>
+               <x>Dïhte geajnoe dahkoe lea dan siegkie, mohte dïhte mubpie geajnoe sagki buerebe.</x>
+               <xt>Den vägen dit är så smal, men den andra vägen är mycket bättre.</xt>
+            </xg>
+          </tg>
+       </mg>
+    </e>
+    <e usage="dict">
+       <lg>
+          <l pos="CC">vïj</l>
       </lg>
       <mg>
          <l_ref>jallh_cc</l_ref>
-         <tg xml:lang="nob">
-            <re>i spørsmål om to alternativer</re>
-            <t pos="CC">eller</t>
-         </tg>
-         <tg xml:lang="swe">
-            <re>i spørsmål om to_SWE</re>
-            <t pos="CC">eller_SWE</t>
-         </tg>
+          <tg xml:lang="nob">
+             <re>i spørsmål om to alternativer</re>
+             <t pos="CC">eller</t>
+          </tg>
+          <tg xml:lang="swe">
+             <re>i frågor om två</re>
+             <t pos="CC">eller</t>
+          </tg>
       </mg>
    </e>
    <e usage="dict">
@@ -162,18 +174,23 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <l_ref>jallh_cc</l_ref>
-         <tg xml:lang="nob">
-            <re>i spørsmål om to alternativer</re>
-            <t pos="CC">eller</t>
-            <xg>
-               <x>Mejtie tseagkoeh gåetie vuj slapmoeh gåetie?</x>
-               <xt>Er det en opprettstående kåte eller en lav og vid kåte?</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="swe">
-            <re>i spørsmål om to_SWE</re>
-            <t pos="CC">eller_SWE</t>
-         </tg>
+          <tg xml:lang="nob">
+             <re>i spørsmål om to alternativer</re>
+             <t pos="CC">eller</t>
+             <xg>
+                <x>Mejtie tseagkoeh gåetie vuj slapmoeh gåetie?</x>
+                <xt>Er det en opprettstående kåte eller en lav og vid kåte?</xt>
+             </xg>
+          </tg>
+          <tg xml:lang="swe">
+             <re>i frågor om två</re>
+             <t pos="CC">eller</t>
+             <xg>
+                <x>Mejtie tseagkoeh gåetie vuj slapmoeh gåetie?</x>
+                <xt>Är det en upprättstående kåta eller en lågt och bred kåta??
+		</xt>
+             </xg>
+          </tg>
       </mg>
    </e>
    <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
