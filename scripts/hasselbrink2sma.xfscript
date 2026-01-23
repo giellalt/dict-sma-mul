@@ -20,8 +20,6 @@
 ! The command in the makefile is:
 ! hfst-xfst -F hasselbrink2sma.xfscript
 
-
-
 ! ======
 ! Conversion from Hasselbrink to modern orthography
 ! =======
@@ -40,27 +38,57 @@ define Vow       [ a | á | e | ë | é | i | o | u | y | æ | ø | å | ä | ö
 define Cns [ b | c | č | d | đ | f | g | h | j | k | l | m | n | ŋ | ñ | ń | 
              B | C | Č | D | Đ | F | G | H | J | K | L | M | N | Ŋ | Ñ | Ń |
              p | q | r | s | š | t | ŧ | v | w | x | z | ž | þ   
-             P | Q | R | S | Š | T | Ŧ | V | W | X | Z | Ž | Þ ] ; 
+             P | Q | R | S | Š | T | Ŧ | V | W | X | Z | Ž | Þ | ' ] ; 
 
-
+define Sgm [Cns | Vow ] ;
 define Syll Cns* Vow+ Cns* ;
 
 echo << Rules >>
 
-define a a -> x ;
-define b b -> y ;
-define c c -> z || Syll _ ;
+define ieuml i ë -> ï e || _ [0|Sgm+] [\i] e  ;
+define euml ë -> e ;
+define iuml ï -> i || _ e Sgm+ i e .#. ;
+define paldel ' -> 0 || Cns _ Vow ;
+define unvoice d -> t , g -> k || Syll _ Vow Vow ;
+define shortaa a -> 0 || Syll Cns a _ Cns .#. ;
+define dipht o å -> å e , u o -> o e , e ä -> e a , a a -> a e || .#. Cns* _  ;
+define ht [..] -> h  || Vow [l|n|r]  _ t  Vow ;
+define ppttkk p p -> h p, t t -> h t, k k -> h k || Vow _ Vow ;
+define hts [..] -> h  || Vow  _ t s Vow ;
+define ttj t t j -> h t j || Vow _ Vow ;
+define dj d -> t || [Vow|.#.] _ j Vow ;
+define mb m b -> m h p  || Vow _ Vow ;
+define jg j g -> j k || Vow _ Vow ;     # g'ïjgedh=gïjkedh
+define ng ŋ -> n g ;
+define hke k k -> h k || Vow _ e .#. ;
+define voicedgeminate b b -> b p , d d -> d t, g g -> g k || Vow _ Vow ;  
 
 echo << Compile... >>
 
 
-read regex [ a
-.o. b
-.o. c
+read regex [ ieuml
+.o. euml
+.o. iuml
+.o. unvoice
+.o. shortaa
+.o. dipht
+.o. paldel
+.o. ht
+.o. ppttkk
+.o. hts
+.o. ttj
+.o. dj
+.o. mb
+.o. jg
+.o. ng
+.o. hke
+.o. voicedgeminate
 ] ;
 
 save hasselbrink2sma.hfst
 
 echo << ... fertig >>
+
+
 
 
