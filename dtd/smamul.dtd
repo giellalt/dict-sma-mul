@@ -17,24 +17,16 @@
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
 
-<!ELEMENT e (lg, source?, semantics?, stem*, sources?, mg+, ig*) >
+<!ELEMENT e (lg, mg+, ig*) >
 <!ATTLIST e
-      usage ( mt | vd | dict | other | nds | fad | KB ) #IMPLIED
       src ( nj | sk | SvSt | gt_fad | gt | fad | other | gg | SK |
             PS_SA | KAL | nou94 | PS | husbykuhmunen | lmm | sammallahti |
             BergslandMagga | Lagercrantz | nsr | utsi | aj )  #IMPLIED
-      exclude ( smanob | nobsma ) #IMPLIED
-      reverse ( yes | no ) #IMPLIED
-      illpl ( yes | no ) #IMPLIED
-      id CDATA #IMPLIED
-      xpos CDATA #IMPLIED
-      mc CDATA #IMPLIED
 >
-<!ATTLIST e r ( LR | RL ) #IMPLIED > <!-- found in all_smnsme.xml -->
-<!ATTLIST e note CDATA #IMPLIED >
-<!ATTLIST e oa_unif ( done | s | N | E ) #IMPLIED >
 
-<!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, stem*, analysis*, mini_paradigm*) >
+<!ATTLIST e note CDATA #IMPLIED >
+
+<!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, stem*, analysis*, mini_paradigm*, orig*) >
 <!ELEMENT lemma_ref (#PCDATA) >
 <!ELEMENT orig (#PCDATA) >
 
@@ -49,39 +41,30 @@
 
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
-      attr CDATA #IMPLIED
       case CDATA #IMPLIED 
       class ( I | II | III | IV | V | VI | xxx ) #IMPLIED
       context CDATA #IMPLIED
       dialect CDATA #IMPLIED
-      diph ( yes ) #IMPLIED
       hid CDATA #IMPLIED 
-      illpl ( ok | no ) #IMPLIED
-      margo CDATA #IMPLIED
-      minip ( notSg1 | onlyPl ) #IMPLIED
+      id CDATA #IMPLIED
       mod CDATA #IMPLIED 
       nr ( Sg | Du | Pl ) #IMPLIED
       p3p CDATA #IMPLIED
       pg ( yes | no ) #IMPLIED
       pos ( A | Adv | CC | CS  | Interj | N | Num |
-            Pcle | Phrase | Po | Pr | Pron | V ) #IMPLIED 
+            Pcle | Phrase | Po | Pr | Pron | V ) #REQUIRED 
       sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED 
-      soggi CDATA #IMPLIED
       src CDATA #IMPLIED 
-      stem ( even | odd | 2syll | 3syll | xsyll | weak ) #IMPLIED
-      type ( Rel | Pers | Indef | Refl | Dem | interr |
-             pre | post | ord | TV | IV | actor | G3 | G7 | NomAg | Ord
+      stem ( 2syll | 3syll ) #IMPLIED
+      type ( Rel | Pers | Indef | Refl | Dem
+             | TV | IV
              | Prop | Recipr | Coll | Interr | Logo ) #IMPLIED
-      umlaut ( full | A | C | B | D | E | F ) #IMPLIED
-      vow CDATA #IMPLIED
 >
 
 <!-- decl: i indeclineable -->
 
 <!-- lsub = frequent subform of lemma -->
 <!ELEMENT lsub (#PCDATA) >
-
-<!ELEMENT lc (#PCDATA) >
 
 <!-- algu = lemma IDs in the algu database -->
 <!ELEMENT algu EMPTY >
@@ -119,13 +102,12 @@
 >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
+<!ATTLIST t t_type ( grammarexpl | grammar | expl | phrase ) #IMPLIED  >
 <!ATTLIST t pos ( A | Adv | CC | CS | Det | Interj | N | Num |
-                  Phrase | Po | Pr | Pron | V ) #IMPLIED >
+                  Po | Pr | Pron | V ) #IMPLIED >
 
-<!ATTLIST t type ( expl
-                  | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
-                  | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
+<!ATTLIST t type ( Pers | Rel | Coll | Recipr | Indef | Prop
+                 | Refl | Dem | Logo | Interr | TV | IV ) #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t orig CDATA #IMPLIED >
 <!ATTLIST t href CDATA #IMPLIED >
