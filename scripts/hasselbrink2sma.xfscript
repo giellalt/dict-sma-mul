@@ -49,10 +49,8 @@ define ieuml i ë -> ï e || _ [0|Sgm+] [\i] e  ;
 define euml ë -> e ;
 define iuml ï -> i || _ e Sgm+ i e .#. ;
 define paldel ' -> 0 || Cns _ Vow ;
-define unvoice d -> t , g -> k || Syll _ Vow Vow ;
 define shortaa a -> 0 || Syll Cns a _ Cns .#. ;
-define dipht o å -> å e , u o -> o e , e ä -> e a , a a -> a e || .#. Cns* _  ;
-define ht [..] -> h  || Vow [l|n|r]  _ t  Vow ;
+define dipht o å -> å e , u o -> o e , e ä -> e a || .#. Cns* _  ; # aa > ae ???
 define ppttkk p p -> h p, t t -> h t, k k -> h k || Vow _ Vow ;
 define hts [..] -> h  || Vow  _ t s Vow ;
 define ttj t t j -> h t j || Vow _ Vow ;
@@ -62,6 +60,11 @@ define jg j g -> j k || Vow _ Vow ;     # g'ïjgedh=gïjkedh
 define ng ŋ -> n g ;
 define hke k k -> h k || Vow _ e .#. ;
 define voicedgeminate b b -> b p , d d -> d t, g g -> g k || Vow _ Vow ;  
+define uo u o -> o e ;
+define ht [..] -> h  || Vow [l|n|r]  _ t  (s) Vow ;
+define unvoice d -> t , g -> k || Syll _ Vow  ;
+define finalaa a -> 0 || a _ .#. ;
+define 1sylle ä -> e || .#. Cns* _ Cns ;
 
 echo << Compile... >>
 
@@ -69,11 +72,9 @@ echo << Compile... >>
 read regex [ ieuml
 .o. euml
 .o. iuml
-.o. unvoice
+.o. paldel
 .o. shortaa
 .o. dipht
-.o. paldel
-.o. ht
 .o. ppttkk
 .o. hts
 .o. ttj
@@ -83,6 +84,11 @@ read regex [ ieuml
 .o. ng
 .o. hke
 .o. voicedgeminate
+.o. uo
+.o. ht
+.o. unvoice
+.o. finalaa
+.o. 1sylle
 ] ;
 
 save hasselbrink2sma.hfst
