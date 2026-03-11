@@ -34,6 +34,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
   </lics>
+
   <e usage="dict">
     <lg>
       <l pos="Adv">dusnie</l>
@@ -51,6 +52,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+
   <e usage="dict">
     <lg>
       <l pos="Adv">dohkh</l>
@@ -68,6 +70,7 @@ For the full license text, see the link above.</lic>
       </tg>
     </mg>
   </e>
+
   <e usage="dict">
     <lg>
       <l pos="Adv">maajetjh</l>
@@ -151,7 +154,7 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">aller helst_SWE</t>
+        <t pos="Adv">allra helst</t>
       </tg>
     </mg>
   </e>
@@ -251,7 +254,7 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">sterkt_SWE</t>
+        <t pos="Adv">starkt</t>
       </tg>
     </mg>
 
@@ -276,7 +279,20 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">hardt_SWE</t>
+        <t pos="Adv">hårt</t>
+
+        <xg>
+          <x>Datne tjoerh tjarke gæljodh jis dah edtjieh datnem govledh.</x>
+
+          <xt>Du måste ropa kraftigt om de ska höra dig.</xt>
+        </xg>
+
+        <xg>
+          <x>Daerpies hov dam tjarki steeredh olles slaamkh.</x>
+
+          <xt>Det är nödvändigt att hålla fast den hårt, så att den inte
+          faller.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -292,7 +308,7 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">sterk_SWE</t>
+        <t pos="Adv">starkt</t>
       </tg>
     </mg>
 
@@ -317,7 +333,7 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">hard_SWE</t>
+        <t pos="Adv">hårt</t>
       </tg>
     </mg>
   </e>
@@ -441,7 +457,15 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">nettopp_SWE</t>
+        <t pos="Adv">nyss</t>
+
+        <t pos="Adv">nyligen</t>
+
+        <xg>
+          <x>Maam aadtjen jis jeehtim?</x>
+
+          <xt>Vad var det jag nyss sa?</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -455,23 +479,21 @@ For the full license text, see the link above.</lic>
       <tg xml:lang="nob">
         <t pos="Adv">også</t>
 
-        <t pos="Adv">igjen</t>
-
         <xg>
           <x>Aahka aaj gåetesne.</x>
 
           <xt>Også bestemor er hjemme.</xt>
         </xg>
-
-        <xg>
-          <x>Laara aaj vihth.</x>
-
-          <xt>Laara gjør det på nytt.</xt>
-        </xg>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">også_SWE</t>
+        <t pos="Adv">också</t>
+
+        <xg>
+          <x>Aahka aaj gåetesne.</x>
+
+          <xt>Mormor är också hemma.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -495,7 +517,13 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">igjen_SWE</t>
+        <t pos="Adv">kvar</t>
+
+        <xg>
+          <x>Ij leah vielie aajmene.</x>
+
+          <xt>Det är inte mera kvar.</xt>
+        </xg>
       </tg>
     </mg>
   </e>
@@ -513,7 +541,7 @@ For the full license text, see the link above.</lic>
       </tg>
 
       <tg xml:lang="swe">
-        <t pos="Adv">igjen_SWE</t>
+        <t pos="Adv">igen</t>
       </tg>
     </mg>
 
@@ -681,7 +709,8 @@ For the full license text, see the link above.</lic>
 
     <mg>
       <tg xml:lang="nob">
-	      <re>sakte</re>
+        <re>sakte</re>
+
         <t pos="Adv">forsiktig</t>
 
         <xg>
@@ -6912,8 +6941,10 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="Adv">biejjege</l>
+
       <stem class="trisyllabic"/>
     </lg>
+
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">om dagen</t>
@@ -6968,8 +6999,10 @@ For the full license text, see the link above.</lic>
   <e>
     <lg>
       <l pos="Adv">tjööjjeste</l>
+
       <stem class="trisyllabic"/>
     </lg>
+
     <mg>
       <tg xml:lang="nob">
         <t pos="Adv">kvalm</t>
