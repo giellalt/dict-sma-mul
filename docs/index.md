@@ -1,6 +1,6 @@
 # Documentation for South Sámi ⇒ Norwegian Bokmål
 
-Please see [this page](https://giellalt.github.io/dicts/dicts.html) for more general information on how to work with dictionaries, and the various publishing alternatives.
+Please see [this page](https://giellalt.github.io/dicts/) for more general information on how to work with dictionaries, and the various publishing alternatives.
 
 
 # Online dictionaries
