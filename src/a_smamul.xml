@@ -1,20 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/smamul.dtd">
-<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="smamul" xml:lang="sma">
-   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve"><lic xml:lang="en">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
+"../dtd/smamul.dtd">
+<r id="smamul" xml:lang="sma">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
 You are free to copy, distribute and adapt the work, as long as you always give
 proper attribution using the attribution text below.
 
-For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
           and members of the language communities. Source code
-          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref><sourcenote>
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
      THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
      published dictionary. As such it can and
      will contain unfinished entries, unpublished entries, entries with
@@ -23,7 +27,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
      <a>mailto:feedback@divvun.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
-     </sourcenote></lics>
+     </sourcenote>
+   </lics>
    <e>
       <lg>
          <l pos="A">våårkehke</l>
@@ -193,7 +198,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
       </mg>
    </e>
-
    <e note="checked" src="lmm">
       <lg>
          <l pos="A">iltjere</l>
@@ -286,7 +290,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">enbåren</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">enbåren</t>
+            <t orig="ai" pos="A">enbåren</t>
          </tg>
       </mg>
    </e>
@@ -1615,8 +1619,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          <l pos="A" stem="3syll">garkeles</l>
       </lg>
       <mg>
-        <tg xml:lang="nob">
-	  <re>ikke flokete</re>
+         <tg xml:lang="nob">
+            <re>ikke flokete</re>
             <t pos="A">grei</t>
          </tg>
          <tg xml:lang="swe">
@@ -1723,7 +1727,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       <mg>
          <tg xml:lang="nob">
             <t pos="A">mett</t>
-             <xg>
+            <xg>
                <x>Manne gallasodtje.</x>
                <xt>Jeg er mett.</xt>
             </xg>
@@ -1869,7 +1873,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">leietam</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tam</t>
+            <t orig="ai" pos="A">tam</t>
          </tg>
       </mg>
    </e>
@@ -1882,7 +1886,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">glad</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">glad</t>
+            <t orig="ai" pos="A">glad</t>
          </tg>
       </mg>
    </e>
@@ -1895,7 +1899,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">voksen</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">vuxen</t>
+            <t orig="ai" pos="A">vuxen</t>
          </tg>
       </mg>
       <mg>
@@ -1903,7 +1907,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">vanskelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">svår</t>
+            <t orig="ai" pos="A">svår</t>
          </tg>
       </mg>
       <mg>
@@ -1913,7 +1917,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om väder</re>
-            <t pos="A" orig="ai">dålig</t>
+            <t orig="ai" pos="A">dålig</t>
          </tg>
       </mg>
    </e>
@@ -1926,7 +1930,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">ordentlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">ordentlig</t>
+            <t orig="ai" pos="A">ordentlig</t>
          </tg>
       </mg>
    </e>
@@ -1939,7 +1943,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tørr</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">torr</t>
+            <t orig="ai" pos="A">torr</t>
          </tg>
       </mg>
    </e>
@@ -1954,7 +1958,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om kläder</re>
-            <t pos="A" orig="ai">vid</t>
+            <t orig="ai" pos="A">vid</t>
          </tg>
       </mg>
    </e>
@@ -1967,7 +1971,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">flerdobbel</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">flerdubbel</t>
+            <t orig="ai" pos="A">flerdubbel</t>
          </tg>
       </mg>
    </e>
@@ -1981,7 +1985,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">smalt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">smal</t>
+            <t orig="ai" pos="A">smal</t>
          </tg>
       </mg>
    </e>
@@ -1994,7 +1998,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">fattig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">fattig</t>
+            <t orig="ai" pos="A">fattig</t>
          </tg>
       </mg>
    </e>
@@ -2011,7 +2015,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">spännande</t>
+            <t orig="ai" pos="A">spännande</t>
          </tg>
       </mg>
    </e>
@@ -2025,7 +2029,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">elsket</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">kär</t>
+            <t orig="ai" pos="A">kär</t>
          </tg>
       </mg>
    </e>
@@ -2042,7 +2046,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">nära</t>
+            <t orig="ai" pos="A">nära</t>
          </tg>
       </mg>
    </e>
@@ -2055,7 +2059,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">villig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">villig</t>
+            <t orig="ai" pos="A">villig</t>
          </tg>
       </mg>
    </e>
@@ -2068,7 +2072,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">trettiende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">trettionde</t>
+            <t orig="ai" pos="A">trettionde</t>
          </tg>
       </mg>
    </e>
@@ -2081,7 +2085,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">sjette</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">sjätte</t>
+            <t orig="ai" pos="A">sjätte</t>
          </tg>
       </mg>
    </e>
@@ -2108,7 +2112,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t t_type="phrase">som løper fort</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">snar</t>
+            <t orig="ai" pos="A">snar</t>
          </tg>
       </mg>
    </e>
@@ -2123,7 +2127,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om sjö</re>
-            <t pos="A" orig="ai">fiskrik</t>
+            <t orig="ai" pos="A">fiskrik</t>
          </tg>
       </mg>
    </e>
@@ -2136,7 +2140,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">fiskeløs</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">fisklös</t>
+            <t orig="ai" pos="A">fisklös</t>
          </tg>
       </mg>
    </e>
@@ -2155,7 +2159,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om väder</re>
-            <t t_type="phrase" orig="ai">mycket kall</t>
+            <t orig="ai" t_type="phrase">mycket kall</t>
          </tg>
       </mg>
    </e>
@@ -2172,7 +2176,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">lång</t>
+            <t orig="ai" pos="A">lång</t>
          </tg>
       </mg>
    </e>
@@ -2186,7 +2190,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">stiv</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">linkande</t>
+            <t orig="ai" pos="A">linkande</t>
          </tg>
       </mg>
    </e>
@@ -2199,7 +2203,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">takknemlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tacksam</t>
+            <t orig="ai" pos="A">tacksam</t>
          </tg>
       </mg>
    </e>
@@ -2212,7 +2216,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">snar</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">snar</t>
+            <t orig="ai" pos="A">snar</t>
          </tg>
       </mg>
       <mg>
@@ -2224,7 +2228,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t t_type="phrase" orig="ai">som har god kondition</t>
+            <t orig="ai" t_type="phrase">som har god kondition</t>
          </tg>
       </mg>
    </e>
@@ -2234,7 +2238,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	        <re>litt foraktelig</re>
+            <re>litt foraktelig</re>
             <t pos="A">dugelig</t>
             <t pos="A">passende</t>
             <xg>
@@ -2247,7 +2251,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">duglig</t>
+            <t orig="ai" pos="A">duglig</t>
          </tg>
       </mg>
    </e>
@@ -2260,7 +2264,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tredje</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tredje</t>
+            <t orig="ai" pos="A">tredje</t>
          </tg>
       </mg>
    </e>
@@ -2277,7 +2281,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">krokig</t>
+            <t orig="ai" pos="A">krokig</t>
          </tg>
       </mg>
    </e>
@@ -2290,7 +2294,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tom</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tom</t>
+            <t orig="ai" pos="A">tom</t>
          </tg>
       </mg>
    </e>
@@ -2303,7 +2307,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">gjestfri</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">gästfri</t>
+            <t orig="ai" pos="A">gästfri</t>
          </tg>
       </mg>
    </e>
@@ -2320,7 +2324,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dum</t>
+            <t orig="ai" pos="A">dum</t>
          </tg>
       </mg>
    </e>
@@ -2354,7 +2358,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">vänster</t>
+            <t orig="ai" pos="A">vänster</t>
          </tg>
       </mg>
    </e>
@@ -2491,7 +2495,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">djup</t>
+            <t orig="ai" pos="A">djup</t>
          </tg>
       </mg>
    </e>
@@ -2506,7 +2510,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om människor och runda ting</re>
-            <t pos="A" orig="ai">tjock</t>
+            <t orig="ai" pos="A">tjock</t>
          </tg>
       </mg>
    </e>
@@ -2524,7 +2528,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">präktig</t>
+            <t orig="ai" pos="A">präktig</t>
          </tg>
       </mg>
    </e>
@@ -2537,7 +2541,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tjuende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tjugonde</t>
+            <t orig="ai" pos="A">tjugonde</t>
          </tg>
       </mg>
    </e>
@@ -2551,7 +2555,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t t_type="phrase">gunstig for fiske</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">fiskrik</t>
+            <t orig="ai" pos="A">fiskrik</t>
          </tg>
       </mg>
    </e>
@@ -2564,7 +2568,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">ferdig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">färdig</t>
+            <t orig="ai" pos="A">färdig</t>
          </tg>
       </mg>
    </e>
@@ -2579,7 +2583,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">hardhendt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">slarvig</t>
+            <t orig="ai" pos="A">slarvig</t>
          </tg>
       </mg>
    </e>
@@ -2593,7 +2597,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">lekker</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">välsmakande</t>
+            <t orig="ai" pos="A">välsmakande</t>
          </tg>
       </mg>
    </e>
@@ -2606,7 +2610,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">hel</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">hel</t>
+            <t orig="ai" pos="A">hel</t>
          </tg>
       </mg>
    </e>
@@ -2628,7 +2632,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">bra</t>
+            <t orig="ai" pos="A">bra</t>
          </tg>
       </mg>
    </e>
@@ -2642,7 +2646,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">mismodig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">bedrövad</t>
+            <t orig="ai" pos="A">bedrövad</t>
          </tg>
       </mg>
    </e>
@@ -2655,7 +2659,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">mismodig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">modlös</t>
+            <t orig="ai" pos="A">modlös</t>
          </tg>
       </mg>
    </e>
@@ -2668,7 +2672,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">mismodig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">modlös</t>
+            <t orig="ai" pos="A">modlös</t>
          </tg>
       </mg>
    </e>
@@ -2682,7 +2686,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">trist</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">bedrövad</t>
+            <t orig="ai" pos="A">bedrövad</t>
          </tg>
       </mg>
       <mg>
@@ -2690,13 +2694,13 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">blyg</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">blyg</t>
+            <t orig="ai" pos="A">blyg</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="A">redd</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">rädd</t>
+            <t orig="ai" pos="A">rädd</t>
          </tg>
       </mg>
    </e>
@@ -2718,7 +2722,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">petig</t>
+            <t orig="ai" pos="A">petig</t>
          </tg>
       </mg>
    </e>
@@ -2806,7 +2810,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om flate ting_SWE</re>
-            <t pos="A" orig="ai">tjock</t>
+            <t orig="ai" pos="A">tjock</t>
          </tg>
       </mg>
    </e>
@@ -3014,7 +3018,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">snar</t>
+            <t orig="ai" pos="A">snar</t>
          </tg>
       </mg>
    </e>
@@ -3037,7 +3041,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">snar</t>
+            <t orig="ai" pos="A">snar</t>
          </tg>
       </mg>
    </e>
@@ -3051,7 +3055,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tøysete</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dum</t>
+            <t orig="ai" pos="A">dum</t>
          </tg>
       </mg>
    </e>
@@ -3436,7 +3440,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tam</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tam</t>
+            <t orig="ai" pos="A">tam</t>
          </tg>
       </mg>
    </e>
@@ -3484,7 +3488,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">heldig</t>
+            <t orig="ai" pos="A">heldig</t>
          </tg>
       </mg>
    </e>
@@ -3559,7 +3563,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dålig</t>
+            <t orig="ai" pos="A">dålig</t>
          </tg>
       </mg>
    </e>
@@ -3580,7 +3584,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dålig</t>
+            <t orig="ai" pos="A">dålig</t>
          </tg>
       </mg>
       <mg>
@@ -3628,7 +3632,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">heldig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">heldig</t>
+            <t orig="ai" pos="A">heldig</t>
          </tg>
       </mg>
    </e>
@@ -3800,7 +3804,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">sjuk</t>
+            <t orig="ai" pos="A">sjuk</t>
          </tg>
       </mg>
    </e>
@@ -4111,7 +4115,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dålig</t>
+            <t orig="ai" pos="A">dålig</t>
          </tg>
       </mg>
    </e>
@@ -4414,7 +4418,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>egenskapen til barkelåg som trekker godt inn i skinn</re>
+            <re>egenskapen til barkelåg som trekker godt inn i skinn</re>
             <t pos="A">kraftig</t>
          </tg>
          <tg xml:lang="swe">
@@ -4428,7 +4432,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>egenskapen til barkelåg som trekker godt inn i skinn</re>
+            <re>egenskapen til barkelåg som trekker godt inn i skinn</re>
             <t pos="A">kraftig</t>
          </tg>
          <tg xml:lang="swe">
@@ -4492,7 +4496,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">färdig</t>
+            <t orig="ai" pos="A">färdig</t>
          </tg>
       </mg>
    </e>
@@ -4675,7 +4679,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">gjerrig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">girig</t>
+            <t orig="ai" pos="A">girig</t>
          </tg>
       </mg>
    </e>
@@ -4777,7 +4781,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om runde ting og mennesker_SWE</re>
-            <t pos="A">tynn_SWE</t>
+            <t pos="A">tunn</t>
+            <xg>
+               <x>Årroeh sjeavohth!</x>
+               <xt>Vær stille!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4807,7 +4815,11 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">stille_SWE</t>
+            <t pos="A">tyst</t>
+            <xg>
+               <x>Årroeh sjeavohth!</x>
+               <xt>Var tyst!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4944,7 +4956,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">syk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">sjuk</t>
+            <t orig="ai" pos="A">sjuk</t>
          </tg>
       </mg>
    </e>
@@ -5030,7 +5042,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">liten</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">liten_SWE</t>
+            <t pos="A">liten</t>
          </tg>
       </mg>
    </e>
@@ -5043,7 +5055,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">snar</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">snar</t>
+            <t orig="ai" pos="A">snar</t>
          </tg>
       </mg>
    </e>
@@ -5071,7 +5083,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">hurtig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">hurtig_SWE</t>
+            <t pos="A">snabb</t>
          </tg>
       </mg>
    </e>
@@ -5097,7 +5109,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">opprinnelig_SWE</t>
+            <t pos="A">ursprunglig</t>
          </tg>
       </mg>
       <mg>
@@ -5110,7 +5122,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">riktig_SWE</t>
+            <t pos="A">riktig</t>
          </tg>
       </mg>
    </e>
@@ -5237,7 +5249,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">vanlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">vanlig_SWE</t>
+            <t pos="A">vanlig</t>
          </tg>
       </mg>
    </e>
@@ -5265,7 +5277,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">langsom</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">sein_SWE</t>
+            <t pos="A">sen</t>
          </tg>
       </mg>
    </e>
@@ -5297,7 +5309,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">fin</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">vakker_SWE</t>
+            <t pos="A">vacker</t>
          </tg>
       </mg>
    </e>
@@ -5323,7 +5335,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">hard</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">hård</t>
+            <t orig="ai" pos="A">hård</t>
          </tg>
       </mg>
    </e>
@@ -5342,7 +5354,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">skjult</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">skjult_SWE</t>
+            <t pos="A">dold</t>
          </tg>
       </mg>
    </e>
@@ -5355,7 +5367,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">svart</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">svart_SWE</t>
+            <t pos="A">svart</t>
          </tg>
       </mg>
    </e>
@@ -5368,7 +5380,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">blind</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">blind_SWE</t>
+            <t pos="A">blind</t>
          </tg>
       </mg>
    </e>
@@ -5381,7 +5393,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">nysgjerrig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">nysgjerrig_SWE</t>
+            <t pos="A">nyfiken</t>
          </tg>
       </mg>
    </e>
@@ -5400,7 +5412,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om kjøtt og fisk_SWE</re>
-            <t pos="A">fast_SWE</t>
+            <t pos="A">fast</t>
          </tg>
       </mg>
    </e>
@@ -5418,7 +5430,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">flink_SWE</t>
+            <t pos="A">duktig</t>
          </tg>
       </mg>
    </e>
@@ -5445,7 +5457,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">lyst</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">lys_SWE</t>
+            <t pos="A">ljus</t>
          </tg>
       </mg>
    </e>
@@ -5471,7 +5483,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">stående</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">stående_SWE</t>
+            <t pos="A">ståande</t>
          </tg>
       </mg>
    </e>
@@ -5492,7 +5504,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">kall</t>
+            <t orig="ai" pos="A">kall</t>
          </tg>
       </mg>
    </e>
@@ -5509,7 +5521,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">klønete_SWE</t>
+            <t pos="A">klumpig</t>
          </tg>
       </mg>
       <mg>
@@ -5521,7 +5533,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">udannet_SWE</t>
+            <t pos="A">obildad</t>
          </tg>
       </mg>
    </e>
@@ -5564,7 +5576,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">sjuende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">sjuende_SWE</t>
+            <t pos="A">sjunde</t>
          </tg>
       </mg>
    </e>
@@ -5577,7 +5589,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">syttiende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">syttiende_SWE</t>
+            <t pos="A">sjuttionde</t>
          </tg>
       </mg>
    </e>
@@ -5596,7 +5608,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om slakt_SWE</re>
-            <t pos="A">feit_SWE</t>
+            <t pos="A">fet</t>
          </tg>
       </mg>
    </e>
@@ -5617,7 +5629,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">blågrå</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">blågrå_SWE</t>
+            <t pos="A">blågrå</t>
          </tg>
       </mg>
    </e>
@@ -5630,7 +5642,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">trivelig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">trivelig_SWE</t>
+            <t pos="A">trevlig</t>
          </tg>
       </mg>
    </e>
@@ -5644,8 +5656,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">klar</t>
          </tg>
          <tg xml:lang="swe">
-            <re>om lyd_SWE</re>
-            <t pos="A">klar_SWE</t>
+            <re>om ljud</re>
+            <t pos="A">klår</t>
          </tg>
       </mg>
       <mg>
@@ -5653,7 +5665,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">god</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">god_SWE</t>
+            <t pos="A">god</t>
          </tg>
       </mg>
    </e>
@@ -5669,8 +5681,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
          <tg xml:lang="swe">
             <re>om ren</re>
-            <t t_type="phrase">som holder seg på
-            plass_SWE</t>
+            <t t_type="phrase">som holder seg på plass_SWE</t>
          </tg>
       </mg>
    </e>
@@ -5705,7 +5716,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">nittiende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">nittiende_SWE</t>
+            <t pos="A">nittionde</t>
          </tg>
       </mg>
    </e>
@@ -5754,7 +5765,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">kraftig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">sterk_SWE</t>
+            <t pos="A">stark</t>
          </tg>
       </mg>
       <mg>
@@ -5762,7 +5773,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">kraftig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">kraftig_SWE</t>
+            <t pos="A">kraftig</t>
          </tg>
       </mg>
    </e>
@@ -5775,7 +5786,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">hvit</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">hvit_SWE</t>
+            <t pos="A">vit</t>
          </tg>
       </mg>
    </e>
@@ -5806,7 +5817,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">stygg_SWE</t>
+            <t pos="A">ful</t>
          </tg>
       </mg>
       <mg>
@@ -5867,7 +5878,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">fattig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">fattig</t>
+            <t orig="ai" pos="A">fattig</t>
          </tg>
       </mg>
    </e>
@@ -5919,7 +5930,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">sikker</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">sikker_SWE</t>
+            <t pos="A">säker</t>
          </tg>
       </mg>
       <mg>
@@ -5927,7 +5938,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">kjent</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">kjent_SWE</t>
+            <t pos="A">känd</t>
          </tg>
       </mg>
    </e>
@@ -5945,7 +5956,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">vid</t>
+            <t orig="ai" pos="A">vid</t>
          </tg>
       </mg>
    </e>
@@ -5958,7 +5969,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">gul</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">gul_SWE</t>
+            <t pos="A">gul</t>
          </tg>
       </mg>
    </e>
@@ -6045,7 +6056,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">flink</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">flink_SWE</t>
+            <t pos="A">duktig</t>
          </tg>
       </mg>
    </e>
@@ -6058,7 +6069,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">klok</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">klok_SWE</t>
+            <t pos="A">klok</t>
          </tg>
       </mg>
    </e>
@@ -6102,7 +6113,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">femte</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">femte_SWE</t>
+            <t pos="A">femte</t>
          </tg>
       </mg>
    </e>
@@ -6115,7 +6126,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">femtiende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">femtiende_SWE</t>
+            <t pos="A">femtionde</t>
          </tg>
       </mg>
    </e>
@@ -6131,7 +6142,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">prektig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">präktig</t>
+            <t orig="ai" pos="A">präktig</t>
          </tg>
       </mg>
    </e>
@@ -6141,7 +6152,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-            <t pos="A">favoritt</t>
+            <t pos="N">favoritt</t>
          </tg>
       </mg>
    </e>
@@ -6177,7 +6188,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">kjent</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">kjent_SWE</t>
+            <t pos="A">känd</t>
          </tg>
       </mg>
    </e>
@@ -6190,7 +6201,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">kjent</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">kjent_SWE</t>
+            <t pos="A">känd</t>
          </tg>
       </mg>
    </e>
@@ -6203,7 +6214,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">høyre</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">høyre_SWE</t>
+            <t pos="A">högre</t>
          </tg>
       </mg>
    </e>
@@ -6250,7 +6261,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">niende</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">niende_SWE</t>
+            <t pos="A">nionde</t>
          </tg>
       </mg>
    </e>
@@ -6317,7 +6328,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">klossete</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">klumpig</t>
+            <t orig="ai" pos="A">klumpig</t>
          </tg>
       </mg>
    </e>
@@ -6356,7 +6367,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">forrige</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">tidligere_SWE</t>
+            <t pos="A">tidigare</t>
+            <t pos="A">förre</t>
          </tg>
       </mg>
    </e>
@@ -6437,7 +6449,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">mjuk</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">mjuk_SWE</t>
+            <t pos="A">mjuk</t>
          </tg>
       </mg>
    </e>
@@ -6463,7 +6475,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">stille</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">stille_SWE</t>
+            <t pos="A">stilla</t>
          </tg>
       </mg>
    </e>
@@ -6489,7 +6501,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">tom</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">tom</t>
+            <t orig="ai" pos="A">tom</t>
          </tg>
       </mg>
    </e>
@@ -6502,7 +6514,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t t_type="phrase">liggende på siden</t>
          </tg>
          <tg xml:lang="swe">
-            <t t_type="phrase">liggende på siden_SWE</t>
+            <t t_type="phrase">liggande på sidan</t>
          </tg>
       </mg>
    </e>
@@ -6516,7 +6528,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">forstandig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">klok_SWE</t>
+            <t pos="A">klok</t>
          </tg>
       </mg>
    </e>
@@ -6529,7 +6541,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">vennlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">vennlig_SWE</t>
+            <t pos="A">venlig</t>
          </tg>
       </mg>
    </e>
@@ -6543,7 +6555,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">fremmed</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">ukjent_SWE</t>
+            <t pos="A">okänd</t>
          </tg>
       </mg>
    </e>
@@ -6571,7 +6583,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">salt</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">salt_SWE</t>
+            <t pos="A">salt</t>
          </tg>
       </mg>
    </e>
@@ -6597,7 +6609,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">avlang</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">avlang_SWE</t>
+            <t pos="A">avlång</t>
          </tg>
       </mg>
    </e>
@@ -6607,7 +6619,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om rein, menneske</re>
+            <re>om rein, menneske</re>
             <t pos="A">svak</t>
             <xg>
                <x>Nyjsenæjja dan sjiepsies dobtoe, guktie sæjhta gåetide vaedtsedh.</x>
@@ -6615,7 +6627,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">svak_SWE</t>
+            <t pos="A">svag</t>
          </tg>
       </mg>
    </e>
@@ -6625,7 +6637,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om rein, menneske</re>
+            <re>om rein, menneske</re>
             <t pos="A">svak</t>
             <xg>
                <x>Nyjsenæjja dan sjiepsjies dobtoe, guktie sæjhta gåetide vaedtsedh.</x>
@@ -6633,7 +6645,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">svak_SWE</t>
+            <t pos="A">svag</t>
          </tg>
       </mg>
    </e>
@@ -6643,7 +6655,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
       </lg>
       <mg>
          <tg xml:lang="nob">
-	         <re>om tråd, lasso</re>
+            <re>om tråd, lasso</re>
             <t pos="A">svak</t>
             <xg>
                <x>Daelie datne jis sïemhpe soehpenjistie vaalteme.</x>
@@ -6651,7 +6663,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">svak_SWE</t>
+            <t pos="A">svag</t>
          </tg>
       </mg>
    </e>
@@ -6673,7 +6685,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A">svak_SWE</t>
+            <t pos="A">svag</t>
          </tg>
       </mg>
    </e>
@@ -6725,7 +6737,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t t_type="expl">som sover urolig, har mareritt_SWE</t>
+            <t t_type="expl">som sover oroligt, har mardrömmar</t>
          </tg>
       </mg>
    </e>
@@ -6790,7 +6802,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
             <t pos="A">dårlig</t>
          </tg>
          <tg xml:lang="swe">
-            <t pos="A" orig="ai">dålig</t>
+            <t orig="ai" pos="A">dålig</t>
          </tg>
       </mg>
    </e>
@@ -7016,8 +7028,6 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
       </mg>
    </e>
-
-
    <e>
       <lg>
          <l pos="A" stem="3syll">abstrakte</l>
@@ -7057,363 +7067,339 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno at 
          </tg>
       </mg>
    </e>
-<e>
-    <lg>
-      <l pos="A">aeriebadtje</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">tidligere</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">tidigare</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">attributijve</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">attributiv</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">attributiv</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">dïedteguedtije</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">ansvarlig</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">ansvarig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">dåeriesfaages</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">tverrfaglig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">empatije</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">medfølelse</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">empati</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">medlidande</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">empati</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">laehkies</l>
-    </lg>
-    <mg>
-     <tg xml:lang="nob">
-	     <re>om drikke, vind</re>
-        <t pos="A">svak</t>
+   <e>
+      <lg>
+         <l pos="A">aeriebadtje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tidligere</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">tidigare</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">attributijve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">attributiv</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">attributiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">dïedteguedtije</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">ansvarlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">ansvarig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">dåeriesfaages</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">tverrfaglig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">empatije</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="N">medfølelse</t>
+            <t pos="N">empati</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="N">medlidande</t>
+            <t pos="N">empati</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laehkies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om drikke, vind</re>
+            <t pos="A">svak</t>
             <xg>
                <x>laehkies prïhtjege</x>
                <xt>svak kaffe</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">laejjies</l>
-    </lg>
-    <mg>
-     <tg xml:lang="nob">
-	     <re>om mat og drikke</re>
-        <t pos="A">smakløs</t>
-        <t pos="A">svak</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laejjies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om mat og drikke</re>
+            <t pos="A">smakløs</t>
+            <t pos="A">svak</t>
             <xg>
                <x>Prïhtjege laejjie.</x>
                <xt>Kaffen er svak.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">laehkeds</l>
-    </lg>
-    <mg>
-     <tg xml:lang="nob">
-	     <re>om drikke, vind</re>
-        <t pos="A">svak</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laehkeds</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om drikke, vind</re>
+            <t pos="A">svak</t>
             <xg>
                <x>laehkeds aaloeklievvie</x>
                <xt>svak saft</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">laejhkies</l>
-    </lg>
-    <mg>
-     <tg xml:lang="nob">
-	     <re>om person som ikke klarer å arbeide</re>
-        <t pos="A">lat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laejhkies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <re>om person som ikke klarer å arbeide</re>
+            <t pos="A">lat</t>
             <xg>
                <x>Ibie sïjhth laejhkies almetjh mijjen sïeltesne.</x>
                <xt>Vi vil ikke ha late svake personer i vår bedrift.</xt>
             </xg>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jïjtjeraadh</l>
-    </lg>
-    <mg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jïjtjeraadh</l>
+      </lg>
+      <mg>
          <l_ref>jïjtjeraarh_a</l_ref>
-     <tg xml:lang="nob">
-        <t pos="A">selvstendig</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>jïjtjeraarh_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">självständig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jïjtjeraarh</l>
-    </lg>
-    <mg>
-        <l_ref>jïjtjeraadh_a</l_ref>
-      <tg xml:lang="nob">
-        <t pos="A">selvstendig</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>jïjtjeraadh_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">självständig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jïjtjeraadehke</l>
-    </lg>
-    <mg>
-        <l_ref>jïjtjeraarehke_a</l_ref>
-      <tg xml:lang="nob">
-        <t pos="A">selvstendig</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>jïjtjeraarehke_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">självständig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">jïjtjeraarehke</l>
-    </lg>
-    <mg>
-        <l_ref>jïjtjeraadehke_a</l_ref>
-      <tg xml:lang="nob">
-        <t pos="A">selvstendig</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>jïjtjeraadehke_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">självständig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">mööktege</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">næringsrik</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">näringsrik</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">ov-våajnoes</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">usynlig</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">osynlig</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">råatjkoeh</l>
-    </lg>
-    <mg>
-        <l_ref>råatjkoes_a</l_ref>
-      <tg xml:lang="nob">
-        <t pos="A">kynisk</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>råatjkoes_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">cynisk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">råatjkoes</l>
-    </lg>
-    <mg>
-        <l_ref>råatjkoeh_a</l_ref>
-      <tg xml:lang="nob">
-        <t pos="A">kynisk</t>
-      </tg>
-    </mg>
-    <mg>
-        <l_ref>råatjkoeh_a</l_ref>
-      <tg xml:lang="swe">
-        <t pos="A">cynisk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">råatjkoen</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">kynisk</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="swe">
-        <t pos="A">cynisk</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">aevhkehts</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">nyttesløs</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">nytteløst</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">forgjeves</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t t_type="phrase">til ingen nytte</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">unyttig</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">gagnløst</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">aevhkehth</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">nyttesløs</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">nytteløst</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">forgjeves</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t t_type="phrase">til ingen nytte</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">unyttig</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="A">gagnløst</t>
-      </tg>
-    </mg>
-  </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
+         <tg xml:lang="nob">
+            <t pos="A">selvstendig</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>jïjtjeraarh_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">självständig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jïjtjeraarh</l>
+      </lg>
+      <mg>
+         <l_ref>jïjtjeraadh_a</l_ref>
+         <tg xml:lang="nob">
+            <t pos="A">selvstendig</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>jïjtjeraadh_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">självständig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jïjtjeraadehke</l>
+      </lg>
+      <mg>
+         <l_ref>jïjtjeraarehke_a</l_ref>
+         <tg xml:lang="nob">
+            <t pos="A">selvstendig</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>jïjtjeraarehke_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">självständig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jïjtjeraarehke</l>
+      </lg>
+      <mg>
+         <l_ref>jïjtjeraadehke_a</l_ref>
+         <tg xml:lang="nob">
+            <t pos="A">selvstendig</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>jïjtjeraadehke_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">självständig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mööktege</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">næringsrik</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">näringsrik</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ov-våajnoes</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">usynlig</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">osynlig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">råatjkoeh</l>
+      </lg>
+      <mg>
+         <l_ref>råatjkoes_a</l_ref>
+         <tg xml:lang="nob">
+            <t pos="A">kynisk</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>råatjkoes_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">cynisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">råatjkoes</l>
+      </lg>
+      <mg>
+         <l_ref>råatjkoeh_a</l_ref>
+         <tg xml:lang="nob">
+            <t pos="A">kynisk</t>
+         </tg>
+      </mg>
+      <mg>
+         <l_ref>råatjkoeh_a</l_ref>
+         <tg xml:lang="swe">
+            <t pos="A">cynisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">råatjkoen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">kynisk</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="swe">
+            <t pos="A">cynisk</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aevhkehts</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nyttesløs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forgjeves</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">unyttig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aevhkehth</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">nyttesløs</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">forgjeves</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">unyttig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skabroeh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="A">redd</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="A">rädd</t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
