@@ -8,7 +8,6 @@
 -->
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/smamul.dtd">
-
 <r id="smamul" xml:lang="sma">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -37,12 +36,8 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="Pron" type="Refl">jïjtje</l>
          <mini_paradigm>
-            <analysis ms="Pron_Refl_Du_Nom">
-               <wordform>jïjtjh</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Pl_Nom">
-               <wordform>jïjtjh</wordform>
-            </analysis>
+            <analysis ms="Pron_Refl_Du_Nom"><wordform>jïjtjh</wordform></analysis>
+            <analysis ms="Pron_Refl_Pl_Nom"><wordform>jïjtjh</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -62,7 +57,19 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">selv_SWE</t>
+            <t pos="Pron">själv</t>
+            <xg>
+               <x>Bïegke jårra gåabph jïjtje sæjhta.</x>
+               <xt>Vinden blåser dit den själv vill.</xt>
+            </xg>
+            <xg>
+               <x>Åvla jïjtje bæhtoem vaalta.</x>
+               <xt>Åvla hämtar hinken själv.</xt>
+            </xg>
+            <xg>
+               <x>Vaedtsieh jïjtje!</x>
+               <xt>Gå själv!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -71,28 +78,14 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Refl">jïjtjeme</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg1_Acc">
-               <wordform>jïjtjemem</wordform>
-               <wordform>jïjtjeme</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Gen">
-               <wordform>jïjtjen</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ill">
-               <wordform>jïjtsanne</wordform>
-               <wordform>jïjtsene</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ine">
-               <wordform>jïjtjemisnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ela">
-               <wordform>jïjtjestanne</wordform>
-               <wordform>jïjtjenistie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Com">
-               <wordform>jïjtjeninie</wordform>
-               <wordform>jïjtjenæjnene</wordform>
-            </analysis>
+            <analysis ms="Pron_Refl_Sg1_Acc"><wordform>jïjtjemem</wordform> <wordform>jïjtjeme</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Gen"><wordform>jïjtjen</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ill"><wordform>jïjtsanne</wordform> <wordform>jïjtsene</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ine"><wordform>jïjtjemisnie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ela"><wordform>jïjtjestanne</wordform>
+            <wordform>jïjtjenistie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Com"><wordform>jïjtjeninie</wordform>
+            <wordform>jïjtjenæjnene</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -104,7 +97,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">meg selv_SWE</t>
+            <t pos="Pron">mig själv</t>
+            <xg>
+               <x>Manne jïjtjeme guelmiedahkesne vuajnam.</x>
+               <xt>Jag ser mig själv i spegeln.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -113,28 +110,14 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Refl">jïjtjemem</l>
          <analysis>Pron_Refl_Sg1_Acc</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg1_Acc">
-               <wordform>jïjtjemem</wordform>
-               <wordform>jïjtjeme</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Gen">
-               <wordform>jïjtjen</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ill">
-               <wordform>jïjtsanne</wordform>
-               <wordform>jïjtsene</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ine">
-               <wordform>jïjtjemisnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Ela">
-               <wordform>jïjtjestanne</wordform>
-               <wordform>jïjtjenistie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg1_Com">
-               <wordform>jïjtjeninie</wordform>
-               <wordform>jïjtjenæjnene</wordform>
-            </analysis>
+            <analysis ms="Pron_Refl_Sg1_Acc"><wordform>jïjtjemem</wordform> <wordform>jïjtjeme</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Gen"><wordform>jïjtjen</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ill"><wordform>jïjtsanne</wordform> <wordform>jïjtsene</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ine"><wordform>jïjtjemisnie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Ela"><wordform>jïjtjestanne</wordform>
+            <wordform>jïjtjenistie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg1_Com"><wordform>jïjtjeninie</wordform>
+            <wordform>jïjtjenæjnene</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -146,7 +129,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">meg selv_SWE</t>
+            <t pos="Pron">mig själv</t>
+            <xg>
+               <x>Manne jïjtjemem guelmiedahkesne vuajnam.</x>
+               <xt>Jag ser mig själv i spegeln.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -166,7 +153,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">min egen_SWE</t>
+            <t pos="Pron">min egen</t>
+            <xg>
+               <x>Mov lea jïjtjen bïjle.</x>
+               <xt>Jag har min egen bil.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -185,7 +176,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til meg selv_SWE</t>
+            <t pos="Pron">till mig själv</t>
+            <xg>
+               <x>Jïjtsanne beapmoeh voessjim.</x>
+               <xt>Jag lagade mat åt mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -204,7 +199,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til meg selv_SWE</t>
+            <t pos="Pron">till mig själv</t>
+            <xg>
+               <x>Jïjtsene beapmoeh voessjim.</x>
+               <xt>Jag lagade mat åt mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -223,7 +222,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">på meg selv_SWE</t>
+            <t pos="Pron">på mig själv</t>
+            <xg>
+               <x>Jïjtjemisnie tsumhtsieh vööjnim.</x>
+               <xt>Jag såg skräp på mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -242,7 +245,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">fra meg selv_SWE</t>
+            <t pos="Pron">från mig själv</t>
+            <xg>
+               <x>Im jïjtjestanne maam vedtieh.</x>
+               <xt>Jag ger ingenting från mig.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -261,7 +268,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til meg selv_SWE</t>
+            <t pos="Pron">till mig själv</t>
+            <xg>
+               <x>Im jïjtjenistie maam vedtieh.</x>
+               <xt>Jag ger ingenting från mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -280,7 +291,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">med meg selv_SWE</t>
+            <t pos="Pron">med mig själv</t>
+            <xg>
+               <x>Tjoeverem jïjtjeninie latjkedh.</x>
+               <xt>Jag måste komma överens med mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -299,7 +314,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">med meg selv_SWE</t>
+            <t pos="Pron">med mig själv</t>
+            <xg>
+               <x>Tjoeverem jïjtjenæjnene latjkedh.</x>
+               <xt>Jag måste komma överens med mig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -308,25 +327,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Refl">jïjtjemdh</l>
          <analysis>Pron_Refl_Sg2_Acc</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg2_Acc">
-               <wordform>jïjtjemdh</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Gen">
-               <wordform>jïjtjedh</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Ill">
-               <wordform>jïjtsadth</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Ine">
-               <wordform>jïjtjenadth</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Ela">
-               <wordform>jïjtjestadth</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg2_Com">
-               <wordform>jïjtjenæjnedh</wordform>
-               <wordform>jïjtjenedh</wordform>
-            </analysis>
+            <analysis ms="Pron_Refl_Sg2_Acc"><wordform>jïjtjemdh</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg2_Gen"><wordform>jïjtjedh</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg2_Ill"><wordform>jïjtsadth</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg2_Ine"><wordform>jïjtjenadth</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg2_Ela"><wordform>jïjtjestadth</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg2_Com"><wordform>jïjtjenæjnedh</wordform>
+            <wordform>jïjtjenedh</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -338,7 +345,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">deg selv_SWE</t>
+            <t pos="Pron">dig själv</t>
+            <xg>
+               <x>Datne jïjtjemdh guelmiedahkesne vuajnah.</x>
+               <xt>Du ser dig själv i spegeln.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -357,7 +368,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">din egen_SWE</t>
+            <t pos="Pron">din egen</t>
+            <xg>
+               <x>Vuajnah jïjtjedh aaltoem?</x>
+               <xt>Ser du din egen vaja?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -376,7 +391,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til deg selv_SWE</t>
+            <t pos="Pron">till dig själv</t>
+            <xg>
+               <x>Datne dån gærjam jïjtsadth åastah.</x>
+               <xt>Du köper väl boken åt dig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -396,7 +415,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">i deg selv_SWE</t>
+            <t pos="Pron">i dig själv</t>
+            <xg>
+               <x>Jïjtjenadth dam damth.</x>
+               <xt>Det känner du på dig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -416,7 +439,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">fra deg selv_SWE</t>
+            <t pos="Pron">från dig själv</t>
+            <xg>
+               <x>Jïjtjestadth darjoeh.</x>
+               <xt>Du gör det själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -435,7 +462,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">med deg selv_SWE</t>
+            <t pos="Pron">med dig själv</t>
+            <xg>
+               <x>Datne jïjtjenæjnedh tjåadtjoeh laavloeminie.</x>
+               <xt>Du står och sjunger för dig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -454,7 +485,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">med deg selv_SWE</t>
+            <t pos="Pron">med dig själv</t>
+            <xg>
+               <x>Datne jïjtjenedh tjåadtjoeh laavloeminie.</x>
+               <xt>Du står och sjunger för dig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -463,25 +498,13 @@ For the full license text, see the link above.</lic>
          <l pos="Pron" type="Refl">jïjtjemse</l>
          <analysis>Pron_Refl_Sg3_Acc</analysis>
          <mini_paradigm>
-            <analysis ms="Pron_Refl_Sg3_Acc">
-               <wordform>jïjtjemse</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Gen">
-               <wordform>jïjtse</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Ill">
-               <wordform>jïjtsasse</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Ine">
-               <wordform>jïjtjisnie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Ela">
-               <wordform>jïjtjestissie</wordform>
-               <wordform>jïjtsistie</wordform>
-            </analysis>
-            <analysis ms="Pron_Refl_Sg3_Com">
-               <wordform>jïjtsinie</wordform>
-            </analysis>
+            <analysis ms="Pron_Refl_Sg3_Acc"><wordform>jïjtjemse</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg3_Gen"><wordform>jïjtse</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg3_Ill"><wordform>jïjtsasse</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg3_Ine"><wordform>jïjtjisnie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg3_Ela"><wordform>jïjtjestissie</wordform>
+            <wordform>jïjtsistie</wordform></analysis>
+            <analysis ms="Pron_Refl_Sg3_Com"><wordform>jïjtsinie</wordform></analysis>
          </mini_paradigm>
       </lg>
       <mg>
@@ -493,7 +516,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">seg selv_SWE</t>
+            <t pos="Pron">sig själv</t>
+            <xg>
+               <x>Åvla jïjtjemse guelmiedahkesne vuajna.</x>
+               <xt>Åvla ser sig själv i spegeln.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -512,7 +539,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">sin egen_SWE</t>
+            <t pos="Pron">sin egen</t>
+            <xg>
+               <x>Jïjtse voessem mååjsede.</x>
+               <xt>Han tar sin egen säck på ryggen.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -531,7 +562,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til seg selv_SWE</t>
+            <t pos="Pron">till sig själv</t>
+            <xg>
+               <x>Barre jïjtsasse kaaffem vuassja.</x>
+               <xt>Han kokar kaffe bara åt sig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -546,19 +581,25 @@ For the full license text, see the link above.</lic>
             <t pos="Pron">i seg selv</t>
             <t pos="Pron">på seg selv</t>
             <t pos="Pron">hos seg selv</t>
-            
             <xg>
                <x>Maana jïjtjisnie.</x>
                <xt>Barnet er hos seg selv.</xt>
             </xg>
-            
             <xg>
                <x>Ij jïjtjisnie dïhte måvhka sjïehth.</x>
                <xt>Buksa passer ikke på han selv.</xt>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">i seg selv_SWE</t>
+            <t pos="Pron">i sig själv</t>
+            <xg>
+               <x>Maana jïjtjisnie.</x>
+               <xt>Barnet är hos sig själv.</xt>
+            </xg>
+            <xg>
+               <x>Ij jïjtjisnie dïhte måvhka sjïehth.</x>
+               <xt>Byxorna passar inte honom själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -577,7 +618,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">fra seg selv_SWE</t>
+            <t pos="Pron">från sig själv</t>
+            <xg>
+               <x>Laara jïjtjestissie dorje.</x>
+               <xt>Laara gör det själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -596,7 +641,11 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">fra seg selv_SWE</t>
+            <t pos="Pron">från sig själv</t>
+            <xg>
+               <x>Laara jïjtsistie dorje.</x>
+               <xt>Laara gör det själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -615,9 +664,14 @@ For the full license text, see the link above.</lic>
             </xg>
          </tg>
          <tg xml:lang="swe">
-            <t pos="Pron">til seg selv_SWE</t>
+            <t pos="Pron">till sig själv</t>
+            <xg>
+               <x>Piere tjåådtje jïjtsinie laavloeminie.</x>
+               <xt>Piere står och sjunger för sig själv.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml" src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"/>
+   <xhtml:script src="../../giella-core/dicts/scripts/gt_dictionary.js" type="text/javascript"
+                 xmlns:xhtml="http://www.w3.org/1999/xhtml"/>
 </r>
